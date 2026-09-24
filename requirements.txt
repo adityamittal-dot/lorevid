@@ -1,0 +1,9 @@
+requests
+python-dotenv
+pillow
+numpy
+soundfile
+kokoro>=0.9.4
+edge-tts>=7.0
+google-api-python-client
+google-auth-oauthlib
