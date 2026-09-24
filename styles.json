@@ -1,0 +1,10 @@
+{
+  "every": 15,
+  "styles": [
+    {"name": "painted", "prompt": "richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth"},
+    {"name": "stickman", "prompt": "hand-drawn stick figure animation style, simple round-headed stickman characters with expressive faces, clean black ink lines on warm parchment paper background, flat soft watercolour fills for setting and clothing details, minimal charming storybook doodle look"},
+    {"name": "cartoon", "prompt": "cosy 2D cartoon illustration, rounded friendly character designs, bold clean outlines, soft cel shading, warm pastel colour palette, gentle storybook animation look, detailed but simple backgrounds"},
+    {"name": "anime", "prompt": "hand-painted anime illustration style, soft cel-shaded characters with expressive eyes, lush detailed painted backgrounds, warm golden light, gentle atmospheric slice-of-life mood, original characters"},
+    {"name": "ink", "prompt": "traditional ink wash and muted watercolour illustration, loose expressive brush strokes, rice-paper texture, calm limited palette with one warm accent colour, serene historical scroll painting feel"}
+  ]
+}

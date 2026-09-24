@@ -113,6 +113,12 @@ Rewrite the whole script applying every must-fix. Then re-read it again as the t
   last line teases the full story. Each short scene reuses a long-video image via `ref` = the global scene index
   (0-based, counted across all chapters).
 
+### Art style
+Read `styles.json` and count the files in `scripts/done/`: the style is
+`styles[(count // every) % len(styles)]`. Write every `image_prompt` and character `look` so it works in that
+style (e.g. for `stickman`, describe poses and simple props rather than detailed faces; for `anime` and
+`cartoon`, original characters only, never existing franchise characters or a named studio's style).
+
 ### Thumbnails (3 variants for A/B testing)
 Study the top thumbnails you found in the trend check and follow the **genre conventions** that win there,
 but never copy a specific creator's thumbnail, artwork, logo, layout or wording. The renderer uses this layout:

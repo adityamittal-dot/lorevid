@@ -86,8 +86,22 @@ def notify(msg, click=None):
             print(f"  notify failed: {e}")
 
 
+def current_style():
+    """Rotate the art style every N long videos (N from styles.json; each video also carries 2 Shorts)."""
+    try:
+        cfg = json.load(open("styles.json"))
+    except FileNotFoundError:
+        return {"name": "painted", "prompt": STYLE}
+    done = len(glob.glob("scripts/done/*.json"))
+    st = cfg["styles"][(done // cfg.get("every", 15)) % len(cfg["styles"])]
+    print(f"art style: {st['name']} (video #{done + 1}, changes every {cfg.get('every', 15)})")
+    return st
+
+
 def normalise(plan):
-    plan.setdefault("style", STYLE)
+    st = current_style()
+    plan["style"] = plan.get("style_override") or st["prompt"]
+    plan["style_name"] = st["name"]
     plan["scenes"] = [dict(s, chapter=ci) for ci, ch in enumerate(plan["chapters"]) for s in ch["scenes"]]
     return plan
 
@@ -143,7 +157,7 @@ def make(topic, strategy=None, trend_text="", plan=None):
     thumbs = []
     for k, tv in enumerate(variants[:3]):
         raw = os.path.join(work, f"thumb_raw{k}.jpg")
-        images.generate(f"{tv['prompt']}. {plan['era_setting']}. {STYLE}. extreme close-up of the face, intense "
+        images.generate(f"{tv['prompt']}. {plan['era_setting']}. {plan['style']}. extreme close-up of the face, intense "
                         "readable emotion, eyes toward the viewer, face filling the right half of the frame, dark "
                         "simple background on the left, dramatic rim light, high contrast, vivid colours, no text",
                         raw, seed + 777 + k)
