@@ -125,16 +125,33 @@ You should now see 5 secrets: `CF_ACCOUNT_ID`, `CF_API_TOKEN`, `NTFY_TOPIC`, `YT
 
 ## Step 8: Start the daily writer (Claude cloud session)
 
-1. Open https://claude.ai/code
-2. Start a new session and choose the repository **adityamittal-dot/lorevid** (connect GitHub if it asks).
-3. Send this message:
+**8a. Install the Claude GitHub App on the repo** (lets cloud sessions clone and push)
+1. Open https://github.com/apps/claude → **Install** (or **Configure** if already installed).
+2. Choose your account `adityamittal-dot`.
+3. Select **Only select repositories** → pick **lorevid** → **Install** / **Save**.
+
+**8b. Test it once by hand**
+1. Open https://claude.ai/code (sign in with your Pro account). If it walks you through onboarding, accept the
+   **Default** environment and connect GitHub when asked.
+2. In the repository picker next to the message box, choose **adityamittal-dot/lorevid**.
+3. Send:
    > Follow WRITER.md exactly and push today's script.
-4. It searches trends, picks the topic, researches, writes, critiques, validates, then pushes
-   `scripts/<date>.json` (10-20 minutes).
-5. Open https://github.com/adityamittal-dot/lorevid/actions → **daily-video** starts on its own.
-   Click it to watch. The first run takes about 45-75 minutes.
-6. Make it daily: in that claude.ai/code session, use the option to schedule / repeat the task every day at
-   ~08:00 IST with the same message.
+4. It finishes in 10-20 minutes and pushes a branch `claude/script-<date>`.
+5. https://github.com/adityamittal-dot/lorevid/actions → **daily-video** starts on its own.
+
+**8c. Make it automatic every day (routine)**
+1. Open https://claude.ai/code/routines → **New routine**.
+2. Name: `lorevid daily writer`.
+3. Instructions (prompt):
+   > Follow WRITER.md exactly and push today's script.
+4. Model: pick the strongest one available (Opus).
+5. Repositories: add **adityamittal-dot/lorevid**. Environment: **Default**.
+6. Trigger: **Schedule** → **Daily** → **08:00** (your local time).
+7. Connectors: remove all (it does not need them).
+8. **Create**. You can press **Run now** any time for an extra video.
+
+Routines use your Claude plan's usage; there is also a daily cap on routine runs, visible at
+https://claude.ai/code/routines.
 
 ## Step 9: Review and publish the first video
 

@@ -87,5 +87,7 @@ Write `scripts/<YYYY-MM-DD>.json` (today's date, IST) with exactly this shape:
 
 Then run `python validate_script.py scripts/<date>.json` and fix everything until it prints `OK`.
 Commit `scripts/<date>.json` (and `topics/long.txt` if you changed it) with the message
-`script: <topic>` and **push to `main`**. The push starts the render automatically. Do not edit any other file.
+`script: <topic>` and push it to a new branch named `claude/script-<date>`. The push starts the render
+automatically, and the render merges it into `main` afterwards. Do not open a pull request. Do not edit any
+other file.
 Finish with a 3-line summary: topic, title, critic scores.
