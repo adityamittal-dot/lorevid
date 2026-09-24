@@ -1,10 +1,11 @@
 name: daily-video
+# Runs when the daily Claude writer session pushes scripts/<date>.json.
 on:
-  schedule:
-    - cron: "17 3 * * *"        # 08:47 IST daily; video is waiting for review by the afternoon
+  push:
+    branches: [main]
+    paths: ["scripts/*.json"]
   workflow_dispatch:
     inputs:
-      topic: {description: "Topic (blank = next in topics/long.txt)", default: "", type: string}
       upload: {description: "Upload to YouTube (private)", default: true, type: boolean}
 
 permissions:
@@ -37,8 +38,6 @@ jobs:
           true
       - name: Make video
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
           POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
@@ -47,14 +46,16 @@ jobs:
           PRIVACY: ${{ vars.PRIVACY || 'private' }}
         run: |
           UP=""
-          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.upload }}" = "true" ]; then UP="--upload"; fi
-          if [ -n "${{ inputs.topic }}" ]; then python pipeline.py "${{ inputs.topic }}" $UP; else python pipeline.py --next-topic $UP; fi
-      - name: Save topic queue + cost log
-        if: always()
+          if [ "${{ github.event_name }}" = "push" ] || [ "${{ inputs.upload }}" = "true" ]; then UP="--upload"; fi
+          S=$(ls -1 scripts/*.json 2>/dev/null | sort | head -1)
+          if [ -z "$S" ]; then echo "No new script in scripts/ - nothing to render"; exit 0; fi
+          echo "Rendering $S"
+          python pipeline.py --script "$S" $UP
+      - name: Mark script done
         run: |
           git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
-          git add topics/ costs.csv 2>/dev/null || true
-          git commit -qm "daily run $(date -u +%F)" || exit 0
+          git add -A topics/ scripts/ 2>/dev/null || true
+          git commit -qm "rendered $(date -u +%F)" || exit 0
           for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
       - uses: actions/upload-artifact@v4
         if: always()

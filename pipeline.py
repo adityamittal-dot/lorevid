@@ -86,12 +86,21 @@ def notify(msg, click=None):
             print(f"  notify failed: {e}")
 
 
-def make(topic, strategy=None, trend_text=""):
+def normalise(plan):
+    plan.setdefault("style", STYLE)
+    plan["scenes"] = [dict(s, chapter=ci) for ci, ch in enumerate(plan["chapters"]) for s in ch["scenes"]]
+    return plan
+
+
+def make(topic, strategy=None, trend_text="", plan=None):
     work = os.path.join("output", slugify(topic))
     for d in ("img", "audio"):
         os.makedirs(os.path.join(work, d), exist_ok=True)
     sp = os.path.join(work, "script.json")
-    if os.path.exists(sp):
+    if plan is not None:
+        plan = normalise(plan)
+        json.dump(plan, open(sp, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
+    elif os.path.exists(sp):
         plan = json.load(open(sp, encoding="utf-8"))
     else:
         plan = build_long(topic, MINUTES, STYLE, strategy, trend_text)
@@ -188,18 +197,27 @@ if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("topic", nargs="?")
     ap.add_argument("--next-topic", action="store_true")
+    ap.add_argument("--script", help="render a script written by the Claude writer session (scripts/*.json)")
     ap.add_argument("--upload", action="store_true")
     ap.add_argument("--privacy", default=os.getenv("PRIVACY", "private"), choices=["private", "unlisted", "public"])
     a = ap.parse_args()
-    if not (a.next_topic or a.topic):
-        ap.error("give a topic or --next-topic")
-    topic, queue_item, strategy, trend_text = plan_topic(None if a.next_topic else a.topic)
+    if a.script:
+        plan = json.load(open(a.script, encoding="utf-8"))
+        topic, queue_item, strategy, trend_text = plan["topic"], plan.get("queue_item"), None, ""
+    elif a.next_topic or a.topic:
+        plan = None
+        topic, queue_item, strategy, trend_text = plan_topic(None if a.next_topic else a.topic)
+    else:
+        ap.error("give --script, a topic, or --next-topic")
     print(f"== {topic}")
     try:
-        work, meta = make(topic, strategy, trend_text)
+        work, meta = make(topic, strategy, trend_text, plan)
         if a.upload:
             publish(meta, a.privacy)
         mark_done(queue_item, topic)
+        if a.script:
+            os.makedirs("scripts/done", exist_ok=True)
+            os.replace(a.script, os.path.join("scripts/done", os.path.basename(a.script)))
     except Exception as e:
         notify(f"Run failed for '{topic}': {str(e)[:300]}")
         raise

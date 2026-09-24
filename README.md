@@ -2,36 +2,23 @@
 
 A calm, beautifully told "Your Life as a ___" history video every day, made automatically on GitHub.
 
-## What happens each day (08:47 IST)
-1. **Trends**: pulls the fastest-growing videos in the niche (last 60 days) from YouTube.
-2. **Strategist (Claude)**: scores the next 6 topics in `topics/long.txt` against that data, picks or improves one,
-   and chooses the angle.
-3. **Research + plan → draft → harsh critic → editor (Claude Opus 5.5, Batch API)**. The critic scores hook,
-   immersion, bedtime comfort, accuracy, pacing and originality, and the editor rewrites until every point is fixed.
-4. ~70 painted illustrations, Kokoro narration (slow, warm), soft 1-second crossfades, gentle camera motion,
-   warm film grade, chapter cards, mood-matched music that dips under the voice, fade to black at the end.
-5. Uploads privately: the 10-min video (thumbnail, captions, chapters) + 2 Shorts. You get a phone notification.
-
-Claude credits: about $0.25–0.40 a day, logged in `costs.csv`. Claude is used until `CLAUDE_UNTIL` (2026-11-10).
+## How it works
+1. **Writer (Claude cloud session, daily scheduled task)**: follows `WRITER.md`. It checks current trends with web
+   search, picks the topic from `topics/long.txt`, researches, drafts, runs a harsh 3-critic review and rewrites
+   until every score is 9+, then pushes `scripts/<date>.json`. This uses your Claude plan, no API key.
+2. **Renderer (GitHub Actions, free)**: the push starts `daily-video`: ~70 painted illustrations, slow warm
+   Kokoro narration, soft crossfades, gentle camera motion, warm film grade, chapter cards, mood music that dips
+   under the voice. Uploads privately: the 10-min video (thumbnail, captions, chapters) + 2 Shorts.
+3. **You**: phone notification → review → publish.
 
 ---
 
-## Setup, step by step (about 45 minutes, once)
+## Setup, step by step (once)
 
-### Step 1: Put the code on GitHub (5 min)
-On your laptop (Omarchy terminal):
-```bash
-cd ~/Downloads
-unzip lorevid.zip
-cd lorevid
-git push -u origin main
-```
-If it asks for a password, use a GitHub token (github.com → Settings → Developer settings → Personal access
-tokens → Fine-grained → repo `lorevid` → Contents: Read and write), or run `gh auth login` first.
-Check github.com/adityamittal-dot/lorevid shows the files.
+### Step 1: Put the code on GitHub (done)
 
-### Step 2: Anthropic key (2 min)
-console.anthropic.com → **API Keys** → Create key → copy it (starts with `sk-ant-`).
+### Step 2: The writer
+Created as a scheduled task in the Claude app (Scheduled tasks). It runs daily; you can also run it on demand.
 
 ### Step 3: Cloudflare, backup image generator (5 min)
 1. Sign up at dash.cloudflare.com (free).
@@ -66,14 +53,13 @@ github.com/adityamittal-dot/lorevid → **Settings → Secrets and variables →
 
 | Name | Value |
 |---|---|
-| `ANTHROPIC_API_KEY` | from step 2 |
 | `CF_ACCOUNT_ID` | from step 3 |
 | `CF_API_TOKEN` | from step 3 |
 | `NTFY_TOPIC` | from step 4 |
 | `YT_CLIENT_SECRET` | the full text of `yt_client_secret.json` (`cat yt_client_secret.json`) |
 | `YT_TOKEN` | the JSON printed by `python auth.py` (`cat yt_token.json`) |
 
-Optional later: `GEMINI_API_KEY` (free fallback after 10 November), `POLLINATIONS_TOKEN`.
+Optional: `POLLINATIONS_TOKEN`.
 
 ### Step 7: Music (10 min, strongly recommended)
 YouTube Studio → **Audio Library** → filter Genre *Ambient* / *Cinematic* / *Classical*, Mood *Calm* / *Sad* /
