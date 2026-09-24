@@ -9,13 +9,14 @@ from dotenv import load_dotenv
 
 load_dotenv()
 import images, tts, video
-from script_gen import build_long, new_topics
+import trends
+from script_gen import MOODS, build_long, choose_topic, new_topics
 
 STYLE = os.getenv("STYLE", "richly detailed semi-realistic digital oil painting, historical illustration, "
                            "cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, "
                            "atmospheric depth, masterpiece")
 MINUTES = int(os.getenv("MINUTES", "10"))
-PAD = 0.45           # pause after each scene (s)
+PAD = 0.7            # calm pause after each scene (s)
 QUEUE = "topics/long.txt"
 
 
@@ -23,7 +24,7 @@ def slugify(s):
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60]
 
 
-def next_topic():
+def queue_candidates(n=6):
     lines = [l.rstrip("\n") for l in open(QUEUE, encoding="utf-8")] if os.path.exists(QUEUE) else []
     todo = [l for l in lines if l.strip() and not l.startswith("#")]
     if not todo:
@@ -31,17 +32,43 @@ def next_topic():
         lines += new_topics([l[6:] for l in lines if l.startswith("#done ")])
         todo = [l for l in lines if l.strip() and not l.startswith("#")]
         open(QUEUE, "w", encoding="utf-8").write("\n".join(lines) + "\n")
-    return todo[0]
+    return todo[:n], [l[6:] for l in lines if l.startswith("#done ")]
 
 
-def mark_done(topic):
+def plan_topic(forced=None):
+    """Strategist picks today's topic from the queue using live trends. Returns (topic, queue_item, strategy, trend_text)."""
+    print("Step 1/5: trends + strategist")
+    trend_text = trends.summary(trends.fetch())
+    cands, done = queue_candidates()
+    if forced:
+        cands = [forced]
+    s = choose_topic(cands, trend_text, done)
+    for v in s.get("verdicts", []):
+        print(f"  {v.get('score')}/10 {v.get('topic')} - {v.get('why')}")
+    topic = s.get("topic") or cands[0]
+    print(f"  chosen: {topic} | angle: {s.get('angle')}")
+    return topic, (s.get("chosen_from_queue") or (cands[0] if forced else None)), s, trend_text
+
+
+def mark_done(queue_item, topic):
     lines = [l.rstrip("\n") for l in open(QUEUE, encoding="utf-8")]
-    open(QUEUE, "w", encoding="utf-8").write("\n".join(("#done " + l) if l == topic else l for l in lines) + "\n")
+    if queue_item in lines:
+        lines = [("#done " + topic) if l == queue_item else l for l in lines]
+    else:
+        lines.append("#done " + topic)
+    open(QUEUE, "w", encoding="utf-8").write("\n".join(lines) + "\n")
 
 
-def pick_music():
-    tracks = sorted(glob.glob("music/*.mp3"))
-    return random.choice(tracks) if tracks else None
+def pick_music(mood, work):
+    """music/<mood>/*.mp3 first, then any track in music/, else a generated soft ambient pad."""
+    for pattern in (f"music/{mood}/*.mp3", "music/*/*.mp3", "music/*.mp3"):
+        tracks = sorted(glob.glob(pattern))
+        if tracks:
+            pick = random.choice(tracks)
+            print(f"  music: {pick}")
+            return pick
+    print("  music: no tracks in music/ - using generated ambient pad")
+    return video.ambient_pad(os.path.join(work, "pad.wav"), mood)
 
 
 def fmt(t):
@@ -59,7 +86,7 @@ def notify(msg, click=None):
             print(f"  notify failed: {e}")
 
 
-def make(topic):
+def make(topic, strategy=None, trend_text=""):
     work = os.path.join("output", slugify(topic))
     for d in ("img", "audio"):
         os.makedirs(os.path.join(work, d), exist_ok=True)
@@ -67,7 +94,7 @@ def make(topic):
     if os.path.exists(sp):
         plan = json.load(open(sp, encoding="utf-8"))
     else:
-        plan = build_long(topic, MINUTES, STYLE)
+        plan = build_long(topic, MINUTES, STYLE, strategy, trend_text)
         json.dump(plan, open(sp, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
     scenes = plan["scenes"]
     print(f"{len(scenes)} scenes · editor: {plan.get('editor_notes', '')}")
@@ -83,9 +110,9 @@ def make(topic):
         images.generate(images.full_prompt(s, plan), img, seed + i)
         wav = os.path.join(work, "audio", f"{i:04}.wav")
         if not os.path.exists(wav):
-            tts.speak(s["narration"], wav)
+            tts.speak(s["narration"], wav, speed=0.9)
         d = tts.duration(wav)
-        seg = d + PAD + (0.5 if i + 1 < len(scenes) and scenes[i + 1]["chapter"] != s["chapter"] else 0)
+        seg = d + PAD + (1.2 if i + 1 < len(scenes) and scenes[i + 1]["chapter"] != s["chapter"] else 0)
         pw = os.path.join(work, "audio", f"{i:04}.pad.wav")
         if not os.path.exists(pw):
             video.pad_audio(wav, seg, pw)
@@ -105,7 +132,7 @@ def make(topic):
     video.thumbnail(thumb_raw, plan.get("thumbnail_text", ""), thumb)
 
     final = os.path.join(work, "final.mp4")
-    music = pick_music()
+    music = pick_music(plan.get("music_mood", "calm") if plan.get("music_mood") in MOODS else "calm", work)
     if not os.path.exists(final):
         print("Rendering film...")
         video.render_long(imgs, segs, narration, final, marks, music, work)
@@ -125,7 +152,7 @@ def make(topic):
         for k, sc in enumerate(sh["scenes"]):
             wav = os.path.join(sdir, f"{k:02}.wav")
             if not os.path.exists(wav):
-                tts.speak(sc["narration"], wav, speed=1.05)
+                tts.speak(sc["narration"], wav, speed=1.0)
             d = tts.duration(wav)
             seg = d + 0.12
             pw = os.path.join(sdir, f"{k:02}.pad.wav"); video.pad_audio(wav, seg, pw)
@@ -164,16 +191,15 @@ if __name__ == "__main__":
     ap.add_argument("--upload", action="store_true")
     ap.add_argument("--privacy", default=os.getenv("PRIVACY", "private"), choices=["private", "unlisted", "public"])
     a = ap.parse_args()
-    topic = next_topic() if a.next_topic else a.topic
-    if not topic:
+    if not (a.next_topic or a.topic):
         ap.error("give a topic or --next-topic")
+    topic, queue_item, strategy, trend_text = plan_topic(None if a.next_topic else a.topic)
     print(f"== {topic}")
     try:
-        work, meta = make(topic)
+        work, meta = make(topic, strategy, trend_text)
         if a.upload:
             publish(meta, a.privacy)
-        if a.next_topic:
-            mark_done(topic)
+        mark_done(queue_item, topic)
     except Exception as e:
         notify(f"Run failed for '{topic}': {str(e)[:300]}")
         raise

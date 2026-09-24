@@ -3,3 +3,4 @@ output/
 yt_*.json
 __pycache__/
 .venv/
+trends_cache.json

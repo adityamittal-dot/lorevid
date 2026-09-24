@@ -4,7 +4,7 @@ import os, subprocess
 from PIL import Image, ImageDraw, ImageFilter, ImageFont
 
 FPS = 30
-XF = 0.6                      # crossfade seconds
+XF = 1.0                      # soft crossfade seconds
 FONT = next((p for p in ["/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf",
                          "/usr/share/fonts/TTF/DejaVuSerif-Bold.ttf"] if os.path.exists(p)), None)
 FONT_SANS = next((p for p in ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf",
@@ -18,12 +18,12 @@ def run(cmd):
 
 
 def _motion(i, n):
-    z = 0.13
+    z = 0.08                  # slow, gentle motion
     return [(f"1+{z}*on/{n}", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),
             (f"1+{z}-{z}*on/{n}", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),
-            ("1.1", f"(iw-iw/zoom)*on/{n}", "ih/2-(ih/zoom/2)"),
-            ("1.1", f"(iw-iw/zoom)*(1-on/{n})", "ih/2-(ih/zoom/2)"),
-            (f"1.05+0.08*on/{n}", "iw/2-(iw/zoom/2)", f"(ih-ih/zoom)*(0.3+0.4*on/{n})")][i % 5]
+            ("1.07", f"(iw-iw/zoom)*on/{n}", "ih/2-(ih/zoom/2)"),
+            ("1.07", f"(iw-iw/zoom)*(1-on/{n})", "ih/2-(ih/zoom/2)"),
+            (f"1.04+0.05*on/{n}", "iw/2-(iw/zoom/2)", f"(ih-ih/zoom)*(0.3+0.4*on/{n})")][i % 5]
 
 
 def scene_clip(img, length, out, i, w=1920, h=1080):
@@ -95,19 +95,43 @@ def render_long(images, segs, narration_wav, out, chapter_marks, music=None, wor
         alpha = f"if(lt(t,{a}+0.6),(t-{a})/0.6,if(gt(t,{b}-0.6),({b}-t)/0.6,1))"
         draw.append(f"drawtext=fontfile={FONT}:textfile={tf}:fontsize=64:fontcolor=white:alpha='{alpha}':"
                     f"shadowcolor=black@0.8:shadowx=3:shadowy=3:x=(w-text_w)/2:y=h*0.78:enable='between(t,{a},{b})'")
-    look = "noise=alls=7:allf=t+u,vignette=angle=PI/5,eq=contrast=1.04:saturation=0.95"
+    total = sum(segs)
+    look = ("noise=alls=6:allf=t+u,vignette=angle=PI/5,eq=contrast=1.03:saturation=0.93:gamma=1.02,"
+            "colorbalance=rs=0.03:bs=-0.03:rh=0.02,"          # warm, cosy grade
+            f"fade=t=in:d=1.5,fade=t=out:st={max(0, total - 4):.2f}:d=4")
     vf = ",".join([look] + (draw if FONT else []))
     cmd = ["ffmpeg", "-y", "-i", joined, "-i", narration_wav]
     if music:
         cmd += ["-stream_loop", "-1", "-i", music, "-filter_complex",
-                f"[0:v]{vf}[v];[2:a]volume=0.09,afade=t=in:d=3[m];[1:a][m]amix=inputs=2:duration=first:"
-                f"dropout_transition=0:normalize=0,loudnorm=I=-15:TP=-1.5[a]", "-map", "[v]", "-map", "[a]"]
+                f"[0:v]{vf}[v];[1:a]asplit[n1][n2];"
+                f"[2:a]volume=0.22,lowpass=f=9000,afade=t=in:d=4,afade=t=out:st={max(0, total - 6):.2f}:d=6[m];"
+                f"[m][n1]sidechaincompress=threshold=0.03:ratio=6:attack=80:release=900[md];"   # music dips under the voice
+                f"[n2][md]amix=inputs=2:duration=first:dropout_transition=0:normalize=0,"
+                f"loudnorm=I=-16:TP=-1.5[a]", "-map", "[v]", "-map", "[a]"]
     else:
         cmd += ["-filter_complex", f"[0:v]{vf}[v];[1:a]loudnorm=I=-15:TP=-1.5[a]", "-map", "[v]", "-map", "[a]"]
     cmd += ["-c:v", "libx264", "-preset", "fast", "-crf", "19", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a",
             "192k", "-shortest", "-movflags", "+faststart", out]
     print("  final encode...")
     run(cmd)
+
+
+def ambient_pad(out, mood="calm", seconds=900):
+    """Royalty-free fallback music: a slow, warm synth pad generated from scratch (no copyright at all)."""
+    if os.path.exists(out):
+        return out
+    roots = {"calm": 110.0, "warm": 98.0, "melancholy": 87.31, "mystery": 92.5, "epic_soft": 82.41}
+    r = roots.get(mood, 110.0)
+    third = 1.189 if mood in ("melancholy", "mystery") else 1.26       # minor vs major colour
+    tones = [r, r * third, r * 1.498, r * 2, r * 2 * third]
+    expr = "+".join(f"{0.18/(k+1):.3f}*sin(2*PI*{f:.2f}*t)*(0.6+0.4*sin(2*PI*{0.03+0.011*k:.3f}*t))"
+                    for k, f in enumerate(tones))
+    run(["ffmpeg", "-y", "-f", "lavfi", "-i", f"aevalsrc='{expr}':s=48000:d={seconds}",
+         "-f", "lavfi", "-i", f"anoisesrc=color=brown:amplitude=0.02:d={seconds}:r=48000",
+         "-filter_complex", "[0:a]lowpass=f=1800,aecho=0.8:0.85:600|1100:0.35|0.25[p];"
+         "[1:a]lowpass=f=500[n];[p][n]amix=inputs=2:normalize=0,volume=0.8,aformat=channel_layouts=stereo[a]",
+         "-map", "[a]", out])
+    return out
 
 
 def short_clip(img, length, out, i):

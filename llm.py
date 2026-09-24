@@ -71,7 +71,10 @@ def _claude_direct(params, step):
 
 
 def _gemini(prompt, system, step):
-    key = os.environ["GEMINI_API_KEY"]
+    key = os.getenv("GEMINI_API_KEY")
+    if not key:
+        raise SystemExit("Claude is unavailable (no ANTHROPIC_API_KEY, credits used up, or past CLAUDE_UNTIL) and "
+                         "no GEMINI_API_KEY is set. Add one of them as a GitHub secret.")
     model = os.getenv("GEMINI_MODEL", "gemini-2.5-flash")
     body = {"model": model, "messages": [{"role": "system", "content": system}, {"role": "user", "content": prompt}],
             "response_format": {"type": "json_object"}}
