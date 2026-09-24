@@ -7,6 +7,16 @@ images, narration, the film and 2 Shorts, and uploads them privately for the own
 
 Work through the steps in order. Do not skip the critic.
 
+**Two modes.** If your instructions say **RESERVE**, you are writing a script for the stock pile used after
+the Claude credits run out: follow every step below exactly the same, with these differences only:
+- Pick the topic from `topics/long.txt` lines that do not start with `#`, skipping the first 2 (those are for the
+  daily videos); after choosing, change that line to `#reserved <topic>`.
+- Choose evergreen topics (no current-events angle), so the video still works months later.
+- Save to `scripts/reserve/<YYYY-MM-DD>-<slot>.json` and notes to `notes/<YYYY-MM-DD>-<slot>/`, where `<slot>`
+  is the letter in your instructions (a, b, ...).
+- Push to a new branch `claude/reserve-<YYYY-MM-DD>-<slot>` (it is merged into `main` automatically).
+Also make sure the topic is not already in `scripts/reserve/` or `scripts/done/`.
+
 **Non-negotiable:** every step below leaves evidence in `notes/<YYYY-MM-DD>/`. `validate_script.py` checks
 these files and refuses to pass without them, so there are no shortcuts. Do the steps in order; do not
 write the script before the research file is complete. Never invent a source URL: only cite pages you

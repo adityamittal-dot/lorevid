@@ -4,9 +4,12 @@ on:
   push:
     branches: [main, "claude/**"]
     paths: ["scripts/*.json"]
+  schedule:
+    - cron: "30 5 * * *"   # 11:00 IST: if no fresh script arrived today, use the reserve (after RESERVE_FROM)
   workflow_dispatch:
     inputs:
       upload: {description: "Upload to YouTube (private)", default: true, type: boolean}
+      from_reserve: {description: "Use the oldest reserve script", default: false, type: boolean}
 
 permissions:
   contents: write
@@ -47,8 +50,23 @@ jobs:
           PRIVACY: ${{ vars.PRIVACY || 'private' }}
         run: |
           UP=""
-          if [ "${{ github.event_name }}" = "push" ] || [ "${{ inputs.upload }}" = "true" ]; then UP="--upload"; fi
+          if [ "${{ github.event_name }}" != "workflow_dispatch" ] || [ "${{ inputs.upload }}" = "true" ]; then UP="--upload"; fi
           S=$(ls -1 scripts/*.json 2>/dev/null | sort | head -1)
+          RESERVE_FROM="${{ vars.RESERVE_FROM || '2026-11-11' }}"
+          USE_RESERVE=""
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            # daily fallback: only after the writer stops (credits end) and only if today's video wasn't made
+            if [[ "$(date -u +%F)" < "$RESERVE_FROM" ]]; then echo "Writer still active; reserve untouched"; exit 0; fi
+            if git log --since="20 hours ago" --oneline | grep -q "rendered"; then echo "Already posted today"; exit 0; fi
+            USE_RESERVE=1
+          fi
+          [ "${{ inputs.from_reserve }}" = "true" ] && USE_RESERVE=1
+          if [ -n "$USE_RESERVE" ]; then
+            R=$(ls -1 scripts/reserve/*.json 2>/dev/null | sort | head -1)
+            if [ -z "$R" ]; then echo "Reserve is empty"; exit 0; fi
+            git mv "$R" "scripts/$(basename "$R")"; S="scripts/$(basename "$R")"
+            echo "Using reserve script $R ($(ls scripts/reserve/*.json 2>/dev/null | wc -l) left)"
+          fi
           if [ -z "$S" ]; then echo "No new script in scripts/ - nothing to render"; exit 0; fi
           echo "Rendering $S"
           python pipeline.py --script "$S" $UP
