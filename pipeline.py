@@ -111,7 +111,10 @@ def make(topic, strategy=None, trend_text="", plan=None):
 
     # images + narration
     imgs, segs, padded, words, marks, t = [], [], [], [], [], 0.0
+    voice = plan.get("narrator_voice") if plan.get("narrator_voice") in tts.VOICES else None
+    print(f"narrator: {voice or tts.KOKORO_VOICE}")
     for i, s in enumerate(scenes):
+        tone = tts.TONES.get(s.get("tone", "calm"), tts.TONES["calm"])
         if i == 0 or s["chapter"] != scenes[i - 1]["chapter"]:
             marks.append((t, plan["chapters"][s["chapter"]]["title"]))
         print(f"[{i+1}/{len(scenes)}] {s['narration'][:70]}")
@@ -119,9 +122,9 @@ def make(topic, strategy=None, trend_text="", plan=None):
         images.generate(images.full_prompt(s, plan), img, seed + i)
         wav = os.path.join(work, "audio", f"{i:04}.wav")
         if not os.path.exists(wav):
-            tts.speak(s["narration"], wav, speed=0.9)
+            tts.speak(s["narration"], wav, speed=0.9 * tone[0], voice=voice)
         d = tts.duration(wav)
-        seg = d + PAD + (1.2 if i + 1 < len(scenes) and scenes[i + 1]["chapter"] != s["chapter"] else 0)
+        seg = d + tone[1] + (1.2 if i + 1 < len(scenes) and scenes[i + 1]["chapter"] != s["chapter"] else 0)
         pw = os.path.join(work, "audio", f"{i:04}.pad.wav")
         if not os.path.exists(pw):
             video.pad_audio(wav, seg, pw)
@@ -131,14 +134,23 @@ def make(topic, strategy=None, trend_text="", plan=None):
 
     narration = os.path.join(work, "narration.wav")
     video.concat_audio(padded, narration)
+    narration = video.add_ambience(narration, plan.get("ambience", "none"), os.path.join(work, "narration_amb.wav"))
     srt = os.path.join(work, "captions.srt")
     tts.write_srt(words, srt)
 
-    thumb_raw = os.path.join(work, "thumb_raw.jpg")
-    images.generate(f"{plan['thumbnail_prompt']}. {plan['era_setting']}. {STYLE}. extreme emotion, "
-                    "dramatic rim lighting, high contrast, face in right half of frame, no text", thumb_raw, seed + 777)
-    thumb = os.path.join(work, "thumbnail.jpg")
-    video.thumbnail(thumb_raw, plan.get("thumbnail_text", ""), thumb)
+    # 3 thumbnail variants (upload uses #1; use YouTube Studio "Test & compare" to A/B test all three)
+    variants = plan.get("thumbnails") or [{"text": plan.get("thumbnail_text", ""), "prompt": plan["thumbnail_prompt"]}]
+    thumbs = []
+    for k, tv in enumerate(variants[:3]):
+        raw = os.path.join(work, f"thumb_raw{k}.jpg")
+        images.generate(f"{tv['prompt']}. {plan['era_setting']}. {STYLE}. extreme close-up of the face, intense "
+                        "readable emotion, eyes toward the viewer, face filling the right half of the frame, dark "
+                        "simple background on the left, dramatic rim light, high contrast, vivid colours, no text",
+                        raw, seed + 777 + k)
+        tp = os.path.join(work, f"thumbnail{k + 1}.jpg")
+        video.thumbnail(raw, tv.get("text", ""), tp, tv.get("highlight", ""), plan.get("thumbnail_label", ""))
+        thumbs.append(tp)
+    thumb = thumbs[0]
 
     final = os.path.join(work, "final.mp4")
     music = pick_music(plan.get("music_mood", "calm") if plan.get("music_mood") in MOODS else "calm", work)
@@ -161,7 +173,7 @@ def make(topic, strategy=None, trend_text="", plan=None):
         for k, sc in enumerate(sh["scenes"]):
             wav = os.path.join(sdir, f"{k:02}.wav")
             if not os.path.exists(wav):
-                tts.speak(sc["narration"], wav, speed=1.0)
+                tts.speak(sc["narration"], wav, speed=1.0, voice=voice)
             d = tts.duration(wav)
             seg = d + 0.12
             pw = os.path.join(sdir, f"{k:02}.pad.wav"); video.pad_audio(wav, seg, pw)

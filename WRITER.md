@@ -53,6 +53,27 @@ Every factual claim in the script must come from this file.
 - Scenes of **18-28 words** (one visual moment each), about 55-70 scenes.
 Save the full narration of draft 1 in `draft1.md` (chapter headings + scene lines).
 
+### Voice and retention (apply while drafting; the critic checks them)
+- **Choose the narrator to fit the story** (`narrator_voice`): a woman's life → `bf_emma`, `bf_isabella` or
+  `af_heart`; a soldier, ruler or labourer → `bm_george`, `bm_lewis` or `am_onyx`; gentle or fairy-tale eras →
+  `bm_fable`; neutral documentary → `am_michael`. Do not use the same voice three days in a row.
+- **Give every scene a `tone`** so the delivery follows the story: `calm`, `warm`, `tender`, `sad`, `awe`,
+  `reflective` (slower, longer pause) or `tense`, `urgent` (faster, short pause). Mostly calm/warm; use
+  tense/urgent only for real turning points, never two tense chapters in a row.
+- **Write for the ear**: short and long sentences mixed; commas and em-dashes where a narrator would breathe;
+  "..." only for a deliberate hush; no parentheses, lists, abbreviations or numerals (write "twelve", not "12");
+  spell hard names so they are pronounced right the first time.
+- **Retention beats** (these keep people watching):
+  - 0:00-0:15 the hook: a vivid moment plus a stake ("By sunset, you will know if he is coming home.").
+  - End of each chapter: a soft open loop that pulls into the next ("But the letter that arrives in spring
+    changes everything.").
+  - About every 90 seconds: a small surprise fact or turn, framed as the viewer's experience.
+  - Speak to the viewer's senses and choices ("you", "your hands", "you decide").
+  - Around the midpoint: the biggest emotional moment. The last minute: slow, warm resolution (people fall
+    asleep to it, so no shocks).
+- **Ambience** (`ambience`): pick the background bed that fits most of the story: `rain`, `wind`, `night`,
+  `fire` or `none`.
+
 ## 5. Critic round 1 → `notes/<date>/critique.md`
 Now switch roles completely. Re-read `draft1.md` from top to bottom as if someone else wrote it, and be harsh.
 Three critics each write their own section:
@@ -60,7 +81,9 @@ Three critics each write their own section:
 2. `## Historian`: check every factual line against `research.md`; list each claim that is unsupported,
    doubtful or anachronistic, quoting it.
 3. `## YouTube strategist`: first 30 seconds, retention dips, title/thumbnail promise vs delivery, repetition,
-   AI-sounding words ("tapestry", "testament", "delve", "little did you know", "in a world where").
+   AI-sounding words ("tapestry", "testament", "delve", "little did you know", "in a world where"),
+   missing open loops at chapter ends, and whether the narrator voice, tones and pacing fit the story when
+   read aloud.
 Then `## Round 1 scores` (hook, immersion, comfort, accuracy, pacing, originality out of 10) and
 `## Must fix`: at least 8 specific, numbered instructions that quote the passage they refer to.
 Scores of 9-10 are rare on a first draft; score honestly.
@@ -80,6 +103,15 @@ Rewrite the whole script applying every must-fix. Then re-read it again as the t
   last line teases the full story. Each short scene reuses a long-video image via `ref` = the global scene index
   (0-based, counted across all chapters).
 
+### Thumbnails (3 variants for A/B testing)
+Study the top thumbnails you found in the trend check and follow the **genre conventions** that win there,
+but never copy a specific creator's thumbnail, artwork, logo, layout or wording. The renderer uses this layout:
+emotional close-up face on the right, dark left side with 2-4 huge words, one word highlighted in yellow,
+and a small red era label. Write `thumbnails`: 3 different angles, e.g.
+1. emotion / stakes ("HE NEVER CAME BACK"), 2. curiosity ("THE RULE NO ONE BROKE"),
+3. contrast / shock-but-true ("5 HOURS OF SLEEP"). Words must be honest to the story (curiosity, not lies),
+at most 4 words and different from the title. `thumbnail_label` = era/place, 2-3 words ("EDO JAPAN 1820").
+
 ## 8. Safety (never break)
 Violence, punishment, slavery, disease and death are described soberly, never graphically. No sexual content.
 No minors in sexual or violent contexts. Respectful to every culture and religion. Original writing only.
@@ -92,17 +124,27 @@ Write `scripts/<YYYY-MM-DD>.json` (today's date, IST) with exactly this shape:
   "topic": "Your Life as a ...",
   "queue_item": "the exact line you took from topics/long.txt (or null if new)",
   "title": "final YouTube title, <= 65 chars, honest, curiosity-driven",
-  "thumbnail_text": "2-4 WORDS",
-  "thumbnail_prompt": "close-up of the protagonist with strong emotion, dramatic light, setting hint",
+  "thumbnail_text": "2-4 WORDS (same as thumbnails[0].text)",
+  "thumbnail_prompt": "same as thumbnails[0].prompt",
+  "thumbnail_label": "ERA OR PLACE, 2-3 words",
+  "thumbnails": [
+    {"text": "2-4 WORDS", "highlight": "the one word to colour yellow",
+     "prompt": "extreme close-up of the protagonist's face showing one strong emotion, what the viewer
+                should feel, one prop or setting hint"},
+    {"text": "...", "highlight": "...", "prompt": "..."},
+    {"text": "...", "highlight": "...", "prompt": "..."}
+  ],
   "description": "2 short engaging paragraphs, no timestamps, no hashtags",
   "hashtags": ["#history", "#yourlifeas", "..."],
   "tags": ["12-15 search tags"],
   "music_mood": "calm | warm | melancholy | mystery | epic_soft",
+  "narrator_voice": "bm_george | bm_fable | bm_lewis | am_michael | am_onyx | bf_emma | bf_isabella | af_heart | af_bella",
+  "ambience": "rain | wind | night | fire | none",
   "era_setting": "one sentence: place, years, architecture, clothing, colour palette",
   "characters": [{"id": "you", "look": "..."}],
   "chapters": [
     {"title": "Evocative Chapter Title",
-     "scenes": [{"narration": "18-28 words", "image_prompt": "...", "characters": ["you"]}]}
+     "scenes": [{"narration": "18-28 words", "tone": "calm", "image_prompt": "...", "characters": ["you"]}]}
   ],
   "shorts": [
     {"title": "<= 80 chars ending with #shorts", "description": "1-2 sentences + 3 hashtags",

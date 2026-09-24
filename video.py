@@ -36,8 +36,27 @@ def scene_clip(img, length, out, i, w=1920, h=1080):
          "-crf", "18", "-an", out])
 
 
+VOICE_FX = ("highpass=f=70,equalizer=f=180:t=q:w=1.2:g=2.5,equalizer=f=3200:t=q:w=1.5:g=1.5,"   # warmth + clarity
+            "acompressor=threshold=-21dB:ratio=2.5:attack=8:release=160,"                     # even, close voice
+            "aecho=0.85:0.6:32|53:0.07|0.05")                                                 # small warm room
+
+
 def pad_audio(wav, seconds, out):
-    run(["ffmpeg", "-y", "-i", wav, "-af", f"apad=whole_dur={seconds:.3f},aresample=48000", "-ac", "2", out])
+    run(["ffmpeg", "-y", "-i", wav, "-af", f"{VOICE_FX},apad=whole_dur={seconds:.3f},aresample=48000", "-ac", "2", out])
+
+
+def add_ambience(narration, kind, out):
+    """Quiet generated background bed under the whole narration: rain, wind, night, fire, none."""
+    if kind not in ("rain", "wind", "night", "fire"):
+        return narration
+    color, fx = {"rain": ("pink", "highpass=f=400,lowpass=f=7000"),
+                 "wind": ("brown", "lowpass=f=600,tremolo=f=0.12:d=0.7"),
+                 "night": ("brown", "lowpass=f=300"),
+                 "fire": ("brown", "lowpass=f=900,tremolo=f=7:d=0.5")}[kind]
+    run(["ffmpeg", "-y", "-i", narration, "-f", "lavfi", "-i", f"anoisesrc=color={color}:amplitude=0.5:r=48000",
+         "-filter_complex", f"[1:a]{fx},volume=0.05,aformat=channel_layouts=stereo[b];"
+         "[0:a][b]amix=inputs=2:duration=first:normalize=0[a]", "-map", "[a]", "-c:a", "pcm_s16le", out])
+    return out
 
 
 def concat_audio(wavs, out):
@@ -171,25 +190,49 @@ def render_short(clips, narration_wav, srt, title, out, music=None):
     os.remove(lst); os.remove(joined); os.remove(tf)
 
 
-def thumbnail(img, text, out):
+def thumbnail(img, text, out, highlight="", label=""):
+    """Niche-standard high-CTR layout: emotional close-up on the right, dark left side, 2-4 huge words
+    (one highlighted word in yellow, the rest white), small era label, punchy contrast."""
+    from PIL import ImageEnhance
     im = Image.open(img).convert("RGB")
-    im = im.resize((1280, int(im.height * 1280 / im.width)))
-    top = max(0, (im.height - 720) // 2)
-    im = im.crop((0, top, 1280, top + 720))
-    # darken bottom-left for text contrast
-    grad = Image.new("L", (1280, 720))
-    ImageDraw.Draw(grad).rectangle((0, 380, 1280, 720), fill=150)
-    im = Image.composite(Image.new("RGB", im.size, (0, 0, 0)), im, grad.filter(ImageFilter.GaussianBlur(90)))
+    sc = max(1280 / im.width, 720 / im.height)                      # cover the frame, no bars
+    im = im.resize((max(1280, round(im.width * sc)), max(720, round(im.height * sc))))
+    left, top = max(0, (im.width - 1280) // 2), max(0, (im.height - 720) // 2)
+    im = im.crop((left, top, left + 1280, top + 720))
+    im = ImageEnhance.Contrast(ImageEnhance.Color(im).enhance(1.25)).enhance(1.15)
+    # dark gradient on the left 55% for the text
+    mask = Image.new("L", (1280, 720))
+    md = ImageDraw.Draw(mask)
+    for x in range(0, 760):
+        md.line([(x, 0), (x, 720)], fill=int(215 * (1 - x / 760) ** 1.3))
+    im = Image.composite(Image.new("RGB", im.size, (8, 6, 4)), im, mask)
+    # soft vignette
+    vig = Image.new("L", (1280, 720), 0)
+    ImageDraw.Draw(vig).ellipse((-200, -160, 1480, 880), fill=255)
+    im = Image.composite(im, Image.new("RGB", im.size, (0, 0, 0)), vig.filter(ImageFilter.GaussianBlur(120)))
     d = ImageDraw.Draw(im)
-    font = ImageFont.truetype(FONT_SANS, 104) if FONT_SANS else ImageFont.load_default()
-    words, lines = text.upper().split(), [""]
+    words = text.upper().split()[:5]
+    size = 150 if len(" ".join(words)) <= 12 else 124 if len(" ".join(words)) <= 20 else 104
+    font = ImageFont.truetype(FONT_SANS, size) if FONT_SANS else ImageFont.load_default()
+    lines = [[]]
     for w in words:
-        if d.textlength((lines[-1] + " " + w).strip(), font=font) > 1100:
-            lines.append(w)
+        if lines[-1] and d.textlength(" ".join(lines[-1] + [w]), font=font) > 760:
+            lines.append([w])
         else:
-            lines[-1] = (lines[-1] + " " + w).strip()
-    y = 720 - 60 - 115 * len(lines)
+            lines[-1].append(w)
+    hl = {h.upper() for h in highlight.split()} or {words[-1] if words else ""}
+    y = (720 - len(lines) * int(size * 1.08)) // 2 + 20
     for line in lines:
-        d.text((60, y), line, font=font, fill=(255, 214, 80), stroke_width=6, stroke_fill=(0, 0, 0))
-        y += 115
+        x = 50
+        for w in line:
+            col = (255, 208, 40) if w.strip("?!.,") in hl else (255, 255, 255)
+            d.text((x + 6, y + 8), w, font=font, fill=(0, 0, 0))                     # drop shadow
+            d.text((x, y), w, font=font, fill=col, stroke_width=7, stroke_fill=(0, 0, 0))
+            x += d.textlength(w + " ", font=font)
+        y += int(size * 1.08)
+    if label:
+        lf = ImageFont.truetype(FONT_SANS, 34) if FONT_SANS else font
+        lw = d.textlength(label.upper(), font=lf)
+        d.rounded_rectangle((44, 36, 44 + lw + 32, 88), radius=8, fill=(170, 20, 20))
+        d.text((60, 42), label.upper(), font=lf, fill=(255, 255, 255))
     im.save(out, "JPEG", quality=92)

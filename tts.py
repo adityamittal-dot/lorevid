@@ -6,7 +6,21 @@ import asyncio, os, subprocess
 ENGINE = os.getenv("TTS_ENGINE", "kokoro")
 KOKORO_VOICE = os.getenv("KOKORO_VOICE", "bm_george")        # British male storyteller; try bm_fable, am_michael
 EDGE_VOICE = os.getenv("EDGE_VOICE", "en-GB-RyanNeural")
-_kpipe = None
+_kpipes = {}
+VOICES = {  # narrator options the writer can choose per video
+    "bm_george": "British male, deep, warm storyteller (default)",
+    "bm_fable": "British male, softer, fairy-tale feel",
+    "bm_lewis": "British male, older, grave",
+    "am_michael": "American male, calm, documentary",
+    "am_onyx": "American male, very deep",
+    "bf_emma": "British female, gentle, elegant",
+    "bf_isabella": "British female, warm, mature",
+    "af_heart": "American female, soft, intimate",
+    "af_bella": "American female, warm, expressive",
+}
+# per-scene delivery: (speed multiplier, pause after scene in seconds)
+TONES = {"calm": (1.0, 0.7), "warm": (1.0, 0.7), "tender": (0.95, 0.9), "sad": (0.93, 1.1),
+         "awe": (0.95, 1.0), "tense": (1.08, 0.35), "urgent": (1.12, 0.3), "reflective": (0.92, 1.2)}
 
 
 def duration(path):
@@ -14,14 +28,14 @@ def duration(path):
                                           "-of", "default=nw=1:nk=1", path]).strip())
 
 
-def _kokoro(text, out_wav, speed):
-    global _kpipe
+def _kokoro(text, out_wav, speed, voice=None):
+    voice = voice if voice in VOICES else KOKORO_VOICE
     import numpy as np, soundfile as sf
     from kokoro import KPipeline
-    if _kpipe is None:
-        _kpipe = KPipeline(lang_code=KOKORO_VOICE[0])
+    if voice[0] not in _kpipes:
+        _kpipes[voice[0]] = KPipeline(lang_code=voice[0])
     parts = [r.audio.numpy() if hasattr(r.audio, "numpy") else r.audio
-             for r in _kpipe(text, voice=KOKORO_VOICE, speed=speed)]
+             for r in _kpipes[voice[0]](text, voice=voice, speed=speed)]
     sf.write(out_wav, np.concatenate(parts), 24000)
 
 
@@ -39,11 +53,11 @@ def _edge(text, out_wav, speed):
     os.remove(mp3)
 
 
-def speak(text, out_wav, speed=0.95):
+def speak(text, out_wav, speed=0.95, voice=None):
     global ENGINE
     if ENGINE == "kokoro":
         try:
-            return _kokoro(text, out_wav, speed)
+            return _kokoro(text, out_wav, speed, voice)
         except Exception as e:
             print(f"  Kokoro failed ({e}); switching to edge-tts")
             ENGINE = "edge"

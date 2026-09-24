@@ -71,7 +71,7 @@ jobs:
           name: video
           path: |
             output/*/final.mp4
-            output/*/thumbnail.jpg
+            output/*/thumbnail*.jpg
             output/*/short*/short.mp4
             output/*/script.json
           retention-days: 7

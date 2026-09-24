@@ -10,6 +10,17 @@ for k in ["topic", "title", "description", "hashtags", "tags", "era_setting", "t
         err.append(f"missing key: {k}")
 if p.get("music_mood") not in MOODS:
     err.append(f"music_mood must be one of {sorted(MOODS)}")
+VOICES = {"bm_george", "bm_fable", "bm_lewis", "am_michael", "am_onyx", "bf_emma", "bf_isabella", "af_heart", "af_bella"}
+TONES = {"calm", "warm", "tender", "sad", "awe", "tense", "urgent", "reflective"}
+if p.get("narrator_voice") not in VOICES:
+    err.append(f"narrator_voice must be one of {sorted(VOICES)}")
+if p.get("ambience") not in {"rain", "wind", "night", "fire", "none"}:
+    err.append("ambience must be one of rain, wind, night, fire, none")
+th = p.get("thumbnails", [])
+if len(th) != 3 or any(len(t.get("text", "").split()) > 4 or not t.get("prompt") for t in th):
+    err.append("thumbnails: need exactly 3, each with text (<= 4 words), highlight and prompt")
+if not p.get("thumbnail_label"):
+    err.append("thumbnail_label missing (era/place, 2-3 words)")
 if len(p.get("title", "")) > 100:
     err.append("title longer than 100 chars")
 ids = {c.get("id") for c in p.get("characters", [])}
@@ -18,6 +29,8 @@ words = 0
 for i, s in enumerate(scenes):
     n = len(s.get("narration", "").split())
     words += n
+    if s.get("tone") not in TONES:
+        err.append(f"scene {i}: tone must be one of {sorted(TONES)}")
     if not s.get("image_prompt"):
         err.append(f"scene {i}: no image_prompt")
     if not 10 <= n <= 40:
