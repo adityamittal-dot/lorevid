@@ -1,0 +1,571 @@
+{
+  "topic": "Your Life as a Samurai's Wife in Edo Japan",
+  "queue_item": "Your Life as a Samurai's Wife in Edo Japan",
+  "title": "Your Life as a Samurai's Wife in Edo Japan",
+  "thumbnail_text": "HE LEFT FOR EDO",
+  "thumbnail_prompt": "close-up of a young Japanese woman in an indigo Edo-period kimono with black hair in a marumage bun and tortoiseshell comb, eyes glistening with restrained emotion, warm lantern light on one side of her face, snowy samurai lane blurred behind",
+  "description": "You are married at twenty to a samurai you have met only once, in the snowy castle town of Kanazawa around 1820. Follow a whole life inside a modest samurai house: rice stipends, blackened teeth, winter pines tied like umbrellas, and a year alone while your husband marches to Edo with the lord.\n\nA calm, unhurried second-person story to relax or fall asleep to, built on the everyday history of Edo-period Japan.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#edojapan",
+    "#samurai",
+    "#historyforsleep"
+  ],
+  "tags": [
+    "your life as",
+    "samurai wife",
+    "edo period",
+    "edo japan",
+    "history for sleep",
+    "boring history for sleep",
+    "samurai history",
+    "japanese history",
+    "kanazawa",
+    "sankin kotai",
+    "women in history",
+    "daily life in history",
+    "bedtime history",
+    "sleep story"
+  ],
+  "music_mood": "warm",
+  "era_setting": "Kanazawa castle town in Kaga domain, Japan, about 1820-1860: narrow lanes of tile-topped earthen walls, wooden samurai houses with tatami, shoji and verandas, indigo, brown and grey cotton and silk kimono, palette of indigo, straw gold, persimmon orange and snowy white.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "Japanese woman, early twenties at the start (grey-streaked later), slender, oval face, calm dark eyes, black hair in a glossy marumage bun with a tortoiseshell comb, muted indigo kimono with a dark brown obi"
+    },
+    {
+      "id": "husband",
+      "look": "Japanese man, late twenties (grey later), lean build, clean-shaven, serious narrow face, shaved pate with a neat topknot, dark grey kimono and hakama, two swords at the left hip"
+    },
+    {
+      "id": "mother_in_law",
+      "look": "Japanese woman in her sixties, small and slightly stooped, lined gentle face, grey hair in a plain low bun, plain brown kimono with a dark obi"
+    },
+    {
+      "id": "son",
+      "look": "Japanese boy about seven, round face, bright eyes, hair tied in a small tuft on top, short light-blue cotton kimono"
+    },
+    {
+      "id": "maid",
+      "look": "Japanese girl of sixteen, sturdy build, round cheerful face, hair tied up in a white cloth, brown striped cotton kimono with a plain apron"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Morning Before the Wedding",
+      "scenes": [
+        {
+          "narration": "It is still dark when your mother lifts the white silk over your shoulders. Tomorrow you will belong to a house you have never entered.",
+          "image_prompt": "a young bride standing still while an older woman drapes a white silk wedding kimono over her shoulders, lamplit room, paper screens, quiet anticipation, centred, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You have met the man only once, across a formal room, with a go-between smiling politely at both families. His name is all you truly know.",
+          "image_prompt": "a formal tatami room, a young woman kneeling across from a young samurai, an older go-between between them, low table with tea, soft daylight through shoji, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "This is Kanazawa, a snowy castle town on the Sea of Japan coast, around the year eighteen twenty. The great lord of Kaga rules here.",
+          "image_prompt": "wide view of a snowy castle town at dawn, white castle walls and tiled roofs, river curving through, mountains beyond, pale pink sky, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your father is a samurai of modest rank, and so is the groom. Neither family is rich. Their wealth is measured in rice, not coins.",
+          "image_prompt": "a modest samurai house interior with straw rice bales stacked against a wall, wooden beams, warm afternoon light, calm domestic scene, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "A samurai is paid a yearly stipend in rice, counted in koku. One koku is roughly what one person eats in a year.",
+          "image_prompt": "close view of rice being measured from a straw bale into a square wooden measuring box, hands of a woman in indigo sleeves, warm light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your husband's household receives about seventy koku. It sounds generous, but much of it must be sold to pay for everything else.",
+          "image_prompt": "a rice broker's shopfront in a castle town street, bales being carried by porters, wooden signboard without writing, overcast morning, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "In the evening you travel by palanquin to his house in Nagamachi, the samurai quarter, where earthen walls line narrow, quiet lanes.",
+          "image_prompt": "a lacquered palanquin carried along a narrow lane between tall earthen walls topped with tiles, lanterns glowing, dusk, gentle mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "Inside, you and your husband sip sake three times each from three small cups. The ceremony is quiet. Nobody hurries you.",
+          "image_prompt": "a young bride in white and a young samurai in formal black kneeling side by side, sipping from small red lacquer sake cups, candlelight, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "His mother watches from the side of the room, hands folded in her lap. From tonight, she will teach you how this house runs.",
+          "image_prompt": "an elderly woman in brown kimono kneeling at the side of a candlelit room, hands folded, watchful but kind expression, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "mother_in_law"
+          ]
+        },
+        {
+          "narration": "Later, alone, you hear the rain begin against the wooden shutters. The house smells of new tatami and cedar. You do not sleep for hours.",
+          "image_prompt": "a young woman lying awake on a futon in a dim room, rain streaking past a shuttered window, faint lantern glow, peaceful melancholy, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Rhythm of the House",
+      "scenes": [
+        {
+          "narration": "Your days begin before dawn. You kneel at the clay stove, coax the embers alive, and set the rice pot on to boil.",
+          "image_prompt": "a young woman kneeling at a clay kitchen stove at dawn, blowing gently on embers through a bamboo tube, steam rising, earthen floor, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Breakfast is simple: rice, miso soup with a little tofu or greens, and pickled daikon. Your husband eats first, then the rest of you.",
+          "image_prompt": "a low wooden tray with a bowl of rice, miso soup and yellow pickles, a samurai kneeling to eat in morning light, calm, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "As a new wife, you have blackened your teeth with an iron and gall paste. In this age, it marks a married woman, and many find it beautiful.",
+          "image_prompt": "a young woman kneeling at a small lacquer mirror stand, preparing a small bowl of dark paste, soft morning light, dignified mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your husband leaves for duty at the castle, two swords at his hip. Many days, his work is guarding a gate or copying records.",
+          "image_prompt": "a samurai in grey hakama walking out through a wooden gate into a lane, two swords at his hip, morning mist, wife bowing at the gate, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband",
+            "you"
+          ]
+        },
+        {
+          "narration": "You sweep the rooms, air the bedding on the veranda, and sew. There is always a garment to mend, turn inside out, or unpick and remake.",
+          "image_prompt": "a young woman sewing an indigo garment on a veranda, futons airing on a rail beside her, small garden, dappled sunlight, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your mother-in-law checks the household accounts beside you. Every coin for lamp oil, charcoal and fish is written down in careful brush strokes.",
+          "image_prompt": "two women kneeling at a low desk with an account book and abacus, an older woman guiding a younger one, lamplight, calm concentration, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "mother_in_law"
+          ]
+        },
+        {
+          "narration": "You also manage the maid, a farm girl of sixteen named in whispers by the neighbours as the best cook in the lane.",
+          "image_prompt": "a sturdy teenage maid in striped cotton kimono chopping vegetables in a kitchen, a young wife watching approvingly, warm light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "maid",
+            "you"
+          ]
+        },
+        {
+          "narration": "In the afternoon you tend the small garden behind the house. Samurai families here often grow vegetables, persimmons, and a few flowers.",
+          "image_prompt": "a young woman tending vegetables in a small walled garden, a persimmon tree with orange fruit, late afternoon golden light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Evenings are lit by a paper lantern burning rapeseed oil. The light is soft and orange, and it makes long shadows on the ceiling.",
+          "image_prompt": "a quiet room at night lit by a single paper floor lantern, orange glow, long shadows on wooden ceiling, woman sewing beside it, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Before bed, you and your husband sometimes talk, very quietly, about small things. The rice price. A neighbour's cough. The shape of the clouds.",
+          "image_prompt": "a young couple kneeling close together by a lantern, speaking softly, sliding doors half open to a dark garden, tender calm mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "Slowly, the house stops feeling like his house. It begins, without anyone saying so, to feel like yours.",
+          "image_prompt": "a young woman kneeling on a veranda at dusk looking over a small garden with contentment, warm evening light, peaceful, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Child and the Snow",
+      "scenes": [
+        {
+          "narration": "In your second winter, you give birth to a son. The midwife tells you to sit upright for days, as custom demands. You obey, exhausted.",
+          "image_prompt": "a young mother sitting upright on bedding holding a swaddled newborn, a midwife kneeling nearby, warm brazier glow, winter light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Snow comes early in Kanazawa and piles heavily. Along Nagamachi, the earthen walls are wrapped in straw mats to protect them from the wet.",
+          "image_prompt": "a snowy lane lined with earthen walls covered in woven straw mats, soft falling snow, grey sky, hushed and peaceful, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "Inside, everyone gathers near the charcoal brazier. You warm your hands, then your son's tiny feet, then your hands again.",
+          "image_prompt": "a young mother by a charcoal brazier warming a baby's feet in her hands, glowing embers, winter room, cosy mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The pines in the gardens are tied with ropes from a central pole, like umbrellas, so that heavy snow cannot snap their branches.",
+          "image_prompt": "a garden pine tree supported by ropes radiating from a tall central pole like an umbrella, fresh snow, soft white light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your son grows. At four, he chases the maid around the kitchen. At six, he sits at a low desk and learns his first characters.",
+          "image_prompt": "a young boy with a small topknot kneeling at a low desk practising brush writing, his mother guiding his hand, soft daylight, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "son",
+            "you"
+          ]
+        },
+        {
+          "narration": "Samurai sons will study the Confucian classics and swordsmanship. You teach him patience first, because no one else seems to have time.",
+          "image_prompt": "a mother and small son sitting together on a veranda watching snowfall, the boy holding a wooden practice sword, gentle mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You were taught from a book of conduct for women, which said a wife should be gentle, obedient, and frugal. You are frugal. Mostly.",
+          "image_prompt": "a young woman reading a thin stitched book by lantern light with a faint smile, simple room, calm and wry mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "On New Year's morning you all eat ozoni, a soup with soft rice cakes. Your husband wears his best kimono, and your son is solemn with pride.",
+          "image_prompt": "a family kneeling around a low table eating bowls of rice cake soup, pine decorations in the corner, bright winter morning light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "husband",
+            "son",
+            "mother_in_law"
+          ]
+        },
+        {
+          "narration": "In spring, you walk with your mother-in-law under the cherry blossoms. She points at the petals and says, very softly, that she once was you.",
+          "image_prompt": "two women, one young and one elderly, walking beneath blossoming cherry trees along a riverbank, petals drifting, gentle spring light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "mother_in_law"
+          ]
+        },
+        {
+          "narration": "She does not say more. But that night, she gives you her tortoiseshell comb, the one she wore on her own wedding day.",
+          "image_prompt": "an elderly woman handing a tortoiseshell hair comb to a young woman in a lamplit room, both kneeling, tender moment, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "mother_in_law",
+            "you"
+          ]
+        },
+        {
+          "narration": "Your son falls asleep against your arm. The snow melts off the eaves in a steady, soft dripping that lasts all night.",
+          "image_prompt": "a young mother sitting in lamplight with a sleeping boy leaning against her arm, water dripping from eaves outside, peaceful night, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You think this is what the rest of your life will be: snow, blossom, lamplight, and quiet. You are almost right.",
+          "image_prompt": "a young woman looking out through an open shoji at a moonlit garden, quiet contemplative expression, soft blue night light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Year in Edo",
+      "scenes": [
+        {
+          "narration": "One morning your husband comes home early, and sits too carefully. He has been chosen to travel with the lord's procession to Edo.",
+          "image_prompt": "a samurai kneeling stiffly in a room while his wife pauses in the doorway holding a tray, morning light, tense quiet mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband",
+            "you"
+          ]
+        },
+        {
+          "narration": "Under the shogun's system of alternate attendance, great lords must spend every other year in Edo. Their retainers go with them.",
+          "image_prompt": "a long procession of samurai, porters and palanquins winding along a mountain road, banners without writing, early morning mist, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "The journey is more than four hundred kilometres. It takes around two weeks, over mountain passes and along the old coastal and inland roads.",
+          "image_prompt": "a line of travellers crossing a high mountain pass with pine trees and distant peaks, late autumn colours, long winding road, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "He will be gone for a year. You fold his clothes, pack dried fish and a small pouch of coins, and say nothing that might make him worry.",
+          "image_prompt": "a young woman carefully folding clothes into a travel bundle, dried fish and a small pouch beside it, lamplight, restrained emotion, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At the gate, he bows to his mother, touches your son's head, and looks at you a moment longer than custom allows.",
+          "image_prompt": "a samurai in travelling clothes at a wooden gate, touching a small boy's head, his wife and elderly mother bowing behind, dawn light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband",
+            "son",
+            "you",
+            "mother_in_law"
+          ]
+        },
+        {
+          "narration": "Now the house is yours to run. You collect the stipend rice, sell part of it to a broker, and haggle quietly and firmly.",
+          "image_prompt": "a young woman in indigo kimono speaking with a merchant at a rice broker's counter, bales behind, calm and determined expression, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That year the domain announces it will borrow part of every retainer's stipend. Lords were deep in debt, and samurai families felt it.",
+          "image_prompt": "a young woman reading an official letter at a low desk, abacus beside her, thoughtful frown, grey daylight through paper screens, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "So you cut back. Less lamp oil. Cheaper fish. You take in sewing for a merchant's wife, which is common, even if nobody speaks of it.",
+          "image_prompt": "a young woman sewing by the last daylight at a window to save lamp oil, a pile of fabric beside her, quiet determination, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Letters from Edo arrive every few weeks, carried by the domain's couriers. You read each one twice, then once more to your mother-in-law.",
+          "image_prompt": "a young woman reading a folded letter aloud to an elderly woman beside a brazier, both kneeling, warm afternoon light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "mother_in_law"
+          ]
+        },
+        {
+          "narration": "He writes of crowded streets, famous kabuki actors on printed pictures, and fires. Edo burns so often that people call fires its flowers.",
+          "image_prompt": "a crowded Edo street with wooden shops and cloth shop curtains, people in kimono walking, distant smoke on the horizon, daytime, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "In late winter, your son catches a fever. For three nights you sit with him, cooling his forehead with a cloth dipped in cold water.",
+          "image_prompt": "a mother kneeling beside a sleeping boy on a futon, holding a damp cloth to his forehead, single lantern, tender worried mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "On the fourth morning, he asks for rice porridge. You laugh, and then you cry, and then you go and make the porridge.",
+          "image_prompt": "a young woman stirring a pot of rice porridge at a clay stove at sunrise, relieved tearful smile, soft golden light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "In spring, a runner brings word. The procession is coming home. You sweep the gate until the stones look almost new.",
+          "image_prompt": "a young woman sweeping stone steps at a wooden gate in spring, cherry petals on the ground, bright morning, hopeful mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Long Afternoon",
+      "scenes": [
+        {
+          "narration": "He is thinner, and older around the eyes. He kneels before his mother, then turns to you and says only, you kept everything.",
+          "image_prompt": "a travel-worn samurai kneeling before his wife in a sunlit room, both bowing slightly, deep quiet emotion, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband",
+            "you"
+          ]
+        },
+        {
+          "narration": "It is the most he will ever say about it. You understand that it is also the most he knows how to say.",
+          "image_prompt": "a husband and wife kneeling side by side on a veranda looking at the garden, not speaking, soft afternoon light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband",
+            "you"
+          ]
+        },
+        {
+          "narration": "The years settle into their rhythm again. Rice, sewing, accounts, snow, blossom. Your son grows tall and begins his own duties at the castle.",
+          "image_prompt": "a tall young man in samurai clothing bowing to his mother at the house gate before leaving, early morning, calm pride, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "son",
+            "you"
+          ]
+        },
+        {
+          "narration": "Your mother-in-law grows frail. One autumn morning she does not wake. You wash her hands yourself and dress her in white.",
+          "image_prompt": "an autumn room with an elderly woman lying peacefully under a white cover, a middle-aged woman kneeling beside her in quiet respect, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you",
+            "mother_in_law"
+          ]
+        },
+        {
+          "narration": "Now you are the elder woman of the house. Your son's young bride kneels before you, nervous, with her white silk still smelling of cedar.",
+          "image_prompt": "a middle-aged woman kneeling and welcoming a nervous young bride in white, candlelit room, gentle and kind expression, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You show her the stove, the account book, and the trick with the embers. You tell her the rice price. You tell her to breathe.",
+          "image_prompt": "an older woman showing a young woman how to tend a clay stove, soft morning light through a kitchen window, warm mentoring mood, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "On your husband's last spring, you sit together on the veranda under a thin blanket and watch the persimmon tree bud.",
+          "image_prompt": "an elderly samurai couple sitting together on a veranda under a thin blanket, looking at a budding persimmon tree, soft spring light, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband",
+            "you"
+          ]
+        },
+        {
+          "narration": "You never chose him, and he never chose you. And yet you cannot now imagine a life in which you were not beside him.",
+          "image_prompt": "close view of two elderly hands, a man's and a woman's, resting near each other on a wooden veranda, cherry petals nearby, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "husband",
+            "you"
+          ]
+        },
+        {
+          "narration": "After he is gone, you keep his lantern. On winter evenings you light it and let the orange glow climb the ceiling, as it always did.",
+          "image_prompt": "an elderly woman kneeling beside a glowing paper lantern in a quiet room at night, snow visible outside, peaceful solitude, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your grandson falls asleep against your arm, just as his father once did. Outside, snow drips from the eaves in the dark.",
+          "image_prompt": "an elderly woman sitting in lamplight with a sleeping small boy against her arm, eaves dripping outside, deep calm, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "History remembers the lords, the swords, and the processions. It rarely remembers the woman who kept the house warm while they were away.",
+          "image_prompt": "wide view of a snowy samurai lane at night, earthen walls wrapped in straw, a single warm glowing window, peaceful, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        },
+        {
+          "narration": "But the house remembers. The stove, the comb, the persimmon tree. And somewhere in that quiet, your breath slows, and you rest.",
+          "image_prompt": "a snow-covered samurai house at night with smoke curling from the roof, persimmon tree in the garden, moonlight, serene ending, Edo-period Japan, soft painterly style, wide 16:9 composition, muted natural colours, calm atmosphere, no text",
+          "characters": []
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "He Left for Edo — and She Ran Everything #shorts",
+      "description": "One year alone in a samurai house in 1820s Japan. #history #samurai #edojapan",
+      "scenes": [
+        {
+          "narration": "Your husband comes home early and sits too carefully. He must march to Edo for a whole year.",
+          "ref": 33
+        },
+        {
+          "narration": "Great lords spent every other year in Edo, and their samurai went with them.",
+          "ref": 34
+        },
+        {
+          "narration": "At the gate, he looks at you a moment longer than custom allows.",
+          "ref": 37
+        },
+        {
+          "narration": "Now you run the house. You sell stipend rice and haggle quietly and firmly.",
+          "ref": 38
+        },
+        {
+          "narration": "The domain borrows part of every stipend. So you cut lamp oil, and take in sewing.",
+          "ref": 39
+        },
+        {
+          "narration": "Then your son catches a fever, and for three nights you do not sleep.",
+          "ref": 43
+        },
+        {
+          "narration": "What happened when he came home? The full story of her life is on the channel.",
+          "ref": 45
+        }
+      ]
+    },
+    {
+      "title": "Why Samurai Wives Blackened Their Teeth #shorts",
+      "description": "Marriage, rice and snow in Edo-period Kanazawa. #history #edojapan #yourlifeas",
+      "scenes": [
+        {
+          "narration": "Tomorrow you marry a samurai you have met exactly once, across a formal room.",
+          "ref": 1
+        },
+        {
+          "narration": "Three small cups of sake, three sips each. Then you belong to his house.",
+          "ref": 7
+        },
+        {
+          "narration": "As a new wife, you blacken your teeth. In this age, many find it beautiful.",
+          "ref": 12
+        },
+        {
+          "narration": "Your family is paid in rice, not coins. Seventy koku a year, and most must be sold.",
+          "ref": 5
+        },
+        {
+          "narration": "In winter, pines are tied with ropes like umbrellas so snow cannot break them.",
+          "ref": 24
+        },
+        {
+          "narration": "Your mother-in-law hands you her own wedding comb, and says softly that she once was you.",
+          "ref": 30
+        },
+        {
+          "narration": "And one day, your husband is ordered to leave for Edo. Watch the full story.",
+          "ref": 33
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "Critic cut a jarring childbirth-danger passage, softened death scenes, hedged the stipend-loan and travel-time facts, and moved the Edo departure earlier as the mid-video tension peak."
+}
