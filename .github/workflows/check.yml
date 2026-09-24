@@ -1,0 +1,21 @@
+name: check-setup
+on: workflow_dispatch
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q requests google-api-python-client google-auth-oauthlib
+      - name: Check secrets
+        env:
+          S: ${{ secrets.YT_CLIENT_SECRET }}
+          T: ${{ secrets.YT_TOKEN }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+        run: |
+          [ -n "$S" ] && printf '%s' "$S" > yt_client_secret.json
+          [ -n "$T" ] && printf '%s' "$T" > yt_token.json
+          python check_setup.py

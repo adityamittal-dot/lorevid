@@ -29,6 +29,57 @@ for j, sh in enumerate(p.get("shorts", [])):
     for s in sh.get("scenes", []):
         if not 0 <= int(s.get("ref", -1)) < len(scenes):
             err.append(f"short {j}: bad ref {s.get('ref')}")
+# ---- evidence that the process was followed (notes/<date>/) ----
+import os, re
+date = os.path.splitext(os.path.basename(sys.argv[1]))[0]
+nd = os.path.join("notes", date)
+def note(name):
+    p = os.path.join(nd, name)
+    if not os.path.exists(p):
+        err.append(f"missing {p} (see WRITER.md)")
+        return ""
+    return open(p, encoding="utf-8").read()
+URL = r"https?://[^\s)\]>]+"
+t = note("trends.md")
+if t:
+    q = t.split("## Searches")[-1].split("##")[0] if "## Searches" in t else ""
+    if len([l for l in q.splitlines() if l.strip()]) < 6:
+        err.append("trends.md: list at least 6 searches under '## Searches'")
+    if len(set(re.findall(URL, t))) < 6:
+        err.append("trends.md: needs at least 6 distinct source URLs in findings")
+if note("topic.md") and "Chosen:" not in note("topic.md"):
+    err.append("topic.md: add 'Chosen:' and 'Angle:' lines")
+r = note("research.md")
+if r:
+    facts = [l for l in r.splitlines() if re.match(r"\s*\d+\.", l) and re.search(URL, l)]
+    domains = {re.sub(r"^www\.", "", re.findall(r"https?://([^/\s]+)", l)[0]) for l in facts}
+    if len(facts) < 20:
+        err.append(f"research.md: {len(facts)} numbered facts with a source URL (need 20+)")
+    if len(domains) < 5:
+        err.append(f"research.md: facts come from {len(domains)} websites (need 5+ different sources)")
+d1 = note("draft1.md")
+if d1 and len(d1.split()) < 900:
+    err.append("draft1.md: save the full first draft (it looks too short)")
+c = note("critique.md")
+if c:
+    for sec in ["## Bedtime viewer", "## Historian", "## YouTube strategist", "## Round 1 scores",
+                "## Must fix", "## Round 2 scores"]:
+        if sec not in c:
+            err.append(f"critique.md: missing section '{sec}'")
+    mf = c.split("## Must fix")[-1].split("## Round 2")[0] if "## Must fix" in c else ""
+    if len(re.findall(r"^\s*\d+\.", mf, re.M)) < 8:
+        err.append("critique.md: 'Must fix' needs at least 8 numbered items")
+if d1 and scenes:
+    final = " ".join(s.get("narration", "") for s in scenes)
+    a, b = set(d1.lower().split()), set(final.lower().split())
+    if a and len(a & b) / len(a | b) > 0.9:
+        err.append("final script is almost identical to draft1.md; apply the critic's must-fix list")
+low = [k for k, v in (p.get("critic_scores") or {}).items() if isinstance(v, (int, float)) and v < 9]
+if not p.get("critic_scores"):
+    err.append("critic_scores missing")
+elif low:
+    err.append(f"critic_scores below 9 for {low}: do another critic + rewrite round")
+
 minutes = words / 130
 print(f"{len(p.get('chapters', []))} chapters, {len(scenes)} scenes, {words} words ≈ {minutes:.1f} min at bedtime pace")
 if not 8.5 <= minutes <= 11.5:
