@@ -209,20 +209,23 @@ def make(topic, strategy=None, trend_text="", plan=None):
     return work, meta
 
 
-def publish(meta, privacy):
+def publish(meta, privacy, reserve=False):
     from upload import upload
-    vid = upload(meta["final"], meta["title"], meta["description"], meta["tags"], meta["thumb"], meta["srt"], privacy)
+    vid = upload(meta["final"], meta["title"], meta["description"], meta["tags"], meta["thumb"],
+                 None if reserve else meta["srt"], privacy)   # reserve: skip captions to save upload quota
     links = [f"https://studio.youtube.com/video/{vid}/edit"]
     for sh in meta["shorts"]:
         sid = upload(sh["final"], sh["title"], sh["description"], meta["tags"][:10], privacy=privacy)
         links.append(f"https://studio.youtube.com/video/{sid}/edit")
-    notify(f"New video ready to review ({privacy}): {meta['title']}\n" + "\n".join(links), links[0])
+    head = "Reserve video saved (private, schedule it later)" if reserve else f"New video ready to review ({privacy})"
+    notify(f"{head}: {meta['title']}\n" + "\n".join(links), links[0])
 
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
     ap.add_argument("topic", nargs="?")
     ap.add_argument("--next-topic", action="store_true")
+    ap.add_argument("--reserve", action="store_true", help="reserve render: upload privately, keep for later")
     ap.add_argument("--script", help="render a script written by the Claude writer session (scripts/*.json)")
     ap.add_argument("--upload", action="store_true")
     ap.add_argument("--privacy", default=os.getenv("PRIVACY", "private"), choices=["private", "unlisted", "public"])
@@ -239,9 +242,13 @@ if __name__ == "__main__":
     try:
         work, meta = make(topic, strategy, trend_text, plan)
         if a.upload:
-            publish(meta, a.privacy)
-        mark_done(queue_item, topic)
-        if a.script:
+            publish(meta, "private" if a.reserve else a.privacy, a.reserve)
+        if a.reserve:
+            os.makedirs("scripts/reserve/uploaded", exist_ok=True)
+            os.replace(a.script, os.path.join("scripts/reserve/uploaded", os.path.basename(a.script)))
+        else:
+            mark_done(queue_item, topic)
+        if a.script and not a.reserve:
             os.makedirs("scripts/done", exist_ok=True)
             os.replace(a.script, os.path.join("scripts/done", os.path.basename(a.script)))
     except Exception as e:
