@@ -1,0 +1,678 @@
+{
+  "topic": "Your Life as a Temple Dancer in the Chola Empire",
+  "queue_item": "Your Life as a Chola Temple Dancer",
+  "title": "Your Life as a Temple Dancer in the Chola Empire",
+  "thumbnail_text": "HE ALWAYS KNEW",
+  "thumbnail_prompt": "extreme close-up of a young Tamil woman dancer's face, kohl-lined eyes glistening with quiet emotion, jasmine flowers in dark hair, warm temple lamplight, painted historical illustration style",
+  "thumbnail_label": "CHOLA INDIA 1010",
+  "thumbnails": [
+    {
+      "text": "HE ALWAYS KNEW",
+      "highlight": "KNEW",
+      "prompt": "extreme close-up of a young Tamil woman dancer's face, kohl-lined eyes glistening with quiet emotion, jasmine in dark hair, warm temple lamplight behind her, painted historical illustration style"
+    },
+    {
+      "text": "ONE AMONG FOUR HUNDRED",
+      "highlight": "FOUR",
+      "prompt": "extreme close-up of a young Tamil woman dancer's face with a proud, focused expression, gold anklet bells faintly visible at the frame edge, warm torchlit temple courtyard behind her"
+    },
+    {
+      "text": "DANCED FOR THE EMPEROR",
+      "highlight": "EMPEROR",
+      "prompt": "extreme close-up of a young Tamil woman dancer's face mid-performance, eyes wide with awe and effort, a thousand tiny oil lamps blurred warmly behind her, painted historical illustration style"
+    }
+  ],
+  "description": "You are dedicated to a great Chola temple as a small child, and every dawn for years afterward begins the same way: cold tank water, a bell, and a teacher who will not let your feet forget a single lesson. Slowly you become one of the temple's four hundred dancers, until one single night before the emperor himself asks everything your training ever gave you.\n\nDrawn from the real devadasi dancers of the Brihadeeswarar Temple at Thanjavur under Rajaraja Chola I, this is a slow, warm, second-person journey through a full life of ritual, discipline and quiet devotion in eleventh-century South India, told gently enough to fall asleep to.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#historyforsleep",
+    "#india",
+    "#cholaempire"
+  ],
+  "tags": [
+    "history for sleep",
+    "your life as",
+    "boring history for sleep",
+    "Chola empire",
+    "Thanjavur temple",
+    "Brihadeeswarar temple",
+    "devadasi",
+    "Bharatanatyam history",
+    "temple dancer history",
+    "ancient India history",
+    "Rajaraja Chola",
+    "second person history story",
+    "history bedtime story",
+    "sleep history story"
+  ],
+  "music_mood": "warm",
+  "narrator_voice": "bf_isabella",
+  "ambience": "fire",
+  "era_setting": "The temple town of Thanjavur under the Chola empire, roughly the years one thousand to ten fourteen, a granite temple tower rising over courtyards lit by oil lamps, dancers in silk and gold anklets, palette of warm lamp gold, temple grey granite, jasmine white and deep maroon silk.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a Tamil dancer, shown from childhood to old age; as an adult she has warm brown skin, kohl-lined eyes, dark hair braided with jasmine flowers, a lithe dancer's posture, and wears a fine silk sari with a gold border and gold anklet bells"
+    },
+    {
+      "id": "amma",
+      "look": "a careworn middle-aged Tamil woman with dark hair tied back plainly, a simple cotton sari, and calloused hands from temple work"
+    },
+    {
+      "id": "guru",
+      "look": "a thin elderly Tamil man with sacred ash marks on his forehead, a simple white dhoti, and a wooden rhythm stick he taps to keep time"
+    },
+    {
+      "id": "aran",
+      "look": "a lean young Tamil stone carver with granite dust on his bare forearms and a simple waist-cloth"
+    },
+    {
+      "id": "king",
+      "look": "a bearded Chola king of dignified bearing, in fine silk robes and a tall gold ceremonial headdress"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Water Before Dawn",
+      "scenes": [
+        {
+          "narration": "Before the temple bell rings, you stand ankle deep in cold water while your mother's hands shake, combing river mud from your hair — by evening, this town will know your new name.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a young Tamil girl with dark wet hair and a plain cotton cloth standing ankle deep in a stone temple tank at first light, a careworn middle-aged Tamil woman in a plain cotton sari, calloused hands kneeling beside her combing river mud from her hair, mist over the water, soft dawn glow, centered composition, tender mood.",
+          "characters": [
+            "you",
+            "amma"
+          ]
+        },
+        {
+          "narration": "She was a dancer here too, once, and her mother before her, so this morning has been arriving since long before you could walk or speak a single word.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a careworn middle-aged Tamil woman in a plain cotton sari, calloused hands as a young woman years earlier dancing alone in an empty torch-lit temple hall, faint superimposed memory quality, warm amber light, wistful mood.",
+          "characters": [
+            "you",
+            "amma"
+          ]
+        },
+        {
+          "narration": "The priest ties a plain cotton thread around your wrist and speaks an old Tamil word you do not understand yet, though you feel its weight settle onto you.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of an elderly temple priest tying a plain cotton thread around the wrist of a young Tamil girl with dark wet hair and a plain cotton cloth, oil lamps flickering nearby, close framing on hands, warm candlelight, calm mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Inside, the temple's great stone tower rises so high above you that craning your neck to see its top makes you pleasantly, strangely dizzy.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of a young Tamil girl with dark wet hair and a plain cotton cloth standing small at the base of the great granite tower of a Chola temple looking straight up at its towering carved peak, dramatic upward framing, golden late-afternoon light, awe-struck mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Oil lamps gutter along the walls, and the smell of crushed jasmine and warm ghee fills your nose before your eyes have even found the dark.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of rows of oil lamps lining a dim temple corridor, wisps of incense smoke curling upward, a young Tamil girl with dark wet hair and a plain cotton cloth walking through in soft silhouette, warm glowing light, calm mysterious mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "An old dancer presses a string of jasmine into your palm and warns you, not unkindly, that your knees will ache long before your feet learn any grace.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of an old temple dancer in a faded silk sari pressing a string of white jasmine into the palm of a young Tamil girl with dark wet hair and a plain cotton cloth, gentle smile, warm lamplight, tender mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You do not know yet what years of mornings like this one will cost you, or what they will quietly give you instead.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a young Tamil girl with dark wet hair and a plain cotton cloth sitting alone on temple steps at dusk gazing out over the courtyard, soft contemplative pose, warm fading light, reflective mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Somewhere behind the sanctum a drum begins, slow and patient, as if it has all the time in the world to teach you how to listen.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a lone temple drum resting beside a glowing brazier in an empty inner hall, shadowy pillars receding into darkness, warm ember light, calm mysterious mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your mother kisses your forehead once, quickly, before the priests lead you further in, and you understand this is the last morning you belong only to her.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a careworn middle-aged Tamil woman in a plain cotton sari, calloused hands kissing the forehead of a young Tamil girl with dark wet hair and a plain cotton cloth just outside the great bronze temple doors, priests waiting in shadow behind, warm dawn light, tender emotional mood.",
+          "characters": [
+            "you",
+            "amma"
+          ]
+        },
+        {
+          "narration": "The bronze doors close behind you with a sound like far-off thunder, and the girl who walked in is already, quietly, becoming someone else.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of massive bronze temple doors swinging shut behind a young Tamil girl with dark wet hair and a plain cotton cloth, her small silhouette framed in the closing gap, warm light spilling from inside, reflective mood.",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Years of Bells",
+      "scenes": [
+        {
+          "narration": "Your teacher is an old man named Guru Pillai, and the first thing he teaches you is not a single step, only how to stand perfectly, painfully still.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick demonstrating a perfectly still standing pose to young a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair in a sunlit temple courtyard, precise posture, warm morning light, calm instructional mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "For a whole season you learn nothing but how your feet should strike the stone, heel and ball together, until the sound becomes as familiar as your heartbeat.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of bare feet striking a smooth stone floor in disciplined rhythm, a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair practicing footwork in a long empty hall, dust motes in slanted light, focused calm mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "He ties small brass bells to your ankles and tells you the temple will always know exactly how honest your feet have been that day.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick tying small brass bells around the ankles of a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair, close framing on hands and ankles, warm lamplight, tender instructional mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "Some mornings your legs shake so badly from practice that you cannot climb the temple steps without gripping the cool granite railing.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair gripping a cool granite railing on temple steps, legs trembling with fatigue, warm afternoon light, sympathetic tender mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You learn the shapes your hands must make for a lotus, for a deer, for a wave, a whole small world folded into your ten fingers.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair's hands forming graceful mudra shapes against a plain temple wall, dramatic close framing on expressive fingers, warm side light, calm mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "On the hottest afternoons you practice anyway, sweat stinging your eyes, because Guru Pillai says the body forgets nothing it is allowed to skip.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair practicing alone under the harsh midday sun in a temple courtyard, sweat visible, a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick watching from shade, bright warm light, determined mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "Slowly the old hymns called Thevaram enter you too, until you can feel each rhythm arriving before the drummer's hand even falls.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a group of temple musicians playing hand cymbals and a barrel drum while a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair listens with closed eyes, warm hall lighting, calm devotional mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "There is a girl beside you named Chellam who cannot stop laughing during practice, and somehow her laughter makes the longest afternoons bearable.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of two young Tamil trainee dancers laughing together mid-practice in a temple courtyard, warm afternoon light, joyful lighthearted mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Once, exhausted, you weep quietly behind a pillar, certain your feet will never learn what your teacher patiently demands of them.",
+          "tone": "sad",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair weeping quietly alone behind a large temple pillar, knees drawn up, dim warm lamplight, sad intimate mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Guru Pillai finds you there, says nothing about the tears, and simply begins counting the rhythm again until your feet remember on their own.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick sitting beside a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair behind the pillar, gently tapping a rhythm on the floor with his stick, warm low light, tender comforting mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "Years pass this way, each one nearly like the last, and yet each one leaves you a little more certain of your own two hands.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer with kohl-lined eyes, jasmine flowers braided into dark hair shown at several ages in one flowing composition across a sunlit courtyard, suggesting years passing, warm golden light, reflective mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "One morning Guru Pillai finally tells you your arangetram, your first true dance before witnesses, is ready to be danced.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick placing both hands on the shoulders of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair with quiet pride in a temple hall, warm lamplight, warm proud mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Street of Dancers",
+      "scenes": [
+        {
+          "narration": "You live now on the long street the old king built beside the temple, a whole row of houses for women who dance for the gods.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a long street of modest stone houses beside the great granite tower of a Chola temple, women in bright saris moving between them at dawn, warm morning light, calm establishing mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Every morning before the sun clears the tower, you help dress the temple's bronze dancing god in silk finer than anything you own yourself.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair helping drape fine silk over a bronze temple idol before sunrise, oil lamps around the sanctum, warm reverent light, awe-filled mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The temple gives your family rice, oil and a portion of gold each season, enough that they no longer fear the coming rains.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of temple attendants measuring out rice, oil and small gold coins into a careworn middle-aged Tamil woman in a plain cotton sari, calloused hands's hands at a temple storeroom, warm interior light, grateful calm mood.",
+          "characters": [
+            "you",
+            "amma"
+          ]
+        },
+        {
+          "narration": "At the edge of the courtyard, a quiet young stone carver named Aran spends his days coaxing dancers out of plain grey granite.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a lean young Tamil stone carver with granite dust on his bare forearms, simple waist-cloth chiseling a graceful dancer figure out of grey granite in a dusty courtyard workshop, focused expression, warm side light, calm creative mood.",
+          "characters": [
+            "you",
+            "aran"
+          ]
+        },
+        {
+          "narration": "You are not free to marry outside this life you were given, and some nights that fact sits heavier on your chest than you expect.",
+          "tone": "sad",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair standing alone at a temple window at dusk, distant wedding procession passing below, warm fading light, quietly wistful mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Still, you find yourself pausing near his work more often than duty requires, and he always seems to need one more moment before you leave.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair pausing near a lean young Tamil stone carver with granite dust on his bare forearms, simple waist-cloth's workshop, both caught in a shy unspoken glance, warm late-afternoon light, tender gentle mood.",
+          "characters": [
+            "you",
+            "aran"
+          ]
+        },
+        {
+          "narration": "He never says much, only shows you, without a word, the stone dancer he has shaped for months, whose hands somehow look like yours.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a lean young Tamil stone carver with granite dust on his bare forearms, simple waist-cloth showing a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair an unfinished stone dancer statue whose hands mirror her own, warm workshop light, tender intimate mood.",
+          "characters": [
+            "you",
+            "aran"
+          ]
+        },
+        {
+          "narration": "The nagaswaram pipe and the tavil drum sound six times a day now, and your body has learned every one of their calls by heart.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of temple musicians playing the long nagaswaram pipe and tavil drum at the temple entrance at dusk, warm torchlight, calm ceremonial mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You dance at dawn, at midday and again as the lamps are lit, until dancing no longer feels like performance, only breathing.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair dancing gracefully at sunrise before the temple sanctum, arms flowing, warm golden light, serene mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A pilgrim once weeps openly watching you dance the god who danced the whole world into being, and you cannot explain why that moves you so.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of an ordinary pilgrim family watching a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair dance with visible tears, warm lamplit courtyard, emotional awe-filled mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Word begins to travel that the temple has, among its four hundred dancers, one whose hands the old priests themselves now stop to watch.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of two elderly priests quietly watching a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair practice from a shaded colonnade, warm afternoon light, respectful calm mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Aran hears this too, and says only, quietly, that he always knew, which somehow becomes the compliment you remember longest of all.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a lean young Tamil stone carver with granite dust on his bare forearms, simple waist-cloth smiling faintly at his own carving of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair while she stands nearby, warm workshop light, tender quiet mood.",
+          "characters": [
+            "you",
+            "aran"
+          ]
+        },
+        {
+          "narration": "You tell yourself this street, these lamps, this drum, are enough of a life, and on most ordinary days, truthfully, they nearly are.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair sitting peacefully among lit lamps at dusk on the temple steps, warm content mood, reflective lighting.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Then one evening a royal messenger arrives at the temple gate, and the whole street of dancers goes very still around you.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a royal messenger on horseback arriving at torch-lit temple gates at dusk, dancers gathered still and silent nearby, dramatic warm torchlight, tense hushed mood.",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Night of the Standing King",
+      "scenes": [
+        {
+          "narration": "The emperor Rajaraja himself is coming to give thanks at his great temple, and the high priest has chosen you to dance before him.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of temple priests speaking urgently to a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair in a dim hall, gesturing toward the great sanctum, warm lamplight, tense anticipatory mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your hands go cold, and for one long breath you cannot remember a single step Guru Pillai ever patiently taught you.",
+          "tone": "urgent",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair standing frozen with wide eyes in an empty practice hall at night, single oil lamp flickering, dim warm light, anxious mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Guru Pillai finds you at dawn and reminds you, firmly, that your feet have never once forgotten anything you gave them time to learn.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick clasping the hands of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair firmly at dawn, reassuring expression, warm morning light, warm encouraging mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "On the night itself, a thousand oil lamps line the courtyard, and the great tower seems to lean out of the darkness just to watch you too.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of a thousand small oil lamps lining a vast temple courtyard at night, the great granite tower of a Chola temple looming above, dramatic warm glow, awe-inspiring mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are dressed in silk so fine it whispers when you move, your gold anklets heavier than any you have ever worn in practice.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair being dressed in fine whispering silk and heavy gold anklets by attendants, warm lamplight, awe-filled anticipatory mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The king sits beneath a canopy with his sister among the gathered nobles, and for one held breath you cannot make your feet begin.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a bearded Chola king in fine silk robes and a tall gold headdress, seated beneath a canopy seated beneath a canopy with royal attendants nearby, watching the courtyard expectantly, warm torchlight, formal ceremonial mood.",
+          "characters": [
+            "you",
+            "king"
+          ]
+        },
+        {
+          "narration": "Then the drum strikes, and your body simply remembers, the way it always has, before your mind even catches up to it.",
+          "tone": "urgent",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair mid-motion beginning her dance before a hushed lamplit courtyard, dramatic warm lighting, tense electric mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You dance the god ringed in his own circle of fire, one foot forever lifted, and the courtyard seems to hold its breath beside you.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair dancing with one foot lifted in a dramatic pose evoking a ring of flame around her, warm dramatic lighting, awe-inspiring mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Midway through, your ankle bells ring half a beat out of time, and only you and Guru Pillai, watching from the shadows, ever notice.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick watching intently from the shadows of a pillar as a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair dances, warm low light, tense focused mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "You correct it so smoothly that no one else in the courtyard seems to feel anything at all but quiet awe.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair completing a graceful correcting turn mid-dance, gold anklets catching lamplight, warm dramatic light, calm masterful mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When the final pose settles and the drum falls silent, the hush afterward is louder than any applause could ever be.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair frozen in her final pose as the whole courtyard falls utterly silent, warm dramatic lamplight, reflective hushed mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Then the whole courtyard answers you back, voice over voice, like a second drum, and you catch Aran's face lit gold among the crowd.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a packed courtyard of onlookers rising in approval around a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair, a lean young Tamil stone carver with granite dust on his bare forearms, simple waist-cloth visible smiling in the warmly lit crowd, joyful warm mood.",
+          "characters": [
+            "you",
+            "aran"
+          ]
+        },
+        {
+          "narration": "Word comes the next morning that your family is granted more land, though what you remember is only how the cool stone felt beneath your bare, aching feet.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair walking home barefoot on cool temple stone at dawn after the performance, warm soft morning light, peaceful reflective mood.",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What the Bronze Remembers",
+      "scenes": [
+        {
+          "narration": "Years slide past the way the river does, steady, and only noticed when you finally stop to look at how far it has carried you.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a river flowing steadily past a Chola temple town seen from a hillside at dusk, symbolic passage of time, warm fading light, reflective mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Aran finishes, at last, the stone dancer he began so long ago, and quietly asks the temple to set her where the morning light finds her first.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a lean young Tamil stone carver with granite dust on his bare forearms, simple waist-cloth, now older, placing a finished stone dancer statue into a sunlit temple courtyard corner, warm morning light, tender accomplished mood.",
+          "characters": [
+            "you",
+            "aran"
+          ]
+        },
+        {
+          "narration": "You never marry as other women do, but you are not, in the way that matters most to you, ever truly alone.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of an older a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair standing serenely alone in a temple courtyard at dusk, warm content light, peaceful mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Guru Pillai grows too frail to show the steps himself, so instead he sits and simply hums the rhythm while you dance for him once more.",
+          "tone": "sad",
+          "image_prompt": "Wide painted scene of a frail elderly a thin elderly Tamil man with ash-marked forehead, simple white dhoti, holding a wooden rhythm stick sitting and humming while an older a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair dances gently before him, warm lamplight, tender bittersweet mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "The morning he dies, you dance anyway, because he always said the temple does not stop for grief, only slows enough to hold it gently.",
+          "tone": "sad",
+          "image_prompt": "Wide painted scene of an older a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair dancing alone at dawn in an empty courtyard, a simple stone marker visible nearby, warm soft light, sad reflective mood.",
+          "characters": [
+            "you",
+            "guru"
+          ]
+        },
+        {
+          "narration": "Now a new girl stands ankle deep in the temple tank before dawn, and her mother combs river mud from her hair with trembling hands.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a new young Tamil girl standing ankle deep in the temple tank at dawn, her mother combing mud from her hair, warm dawn light, tender echo of the opening mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You recognize the fear in her eyes, the very fear you once carried, and kneel to tie the first small bells onto her ankles yourself.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of an older a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair kneeling to tie small brass bells onto the ankles of a frightened young girl, warm lamplight, warm nurturing mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You teach her, as you were taught, to stand still before she ever learns to move, and to let her feet learn honesty first.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of an older a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair guiding a young girl's stance in a sunlit temple hall, warm morning light, calm instructional mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Some evenings you still visit the stone dancer in her corner of the courtyard, and trace the shape of a hand that has outlasted your own.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of an older a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair standing quietly before the stone dancer statue in a courtyard corner, tracing its carved hand, warm evening light, reflective mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The bronze god still dances above the sanctum, one foot always lifted, never quite landing, exactly as he has for a hundred years.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of the bronze temple idol of the dancing god high above the sanctum, one foot eternally lifted, warm lamplight from below, awe-inspiring timeless mood.",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "And when your own knees finally ache too much to rise before dawn, you will still hear, somewhere close, small bells ringing in patient, perfect time.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of an elderly a lithe young Tamil woman dancer in a fine silk sari with a gold border, gold anklets, jasmine in her hair resting on temple steps at dawn, eyes closed peacefully, distant faint sound of bells suggested by soft light, warm serene mood.",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "She Danced Before the Emperor #shorts",
+      "description": "A temple dancer is chosen to perform before the Chola emperor himself, with everything her years of training taught her riding on one night. #history #india #shorts",
+      "scenes": [
+        {
+          "narration": "A royal messenger arrives at the temple gate, and every dancer goes suddenly still.",
+          "ref": 35
+        },
+        {
+          "narration": "The emperor himself is coming, and the high priest chooses you to dance before him.",
+          "ref": 36
+        },
+        {
+          "narration": "Your hands go cold — you cannot remember a single step you were ever taught.",
+          "ref": 37
+        },
+        {
+          "narration": "A thousand oil lamps line the courtyard as the great temple tower leans down to watch you.",
+          "ref": 39
+        },
+        {
+          "narration": "Then the drum strikes, and your body simply remembers everything it was ever taught.",
+          "ref": 42
+        },
+        {
+          "narration": "The final pose settles, and the silence after is louder than any applause could be.",
+          "ref": 46
+        },
+        {
+          "narration": "By morning your family is granted more land, but you remember only the cool stone underfoot.",
+          "ref": 48
+        }
+      ]
+    },
+    {
+      "title": "Dedicated to the Temple as a Child #shorts",
+      "description": "A little girl is given to a great Chola temple before she can even understand the words spoken over her. #history #india #shorts",
+      "scenes": [
+        {
+          "narration": "Before the bell rings, you stand in cold temple water as your mother's hands shake.",
+          "ref": 0
+        },
+        {
+          "narration": "A priest ties a plain thread around your wrist, and something ancient settles onto you.",
+          "ref": 2
+        },
+        {
+          "narration": "Oil lamps flicker, and the smell of jasmine and warm ghee fills the air around you.",
+          "ref": 4
+        },
+        {
+          "narration": "You do not know yet what years of mornings exactly like this one will cost you, or quietly give you instead.",
+          "ref": 6
+        },
+        {
+          "narration": "The great bronze doors close behind you, and the small girl who walked in is already becoming someone else.",
+          "ref": 9
+        },
+        {
+          "narration": "Years later a new girl stands where you once stood, trembling, and you kneel to tie her very first bells.",
+          "ref": 54
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic cut a three-beat fear stack to one line, removed two unsourced numerals, renamed the vague debut as the sourced arangetram, and trimmed the Chellam subplot to bring the runtime back into the bedtime window."
+}

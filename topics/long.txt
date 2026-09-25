@@ -3,7 +3,7 @@ Your Life as a Mughal Royal Elephant Keeper
 Your Life as a Medieval Peasant Woman
 #done Your Life as a Samurai's Wife in Edo Japan
 Your Life as an Egyptian Pyramid Builder
-Your Life as a Chola Temple Dancer
+#reserved Your Life as a Chola Temple Dancer
 Your Life as a Viking Raider
 Your Life as an Ottoman Janissary
 Your Life as a Maratha Cavalry Soldier
