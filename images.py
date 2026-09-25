@@ -38,17 +38,19 @@ def _pollinations(prompt, out, seed, w, h):
     url = "https://image.pollinations.ai/prompt/" + urllib.parse.quote(prompt[:1800])
     params = {"width": w, "height": h, "seed": seed, "model": os.getenv("POLLINATIONS_MODEL", "flux"), "nologo": "true"}
     headers = {"Authorization": f"Bearer {os.environ['POLLINATIONS_TOKEN']}"} if os.getenv("POLLINATIONS_TOKEN") else {}
-    for attempt in range(int(os.getenv("POLLINATIONS_TRIES", "3"))):
+    tries = int(os.getenv("POLLINATIONS_TRIES", "6"))
+    for attempt in range(tries):
         try:
             r = requests.get(url, params=params, headers=headers, timeout=180)
             if r.status_code == 200 and r.headers.get("content-type", "").startswith("image"):
                 open(out, "wb").write(r.content)
                 time.sleep(3)
                 return
-            print(f"  pollinations {r.status_code}, waiting")
+            print(f"  pollinations {r.status_code}, waiting", flush=True)
         except requests.RequestException as e:
-            print(f"  pollinations error {e}")
-        time.sleep(10 * (attempt + 1))
+            print(f"  pollinations error {e}", flush=True)
+        if attempt < tries - 1:
+            time.sleep(min(20 * (attempt + 1), 120))
     raise RuntimeError("Pollinations failed")
 
 
@@ -79,5 +81,5 @@ def generate(prompt, out, seed, w=1344, h=768):
             BACKENDS[b](prompt, out, seed, w, h)
             return
         except Exception as e:
-            print(f"  {b} failed: {e}")
+            print(f"  {b} failed: {e}", flush=True)
     raise RuntimeError("All image backends failed")

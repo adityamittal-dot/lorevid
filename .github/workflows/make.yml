@@ -69,7 +69,14 @@ jobs:
           fi
           if [ -z "$S" ]; then echo "No new script in scripts/ - nothing to render"; exit 0; fi
           echo "Rendering $S"
-          python pipeline.py --script "$S" $UP
+          # pipeline.py is resumable (already-rendered images/audio are skipped), so on a
+          # transient image-backend outage just wait and try again instead of failing the day.
+          for i in 1 2 3; do
+            python pipeline.py --script "$S" $UP && break
+            if [ "$i" = 3 ]; then exit 1; fi
+            echo "Render failed (attempt $i/3), retrying in 5 min..."
+            sleep 300
+          done
       - name: Merge script into main and mark it done
         run: |
           git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"

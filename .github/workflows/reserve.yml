@@ -58,7 +58,14 @@ jobs:
           S=$(ls -1 scripts/reserve/*.json 2>/dev/null | sort | head -1)
           if [ -z "$S" ]; then echo "Nothing to render"; exit 0; fi
           echo "Rendering reserve $S"
-          python pipeline.py --script "$S" --reserve --upload
+          # pipeline.py is resumable (already-rendered images/audio are skipped), so on a
+          # transient image-backend outage just wait and try again instead of failing the run.
+          for i in 1 2 3; do
+            python pipeline.py --script "$S" --reserve --upload && break
+            if [ "$i" = 3 ]; then exit 1; fi
+            echo "Render failed (attempt $i/3), retrying in 5 min..."
+            sleep 300
+          done
       - name: Record it
         run: |
           git add -A scripts/ 2>/dev/null || true
