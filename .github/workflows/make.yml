@@ -5,7 +5,7 @@ on:
     branches: [main, "claude/**"]
     paths: ["scripts/*.json"]
   schedule:
-    - cron: "30 5 * * *"   # 11:00 IST: if no fresh script arrived today, use the reserve (after RESERVE_FROM)
+    - cron: "30 5 * * *"   # 11:00 IST: if nothing rendered today, retry a failed writer script, else (after RESERVE_FROM) use the reserve
   workflow_dispatch:
     inputs:
       upload: {description: "Upload to YouTube (private)", default: true, type: boolean}
@@ -18,12 +18,12 @@ concurrency: {group: daily-video, cancel-in-progress: false}
 
 jobs:
   make:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04   # pinned: ubuntu-latest moves to 26 on 2026-10-19
     timeout-minutes: 300
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v7
         with: {fetch-depth: 0}
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v7
         with: {python-version: "3.12", cache: pip}
       - name: System packages
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng fonts-dejavu-core
@@ -32,7 +32,7 @@ jobs:
           pip install torch --index-url https://download.pytorch.org/whl/cpu
           pip install -r requirements.txt
       - name: Cache voice model
-        uses: actions/cache@v4
+        uses: actions/cache@v6
         with: {path: ~/.cache/huggingface, key: kokoro-v1}
       - name: YouTube credentials
         env: {S: "${{ secrets.YT_CLIENT_SECRET }}", T: "${{ secrets.YT_TOKEN }}"}
@@ -51,13 +51,22 @@ jobs:
         run: |
           UP=""
           if [ "${{ github.event_name }}" != "workflow_dispatch" ] || [ "${{ inputs.upload }}" = "true" ]; then UP="--upload"; fi
-          S=$(ls -1 scripts/*.json 2>/dev/null | sort | head -1)
+          git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
           RESERVE_FROM="${{ vars.RESERVE_FROM || '2026-11-11' }}"
           USE_RESERVE=""
           if [ "${{ github.event_name }}" = "schedule" ]; then
-            # daily fallback: only after the writer stops (credits end) and only if today's video wasn't made
-            if [[ "$(date -u +%F)" < "$RESERVE_FROM" ]]; then echo "Writer still active; reserve untouched"; exit 0; fi
-            if git log --since="20 hours ago" --oneline | grep -q "rendered"; then echo "Already posted today"; exit 0; fi
+            # daily safety net: only acts if nothing was rendered in the last 20 hours
+            if git log --since="20 hours ago" --format=%s | grep -q "^rendered "; then echo "Already posted today"; exit 0; fi
+            # a writer script whose render failed is still on its claude/script-* branch: pull it in and retry it
+            for b in $(git branch -r --list 'origin/claude/script-*'); do
+              if git merge -q --no-edit "$b" -m "merge ${b#origin/} (retry render)"; then echo "${b#origin/}" >> .merged-branches
+              else git merge --abort; echo "::warning::could not merge $b automatically (conflict) - merge it by hand"; fi
+            done
+          fi
+          S=$(ls -1 scripts/*.json 2>/dev/null | sort | head -1)
+          if [ "${{ github.event_name }}" = "schedule" ] && [ -z "$S" ]; then
+            # no writer script waiting: after the writer stops (credits end), use the reserve
+            if [[ "$(date -u +%F)" < "$RESERVE_FROM" ]]; then echo "Nothing waiting; writer still active, reserve untouched"; exit 0; fi
             USE_RESERVE=1
           fi
           [ "${{ inputs.from_reserve }}" = "true" ] && USE_RESERVE=1
@@ -68,6 +77,13 @@ jobs:
             echo "Using reserve script $R ($(ls scripts/reserve/*.json 2>/dev/null | wc -l) left)"
           fi
           if [ -z "$S" ]; then echo "No new script in scripts/ - nothing to render"; exit 0; fi
+          # never render the same script twice (e.g. the schedule already retried it from main)
+          git fetch -q origin main
+          if git cat-file -e "origin/main:scripts/done/$(basename "$S")" 2>/dev/null; then
+            echo "$S was already rendered on main - skipping"; exit 0
+          fi
+          N=$(ls -1 scripts/*.json | wc -l)
+          [ "$N" -gt 1 ] && echo "Note: $N scripts waiting; rendering the oldest (1 per day fits the YouTube quota)"
           echo "Rendering $S"
           # pipeline.py is resumable (already-rendered images/audio are skipped), so on a
           # transient image-backend outage just wait and try again instead of failing the day.
@@ -87,11 +103,12 @@ jobs:
           if [ "$BR" != "main" ]; then
             git fetch -q origin main
             git checkout -q -B main origin/main
-            git merge -q --no-edit "$BR" -m "merge $BR (rendered)"
+            git merge -q --no-edit "$BR" -m "merge $BR"
           fi
           for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
           if [ "$BR" != "main" ]; then git push -q origin --delete "$BR" || true; fi
-      - uses: actions/upload-artifact@v4
+          for b in $(cat .merged-branches 2>/dev/null); do git push -q origin --delete "$b" || true; done
+      - uses: actions/upload-artifact@v7
         if: always()
         with:
           name: video
