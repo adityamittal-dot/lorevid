@@ -25,8 +25,25 @@ def get_credentials(interactive=False):
     return creds
 
 
+def existing(yt, title):
+    """Video id if the channel's last 50 uploads already have this exact title (so a retry never re-uploads). ~2 quota units."""
+    try:
+        ch = yt.channels().list(part="contentDetails", mine=True).execute()["items"][0]
+        pl = ch["contentDetails"]["relatedPlaylists"]["uploads"]
+        for it in yt.playlistItems().list(part="snippet", playlistId=pl, maxResults=50).execute().get("items", []):
+            if it["snippet"]["title"] == title[:100]:
+                return it["snippet"]["resourceId"]["videoId"]
+    except Exception as e:
+        print(f"  duplicate check skipped ({e})")
+    return None
+
+
 def upload(video, title, description, tags, thumb=None, srt=None, privacy="private"):
     yt = build("youtube", "v3", credentials=get_credentials())
+    vid = existing(yt, title)
+    if vid:
+        print(f"  already on the channel, not uploading again: https://youtu.be/{vid}")
+        return vid
     body = {"snippet": {"title": title[:100], "description": description[:4900], "tags": tags[:30],
                         "categoryId": "27", "defaultLanguage": "en", "defaultAudioLanguage": "en"},
             "status": {"privacyStatus": privacy, "selfDeclaredMadeForKids": False, "containsSyntheticMedia": True}}
