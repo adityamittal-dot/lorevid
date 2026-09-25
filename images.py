@@ -8,6 +8,8 @@ import base64, os, time, urllib.parse
 import requests
 
 _dead = set()   # backends out of quota for this run
+_down = {}      # backend -> time it failed completely; skipped for COOLDOWN s so the next backend is tried at once
+COOLDOWN = int(os.getenv("IMAGE_BACKEND_COOLDOWN", "600"))
 _pipe = None
 
 
@@ -75,11 +77,13 @@ def generate(prompt, out, seed, w=1344, h=768):
         return
     order = [b.strip() for b in os.getenv("IMAGE_BACKENDS", "pollinations,cloudflare").split(",")]
     for b in order:
-        if b in _dead:
+        if b in _dead or time.time() - _down.get(b, 0) < COOLDOWN:
             continue
         try:
             BACKENDS[b](prompt, out, seed, w, h)
+            _down.pop(b, None)
             return
         except Exception as e:
             print(f"  {b} failed: {e}", flush=True)
-    raise RuntimeError("All image backends failed")
+            _down[b] = time.time()
+    raise RuntimeError("All image backends failed (is CF_API_TOKEN set? run the check-setup workflow)")

@@ -61,10 +61,11 @@ jobs:
           # pipeline.py is resumable (already-rendered images/audio are skipped), so on a
           # transient image-backend outage just wait and try again instead of failing the run.
           for i in 1 2 3; do
+            export FINAL_ATTEMPT=$([ "$i" = 3 ] && echo 1 || echo 0)
             python pipeline.py --script "$S" --reserve --upload && break
             if [ "$i" = 3 ]; then exit 1; fi
-            echo "Render failed (attempt $i/3), retrying in 5 min..."
-            sleep 300
+            echo "Render failed (attempt $i/3), retrying in 15 min..."
+            sleep 900
           done
       - name: Record it
         run: |

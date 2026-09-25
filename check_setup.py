@@ -42,11 +42,12 @@ else:
 # Cloudflare (optional backup)
 acct, tok = os.getenv("CF_ACCOUNT_ID"), os.getenv("CF_API_TOKEN")
 if not (acct and tok):
-    report("(optional) CF_ACCOUNT_ID / CF_API_TOKEN", False, "not set - fine, Pollinations is used instead")
+    report("CF_ACCOUNT_ID / CF_API_TOKEN", False, f"missing {'CF_ACCOUNT_ID' if not acct else 'CF_API_TOKEN'}: "
+           "without it every render fails whenever Pollinations is down")
 else:
     r = requests.post(f"https://api.cloudflare.com/client/v4/accounts/{acct}/ai/run/@cf/black-forest-labs/flux-1-schnell",
                       headers={"Authorization": f"Bearer {tok}"}, json={"prompt": "a candle", "steps": 1}, timeout=60)
-    report("(optional) CF_ACCOUNT_ID + CF_API_TOKEN", r.ok, "image generated" if r.ok else f"HTTP {r.status_code}: {r.text[:150]}")
+    report("CF_ACCOUNT_ID + CF_API_TOKEN", r.ok, "image generated" if r.ok else f"HTTP {r.status_code}: {r.text[:150]}")
 
 # Pollinations (no secret needed)
 try:

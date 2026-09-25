@@ -252,5 +252,6 @@ if __name__ == "__main__":
             os.makedirs("scripts/done", exist_ok=True)
             os.replace(a.script, os.path.join("scripts/done", os.path.basename(a.script)))
     except Exception as e:
-        notify(f"Run failed for '{topic}': {str(e)[:300]}")
+        if os.getenv("FINAL_ATTEMPT", "1") == "1":     # the workflow retries; only buzz the phone on the last try
+            notify(f"Run failed for '{topic}': {str(e)[:300]}")
         raise
