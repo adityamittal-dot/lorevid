@@ -1,0 +1,636 @@
+{
+  "topic": "Your Life as an Aztec Merchant in Tenochtitlan",
+  "queue_item": "Your Life as an Aztec Merchant in Tenochtitlan",
+  "title": "Your Life as an Aztec Merchant in Tenochtitlan",
+  "thumbnail_text": "NEVER TRAVEL BY DAY",
+  "thumbnail_prompt": "Extreme close-up of a Mexica trader's face lit by cool starlight, eyes alert and wary, jaw set with quiet resolve, the blurred dark shape of a stone causeway and lake behind him, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, no text.",
+  "thumbnail_label": "AZTEC EMPIRE 1500",
+  "thumbnails": [
+    {
+      "text": "NEVER TRAVEL BY DAY",
+      "highlight": "NEVER",
+      "prompt": "Extreme close-up of a Mexica trader's face lit by cool starlight, eyes alert and wary, jaw set with quiet resolve, the blurred dark shape of a stone causeway and lake behind him, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, no text."
+    },
+    {
+      "text": "THE MERCHANT WHO SPIED",
+      "highlight": "SPIED",
+      "prompt": "Extreme close-up of a Mexica trader's face with a faint, knowing half smile and watchful eyes, a blurred glow of a foreign marketplace behind him, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, no text."
+    },
+    {
+      "text": "RICH MEN DRESSED POOR",
+      "highlight": "POOR",
+      "prompt": "Extreme close-up of a Mexica trader's calm, humble face, wearing a plain undyed cloak at the shoulder, a soft blurred glint of a gold-dust quill just visible in frame, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, no text."
+    }
+  ],
+  "description": "You are born into a family that walks for a living: the pochteca, the hereditary merchant-traders of the Aztec empire, who slip out of Tenochtitlan under cover of darkness, dressed as plainly as any farmer so no one can guess how much wealth travels with them. This is what it actually felt like to grow up learning to carry a bundle before you could read the stars, to trade cacao beans and quetzal feathers on roads where a single wrong word could end badly, and to come home, always, at night.\n\nTold gently in the second person, from a boy's first practice bundle to an old man's last quiet walk home across the causeway, this is a calm, sensory journey through daily life in one of history's great trading cities, perfect for winding down and drifting off to sleep.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#aztec",
+    "#bedtimestory",
+    "#sleepstory",
+    "#tenochtitlan"
+  ],
+  "tags": [
+    "aztec history",
+    "pochteca",
+    "tenochtitlan",
+    "aztec merchant",
+    "aztec empire",
+    "history for sleep",
+    "bedtime history",
+    "boring history for sleep",
+    "your life as a",
+    "mesoamerican history",
+    "ancient trade routes",
+    "sleep story history",
+    "aztec civilization",
+    "relaxing history video"
+  ],
+  "music_mood": "warm",
+  "narrator_voice": "bm_george",
+  "ambience": "night",
+  "era_setting": "Tenochtitlan and the trade roads of the Aztec empire, roughly the fourteen hundreds to early fifteen hundreds: a canal-laced island capital of canoes, causeways and floating gardens, plain undyed maguey cloaks against nobles' dyed cotton and quetzal feathers, palette of lake blue-grey, adobe ochre, jade green and cacao brown.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "A Mexica pochteca trader, lean and sun-browned from years on the road, straight black hair tied back with a plain cord, calm watchful dark eyes, wearing a plain knee-length off-white maguey-fiber cloak knotted at one shoulder, plain leather sandals, no jewelry or feathers ever visible."
+    },
+    {
+      "id": "father",
+      "look": "An older Mexica trader, broad-shouldered and weathered, greying black hair cut short, a stern but warm face, wearing a plain knee-length maguey cloak like any humble farmer, often carrying a dark wooden walking cane."
+    },
+    {
+      "id": "mother",
+      "look": "A Mexica woman in early middle age, dark hair in a simple braided wrap, a gentle round face, wearing a plain woven skirt and huipil in undyed cotton and earth tones, no jewelry."
+    },
+    {
+      "id": "wife",
+      "look": "A Mexica woman with warm dark eyes, black hair braided and coiled with plain red woven ties, wearing a modest cream and rust-striped huipil and skirt, a small string of plain beads at her neck."
+    },
+    {
+      "id": "son",
+      "look": "A Mexica boy of about ten years old, thin but sturdy, short black hair, an eager serious face, wearing a small plain maguey-fiber cloak like his father's, bare feet."
+    }
+  ],
+  "chapters": [
+    {
+      "title": "Chapter One: The Weight You Learn to Carry",
+      "scenes": [
+        {
+          "narration": "By moonrise tonight, if you carry your first bundle without once setting it down, your father will finally call you a trader instead of a boy.",
+          "tone": "urgent",
+          "image_prompt": "Wide painted scene of a lean Mexica boy shouldering a heavy woven bundle at dusk while his stern father tightens the carrying strap across his forehead, a canal-side courtyard behind them, warm torchlight, centered framing, tense anticipation, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "father"
+          ]
+        },
+        {
+          "narration": "Your mother kneels before dawn and folds a plain maguey cloak into your arms, telling you, quietly, that the road decides everything else.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a kneeling Mexica mother folding a plain undyed cloak into her young son's arms in a dim adobe doorway before dawn, soft blue pre-dawn light, centered on their joined hands, quiet tenderness, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "Your father straps the bundle to your back himself, testing the knots twice, the way he tests every knot before a real journey.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a father kneeling to test the knots of a bundle strapped to his young son's back in a sunlit courtyard, woven baskets and reed mats around them, warm morning light, calm focus, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "father"
+          ]
+        },
+        {
+          "narration": "Your legs shake by midday, but you do not stop, because a porter who stops becomes a porter nobody ever trusts again.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a young Mexica boy walking a dusty lakeside path under a heavy bundle, legs visibly straining, midday sun overhead, wide open framing showing the long road ahead, quiet determination, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Inside your house, your sisters grind maize into dough before first light, and the slap of tortillas against the griddle is the sound you wake to.",
+          "tone": "warm",
+          "image_prompt": "Wide painted interior scene of women patting maize dough into flat rounds over a clay griddle at first light, a young boy watching from a low doorway, warm hearth glow, cozy domestic mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Canoes slide out each dawn along the canals that cut through the floating gardens, where your family's beans and squash still grow.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a canoe gliding at dawn along a narrow canal between long floating garden plots thick with beans and squash, mist rising off the water, soft golden light, peaceful framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "father"
+          ]
+        },
+        {
+          "narration": "By twelve you can carry a grown man's load for hour after hour, your shoulders numb, your sandals worn thin against packed earth.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a young Mexica boy carrying a large bundle along a sunbaked earthen road, shoulders set, worn sandals, dry hills in the distance, warm dusty light, quiet endurance, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your grandfather tells you the pochteca answer to their own god, Yacatecuhtli, lord of the road, and that his favor is the only shield a trader carries.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of a young Mexica boy sitting before a small household shrine at dusk, a carved traveler's-god figure lit by a single flame, incense smoke curling upward, reverent stillness, warm firelight, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Firelight catches the canes of older traders as they tie them into bundles and mark them with a drop of their own blood, praying for safe roads.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of older traders at night tying bundles of walking canes together beside a low fire, a young boy watching from the shadows, warm ember light, centered composition, hushed ritual mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The year you turn fourteen, your father finally says the word you have waited your whole life to hear: ready.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a father placing a hand on his now-teenage son's shoulder at the edge of a torchlit courtyard, both facing the dark road ahead, warm lantern light, quiet pride, open composition, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "father"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter Two: The Night You Leave Home",
+      "scenes": [
+        {
+          "narration": "You leave Tenochtitlan the way every pochteca leaves it, in darkness, long after the temple fires have burned down to a dull red glow.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a small line of travelers slipping out through a quiet city gate at night, temple fires glowing dim red in the distance behind them, moonlit stone causeway, hushed mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your own countrymen are the danger tonight, not strangers, so you dress as plainly as any farmer and let no gold show on your body at all.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a young trader adjusting a plain undyed cloak over himself in moonlight, no jewelry visible, a dark lake causeway stretching behind him, cool blue night light, quiet wariness, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Starlight lies flat across the causeway, and somewhere behind you the only city you have ever known disappears into black water.",
+          "tone": "awe",
+          "image_prompt": "Wide painted wide shot of a long stone causeway under a sky full of stars, a small line of travelers walking away from a distant torch-lit island city reflected in black water, vast serene framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Sound carries strangely over open water, so nobody speaks above a whisper until the lake itself is far behind your whole party.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of travelers walking single file along a moonlit lakeside path, heads lowered, utterly silent, still water mirroring starlight on one side, quiet tension held in stillness, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By the third day, your feet have blistered and healed and blistered again, and the road stops feeling like something that will ever end.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a young trader sitting to examine blistered bare feet beside a dusty road at dusk, worn sandals set aside, warm fading sunlight, weary but steady mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Cacao beans buy cotton in one town, cotton buys salt in the next, and every village, you learn, prices the same goods differently by dusk.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a trader exchanging cacao beans for folded cotton cloth with a village merchant at an open-air stall, warm afternoon light, goods neatly arranged, centered transaction, everyday mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "An old trader teaches you to read a market before you enter it, watching which stalls the local buyers themselves quietly avoid.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of an old trader gesturing quietly toward a row of market stalls while a younger trader watches and listens closely, warm midday market light, focused teaching mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At night you sleep in a circle with the other porters, your bundle for a pillow, listening for footsteps that do not belong to your party.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a small group of porters sleeping in a loose circle around dying embers, bundles used as pillows, one trader lying awake and alert, deep blue night light, quiet vigilance, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Slowly you start noticing things nobody taught you to notice: how many warriors guard a gate, how full a granary looks, how nervous a chief seems.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a trader pausing at the edge of a foreign village at dusk, eyes tracking distant armed guards at a gate and the fullness of a nearby granary, warm low light, watchful mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You understand, at last, that the roads you are memorizing are not only for trading, and that the emperor's eyes travel wherever his merchants do.",
+          "tone": "awe",
+          "image_prompt": "Wide painted scene of a trader standing at a crossroads at dawn, one path leading toward a walled town and one toward open hills, golden morning light, wide framing, quiet realization, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter Three: The Road No One Sees",
+      "scenes": [
+        {
+          "narration": "Deep in hill country that is not yet the emperor's, robbers are the real danger, and the older traders stop saying Tenochtitlan's name out loud.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a small caravan of traders moving warily through dense hill country, glancing toward dark tree lines, overcast light, tight framing conveying unease, muted greens and greys, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your guide teaches you an old trader's rule for danger: offer the first gift yourself, before anyone can demand it, and never once look frightened.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of an older guide speaking quietly to a younger trader on a forest trail, offering a small bundle of goods forward with open hands, dappled afternoon light, instructive mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That night you lie awake listening to your own heartbeat, finally understanding why a pochteca who dies on the road is buried with a warrior's honors.",
+          "tone": "tense",
+          "image_prompt": "Wide painted scene of a trader lying awake under a thin blanket beside a dying campfire, eyes open to the night sky, other sleeping figures nearby, deep indigo night light, quiet dread, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "In the morning the fear settles, and for a while the walking itself becomes almost peaceful, one sandal print after another in the red dust.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a line of traders walking a red dirt road through open highland scrub at sunrise, faces calmer now, long shadows stretching ahead, warm renewed light, peaceful momentum, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "In a foreign market you overhear two chiefs arguing about a border, in a tongue you have quietly learned to follow without ever admitting that you can.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a trader standing near a market stall of feathers and cloth in a foreign town, glancing toward two richly dressed local chiefs arguing at a distance, warm afternoon light, subtle tension, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You remember every word without moving your face, because a trader's memory is the one thing on this road that cannot be stolen from him.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted close scene of a trader's still, unreadable face in a busy foreign marketplace, sounds and motion blurred softly around him, warm ambient light, quiet concentration, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Sometimes news travels ahead of you on the road, of pochteca who set out from Tenochtitlan and were never seen at home again.",
+          "tone": "sad",
+          "image_prompt": "Wide painted scene of a small group of travelers pausing on a road at dusk as one relays quiet news to the others, heads bowed slightly, muted amber light, somber restrained mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You think of your mother's hands folding that first cloak, and you understand, fully, for the first time, what this road actually costs a family.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a trader pausing mid-step on a dusty road, one hand touching the folded cloak at his shoulder, distant hills behind him, warm late light, quiet remembrance, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When the temple fires of Tenochtitlan finally rise again over the water, something in your chest loosens that you did not know had been clenched for weeks.",
+          "tone": "awe",
+          "image_prompt": "Wide painted wide shot of a torch-lit island city and its temple pyramids rising across calm lake water at dusk, a line of tired travelers approaching along a causeway, warm relief-filled light, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "But you do not walk straight through the gates, even now; you wait for full dark, and you carry home more than goods this time.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a trader waiting alone in shadow just outside a city gate at full dark, temple fires glowing beyond the wall, cool moonlight, quiet resolve, open framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter Four: The Merchant Who Hides His Gold",
+      "scenes": [
+        {
+          "narration": "You are a grown trader now, trusted with your own bundles, your own porters, your own small share of the guild's long memory of every road.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a confident grown trader directing a small line of porters loading bundles onto a canoe at a canal dock, busy warm morning light, settled authority, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At the great market of Tlatelolco, sixty thousand people move between rows so exact that a stranger could find any good blindfolded, by smell alone.",
+          "tone": "awe",
+          "image_prompt": "Wide painted wide shot of an enormous open-air marketplace filled with countless orderly stalls and crowds under a bright sky, canals and causeways visible beyond, vast sweeping framing, lively warm light, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Judges sit in a pavilion at the market's center, ready to punish any trader caught cheating a measure, and you have seen a man's goods destroyed for it.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of robed market judges seated beneath a shaded pavilion at the center of a busy marketplace, observing rows of stalls, warm daylight, orderly composition, quiet authority, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You weigh cacao in graded boxes divided into twelfths, so precisely that no buyer ever has reason to argue with what your own hands have counted.",
+          "tone": "calm",
+          "image_prompt": "Wide painted close scene of weathered hands carefully pouring cacao beans into a small graded wooden measuring box at a market stall, warm focused light, precise everyday mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Elsewhere in the rows, quills of gold dust change hands like coins, weightless-looking, worth more than the cloth stalls around them combined.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of a trader exchanging a slender hollow quill of pale gold dust for folded cloth at a crowded stall, warm midday market light, careful transaction, centered framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The smell of roasting chiles drifts between the feather stalls and the cloth stalls, and somewhere, faintly, a flute plays for no one in particular.",
+          "tone": "calm",
+          "image_prompt": "Wide painted wide scene of colorful feather stalls and cloth stalls side by side in a bustling marketplace, faint smoke rising from a nearby food stall, warm golden afternoon light, sensory abundance, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are wealthy enough now to dress like a noble every day, and still you choose the plain cloak, out of habit, out of law, out of care.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a grown trader dressed plainly walking calmly past richly dressed nobles in a market street, understated posture, warm afternoon light, quiet contrast, centered composition, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When a venture succeeds, you do not parade it through the streets; you hold a quiet feast for your own calpulli, doors closed, voices low.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a small private gathering inside a warmly lit home, close friends and family sharing a modest feast, shuttered doorway, low golden lamplight, intimate quiet celebration, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "wife"
+          ]
+        },
+        {
+          "narration": "Your daughter learns to grind maize the way your sisters once did, patting the dough round and even, and you watch her hands and see your mother's.",
+          "tone": "tender",
+          "image_prompt": "Wide painted interior scene of a young girl carefully patting maize dough into a round shape over a griddle while an older woman's hands guide hers, warm hearth light, tender domestic mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your son is ten now, and one morning you strap a small bundle to his back and watch his legs shake by midday the way yours once did.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a father strapping a small bundle onto his young son's back in a sunlit courtyard, the boy's legs slightly unsteady, warm morning light, gentle continuity of tradition, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You tell him what your grandfather told you: a trader's real wealth is not the gold he can hide, but the roads he has survived.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a father kneeling to speak closely with his young son in a quiet courtyard, warm late-afternoon light, calm intimate framing, quiet wisdom passing between them, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You do not tell him yet about the hill country, or the fear you carried home once faster than your own feet could keep up with.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a father watching his young son from a doorway at dusk, a private, thoughtful expression, warm lamp glow inside the house, quiet held-back emotion, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "There will be time for that, you decide, on some other night, once he is old enough to carry more than his own weight in worry.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of a father and young son sitting quietly together on a rooftop terrace at dusk, city lights and temple fires distant below, warm fading light, calm closeness, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "For now you watch him lift the bundle again without being asked, and something in you settles, certain he will be ready when his own night comes.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of a young boy hoisting a bundle onto his own back unassisted in a courtyard while his father watches proudly from a distance, warm evening light, quiet pride, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Chapter Five: The Walk Home, One Last Time",
+      "scenes": [
+        {
+          "narration": "You are older now, your knees slower on the causeway, your eyes still finding the North Star from thirty years of walking under it.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of an older grey-haired trader walking slowly along a moonlit stone causeway, eyes lifted to a bright star overhead, cool serene night light, contemplative mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Younger traders ask you, before their first departure, what the road is really like, and you tell them only what you told yourself at their age: walk anyway.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of an older trader speaking gently to a small group of eager young travelers gathered before a night departure, warm torchlight, calm mentoring mood, centered framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You still leave the city in darkness, though you no longer need to, because the quiet has become a prayer you are not ready to give up.",
+          "tone": "calm",
+          "image_prompt": "Wide painted scene of an older trader slipping quietly out through a dim city gate at night out of long habit, temple fires glowing softly behind him, cool tranquil light, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You think, sometimes, of the traders who never came home, whose names are spoken only at the guild's private feasts, remembered but never explained to outsiders.",
+          "tone": "sad",
+          "image_prompt": "Wide painted scene of an older trader pausing alone on a quiet road at dusk, a distant, private expression, muted amber light, gentle melancholy, open empty framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You have walked farther than most nobles ever will, and still you fold your cloak the way your mother folded it, plain side facing out.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of an older trader folding a plain cloak carefully with practiced hands beside a modest home, warm late light, quiet dignity, centered still-life framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "On this last long journey, your son walks beside you instead of behind you, and you let him choose which road to take at the fork.",
+          "tone": "tender",
+          "image_prompt": "Wide painted scene of an older trader and his grown son walking side by side along a forked road at dusk, the son gesturing toward a path, warm companionable light, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "He chooses correctly, the safer path, the one that costs a day but nothing else, and the whole weight of your teaching settles quietly into place.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of a father and grown son walking together down the safer, longer fork of a quiet road, warm late-afternoon light, calm settled satisfaction, centered framing, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You cross the causeway together in the dark, unremarkable and unguarded, two plain cloaks among a hundred other plain cloaks moving quietly home.",
+          "tone": "calm",
+          "image_prompt": "Wide painted wide shot of two plainly dressed travelers crossing a long moonlit causeway among many other unremarkable figures, torch-lit island city ahead, cool tranquil night light, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "At your own door, your wife has kept the fire low and the food warm, never knowing exactly which night, at last, you would return.",
+          "tone": "tender",
+          "image_prompt": "Wide painted interior scene of a woman tending a low warm hearth fire beside a covered plate of food in a modest home at night, soft firelight, quiet welcoming mood, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you",
+            "wife"
+          ]
+        },
+        {
+          "narration": "You set down your bundle for what you quietly suspect may be the last time, and your shoulders remember, gratefully, what it means to finally rest.",
+          "tone": "warm",
+          "image_prompt": "Wide painted scene of an older trader setting down a heavy bundle for the last time inside a warmly lit modest home, shoulders relaxing, soft lamplight, quiet relief, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Long after the household sleeps, you sit a while by the low fire, listening to the lake outside, content at last to have nowhere left to walk.",
+          "tone": "reflective",
+          "image_prompt": "Wide painted scene of an older trader sitting alone beside a low glowing hearth late at night, a dark lake visible through an open doorway, warm firelight fading into calm stillness, richly detailed semi-realistic digital oil painting, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, main subject centred, no on-screen text, no modern objects",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The Secret Danger of an Aztec Merchant #shorts",
+      "description": "He was never a warrior, only a trader who walked farther than most nobles ever would. #aztec #history #shorts",
+      "scenes": [
+        {
+          "narration": "Your father tests the knots twice before your very first journey as an Aztec trader begins.",
+          "ref": 0
+        },
+        {
+          "narration": "You leave the city in darkness, hiding every trace of gold beneath a farmer's plain cloak.",
+          "ref": 11
+        },
+        {
+          "narration": "Starlight lies flat on the causeway as your home disappears behind you into black water.",
+          "ref": 12
+        },
+        {
+          "narration": "Deep in hill country, robbers are the real danger, and traders stop saying the city's name aloud.",
+          "ref": 20
+        },
+        {
+          "narration": "An old trader teaches you the rule for danger: offer the first gift, and never look afraid.",
+          "ref": 21
+        },
+        {
+          "narration": "That night you lie awake, understanding why a merchant who dies on the road gets a warrior's funeral.",
+          "ref": 22
+        },
+        {
+          "narration": "When the temple fires rise over the water again, something in your chest finally loosens.",
+          "ref": 28
+        }
+      ]
+    },
+    {
+      "title": "The Aztec Merchant Who Was Also a Spy #shorts",
+      "description": "Traders of the Aztec empire carried more than goods, they carried secrets. #aztec #history #shorts",
+      "scenes": [
+        {
+          "narration": "Slowly you notice things nobody taught you: how many warriors guard a gate, how nervous a chief seems.",
+          "ref": 18
+        },
+        {
+          "narration": "You understand these roads are not only for trading; the emperor's eyes travel with his own merchants.",
+          "ref": 19
+        },
+        {
+          "narration": "Two chiefs argue about a border in words you were never meant to understand.",
+          "ref": 24
+        },
+        {
+          "narration": "You remember every word without moving your face; a trader's memory cannot be stolen.",
+          "ref": 25
+        },
+        {
+          "narration": "Word travels ahead of you sometimes, of merchants who left the city and were never seen again.",
+          "ref": 26
+        },
+        {
+          "narration": "You are wealthy enough to dress like a noble every day, yet you still choose the plainest cloak.",
+          "ref": 34
+        },
+        {
+          "narration": "You do not parade your success through the streets, you hold a quiet feast behind closed doors instead.",
+          "ref": 36
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic round cut the runtime by roughly two hundred words, removed an invented gold-smuggling detail and a staged robbery confrontation, softened a debated fact about murdered merchants, and gave every chapter a real open loop into the next."
+}
