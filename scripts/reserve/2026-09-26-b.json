@@ -1,0 +1,743 @@
+{
+  "topic": "Your Life as an Ottoman Janissary",
+  "queue_item": "Your Life as an Ottoman Janissary",
+  "title": "Your Life as an Ottoman Janissary: Taken as a Boy",
+  "thumbnail_text": "TAKEN AT DAWN",
+  "thumbnail_prompt": "extreme close-up of a young Janissary soldier's face, haunted determination beneath calm discipline, a sliver of his white felt cap visible, warm torchlight, viewer should feel a quiet ache of loss beneath duty, faint barracks stonework behind him",
+  "thumbnail_label": "OTTOMAN EMPIRE 1453",
+  "thumbnails": [
+    {
+      "text": "TAKEN AT DAWN",
+      "highlight": "TAKEN",
+      "prompt": "extreme close-up of a young Janissary soldier's face, haunted determination beneath calm discipline, a sliver of his white felt cap visible, warm torchlight, viewer should feel a quiet ache of loss beneath duty, faint barracks stonework behind him"
+    },
+    {
+      "text": "BROTHERS OF THE CAULDRON",
+      "highlight": "CAULDRON",
+      "prompt": "extreme close-up of a young Janissary soldier's face lit by warm firelight, quiet fierce belonging in his eyes, the glow of a great iron cauldron just visible behind him, viewer should feel drawn into a found brotherhood"
+    },
+    {
+      "text": "STOLEN BOYS, LOYAL MEN",
+      "highlight": "STOLEN",
+      "prompt": "extreme close-up of a young Janissary soldier's face, a complicated mix of old grief and hard-won pride, dawn light on one side of his face and torchlight on the other, viewer should feel the contradiction at the heart of his life"
+    }
+  ],
+  "description": "You are a boy from a Balkan mountain village the day the sultan's recruiting officers ride in and choose you for the devshirme, the child levy that will remake you into one of the Ottoman Empire's elite soldiers. This is the story of the family you lose, the brotherhood you find instead, and the cauldron, cap and quiet discipline that become your whole world.\n\nFrom an Anatolian farm to the barracks of Istanbul, through the felt cap and shared cooking-pot that bind a Janissary company together, to the walls of Constantinople and a long, gentle old age teaching the next generation of frightened boys, this is a soldier's life told slow, warm and true to the history behind it.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#ottomanempire",
+    "#janissary",
+    "#historyforsleep"
+  ],
+  "tags": [
+    "ottoman empire",
+    "janissary",
+    "history for sleep",
+    "boring history for sleep",
+    "your life as",
+    "devshirme",
+    "constantinople 1453",
+    "ottoman history",
+    "sleep history story",
+    "medieval history",
+    "history documentary",
+    "bedtime history",
+    "istanbul history",
+    "ottoman janissary corps"
+  ],
+  "music_mood": "epic_soft",
+  "narrator_voice": "am_onyx",
+  "ambience": "fire",
+  "era_setting": "Istanbul and the Balkan frontier of the Ottoman Empire, roughly the fourteen thirties to the fourteen seventies: Janissary barracks at Aksaray, the walls of Constantinople, muted wool and felt in earthy browns and greys, torchlit stone courtyards, iron cauldrons and tall white felt caps.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a Balkan-born Ottoman soldier: a barefoot village boy at the story's start, growing into a broad-shouldered young Janissary and finally a grey-bearded veteran instructor; light olive skin weathered by sun and years, dark watchful eyes, a plain dark wool tunic as a boy giving way to a Janissary uniform with a tall white felt börk cap and its hanging back-flap, a curved sabre at his belt"
+    },
+    {
+      "id": "mother",
+      "look": "a careworn Balkan Christian village woman, deep lines of worry around her eyes, a plain dark headscarf, a long faded wool dress, work-roughened hands"
+    },
+    {
+      "id": "scout",
+      "look": "an Ottoman devshirme recruiting officer, a neat dark beard, a formal turban, a long dark travelling robe, a leather-bound ledger tucked under one arm"
+    },
+    {
+      "id": "captain",
+      "look": "a çorbacı company commander, an older Janissary with a thick dark beard streaked grey, the tall white felt börk cap with its back-flap, a sash of rank over his uniform, calm authoritative bearing"
+    },
+    {
+      "id": "cadet",
+      "look": "a young Acemi cadet, close-cropped dark hair, a plain grey cadet tunic, an eager unlined face, bare forearms marked from drilling"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Scouts Come to the Village",
+      "scenes": [
+        {
+          "narration": "By supper you will not be your mother's son anymore, and no one in the village has told you yet.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a barefoot village boy standing alone at dusk at the edge of a muddy Balkan mountain village, distant torches of riders approaching on the road below, apprehensive stillness, low golden dusk light, wide establishing framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Riders came at dawn, official riders, with a decree that every household must bring its sons before them.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a line of official Ottoman recruiting riders on horseback entering a misty mountain village at dawn, one holding aloft a sealed decree scroll, villagers watching from doorways, cool grey morning light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "scout"
+          ]
+        },
+        {
+          "narration": "You are a small boy, barefoot in the mud of a Balkan mountain village, and the scout studies your face too long.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, an Ottoman recruiting officer crouched to eye level studying a barefoot village boy's face closely in a muddy square, other villagers blurred in the background, tense quiet appraisal, overcast light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "scout"
+          ]
+        },
+        {
+          "narration": "He wants strong boys, sharp boys, boys whose eyes do not drop when a stranger looks straight into them.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, an Ottoman recruiting officer walking down a row of village boys lined up in a muddy square, measuring gaze and posture, dark robe and turban, flat grey daylight, documentary framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "scout"
+          ]
+        },
+        {
+          "narration": "Your mother grips your shoulder so hard it will leave a bruise, though her face stays carefully, terribly still.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a careworn Balkan village mother gripping her young son's shoulder tightly in a doorway, her face frozen in forced calm, muted cottage interior light, intimate close framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "Fathers have been told this comes every few years, whenever the sultan's household needs new blood to raise.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a cluster of grim village fathers standing at a muddy crossroads watching riders pass, low hills and thatched roofs behind them, subdued overcast mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You do not understand yet that you have already been chosen, only that the scout has stopped walking past your door.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, an Ottoman recruiting officer pausing directly in front of a small wooden village doorway where a barefoot boy stands, a beat of stillness, muted dawn light, close framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "scout"
+          ]
+        },
+        {
+          "narration": "By evening your name is on a list, and your mother is folding your one good shirt with shaking hands.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a careworn mother folding a small plain shirt by candlelight inside a humble cottage, her hands trembling, a wooden table and hearth glow behind her, tender melancholy mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "She presses a small carved comb into your palm and tells you to remember the sound of this river.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, close framing of a mother's weathered hands pressing a small carved wooden comb into a young boy's open palm, soft candlelight, a narrow mountain river visible through a doorway beyond, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "At the village edge, a line of boys is already forming, none of them much older than you are.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a line of barefoot village boys of similar age standing at a muddy road's edge at dawn, mist over the hills behind them, quiet apprehensive mood, wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "None of you cry where the riders can see it, though the youngest keeps his fists closed very tight.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a young boy standing rigid in a line of boys, fists clenched tight at his sides, holding back tears, riders on horseback nearby, subdued grey light, close framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The road north swallows the mountain behind you, and somewhere past it, a new life is already waiting.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a small column of boys walking a dirt road away from misty mountains that fade into the distance behind them, wide receding landscape framing, soft muted dawn palette, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Learning a New Tongue",
+      "scenes": [
+        {
+          "narration": "For three winters you belong to a farming family in the hills of Anatolia, and slowly, you belong to them.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a young boy working alongside an Anatolian farming family in a terraced hillside field under warm late afternoon light, oxen nearby, calm rural mood, wide pastoral framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "They teach you Turkish over shared bread, the shape of prayers your own mother would never have known.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a modest farmhouse table at dusk, a farming family and a young boy sharing flatbread by lamplight, warm intimate glow, gentle domestic mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your hands learn the ox-plow and the fence post, and at night you bite back homesickness before it can show.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a young boy guiding an ox-drawn plow across a furrowed Anatolian field at golden hour, distant hills, quiet solitary effort, warm earthy palette, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The farmer's wife hums a lullaby close enough to your own mother's that you have to look away from the fire.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, a young boy sitting near a hearth fire in a rustic farmhouse, looking away with private emotion as an older woman hums nearby, warm flickering firelight, intimate framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Officers ride out once to watch you work, silent, marking something in a ledger you are never shown.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, an Ottoman official on horseback observing a young boy working a field from a distance, writing in a small ledger, wary tension, overcast daylight, wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "scout"
+          ]
+        },
+        {
+          "narration": "One spring morning you are called to Istanbul, and the farm family sends you off with dried figs and blessings.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a farming family gathered at a rustic gate handing a satchel of dried figs to a young boy setting off down a spring road, warm morning light, tender farewell mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The barracks at Aksaray rise grey and enormous ahead of you, nothing like any building your village could have imagined.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, a young boy standing small before the towering grey stone walls and domes of the Aksaray Janissary barracks in Istanbul, dramatic scale, overcast sky, awe-struck wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are Acemi now, a cadet, one of hundreds learning to read, to pray, and to hold a blade steady.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, rows of young Acemi cadets drilling with wooden practice blades in a large stone barracks courtyard, disciplined formation, cool morning light, wide overhead framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "cadet"
+          ]
+        },
+        {
+          "narration": "Officers watch closely which boys are quickest with a bow and which are quickest with a ledger, and they write it all down.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, Ottoman officers observing cadets practicing archery and writing in a barracks courtyard, one officer noting details in a ledger, attentive quiet scrutiny, daylight, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "cadet",
+            "scout"
+          ]
+        },
+        {
+          "narration": "The sharpest, tallest boys are quietly sent instead to the palace school inside the walls of Topkapı itself.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, a small group of selected cadets being led through an ornate gate toward the distant domes of Topkapı Palace, golden afternoon light, wide ceremonial framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "cadet"
+          ]
+        },
+        {
+          "narration": "You are not chosen for the palace, and some nights that stings more than the drilling ever does.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a young cadet sitting alone on a barracks courtyard step at dusk, watching a distant group walk toward the palace gate, quiet longing, muted blue evening light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "But your arms grow strong and your Turkish grows easy, and word comes that a full company is waiting to claim you at last.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a young man cadet standing taller and more confident in a barracks corridor, morning light streaming in, a sense of quiet readiness, warm wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Brotherhood of the Spoon",
+      "scenes": [
+        {
+          "narration": "The day you join a full company, an officer calls you by a title stranger than any you have worn.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a young Janissary standing at attention before a bearded company commander in a stone barracks hall, formal induction moment, warm torchlight, respectful framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "Your captain is named for soup, çorbacı, and beneath him serve a head cook and a head water carrier.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a weathered çorbacı commander standing near a great iron cauldron in a barracks kitchen hall, steam rising, subordinate cooks nearby, warm firelit atmosphere, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "captain"
+          ]
+        },
+        {
+          "narration": "The whole corps is called the Ocak, the hearth, and your company's hearth is one great iron cauldron.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a large communal iron cauldron steaming over a hearth fire in a stone barracks hall, Janissaries gathered around it in warm firelight, cozy communal mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "You eat from that cauldron every day now, and you are told plainly what the meal really means.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, rows of Janissaries seated cross-legged sharing a meal from a shared iron cauldron in a torchlit barracks hall, solemn camaraderie, warm amber lighting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "To take food from the sultan's kazan is to swear yourself to him, one spoon at a time.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, close framing on a young Janissary's hand dipping a wooden spoon into a great steaming cauldron, warm firelight reflecting off the metal, solemn reverence, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Men who eat, drill, and sleep beside that cauldron for years start calling each other brothers of the spoon.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a group of Janissaries laughing quietly together around a cauldron fire at night, close brotherly warmth, glowing embers, intimate wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "You are given a tall white felt cap, a börk, its flap said to echo a wandering holy man's sleeve.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, close framing of a young Janissary being handed a tall white felt börk cap with its trailing back-flap by an older soldier in a barracks hall, warm torchlight, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "His name was Hacı Bektaş Veli, and his order becomes yours, its dervishes standing in as your chaplains.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a humble Sufi dervish in simple robes blessing a row of kneeling Janissary cadets in a barracks courtyard, soft dawn light, reverent mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Once a year, on the fifteenth night of Ramadan, the sultan himself sends trays of baklava to your barracks.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, ornate trays piled high with golden baklava being carried into a torchlit barracks courtyard at night, Janissaries gathering eagerly, warm celebratory glow, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "Two men to a pole, you carry the sweet trays home singing, the only softness this life allows you.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, two young Janissaries carrying a large tray of baklava slung from a pole between them through a lantern-lit Istanbul street at night, joyful warm mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Discipline here is never gentle, and a foot beaten raw in front of the company teaches lessons no lecture ever could.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a stern çorbacı commander standing before an assembled company in a stone courtyard at dawn, an atmosphere of grim discipline, no graphic detail, wide sober framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "captain"
+          ]
+        },
+        {
+          "narration": "You are forbidden marriage, forbidden any outside trade, told the Ocak alone is the only family a Janissary ever needs.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a young Janissary standing alone at a barracks window looking out at the city below, resigned solitary mood, cool evening light, wide contemplative framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Every quarter you are paid in silver akçe, with more set aside for your clothing and your blade.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a paymaster counting small silver akçe coins onto a wooden table before a row of waiting Janissaries, orderly quarterly ceremony, warm indoor lantern light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "You learn what it means when a company overturns its own cauldron in the yard some restless night.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a shadowy barracks courtyard at night, a great iron cauldron overturned and spilled on the stones, tense ominous mood, flickering torchlight, wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "It means mutiny, and every man here understands that losing a cauldron to an enemy is the deepest shame there is.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a company commander standing grimly before his silent assembled soldiers in a torchlit courtyard, an overturned cauldron in the background, tense solemn mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "captain"
+          ]
+        },
+        {
+          "narration": "Some nights you almost forget the small carved comb still folded away in your pack, and the river it was meant to help you remember.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a young Janissary sitting alone on his barracks cot at night, quietly turning a small carved wooden comb over in his hands, soft candlelight, intimate reflective mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By your third winter in the Ocak you no longer remember missing anyone, only that new orders are coming that will test all of it.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a company of Janissaries standing at attention in a snowy barracks courtyard as a commander reads new orders aloud, cold pale winter light, wide formal framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Walls of Constantinople",
+      "scenes": [
+        {
+          "narration": "Spring finds your whole company marching toward walls older than any building you have ever stood beside in your life.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a long column of Janissary soldiers marching along a spring road toward the distant massive ancient walls of Constantinople on the horizon, epic wide landscape framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "Mehmed, your young sultan, has brought the huge siege cannon that the whole army has talked about for weeks.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, soldiers gathered around an enormous bronze siege cannon being hauled into position on a hillside camp, awe and murmuring crowd, dramatic overcast sky, wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The camp settles into a strange, patient rhythm, cookfires and prayer and waiting, far longer than any drill prepared you for.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a vast Ottoman siege camp at dusk, scattered cookfires, soldiers kneeling in quiet prayer, tents stretching into the distance, calm muted evening light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "For long weeks the guns batter Constantinople's walls while you and your company wait quietly behind the siege lines.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, distant siege cannon fire striking ancient stone walls under a smoky grey sky, rows of waiting soldiers crouched behind earthworks in the foreground, tense wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "At night the mehter band strikes up, drums and reed pipes so loud they seem to shake the ground itself.",
+          "tone": "urgent",
+          "image_prompt": "WIDE 16:9, an Ottoman mehter military band playing drums and reed pipes before assembled soldiers at a torchlit night camp, dramatic energetic movement, deep shadows and firelight, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Officers say the music is meant to frighten the defenders and steady the nerves of men like you.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a company commander standing calmly beside young soldiers as distant drumbeats echo across a torchlit siege camp at night, steady reassuring mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "captain"
+          ]
+        },
+        {
+          "narration": "You spend one still evening cleaning your matchlock gun slowly, by firelight, until your hands know it blind.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, close framing of a young Janissary carefully cleaning a matchlock musket by a small campfire at dusk, focused calm concentration, warm firelight, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Before dawn on the final assault your company carries its cauldron close behind the lines, and no one speaks of what losing it would mean.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, soldiers carrying a large iron cauldron carefully behind advancing siege lines in the grey light before dawn, tense hushed atmosphere, wide framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        },
+        {
+          "narration": "The order comes, and the noise that follows is bigger than any sound your village ever taught you to expect.",
+          "tone": "urgent",
+          "image_prompt": "WIDE 16:9, a wide dramatic view of Ottoman soldiers surging forward toward smoke-wreathed ancient walls at dawn, chaotic energetic motion, no gore, epic scale, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You do not remember every hour of that morning, only smoke, and shouting, and the weight of your own gun.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a lone soldier's close view through drifting smoke near a breached stone wall, gripping a matchlock gun, disoriented tense mood, muted battlefield haze, no graphic detail, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By afternoon the ancient walls have fallen, and the city that stood a thousand years belongs to your sultan now.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, a wide view of Ottoman soldiers standing atop breached ancient city walls overlooking Constantinople's domes and rooftops at golden afternoon light, awe-struck triumphant mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are a grown man now, far from that muddy village, and you understand quietly that history has just walked through you.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a lone Janissary standing quietly on a fallen wall overlooking the conquered city at sunset, contemplative distant gaze, warm golden light, wide reflective framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That night your captain lets the cauldron fires burn late, and no one orders anyone to stop singing.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, soldiers gathered singing around a glowing cauldron fire at night in a victory camp outside the city walls, warm joyful firelight, close communal framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "An Old Soldier's Istanbul",
+      "scenes": [
+        {
+          "narration": "Years pass gently after that, campaign by campaign, until your knees ache before the winter rains even arrive.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a middle-aged Janissary with a greying beard walking slowly across a quiet barracks courtyard in autumn light, weathered dignity, wide gentle framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are made an instructor now, teaching frightened new cadets the very same drills you once feared yourself.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a grey-bearded veteran Janissary demonstrating a sword drill to a row of nervous young cadets in a sunlit courtyard, patient warm mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "cadet"
+          ]
+        },
+        {
+          "narration": "You still eat from a cauldron every day, though your hands have grown too stiff for the fastest drills.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, an older Janissary with stiff weathered hands ladling stew from a familiar iron cauldron in a barracks hall, warm quiet dignity, soft firelight, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Young Acemi boys ask if you were truly at Constantinople, and you tell it a little slower each year you answer.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, an elderly Janissary instructor seated among wide-eyed young cadets in a barracks hall, telling a story by lamplight, warm nostalgic mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "cadet"
+          ]
+        },
+        {
+          "narration": "You still keep the small carved comb your mother pressed into your hand on the road out of the mountains.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, close framing of an old soldier's weathered hands holding a small worn carved wooden comb beside a dim lantern, quiet tender nostalgia, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Some nights the mehter drums still echo somewhere in the barracks yard, and your body remembers before your mind does.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, an old soldier standing still in a moonlit barracks courtyard as faint distant drumming seems to hang in the night air, quiet haunted stillness, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You never married, never kept a house of your own, exactly as this life once promised you it would be.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, an elderly Janissary sitting alone on a simple cot in a modest barracks quarter at dusk, quiet solitary acceptance, muted blue evening light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "But hundreds of brothers have shared your cauldron over the years, and not one of them was ever truly a stranger.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, an old Janissary surrounded by soldiers of many ages gathered warmly around a shared cauldron fire at night, deep sense of belonging, warm glowing light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "cadet"
+          ]
+        },
+        {
+          "narration": "On the fifteenth night of Ramadan you still help carry the sweet trays, though younger arms do the lifting now.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, an old soldier walking alongside young Janissaries carrying trays of baklava through a lantern-lit Istanbul street at night, warm nostalgic continuity, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "cadet"
+          ]
+        },
+        {
+          "narration": "The white felt cap still sits by your bed, older now, softened, shaped permanently to the memory of your own head.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, close framing of a worn, softened white felt börk cap resting on a simple wooden shelf beside a dim lantern, quiet still-life mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You think, some evenings, of a river in a mountain village whose sound you can still almost hear.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, an old soldier gazing out a small barracks window at dusk, a faint dreamlike memory of a distant mountain river visible in the soft light beyond, wistful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "One family took you in as a frightened boy long ago; this one, cauldron by cauldron, quietly became your own instead.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, an old Janissary instructor surrounded by soldiers young and old gathered warmly around the barracks cauldron fire at night, deep quiet belonging, warm golden light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "captain",
+            "cadet"
+          ]
+        },
+        {
+          "narration": "Tonight the fire in the hearth burns low, familiar, warm, and you let yourself finally, fully, completely rest.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, an old soldier resting peacefully beside a low glowing hearth fire in a quiet barracks room at night, deeply calm and warm, soft dim firelight, gentle closing mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "He Was Taken From His Village to Become an Elite Soldier #shorts",
+      "description": "The Ottoman Empire took Christian boys from Balkan villages and raised them into its most feared soldiers. This is his story. #history #ottomanempire #shorts",
+      "scenes": [
+        {
+          "narration": "By supper, you will not be your mother's son anymore, and no one has told you yet.",
+          "ref": 0
+        },
+        {
+          "narration": "Riders come at dawn with a decree: every household must bring its sons before them.",
+          "ref": 1
+        },
+        {
+          "narration": "Your mother grips your shoulder so hard it will bruise, her face frozen carefully still.",
+          "ref": 4
+        },
+        {
+          "narration": "She presses a small carved comb into your palm, so you always remember the river.",
+          "ref": 8
+        },
+        {
+          "narration": "Years later, you eat from a shared cauldron, and the men call it brotherhood of the spoon.",
+          "ref": 29
+        },
+        {
+          "narration": "At the fallen walls of Constantinople, you understand quietly that history has just walked through you.",
+          "ref": 51
+        },
+        {
+          "narration": "You never married, never kept a house of your own, but hundreds of brothers shared your fire instead.",
+          "ref": 61
+        }
+      ]
+    },
+    {
+      "title": "The Cauldron That Ottoman Soldiers Died to Protect #shorts",
+      "description": "Janissary soldiers called each other brothers of the spoon, and losing their cauldron was the deepest shame in the corps. #history #janissary #shorts",
+      "scenes": [
+        {
+          "narration": "The whole corps is called the Ocak, the hearth — and its symbol is a cauldron.",
+          "ref": 26
+        },
+        {
+          "narration": "To eat from the sultan's kazan is to swear yourself to him, one spoon at a time.",
+          "ref": 28
+        },
+        {
+          "narration": "Men who share that cauldron for years call each other brothers of the spoon.",
+          "ref": 29
+        },
+        {
+          "narration": "If a company ever overturns its own cauldron in the yard, that means mutiny.",
+          "ref": 37
+        },
+        {
+          "narration": "Losing a cauldron to an enemy is the deepest shame a company can carry.",
+          "ref": 38
+        },
+        {
+          "narration": "Decades later, an old soldier still eats from that same kind of cauldron.",
+          "ref": 56
+        },
+        {
+          "narration": "One family took him as a frightened boy; this one quietly became his own.",
+          "ref": 65
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic cut every unsourced specific number (recruitment age, cannon crew size, siege length), broke up a five-scene tense/urgent run during the siege with calmer beats, gave both mid-video chapter endings real forward-pulling open loops, and pushed the small carved comb and river motif through the middle of the story so the found-family throughline carries the video, not just the battle."
+}

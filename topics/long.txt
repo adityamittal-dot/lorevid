@@ -5,7 +5,7 @@ Your Life as a Roman Gladiator
 Your Life as an Egyptian Pyramid Builder
 #reserved Your Life as a Chola Temple Dancer
 Your Life as a Viking Raider
-Your Life as an Ottoman Janissary
+#reserved Your Life as an Ottoman Janissary
 Your Life as a Maratha Cavalry Soldier
 #reserved Your Life as an Aztec Merchant in Tenochtitlan
 Your Life as a Roman Centurion's Wife
