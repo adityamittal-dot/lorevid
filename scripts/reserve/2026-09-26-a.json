@@ -1,0 +1,658 @@
+{
+  "topic": "Your Life as a Byzantine Silk Weaver",
+  "queue_item": "Your Life as a Byzantine Silk Weaver",
+  "title": "Your Life as a Silk Weaver in Constantinople",
+  "thumbnail_text": "ONE FORBIDDEN COLOR",
+  "thumbnail_label": "CONSTANTINOPLE 550AD",
+  "thumbnails": [
+    {
+      "text": "ONE FORBIDDEN COLOR",
+      "highlight": "FORBIDDEN",
+      "prompt": "extreme close-up of a Byzantine woman's face lit by warm lamplight, calm awe as she looks toward an unseen bolt of deep purple silk just out of frame, weathered hands visible"
+    },
+    {
+      "text": "THE STOLEN SECRET",
+      "highlight": "STOLEN",
+      "prompt": "extreme close-up of a Byzantine woman's face, quiet wonder, faint golden light suggesting hidden silk threads catching the light near her face"
+    },
+    {
+      "text": "THE NIGHT IT BURNED",
+      "highlight": "BURNED",
+      "prompt": "extreme close-up of a Byzantine woman's face lit by distant orange firelight, worry and resolve in her eyes, faint smoke haze in the background"
+    }
+  ],
+  "description": "You are born into a family of silk weavers in Constantinople, not long after monks first smuggled the secret of silk out of China for an emperor who refused to keep paying Persia's price for it. From a girl learning her first thread to a master weaver trusted with a king's gift, live a whole quiet life spent at the loom, through one color you may never wear and one night the whole city nearly burns.\n\nThis is a slow, sensory bedtime history told in the second person, for falling asleep to: rain on courtyard tiles, lamplight on silk thread, and a craft passed from mother to daughter across an entire lifetime.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#byzantine",
+    "#constantinople",
+    "#sleepstory"
+  ],
+  "tags": [
+    "byzantine empire",
+    "constantinople history",
+    "silk road",
+    "history for sleep",
+    "bedtime history",
+    "your life as a",
+    "medieval history",
+    "history documentary",
+    "relaxing history",
+    "life in the past",
+    "silk weaving history",
+    "justinian",
+    "sleep story narration",
+    "asmr history"
+  ],
+  "music_mood": "epic_soft",
+  "narrator_voice": "af_heart",
+  "ambience": "rain",
+  "era_setting": "Constantinople, the Byzantine Empire, roughly the 530s-580s CE: narrow lamplit workshop streets, brick courtyard houses, the Hippodrome and the Golden Horn's docks, undyed linen and wool clothing with rare glimpses of forbidden imperial purple silk.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a Byzantine woman with warm olive skin, dark hair in a simple braided knot, an undyed linen tunic dusted with pale silk fibers, calloused fingertips"
+    },
+    {
+      "id": "mother",
+      "look": "an older Byzantine woman with silver-streaked dark hair under a plain grey headscarf, deep smile-lines, a faded blue wool tunic, steady weathered hands"
+    },
+    {
+      "id": "husband",
+      "look": "a Byzantine man with a short dark beard, broad shoulders, a plain brown wool tunic belted at the waist, a leather satchel of trade tablets at his side"
+    },
+    {
+      "id": "daughter",
+      "look": "a young Byzantine girl with dark hair in two braids like her mother, a small undyed linen tunic, wide curious eyes"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Loom in the Courtyard",
+      "scenes": [
+        {
+          "narration": "Before sunrise, your mother wakes you with one warning: break today's thread, and you will not touch the loom again for a year.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, a dim rain-lit courtyard workshop at dawn, a mother crouched beside a sleepy young girl on a straw mat, warm oil-lamp glow, intimate low framing, hushed anxious mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "Rain taps the courtyard tiles as you follow her into the workshop, your heart beating faster than the shuttle ever will.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a young girl following her mother across wet courtyard tiles toward an open workshop doorway, soft grey rainlight, wide establishing framing, calm anticipatory mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "You are seven years old, and today is the day you finally learn whether your hands are steady enough to be trusted.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, close framing on a young girl's small hands hovering above a wooden loom shuttle, warm lamplight from the side, tender concentrated mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your grandmother remembers when there was no silk at all here, only rumor of it, sold dear by Persian traders.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, an elderly seated Byzantine woman gesturing while telling a story to a listening child in a workshop corner, warm dim interior light, calm nostalgic mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "She tells you how two monks once smuggled the secret out of China, hidden inside a hollow walking cane.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, an imagined vignette of two robed travelers on a distant mountain road at dusk, one carrying a plain wooden walking cane, wide cinematic framing, hushed wondrous mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "From those few stolen worms, she says, came every thread this family has earned its bread by ever since.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, sunlight falling across baskets of pale cocoons and raw silk fiber on a workshop table, soft still-life framing, reflective quiet mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "Your mother guides your hand along the warp, and for one breath the threads obey you instead of tangling.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, close framing of a mother's weathered hand guiding a child's smaller hand along taut loom threads, warm side lighting, tender intimate mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "Raw silk arrives from the harbor still dull and rough, and you learn that only patient hands can coax its shine out.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a young girl examining a coarse bundle of undyed raw silk fiber beside an open workshop window, soft daylight, calm instructive mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your father tends the family's accounts by lamplight, counting how many bronze coins each finished bolt must earn back.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a man seated at a small table with wax tablets and coins under a hanging oil lamp, warm amber lighting, quiet domestic mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "Ten people share this workshop floor: your parents, your uncle's family, and the boy who winds the bobbins all day.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a wide interior view of a busy family silk workshop with several people at looms and spindles, warm daylight through open shutters, calm industrious mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "Smoke and wet wool and the sweetness of raw silk mix together in air you have never once left.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, soft hazy light filtering through a workshop full of hanging wool and silk skeins, atmospheric dust motes, calm sensory mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "At dusk a wooden semantron sounds from the nearby church, its wooden clack calling the whole street to evening prayer.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a distant view of a narrow Constantinople street at dusk with a small domed church, warm dying light, calm reverent mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "You fall asleep proud of your steady hands, not yet knowing how much your family's whole life depends on a color you have never even seen.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a young girl asleep on a simple bed in a warm lamplit room, soft blanket, tender peaceful framing, warm quiet mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Purple You May Never Wear",
+      "scenes": [
+        {
+          "narration": "By twelve you can weave a plain bolt alone, though your mother still checks every thread by lamplight.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a girl on the edge of adolescence weaving alone at a large loom while an older woman inspects the cloth in the background, warm lamplight, calm proud mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "One market day you follow her to sell cloth, and see a color no ordinary hand may touch.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a bustling open-air Constantinople market street with awnings and stalls, a young weaver and her mother carrying folded cloth, bright midday light, warm curious mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "It is Tyrian purple, made from thousands of crushed sea snails, worth more than its own weight in gold.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, a single small bolt of deep rich purple cloth displayed apart from other fabrics on a market table, dramatic warm spotlighted framing, awed reverent mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "Only the emperor may wear it, your mother warns; even dyeing it without leave is treated as a kind of theft.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a mother speaking low and serious to her daughter beside a market stall, other purple cloth kept out of reach on a high shelf, tense cautionary mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "You are not afraid of the law, only curious why one color should belong to a single man alive.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a young girl gazing thoughtfully toward the distant silhouette of a palace across rooftops, soft hazy daylight, reflective wondering mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The market smells of Egyptian grain, Cretan cheese, and raw silk fresh off ships from the sheltered Golden Horn.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a wide harbor-market view with sacks of grain, wheels of cheese, and bundled raw silk beside docked wooden merchant ships, bright warm daylight, calm bustling mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "Traders check their scales against each other's before every sale, a habit passed down longer than anyone can remember why.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, two market traders comparing balance scales over a stall counter, warm daylight, calm orderly mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "You watch a buyer argue over weight, and your mother reminds you that an honest scale is worth more than a clever tongue.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a mother and daughter observing a minor dispute at a market stall from a short distance, warm daylight, calm watchful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "A weaver two doors down is caught cheating a customer, and is barred from trading in this market for a full year.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a dejected market vendor being led away from a stall by an official while onlookers watch quietly, muted warm light, tense sober mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "That night you understand, without needing the words, that your family's honest thread is also your family's safety.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a young girl lying awake looking at moonlit loom threads through an open window, cool soft lighting, reflective quiet mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At sixteen you are named a full weaver of your workshop's trade, and given your own place at the loom.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a young woman standing proudly beside her own new loom in a sunlit workshop corner, warm golden light, warm celebratory mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your first wage, one small gold coin, could feed you for twenty days if you spent it carefully.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, close framing of a small gold coin resting in an open weathered palm, soft warm light, calm satisfied mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You marry a merchant's son who trades the silk you weave, and move his loom beside your own.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a young woman and a young man standing together beside two looms placed side by side in a sunlit workshop, warm golden light, warm hopeful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "But a workshop's good name can be given, your father reminds you gently, and it can just as easily be taken away.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, an older man speaking quietly to his adult daughter in a dim workshop doorway at dusk, warm fading light, reflective cautionary mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The City on Fire",
+      "scenes": [
+        {
+          "narration": "At twenty you know the Hippodrome only as a place of noise and color, chariots racing beneath a sky full of cheering crowds.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a vast ancient stadium filled with cheering crowds watching distant chariot races, bright open sky, wide joyful establishing framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "One afternoon that same year, those same crowds turn, within a single hour, into a single furious mob.",
+          "tone": "urgent",
+          "image_prompt": "WIDE 16:9, the same stadium crowd now surging and shouting, fists raised, tense chaotic energy, dramatic warm-toned lighting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "They chant one word, nika, meaning victory, but what follows is not a victory for anyone in this city.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a dense crowd moving through a narrow city street at dusk, torches raised, tense ominous framing, dim amber light, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "From your rooftop you watch flame climb over rooftops toward the old church you were christened in as a child.",
+          "tone": "urgent",
+          "image_prompt": "WIDE 16:9, a young woman standing on a flat rooftop watching distant orange flames and smoke rising over a city skyline at night, dramatic firelit sky, urgent anxious mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your husband drags bolts of finished silk into the cistern room below, where water might keep them from burning.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a man carrying folded cloth bundles down stone steps into a dim underground cistern chamber, cool torchlit shadows, tense urgent mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "For three nights you sleep in that cistern room, listening to a city you love tear at itself outside.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a woman and man huddled together on the floor of a dim stone cistern chamber, single small lamp, muted cool light, sad weary mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "When the soldiers finally end it three days later, having trapped the mob inside the very stadium where the chant began, half the city lies blackened.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a wide somber view over a smoke-hazed city skyline at dawn with blackened rooftops in the foreground, muted grey light, sad heavy mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "Your workshop survives untouched, but the church you were christened in is only ash and a few standing, smoke-stained walls.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a woman standing quietly before the blackened ruined walls of a small church, soft grey morning light, reflective mournful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The emperor vows to rebuild it grander than before, and for once, grief and hope move through the streets together.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, distant construction scaffolding rising around the outline of a great domed church under a hopeful pale sky, wide hopeful framing, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "You spend that whole strange, tender year weaving cloth for craftsmen you have never met, raising a church from ruin.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a woman weaving diligently at her loom with the silhouette of a rising domed church visible through a distant window, warm afternoon light, warm purposeful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Years later you stand beneath its new dome, its walls still bare of any painted saint, waiting to be filled.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, a small figure standing beneath a vast bare-walled domed church interior lit by shafts of light from high windows, awe-inspiring scale, hushed reverent mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You wonder, standing there, whether your own hands will ever weave something worthy of walls this grand — an answer closer than you think.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, close framing on a woman gazing upward inside a vast church interior, soft golden light from above, reflective hopeful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Bolt for a King",
+      "scenes": [
+        {
+          "narration": "By thirty you are trusted with silk meant for no ordinary buyer at all, only the very grandest houses.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a mature woman carefully examining a fine bolt of patterned silk laid across a long workshop table, warm focused lighting, calm confident mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your workshop is chosen to weave a bolt bound for a foreign king, a gift carried under the emperor's own seal.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, an official presenting a sealed scroll to a woman standing before her loom, other workers watching from the background, warm dramatic light, awed proud mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "For forty days you weave nothing else, checking each thread the way your mother once checked yours by lamplight.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a woman weaving intently at a loom by lamplight late into the evening, warm amber glow, calm focused mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Somewhere in those same years you give birth to a second daughter, one more pair of hands this family's craft will one day need.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a woman cradling a newborn baby beside a quiet loom in a warmly lit room, soft tender light, warm intimate mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Then a fever comes creeping through the harbor district, quiet at first, then far too widespread to ignore.",
+          "tone": "tense",
+          "image_prompt": "WIDE 16:9, a wide somber view of a quiet harbor district street with shuttered doors and few people, muted grey-green light, tense uneasy mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "Historians after you will argue over how many thousands the fever took in a single terrible season (debated).",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, an empty candlelit room with a single unlit loom and folded cloth left untouched, dim solemn lighting, sad quiet mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "Your husband's old teacher, who taught him every knot of the trade, does not live to see that winter end.",
+          "tone": "sad",
+          "image_prompt": "WIDE 16:9, a man standing alone in quiet grief beside an empty weaver's stool in a dim workshop corner, soft cool light, sad reflective mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "You weave through your grief because the loom is the only thing that still asks something steady of your hands.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a woman weaving with quiet composed focus at her loom, soft warm side light, reflective steady mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When the king's envoy finally lifts your finished silk to the light, he says nothing, only bows his head.",
+          "tone": "awe",
+          "image_prompt": "WIDE 16:9, a richly dressed foreign envoy holding a shimmering bolt of silk up to sunlight in a grand hall, warm dramatic lighting, awed respectful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "That bow, more than any coin, tells you exactly what your family's stolen, guarded, hard-won craft is worth.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a woman watching quietly from a doorway as her silk is admired across the room, warm golden light, warm quietly proud mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your workshop's name grows after that, though the market's watchers only grow stricter about who may sell where, and to whom.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a woman standing at her workshop entrance as an official reviews a ledger of names outside, muted warm light, reflective cautious mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your wage that year could buy your family bread for longer than any single season you can remember before it.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a family sharing a simple warm meal together around a small table, soft candlelight, warm contented mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "husband",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "You accept the new limits without complaint; you have already learned what the alternative to a good name looks like.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a woman weaving calmly at her loom as evening light fades through a window, warm settled lighting, calm accepting mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Daughter at the Loom",
+      "scenes": [
+        {
+          "narration": "You are grown grey now, and your elder daughter's hands move the way your mother's once did before sunrise.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, an elderly grey-haired woman watching a young woman weave at a loom in early morning light, warm soft glow, tender proud mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "Rain still taps the same courtyard tiles, though the tiles themselves have been replaced twice in your lifetime.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a quiet rain-wet courtyard outside an old family workshop, soft grey daylight, calm nostalgic mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "She asks you, the way you once asked, why one color in the whole world belongs to just one man.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, a young woman and an elderly woman seated together at a loom, one asking a question, warm gentle light, reflective intimate mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "You tell her about the monks and the hollow cane, and watch the same wonder cross her face that once crossed yours.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, close framing on a young woman's wide wondering expression as an elder speaks beside her, warm firelit glow, warm nostalgic mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "daughter"
+          ]
+        },
+        {
+          "narration": "You do not tell her every year was calm; you tell her which years asked the most of steady hands.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, an elderly woman gazing quietly out a workshop window at dusk, soft fading light, reflective contemplative mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your husband is white-haired beside you now, still mending the same loom he brought to this house when he was young.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, an elderly grey-bearded man carefully repairing an old wooden loom, warm lamplight, tender quiet mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "Your younger daughter already knows the story of the hollow cane too, though she still half suspects it is not entirely true.",
+          "tone": "warm",
+          "image_prompt": "WIDE 16:9, a younger girl smiling skeptically while listening to a family story near a workshop hearth, warm firelight, warm playful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "The semantron sounds again at dusk, the sound that has measured every evening of your whole long life.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a distant peaceful view of a small church and quiet street at dusk, warm fading light, calm reverent mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "You guide your elder daughter's hand along the warp, and for one breath, the threads obey her instead of tangling.",
+          "tone": "tender",
+          "image_prompt": "WIDE 16:9, close framing of an elderly woman's hand guiding a young woman's hand along loom threads, warm side lighting, tender full-circle mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "Outside, Constantinople goes on trading, praying, and weaving, exactly as it did before you, and will after you.",
+          "tone": "calm",
+          "image_prompt": "WIDE 16:9, a wide peaceful view over Constantinople's rooftops and harbor at golden late afternoon, warm expansive light, calm timeless mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": []
+        },
+        {
+          "narration": "You close your eyes to the sound of her shuttle, steady, unhurried, carrying your family's thread into a life you will not see.",
+          "tone": "reflective",
+          "image_prompt": "WIDE 16:9, an elderly woman resting peacefully with eyes closed in a warm lamplit room while a loom clacks softly in the background, soft warm glow, reflective peaceful mood, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The Color You Could Be Killed For Wearing #shorts",
+      "description": "One color in Byzantine Constantinople belonged to the emperor alone. This is the full story of the family who wove it. #history #byzantine #shorts",
+      "scenes": [
+        {
+          "narration": "You are born into a family that has woven silk for generations, in a city built on one stolen secret.",
+          "ref": 9
+        },
+        {
+          "narration": "Two monks once smuggled silkworms out of China, hidden inside a hollow walking cane.",
+          "ref": 4
+        },
+        {
+          "narration": "By twelve, you can weave a plain bolt alone, checked thread by thread under lamplight.",
+          "ref": 13
+        },
+        {
+          "narration": "Then one market day, you see a color no ordinary hand is allowed to touch.",
+          "ref": 14
+        },
+        {
+          "narration": "It is Tyrian purple, worth more than its own weight in gold, reserved for the emperor alone.",
+          "ref": 15
+        },
+        {
+          "narration": "Even dyeing it without leave, your mother warns, is treated as a kind of theft.",
+          "ref": 16
+        },
+        {
+          "narration": "Years later, a foreign king's envoy lifts your own silk to the light, and says nothing at all.",
+          "ref": 47
+        }
+      ]
+    },
+    {
+      "title": "The Night Constantinople Nearly Burned #shorts",
+      "description": "A chariot-race chant turned into the riot that almost ended the Byzantine Empire. This is what it looked like from one rooftop. #history #constantinople #shorts",
+      "scenes": [
+        {
+          "narration": "At twenty, you know the Hippodrome only as noise, color, and cheering crowds.",
+          "ref": 27
+        },
+        {
+          "narration": "One afternoon, those same crowds turn into a single furious mob within the hour.",
+          "ref": 28
+        },
+        {
+          "narration": "They chant one word, nika, meaning victory, but no one in this city wins today.",
+          "ref": 29
+        },
+        {
+          "narration": "From your rooftop, you watch flame climb toward the church you were christened in.",
+          "ref": 30
+        },
+        {
+          "narration": "Your husband carries your family's silk into the cistern room, hoping water can save it.",
+          "ref": 31
+        },
+        {
+          "narration": "For three nights you listen to a city you love tear itself apart outside.",
+          "ref": 32
+        },
+        {
+          "narration": "When it ends, half of Constantinople lies blackened, and nothing here will be the same again.",
+          "ref": 33
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic forced three changes: removed the 10th-century guild-law anachronism, broke up a run of four stacked grim beats in the Nika riot chapter, and sharpened the cold open into a real stake.",
+  "thumbnail_prompt": "extreme close-up of a Byzantine woman's face lit by warm lamplight, calm awe as she looks toward an unseen bolt of deep purple silk just out of frame, weathered hands visible"
+}
