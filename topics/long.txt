@@ -1,6 +1,6 @@
 Your Life as a Roman Gladiator
 #done Your Life as a Royal Elephant Keeper in Mughal India
-Your Life as a Medieval Peasant Woman
+#done Your Life as a Medieval Peasant Woman
 #done Your Life as a Samurai's Wife in Edo Japan
 Your Life as an Egyptian Pyramid Builder
 #reserved Your Life as a Chola Temple Dancer
@@ -8,3 +8,13 @@ Your Life as a Viking Raider
 Your Life as an Ottoman Janissary
 Your Life as a Maratha Cavalry Soldier
 #reserved Your Life as an Aztec Merchant in Tenochtitlan
+Your Life as a Roman Centurion's Wife
+Your Life as a Medieval Castle Blacksmith
+Your Life as a Viking Shieldmaiden
+Your Life as an Egyptian Temple Scribe
+Your Life as a Royal Falconer in a Medieval Court
+Your Life as a Mughal Miniature Painter
+Your Life as a Vijayanagara Market Trader
+Your Life as a Byzantine Silk Weaver
+Your Life as a Joseon Court Physician
+Your Life as a Malian Salt Caravan Guide

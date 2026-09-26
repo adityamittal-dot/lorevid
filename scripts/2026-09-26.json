@@ -1,0 +1,616 @@
+{
+  "topic": "Your Life as a Medieval Peasant Woman After the Black Death",
+  "queue_item": "Your Life as a Medieval Peasant Woman",
+  "title": "Your Life as a Medieval Peasant Woman After the Black Death",
+  "thumbnail_text": "SHE SAID NOTHING",
+  "thumbnail_prompt": "extreme close-up of a young Englishwoman's face at the back of a dim manor hall, quietly hurt and composed expression while unheard voices argue nearby, warm firelight from one side, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+  "thumbnail_label": "ENGLAND, 1350s",
+  "thumbnails": [
+    {
+      "text": "SHE SAID NOTHING",
+      "highlight": "NOTHING",
+      "prompt": "extreme close-up of a young Englishwoman's face at the back of a dim manor hall, quietly hurt and composed expression while unheard voices argue nearby, warm firelight from one side, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "A FEE TO MARRY",
+      "highlight": "FEE",
+      "prompt": "extreme close-up of a young Englishwoman's face, uncertain curious expression, the blurred edge of a steward's hand counting coins in the background, warm interior light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "THE PLAGUE FREED HER",
+      "highlight": "FREED",
+      "prompt": "extreme close-up of a young Englishwoman's face, a complicated bittersweet expression of relief and grief mixed, a blurred glimpse of wide empty fields behind her, warm late-afternoon light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    }
+  ],
+  "description": "You are sixteen when the plague empties half your village, and the fields your neighbours once worked are suddenly, strangely, yours for the taking. Follow one Englishwoman's whole life in the decades after the Black Death — a marriage priced in shillings, a night of labour that could have ended in silence, and a slow, unglamorous kind of freedom no peasant before her ever held.\n\nA calm, unhurried second-person story to relax or fall asleep to, built on real manor records, wages, laws and events from fourteenth-century England.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#medievalengland",
+    "#blackdeath",
+    "#historyforsleep"
+  ],
+  "tags": [
+    "your life as",
+    "medieval england",
+    "black death",
+    "medieval peasant",
+    "middle ages",
+    "peasants revolt",
+    "wat tyler",
+    "history for sleep",
+    "boring history for sleep",
+    "daily life in history",
+    "bedtime history",
+    "sleep story",
+    "english history",
+    "14th century england"
+  ],
+  "music_mood": "melancholy",
+  "narrator_voice": "bf_isabella",
+  "ambience": "wind",
+  "era_setting": "An open-field manor village in Oxfordshire, England, modeled on the surviving records of Cuxham and Halesowen, about 1350-1400: timber and wattle-and-daub cottages, undyed grey and brown wool clothing, muddy lanes, a small stone parish church, and wide barley strips left half-empty by the Black Death.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a lean Englishwoman aging across the story from sixteen to past fifty, warm brown eyes, light brown hair in a plain braid under a linen coif, sun-weathered skin, wearing a grey undyed wool kirtle with a rope-tied apron"
+    },
+    {
+      "id": "husband",
+      "look": "a broad-shouldered Englishman with cropped brown hair, a short beard, a weathered tanned face, wearing a rough brown wool tunic, leather belt, and cross-gartered leg wraps"
+    },
+    {
+      "id": "father",
+      "look": "a stooped older Englishman with grey-streaked hair and a deeply lined weather-beaten face, wearing a patched brown wool tunic and a simple hood"
+    },
+    {
+      "id": "midwife",
+      "look": "a stout older Englishwoman with silver hair beneath a white linen coif, a calm weathered face, and work-worn hands, wearing a dark wool dress and apron"
+    },
+    {
+      "id": "daughter",
+      "look": "a fair-haired Englishwoman shown first as a small freckled girl in a plain undyed linen shift and later as a grown bride, warm open expression"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Spring the Village Fell Quiet",
+      "scenes": [
+        {
+          "narration": "By sunset tonight, you will know whether your family's land can feed four mouths through the winter, or only three.",
+          "tone": "urgent",
+          "image_prompt": "a worried young Englishwoman standing at the edge of a half-tilled field at dusk, staring at the darkening furrows, low golden sun, tense stillness, close framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "It is the spring after the great dying, and half the cottages on your lane stand with their doors shut and unopened.",
+          "tone": "calm",
+          "image_prompt": "a wide view down a muddy village lane, several small wattle-and-daub cottages with doors shut and weeds at the threshold, pale morning mist, sweeping landscape framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You are sixteen, and your mother is one the plague took, so the garden, the hens, and the salting of meat all fall to you now.",
+          "tone": "sad",
+          "image_prompt": "a solemn young Englishwoman kneeling in a small kitchen garden scattering feed for hens, a modest wooden cross visible near the fence, soft overcast light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your father never speaks of the shut houses, but each dawn he still walks past three of them on his way to the fields.",
+          "tone": "calm",
+          "image_prompt": "a stooped older Englishman walking a dirt path past three shuttered cottages at first light, long shadows, quiet resolve in his posture, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "father"
+          ]
+        },
+        {
+          "narration": "This year there is more land than there are hands left to work it, and the reeve has stopped pretending he does not need you.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman working alone with a hoe across a wide strip of tilled field, more open land than she can easily cover, midday light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your father counts nine strips of barley now tended by only six families, where before the dying there were eleven.",
+          "tone": "calm",
+          "image_prompt": "an older Englishman standing at a field boundary marker, counting strips of young green barley across a wide open-field landscape, overcast sky, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "father"
+          ]
+        },
+        {
+          "narration": "In the evenings you boil oats and dried peas into a pottage that thickens slowly over three days before it is finally gone.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman stirring a thick pottage over a hearth fire inside a dim one-room cottage, warm firelight, steam rising, intimate framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The bread is black rye, heavy and sour, but there is more of it this year than in your mother's best harvest.",
+          "tone": "warm",
+          "image_prompt": "a young Englishwoman slicing a dark heavy rye loaf at a rough wooden table, warm hearth light behind her, simple domestic mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Church bells still mark the hours as before, and on Sundays the same prayers rise, thinner now, over far fewer heads.",
+          "tone": "reflective",
+          "image_prompt": "a small stone parish church with a modest bell tower above a sparse gathering of villagers outside its door, soft grey morning light, wide framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Tonight the pottage is thick, the rye loaf plentiful, and your father, for the first time in months, eats until he is full.",
+          "tone": "warm",
+          "image_prompt": "a young Englishwoman and an older Englishman sharing a simple meal by firelight in a modest cottage, warm contented mood, close framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "father"
+          ]
+        },
+        {
+          "narration": "You do not know yet how this newly free land will decide who you marry, six long years from tonight.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman standing in a cottage doorway at dusk looking out over wide quiet fields, pensive expression, warm lamplight behind her, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Merchet and a Marriage",
+      "scenes": [
+        {
+          "narration": "Six summers later a ploughman from the next strip has taken to walking the long way past your gate most mornings.",
+          "tone": "calm",
+          "image_prompt": "a broad-shouldered Englishman walking along a fence line past a cottage gate in early morning light, purposeful but unhurried gait, warm golden mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "He holds two strips now instead of one, land freed by the same dying that widowed half the village, and it makes him a serious match.",
+          "tone": "calm",
+          "image_prompt": "a broad-shouldered Englishman standing between two wide strips of farmland, hand resting on a wooden fence post, confident stance, open sky, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "Your father counts out a dowry of one cooking pot, a length of grey wool, and a single young ewe, still fretting it is thin.",
+          "tone": "calm",
+          "image_prompt": "an older Englishman arranging a cooking pot, folded grey wool, and a young ewe on a table inside a modest cottage, worried expression, warm interior light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "father"
+          ]
+        },
+        {
+          "narration": "Because you are unfree, bound to the manor as your parents were, the lord's steward must be paid before you may wed at all.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman standing quietly outside a timber manor hall while a well-dressed steward counts coins at a table inside, formal composition, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The fee is called merchet, and your father haggles over it at the manor court the way another man haggles over a plough ox.",
+          "tone": "calm",
+          "image_prompt": "an older Englishman gesturing earnestly across a wooden table inside a timber manor court hall, a seated steward counting coins, warm indoor light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "father"
+          ]
+        },
+        {
+          "narration": "You stand at the back of the hall and hear your own worth argued over in shillings, and you say nothing, since nothing is expected of you.",
+          "tone": "tender",
+          "image_prompt": "a young Englishwoman standing quietly at the back of a dim timber manor hall, hands folded, listening, soft shafts of light from a high window, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The wedding is small: a blessing at the church door, ale and pottage after, a ring of plaited rushes since no one can spare silver.",
+          "tone": "warm",
+          "image_prompt": "a young Englishwoman and a broad-shouldered Englishman standing together at a stone church doorway receiving a blessing, small gathered villagers, soft warm daylight, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "You leave your mother's hearth for his, carrying your dowry pot and the wool on your own back, the whole short walk between two lives.",
+          "tone": "warm",
+          "image_prompt": "a young Englishwoman walking a short village path carrying a cooking pot and folded wool bundle, modest cottage ahead, warm late afternoon light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "His cottage is built of the same wattle and daub as your father's, one room, one hearth, shared in the coldest months with the ewe.",
+          "tone": "calm",
+          "image_prompt": "the interior of a small one-room wattle-and-daub cottage with a central hearth, a young ewe resting near the wall, warm dim firelight, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "You learn the rhythm of a household now yours to run: spinning by firelight, brewing ale every third day, milking before first light.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman spinning wool by firelight inside a modest cottage in the evening, focused expression, warm intimate glow, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Some mornings, walking the barley strips together, you catch him quietly working the sums of how much more you hold than his father ever did.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman and a broad-shouldered Englishman walking together along a green barley field at dawn, thoughtful expressions, soft morning light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "But the manor court is already murmuring about wages a new statute means to freeze, and neither of you yet knows what that will cost you.",
+          "tone": "tense",
+          "image_prompt": "a group of village men murmuring together outside a timber manor court hall, uneasy postures, overcast light, wide framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        }
+      ]
+    },
+    {
+      "title": "The Night the Midwife Was Sent For",
+      "scenes": [
+        {
+          "narration": "Three winters on, the reeve reads a new order at the church door, and you watch your husband's jaw tighten at every word of it.",
+          "tone": "calm",
+          "image_prompt": "a broad-shouldered Englishman standing tense-jawed in a small crowd outside a church door as an official reads from a scroll, grey overcast light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "He says nothing until you are both walking home, and then only that the fields still need hands, whatever the king's council decides to pay for them.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman and a broad-shouldered Englishman walking together down a quiet muddy lane at dusk, subdued mood, low warm light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "You keep your own counsel in front of others, because a woman who argues with the reeve is remembered unkindly at the next manor court.",
+          "tone": "calm",
+          "image_prompt": "a young Englishwoman standing composed and silent in a small village gathering, careful neutral expression, muted daylight, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That spring you are carrying your first child, and your mother-in-law walks the lane with you each evening so help is never far away.",
+          "tone": "warm",
+          "image_prompt": "a visibly pregnant young Englishwoman walking slowly along a village lane beside an older woman at dusk, gentle supportive mood, soft golden light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The village midwife has buried three of her own children and still says the same steady words to every frightened girl: breathe, and let your body work.",
+          "tone": "calm",
+          "image_prompt": "a stout older Englishwoman with a calm weathered face speaking gently to an unseen listener inside a dim cottage, warm candlelight, close framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "midwife"
+          ]
+        },
+        {
+          "narration": "Your pains begin at dusk in early autumn, and by midnight the midwife has sent a boy running for your husband, still out in the far field.",
+          "tone": "tense",
+          "image_prompt": "a young Englishwoman in labour lying on straw bedding inside a dim cottage as a boy runs off into the night through an open door, urgent mood, low firelight, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The labour goes on through the turning of one candle into the next, and twice the midwife's steady voice is the only calm thing in the room.",
+          "tone": "urgent",
+          "image_prompt": "a stout older Englishwoman steadying a labouring young Englishwoman by candlelight inside a small dim cottage room, tense intimate framing, flickering warm light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "midwife"
+          ]
+        },
+        {
+          "narration": "Somewhere near dawn you stop fearing the pain itself and start fearing only the silence that would follow if the child did not cry.",
+          "tone": "tense",
+          "image_prompt": "a young Englishwoman's exhausted strained face lit by a single guttering candle in the last hour before dawn, close intense framing, dim warm light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Then the cry comes, thin and furious and alive, and every woman in the room breathes out together, as if they had been holding it as one.",
+          "tone": "awe",
+          "image_prompt": "a relieved young Englishwoman and an older midwife both exhaling in a small candlelit cottage room as a newborn's cry fills the air, warm soft light, tender mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "midwife"
+          ]
+        },
+        {
+          "narration": "Your husband is let in at last, smelling of the field, and kneels to touch the baby's small fist, and the room goes gently quiet.",
+          "tone": "tender",
+          "image_prompt": "a broad-shouldered Englishman kneeling beside a straw bed to gently touch a newborn's fist while a young Englishwoman watches, warm candlelight, tender close framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "husband"
+          ]
+        },
+        {
+          "narration": "You think, half-asleep, of your own mother, who is not here to see this, and for the first time in years you let yourself grieve her plainly.",
+          "tone": "reflective",
+          "image_prompt": "a young Englishwoman lying half-asleep with a newborn, a single tear on her cheek, soft dawn light through a small window, tender quiet mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By the time the child sleeps, you have chosen her name, not knowing that within her lifetime the roads outside will fill with angry, unpaid men.",
+          "tone": "warm",
+          "image_prompt": "a young Englishwoman gazing tenderly at a sleeping newborn in the pale light of early morning, cottage window behind her, warm hopeful mood with a distant hint of open road beyond the glass, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Year the Roads Filled with Angry Men",
+      "scenes": [
+        {
+          "narration": "Your daughter is walking and talking by the year the king's men come a third time demanding the poll tax, the same coin from every soul.",
+          "tone": "calm",
+          "image_prompt": "a young mother watching her small daughter play near a cottage door while two royal tax officials speak with villagers down the lane, muted daylight, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "Your husband pays it for the four of you, then stands a long moment doing sums that will not come out right however he counts them.",
+          "tone": "calm",
+          "image_prompt": "a broad-shouldered Englishman standing still with an empty coin purse outside his cottage, troubled thoughtful expression, late afternoon light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "Word comes from Essex, then Kent, then closer, that villagers like you have stopped paying and started marching, led by men no grander than your reeve.",
+          "tone": "calm",
+          "image_prompt": "a traveling messenger speaking urgently to a small cluster of village men at a crossroads, wide landscape, overcast tense atmosphere, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Two men from your own manor leave before dawn to join them, and for a week you do not know whether your husband will follow.",
+          "tone": "tense",
+          "image_prompt": "two village men walking away down a misty road at first light carrying bundles, distant figures watching from cottage doorways, cool dawn light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "He does not go, choosing the child asleep by the hearth over whatever justice the roads to London might offer a peasant woman's husband this year.",
+          "tone": "calm",
+          "image_prompt": "a broad-shouldered Englishman standing quietly beside a hearth where a small girl sleeps, firelight, resolute tender mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "husband",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "News reaches Cuxham in pieces: a vast crowd in London, a boy king listening, a rebel leader named Tyler struck down before the whole crowd's eyes.",
+          "tone": "calm",
+          "image_prompt": "a distant dramatic scene of a huge crowd before a young king on horseback in a London field, one man falling among the throng, wide historical framing, muted dramatic light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "As far as anyone in your village can tell, the statute freezing wages is never formally undone, it simply stops being enforced quite so strictly, year by year.",
+          "tone": "reflective",
+          "image_prompt": "a wooden manor court notice board weathered by years of rain in an empty village square, quiet fading light, reflective mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your husband takes a third strip that spring, and pays for it in coin instead of owed labour, which his own father never once managed.",
+          "tone": "warm",
+          "image_prompt": "a broad-shouldered Englishman standing proudly on a newly acquired strip of farmland counting coins into his palm, warm spring light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "husband"
+          ]
+        },
+        {
+          "narration": "You notice, hanging wool to dye by the door, that your daughter will grow up owning more of her own hands than you ever did.",
+          "tone": "warm",
+          "image_prompt": "a young mother hanging dyed wool to dry outside a cottage door while a small girl plays nearby, warm affectionate afternoon light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "daughter"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "An Ordinary Old Age",
+      "scenes": [
+        {
+          "narration": "You are past fifty when your daughter marries, and for her dowry you give a cooking pot, good wool, and a ewe descended from your own.",
+          "tone": "calm",
+          "image_prompt": "an older Englishwoman arranging a cooking pot, wool, and a ewe for her adult daughter's wedding dowry inside a modest cottage, warm proud mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "No steward argues over merchet this time, since her intended is a free man now, bound to no lord for the right to wed.",
+          "tone": "warm",
+          "image_prompt": "a young Englishwoman in wedding dress standing at a church door beside her groom with no official present to collect a fee, warm bright daylight, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "daughter"
+          ]
+        },
+        {
+          "narration": "You have buried a husband, a mother, and one child too small to name properly, and you no longer flinch when you count them over.",
+          "tone": "reflective",
+          "image_prompt": "an older Englishwoman standing quietly beside three small weathered grave markers in a churchyard, soft grey light, reflective composed mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Some evenings you still pass the three cottages shut the year you were sixteen, long since rebuilt by families who never learned why the land was free.",
+          "tone": "reflective",
+          "image_prompt": "an older Englishwoman walking past three now-rebuilt, lived-in cottages at dusk, warm lamplight in their windows, nostalgic wide framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You keep two strips of barley now, not your mother's half of one, and a granddaughter follows you down the rows asking why things are this way.",
+          "tone": "warm",
+          "image_prompt": "an older Englishwoman walking through a wide green barley field with a small curious girl following close behind, warm late afternoon light, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You tell her about merchet, and pottage cooked three slow days, and a night the midwife sat with you until dawn, and she half believes you.",
+          "tone": "tender",
+          "image_prompt": "an older Englishwoman telling a story to a small wide-eyed girl by the hearth in the evening, warm intimate firelight, tender mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The church bell rings the same hours it rang when you were a girl, and the same Latin words rise thin over the same worn stones.",
+          "tone": "calm",
+          "image_prompt": "a small weathered stone parish church at dusk with soft light glowing from within, quiet timeless mood, wide framing, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "In the evenings you sit by the fire mending wool you no longer need to sell, because there is, for the first time in your family's memory, enough.",
+          "tone": "warm",
+          "image_prompt": "an older Englishwoman contentedly mending wool by a warm hearth fire in a comfortable cottage interior, soft golden light, peaceful mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You do not call what followed the plague a blessing, only a strange, hard-won room your family finally had space to grow into.",
+          "tone": "reflective",
+          "image_prompt": "an older Englishwoman standing in a cottage doorway looking out over wide quiet fields at golden hour, contemplative composed expression, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your granddaughter falls asleep against your side before the fire burns low, and you sit a while longer, listening to the wind in the thatch.",
+          "tone": "calm",
+          "image_prompt": "an older Englishwoman sitting by a low dying fire with a small girl asleep against her side, deep warm dim light, peaceful quiet mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Somewhere past midnight you bank the fire, glance once at the sleeping child, and think that whatever this life cost you, it was entirely your own.",
+          "tone": "warm",
+          "image_prompt": "an older Englishwoman gently banking the embers of a hearth fire late at night, a sleeping child on a nearby pallet, deep warm glow, serene closing mood, medieval England, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "They Priced Her Marriage in Shillings #shorts",
+      "description": "In medieval England, an unfree peasant woman's marriage had a literal price tag. #history #medievalengland #yourlifeas",
+      "scenes": [
+        {
+          "narration": "In medieval England, an unfree woman needed her lord's permission, and a fee, just to marry.",
+          "ref": 14
+        },
+        {
+          "narration": "Her father haggles over that fee the way another man haggles over a plough ox.",
+          "ref": 15
+        },
+        {
+          "narration": "She stands at the back of the hall, hearing her own worth argued over in shillings.",
+          "ref": 16
+        },
+        {
+          "narration": "Years later, that same court starts murmuring about freezing the wages her family finally earns.",
+          "ref": 22
+        },
+        {
+          "narration": "When the roads fill with angry men marching on London, her husband chooses to stay home.",
+          "ref": 39
+        },
+        {
+          "narration": "By the time her own daughter weds, no steward argues over any fee at all.",
+          "ref": 45
+        },
+        {
+          "narration": "Her daughter inherits a freedom she never had — this is the full story of how.",
+          "ref": 43
+        }
+      ]
+    },
+    {
+      "title": "The Night the Midwife Was Sent For #shorts",
+      "description": "One agonising night decides everything for a peasant mother in plague-era England. #history #childbirth #yourlifeas",
+      "scenes": [
+        {
+          "narration": "Her pains begin at dusk, and by midnight someone is running through the dark for her husband.",
+          "ref": 28
+        },
+        {
+          "narration": "The labour goes on for hours, one candle burning down into the next.",
+          "ref": 29
+        },
+        {
+          "narration": "Near dawn she stops fearing the pain, and starts fearing only one terrible silence.",
+          "ref": 30
+        },
+        {
+          "narration": "Then the cry comes, thin and furious and alive, and the whole room breathes again.",
+          "ref": 31
+        },
+        {
+          "narration": "Her husband, still smelling of the field, kneels to touch the baby's fist for the first time.",
+          "ref": 32
+        },
+        {
+          "narration": "Half-asleep, she finally lets herself grieve the mother who isn't there to see this.",
+          "ref": 33
+        },
+        {
+          "narration": "She names her daughter that night, never guessing the world her child will grow up to inherit.",
+          "ref": 34
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic forced a multi-year time-skip before the marriage (fixing a timeline clash with our own research on marriage age), a hedge on the debated wage-statute claim, and a genuine open loop at the end of chapter 3 instead of an early-resolved theme."
+}
