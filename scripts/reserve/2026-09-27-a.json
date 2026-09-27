@@ -1,0 +1,680 @@
+{
+  "topic": "Your Life as a Maratha Cavalry Soldier",
+  "queue_item": "Your Life as a Maratha Cavalry Soldier",
+  "title": "Your Life as a Maratha Cavalry Soldier",
+  "thumbnail_text": "THE CANNON MISSED HIM",
+  "thumbnail_prompt": "extreme close-up of a young Maratha cavalryman's face at the instant a cannon shot tears past, wide shocked eyes, drifting battle smoke and a blurred rearing horse behind him, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+  "thumbnail_label": "MARATHA DECCAN 1728",
+  "thumbnails": [
+    {
+      "text": "THE CANNON MISSED HIM",
+      "highlight": "MISSED",
+      "prompt": "extreme close-up of a young Maratha cavalryman's face at the instant a cannon shot tears past, wide shocked eyes, drifting battle smoke and a blurred rearing horse behind him, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "WON WITHOUT ONE BATTLE",
+      "highlight": "WITHOUT",
+      "prompt": "extreme close-up of a calm, weathered Maratha captain's face, a faint knowing look, a blurred vast enemy camp and river visible behind him, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "FED HIS HORSE FIRST",
+      "highlight": "HORSE",
+      "prompt": "extreme close-up of a tired young Maratha soldier's face at dusk, warm affection, the blurred muzzle of his horse just beside his own face, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    }
+  ],
+  "description": "You are a farmer's son the morning a horseman rides in calling every able man to the fort, and by nightfall you belong to someone else's army. Follow one Maratha cavalryman's whole life — a bloodless siege at Palkhed that outmaneuvers an empire, a boy you find by a river you never forget, and the long, quiet seasons of farming and fatherhood in between.\n\nA calm, unhurried second-person story to relax or fall asleep to, built on real Maratha military records, tactics and events from the early eighteenth-century Deccan.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#maratha",
+    "#cavalry",
+    "#historyforsleep"
+  ],
+  "tags": [
+    "your life as",
+    "maratha empire",
+    "maratha cavalry",
+    "shivaji",
+    "baji rao",
+    "battle of palkhed",
+    "deccan history",
+    "indian history",
+    "history for sleep",
+    "boring history for sleep",
+    "daily life in history",
+    "bedtime history",
+    "sleep story",
+    "18th century india"
+  ],
+  "music_mood": "epic_soft",
+  "narrator_voice": "bm_george",
+  "ambience": "wind",
+  "era_setting": "The Deccan plateau of western India under the Maratha empire, roughly the 1720s: grey basalt hill forts, dusty campaign plains and river crossings, quilted cotton cavalry coats and cloth turbans in earthen reds and ochres, and the green monsoon fields of the Western Ghats between campaigns.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a lean, wiry Maratha man shown across the story from a boy of about sixteen to an old man past sixty: sun-browned skin, dark eyes, black hair oiled and knotted at the neck when young and grey and cropped short when old, growing a full grey beard in old age; wears a plain cotton dhoti as a village boy, later a quilted maroon-brown cavalry coat, tight cotton breeches, a waist sash holding a curved sword, and a simple faded-orange cloth turban"
+    },
+    {
+      "id": "mother",
+      "look": "a slight, work-worn Maratha woman with silver-streaked black hair pulled into a low knot, deep smile lines, and calloused hands, wearing a plain earth-toned cotton sari with a faded red border"
+    },
+    {
+      "id": "father",
+      "look": "a stocky older Maratha man with a grey mustache and sun-cracked hands, wearing a simple white cotton dhoti and a rough brown woolen shawl over one shoulder"
+    },
+    {
+      "id": "mentor",
+      "look": "a broad-shouldered older Maratha horseman with a long grey mustache and a thin scar across one cheekbone, wearing a quilted maroon cavalry coat, a wound cloth sash, and a faded orange turban"
+    },
+    {
+      "id": "wife",
+      "look": "a warm-faced Maratha woman with dark hair in a long braid, wearing a deep blue cotton sari with simple silver bangles, aging gracefully into grey hair across later scenes"
+    },
+    {
+      "id": "son",
+      "look": "shown first as a Maratha infant, then as a lean young man with dark eyes and black hair tied back like his father, wearing a plain cotton wrap as a child and a quilted cavalry coat and turban as a grown shiledar"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Recruiting Ground",
+      "scenes": [
+        {
+          "narration": "A horseman gallops into your village at dawn, calling every able young man to the fort by nightfall, and your whole life tilts on that single shout.",
+          "tone": "urgent",
+          "image_prompt": "a young Maratha villager turning sharply toward a distant horseman silhouetted on a dusty rise at dawn, dry fields around him, low golden light, tense stillness, mid shot from behind, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By the time the sun clears the hills, you will belong to someone else's army, though you do not yet know if that thought terrifies or steadies you.",
+          "tone": "urgent",
+          "image_prompt": "a young Maratha man staring at his own open palms in pale dawn light outside a mud-walled hut, uncertain conflicted expression, soft rim light, close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your father presses a small brass token into your palm, the same one he carried as a bargir twenty years before this dawn.",
+          "tone": "calm",
+          "image_prompt": "an older Maratha man pressing a small worn brass token into a young man's palm outside a village home, both hands lit by early morning light, intimate close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "father"
+          ]
+        },
+        {
+          "narration": "Your mother does not weep where you can see her; she only ties a thread of red cotton around your wrist and turns away.",
+          "tone": "tender",
+          "image_prompt": "a Maratha mother tying a thin red cotton thread around her son's wrist in a dim doorway, her face turned slightly away, warm interior light, tender close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "At the fort's dusty maidan you stand among forty other new riders, all of you waiting to learn a horse that does not trust any of you yet.",
+          "tone": "calm",
+          "image_prompt": "a wide dusty parade ground below a hill fort at midday, dozens of young recruits standing beside restless horses, dust haze, wide landscape framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The recruiting officer studies your shoulders and the calluses already hard on your palms, then simply nods you toward the state's own horses.",
+          "tone": "calm",
+          "image_prompt": "a stern Maratha recruiting officer examining a young recruit's calloused hands at a fort gate, rows of state horses tethered behind, warm midday light, medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are a bargir now, given a horse and a sword from the fort's stock rather than owning either one yourself.",
+          "tone": "calm",
+          "image_prompt": "a young Maratha bargir accepting a plain sword and reins from a quartermaster beside a stone fort wall, muted afternoon light, medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The Bhimthadi they lead out for you is small and plain, bred from desert stock and hill ponies built for distance, not beauty.",
+          "tone": "calm",
+          "image_prompt": "a young Maratha rider standing beside a small sturdy unremarkable brown Bhimthadi horse in a fort stable yard, soft afternoon light, medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "An old shiledar, a trooper who owns his own horse and sword, tells you speed will save you long before steel ever does.",
+          "tone": "reflective",
+          "image_prompt": "a grizzled veteran Maratha horseman speaking to a young recruit beside a picket line of horses at dusk, warm low light, medium two-shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "He shows you how to wrap the reins so your grip never slips, and how to feel a slope through the horse's shoulders before your eyes do.",
+          "tone": "warm",
+          "image_prompt": "an older Maratha horseman guiding a young rider's hands on the reins of a horse on a sloped hillside path, golden late light, close medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "At dusk you eat bhakri baked on a flat stone, dark jowar bread that tastes better than anything from your mother's own kitchen.",
+          "tone": "calm",
+          "image_prompt": "a young Maratha soldier eating dark flatbread cooked on a flat stone beside a small campfire at a fort courtyard, warm firelight, intimate close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A letter reaches the fort as the fires die down, and by morning your whole troop is ordered north toward the Nizam's marching army.",
+          "tone": "reflective",
+          "image_prompt": "a fort messenger handing a sealed letter to an officer beside dying campfires at night, torchlight, other young riders watching in the background, wide medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Dry-Season March",
+      "scenes": [
+        {
+          "narration": "You learn within a single day that a campaign is mostly waiting, broken now and then by sudden, total motion.",
+          "tone": "calm",
+          "image_prompt": "a long column of Maratha cavalry resting in tall grass under harsh midday sun, horses grazing, riders lounging in patches of shade, wide landscape framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The column rides before first light, while the grass still holds the night's coolness, and rests through the worst of the noon heat.",
+          "tone": "calm",
+          "image_prompt": "a long line of Maratha horsemen riding through misty grassland just before sunrise, cool blue-grey light, sweeping wide landscape framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Each rider carries roasted gram, a little rice, and raw sugar wrapped in cloth, with flour saved to bake once the column finally halts.",
+          "tone": "warm",
+          "image_prompt": "a young Maratha rider checking a small cloth bundle of grain and raw sugar tied to his saddle while riding, warm daylight, medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Word passes down the line without a single trumpet call: ride wide of the river villages, and harm no woman or child.",
+          "tone": "tense",
+          "image_prompt": "a file of Maratha horsemen riding at a careful distance past a small riverside village of farmers, wary alert postures, hazy afternoon light, wide framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You have known this rule since boyhood, but only now, riding past farmers who barely glance up, do you feel its true weight.",
+          "tone": "calm",
+          "image_prompt": "a young Maratha rider glancing toward calm unbothered farmers working a field as his column passes, soft afternoon light, medium shot from the rider's side, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At dusk the Peshwa's own scouts slip back into camp disguised as ordinary travelers, carrying word of the enemy no drum could carry faster.",
+          "tone": "awe",
+          "image_prompt": "plainly dressed Maratha scouts slipping quietly into a dusk campfire circle, cloaks and traveling bundles, firelight and shadow, wide medium framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your captain repeats only what matters from their reports, so the whole troop moves as if it shares a single set of eyes.",
+          "tone": "calm",
+          "image_prompt": "a Maratha cavalry captain speaking low to a gathered circle of mounted riders at dusk, firelight on attentive faces, medium group shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Before you eat each evening you groom the Bhimthadi first, since a hungry horse kills its rider faster than any sword ever could.",
+          "tone": "calm",
+          "image_prompt": "a young Maratha soldier brushing down his tired horse beside a campfire at dusk before eating himself, warm firelight, intimate close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Around the cooking fires the men murmur Bhavani's name, and you touch the red thread at your wrist and think only of your mother's hands.",
+          "tone": "tender",
+          "image_prompt": "a young Maratha soldier touching a red thread on his wrist by a low campfire while other soldiers murmur quietly nearby, warm intimate firelight, close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Somewhere ahead the Nizam's army crawls forward, dragging cannon and a baggage train longer than your entire village put together.",
+          "tone": "reflective",
+          "image_prompt": "a distant, immense slow-moving enemy army with heavy cannon and a long baggage train crossing a dusty plain, wide sweeping landscape framing, hazy heat, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your captain calls this slowness the only weapon your side needs, since a force that cannot run can never truly escape.",
+          "tone": "calm",
+          "image_prompt": "a Maratha captain gesturing toward a distant slow enemy column while young riders listen intently on horseback, warm daylight, medium group shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "On the ninth day a rider returns at a dead gallop, and the entire column wheels north without one word of complaint.",
+          "tone": "urgent",
+          "image_prompt": "a lone Maratha rider galloping hard toward a large mounted column that is already wheeling to turn, dust flying, dramatic wide action framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "By nightfall everyone knows the name of the place you are riding toward: Palkhed, and the river the Nizam's army will need to survive.",
+          "tone": "tense",
+          "image_prompt": "a young Maratha rider looking ahead toward a dark horizon at night, distant campfires of a massive enemy army glowing faintly across a river valley, moody wide framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Palkhed",
+      "scenes": [
+        {
+          "narration": "By the time you reach the plain, the Nizam's great army is already circled, pinned in place by its own slow baggage train.",
+          "tone": "tense",
+          "image_prompt": "an enormous enemy army and baggage train encircled on an open plain by distant fast-moving Maratha cavalry units, dramatic aerial-feeling wide composition, dusty haze, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your wing rides for the Godavari, and your captain gives only one order: nothing drinks from this river tonight but us.",
+          "tone": "calm",
+          "image_prompt": "a determined line of Maratha horsemen riding hard toward a wide river under harsh daylight, captain gesturing ahead, dynamic medium-wide action framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "You do not fight in the tidy ranks of old stories; you ride, wheel, and vanish before enemy guns can ever turn to follow.",
+          "tone": "calm",
+          "image_prompt": "a Maratha horseman wheeling sharply away from distant enemy gun smoke on an open battlefield, motion blur in dust, dynamic mid-action framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Dust rises around the horses' legs like smoke, and for a moment the whole world narrows to hoofbeats and your own breath.",
+          "tone": "calm",
+          "image_prompt": "close low-angle view of a galloping horse's legs kicking up thick dust under bright sun, rider's tense hands on the reins visible above, intense close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A single cannon fires from the Nizam's line, and the shot tears past close enough that your horse screams and nearly throws you.",
+          "tone": "urgent",
+          "image_prompt": "a young Maratha rider's horse rearing in shock as a cannonball tears past overhead, drifting gun smoke in the distance, dramatic dynamic mid-shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You steady him with your knees the way the old shiledar taught you, and somehow you are still mounted when the smoke finally clears.",
+          "tone": "calm",
+          "image_prompt": "a young Maratha rider steadying a frightened horse with calm firm control as drifting smoke clears around them, warm relieved light, medium action framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By the riverbank you find a boy no older than your own younger brother, a Nizam's trooper, dead beside a horse that will not leave him.",
+          "tone": "sad",
+          "image_prompt": "a solemn young Maratha rider dismounted beside a fallen young enemy soldier at a quiet riverbank, a riderless horse standing close by, soft somber light, respectful distant framing, no gore, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are ordered on before you can think too long about him, and that, more than the cannon, is the thing that stays with you.",
+          "tone": "reflective",
+          "image_prompt": "a young Maratha rider glancing back once over his shoulder while riding away from a riverbank, distant and troubled expression, muted afternoon light, medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "For three long days your wing holds every crossing and every well, while the Nizam's men grow gaunt with thirst behind their own lines.",
+          "tone": "calm",
+          "image_prompt": "a line of Maratha cavalry calmly guarding a river crossing and well under bright sun, distant weary enemy camp visible across the water, wide tense-calm framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "On the fourth morning a strange quiet spreads down the picket line before anyone has said a single word aloud.",
+          "tone": "calm",
+          "image_prompt": "rows of resting Maratha cavalrymen and horses at dawn, still and watchful, soft pale early light, wide quiet framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Word finally comes that the Nizam has agreed to terms, and the whole camp erupts in a cheer without one great battle ever being fought.",
+          "tone": "warm",
+          "image_prompt": "a joyful crowd of Maratha soldiers cheering and embracing beside their horses at a river camp, warm golden afternoon light, wide celebratory framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your captain says this is how Baji Rao wins his wars, not by killing the most men, but by leaving the enemy nothing to fight for.",
+          "tone": "reflective",
+          "image_prompt": "a thoughtful Maratha captain and a young rider standing together looking out over a river valley at dusk, calm warm light, medium two-shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That night, for the first time since leaving home, you sleep without your sword under your hand, and dream only of a cooking fire.",
+          "tone": "tender",
+          "image_prompt": "a young Maratha soldier sleeping peacefully beside a dying campfire, sword set aside rather than gripped, soft moonlight, intimate quiet framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Seasons Between",
+      "scenes": [
+        {
+          "narration": "The monsoon arrives, and campaigning ends the way it always does, by an unspoken agreement neither army needs to sign.",
+          "tone": "calm",
+          "image_prompt": "heavy monsoon rain sweeping across an empty Deccan campaign plain, distant hills wrapped in mist, moody atmospheric wide landscape, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You ride home along muddy roads to a village that has aged half a season without you waiting for your return.",
+          "tone": "warm",
+          "image_prompt": "a young Maratha rider leading his horse along a muddy monsoon road toward a familiar village, warm hazy light, medium-wide framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your mother's hands find your face before she says a single word, and for a moment you are only her son again.",
+          "tone": "tender",
+          "image_prompt": "a Maratha mother cupping her grown son's face in both hands at her doorway in the rain, tender emotional close framing, soft warm light, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mother"
+          ]
+        },
+        {
+          "narration": "You spend the wet months mending fences and walking behind a plough, surprised at how quickly your body remembers farming.",
+          "tone": "calm",
+          "image_prompt": "a Maratha man guiding a plough behind oxen through a wet green monsoon field, soft grey light, wide pastoral framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The brass token from your father sits in a small box now, beside a second one earned at Palkhed's river crossing.",
+          "tone": "reflective",
+          "image_prompt": "a close view of two small worn brass tokens resting together in an open wooden box on a windowsill, soft interior light, intimate still-life framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The years fall into a rhythm you come to trust: riding in the dry months, farming through the rains, season after season.",
+          "tone": "warm",
+          "image_prompt": "a split impression of a Maratha man riding across dry golden grassland and, faded beside it, walking behind a plough in green monsoon fields, warm painterly wide framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "In time you earn a shiledar's rank, buying your own horse and sword at last with pay saved through years of service.",
+          "tone": "warm",
+          "image_prompt": "a proud Maratha man examining a fine new horse and sword of his own outside a market stall, warm afternoon light, medium shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Not every season ends the same way; one year the old shiledar who taught you the reins never comes home from the Konkan hills.",
+          "tone": "sad",
+          "image_prompt": "a riderless saddled horse standing alone at the edge of a misty hill camp at dawn, other soldiers looking on quietly, somber muted light, wide respectful framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor"
+          ]
+        },
+        {
+          "narration": "You marry in a monsoon month, when the roads are far too soft for any army to move, even one carrying a wedding party.",
+          "tone": "calm",
+          "image_prompt": "a Maratha wedding couple standing together under a simple canopy in soft monsoon rain, warm joyful colors, medium framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "wife"
+          ]
+        },
+        {
+          "narration": "Your wife learns to read the particular silence you carry home after a hard season, and she never once asks about the boy by the river.",
+          "tone": "tender",
+          "image_prompt": "a Maratha woman quietly resting a hand on her husband's shoulder as he sits silently by their home fire, warm dim interior light, intimate close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "wife"
+          ]
+        },
+        {
+          "narration": "Your own son is born between one season's campaign and the next, small fists already curling tight around your finger.",
+          "tone": "warm",
+          "image_prompt": "a Maratha father gently holding his newborn son's tiny curled hand around his finger, mother resting nearby, warm soft lamplight, intimate close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "wife",
+            "son"
+          ]
+        },
+        {
+          "narration": "You tie the same red thread, worn thinner now, around a wrist smaller than yours ever was, and say nothing your own mother didn't say.",
+          "tone": "tender",
+          "image_prompt": "a Maratha father tying a thin red cotton thread around his young son's small wrist in a warm doorway, tender close framing, soft golden light, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You tell your son almost nothing of Palkhed for years, only that a good rider wins through patience, never through anger.",
+          "tone": "reflective",
+          "image_prompt": "a Maratha father and young son sitting together grooming a horse in a stable yard, calm warm evening light, medium two-shot, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Elder's Fire",
+      "scenes": [
+        {
+          "narration": "Grey now, you sit most evenings by your own fire instead of a campaign one, listening to younger men argue about horses.",
+          "tone": "calm",
+          "image_prompt": "a grey-haired elderly Maratha man sitting by a home fire in the evening, younger men talking animatedly nearby, warm firelight, medium wide framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your son rides a shiledar's horse of his own these days, earned the same slow way that you once earned yours.",
+          "tone": "warm",
+          "image_prompt": "a grown Maratha man riding a fine horse of his own out through a village gate at dawn, warm golden light, medium-wide framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "son"
+          ]
+        },
+        {
+          "narration": "Each dry season you press a small brass token into his palm without a word, the way your own father once did for you.",
+          "tone": "warm",
+          "image_prompt": "an elderly Maratha man pressing a small brass token into his grown son's palm at a doorway, echoing an old memory, warm morning light, close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You have outlived the old shiledar, two horses, and more battles than you now care to admit counting up.",
+          "tone": "reflective",
+          "image_prompt": "an elderly Maratha man standing alone beside an empty stable, worn saddle hanging on the wall, soft late afternoon light, quiet reflective framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Yet the smell of woodsmoke and wet wool can still call the whole of Palkhed back to you in an instant.",
+          "tone": "awe",
+          "image_prompt": "an elderly Maratha man closing his eyes by a woodsmoke fire, a faint ghostly impression of a distant battlefield drifting in the smoke behind him, atmospheric warm light, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Some nights you still feel the exact moment your horse steadied beneath you, cannon smoke drifting past like a held breath.",
+          "tone": "awe",
+          "image_prompt": "an elderly Maratha man's face lit by firelight, eyes distant, faint translucent memory of drifting cannon smoke behind him, moody atmospheric close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your grandchildren ask if you were ever afraid, and you tell them the truth: only once, by a river, over a boy you never knew.",
+          "tone": "tender",
+          "image_prompt": "an elderly Maratha man speaking gently to wide-eyed grandchildren gathered around a warm fire, soft golden firelight, intimate group framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You tell them the rest too: the bhakri baked on stone, and Bhavani's name murmured low around a hundred cooking fires.",
+          "tone": "calm",
+          "image_prompt": "an elderly Maratha man gesturing as he tells a story to attentive children by firelight, warm cozy interior, medium framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You tell them, too, about the discipline that once let farmers become an army no larger empire could ever quite corner.",
+          "tone": "reflective",
+          "image_prompt": "an elderly Maratha man looking thoughtfully into the fire while children listen quietly around him, warm dim light, intimate framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A rider still passes through the village each dry season, calling for young men the way one once called for you.",
+          "tone": "calm",
+          "image_prompt": "a young horseman riding through a quiet village lane at dawn, villagers glancing up from doorways, warm early light, wide nostalgic framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You watch your grandson's shoulders straighten at the sound, the same way yours once did on that very first morning.",
+          "tone": "warm",
+          "image_prompt": "an elderly Maratha man watching his young grandson stand a little taller at the sound of distant hoofbeats, warm golden light, tender medium framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The wind moves through the millet fields the same patient way it once moved through the tall grass at Palkhed.",
+          "tone": "calm",
+          "image_prompt": "wind rippling gently across golden millet fields at sunset, distant hills beyond, wide peaceful painterly landscape framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "And when your eyes finally close by the fire, it is not the cannon you hear, but your mother's hands, and a horse breathing quietly in the dark.",
+          "tone": "tender",
+          "image_prompt": "an elderly Maratha man peacefully closing his eyes by a low glowing fire at night, serene warm light, intimate close framing, Maratha Deccan cavalry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The Battle Baji Rao Won Without Fighting #shorts",
+      "description": "At Palkhed in 1728, Maratha cavalry surrounded a whole Mughal-allied army and cut off its water. #history #maratha #shorts",
+      "scenes": [
+        {
+          "narration": "The Nizam's whole army is already circled, trapped by its own slow baggage train.",
+          "ref": 25
+        },
+        {
+          "narration": "One order comes down the line: nothing drinks from this river tonight but us.",
+          "ref": 26
+        },
+        {
+          "narration": "A cannon fires, and the shot tears past close enough to nearly throw you.",
+          "ref": 29
+        },
+        {
+          "narration": "By the riverbank you find a boy no older than your own younger brother.",
+          "ref": 31
+        },
+        {
+          "narration": "For three days your wing holds every well, while the enemy grows gaunt with thirst.",
+          "ref": 33
+        },
+        {
+          "narration": "The Nizam surrenders, and a whole army goes home without one great battle fought.",
+          "ref": 35
+        }
+      ]
+    },
+    {
+      "title": "A Farmer's Son Rode to War, Then Grew Old by the Fire #shorts",
+      "description": "One farmer's son becomes a Maratha cavalry veteran, and never forgets the boy he found by the river. #history #yourlifeas #shorts",
+      "scenes": [
+        {
+          "narration": "A horseman gallops into your village at dawn, and your whole life tilts on one shout.",
+          "ref": 0
+        },
+        {
+          "narration": "They hand you a small, unremarkable horse bred for distance, never for beauty.",
+          "ref": 7
+        },
+        {
+          "narration": "An old shiledar tells you speed will save you long before steel ever does.",
+          "ref": 8
+        },
+        {
+          "narration": "Your wife learns your silences, and never once asks about the boy by the river.",
+          "ref": 47
+        },
+        {
+          "narration": "You outlive the old shiledar, two horses, and more battles than you admit counting.",
+          "ref": 54
+        },
+        {
+          "narration": "Your grandson's shoulders straighten at hoofbeats, the way yours once did, long ago.",
+          "ref": 61
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic caught a real anachronism (naming Shivaji-era spymaster Bahirji Naik at the 1728 Battle of Palkhed) and forced a sharper stake into the opening hook plus tighter scene lengths."
+}
