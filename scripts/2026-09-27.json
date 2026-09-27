@@ -1,0 +1,641 @@
+{
+  "topic": "Your Life as an Egyptian Pyramid Builder",
+  "queue_item": "Your Life as an Egyptian Pyramid Builder",
+  "title": "Your Life as an Egyptian Who Built the Great Pyramid",
+  "thumbnail_text": "HIS NAME NEVER SEEN",
+  "thumbnail_prompt": "Extreme close-up of a young sun-browned Egyptian laborer's face, dust on his brow, eyes distant with quiet exhausted pride, faint pale stone blocks blurred behind him, warm dusk light",
+  "thumbnail_label": "GIZA, OLD KINGDOM",
+  "thumbnails": [
+    {
+      "text": "HIS NAME NEVER SEEN",
+      "highlight": "NEVER",
+      "prompt": "Extreme close-up of a young sun-browned Egyptian laborer's face, dust on his brow, eyes distant with quiet exhausted pride, faint pale stone blocks blurred behind him, warm dusk light"
+    },
+    {
+      "text": "THE STONE NOBODY SEES",
+      "highlight": "NOBODY",
+      "prompt": "Extreme close-up of a young sun-browned Egyptian laborer's face, wide-eyed with wonder, faint torchlight flicker reflected in his eyes, a carved stone surface hinted behind him, warm amber light"
+    },
+    {
+      "text": "PAID IN BEER",
+      "highlight": "BEER",
+      "prompt": "Extreme close-up of a young sun-browned Egyptian laborer's face, a small wry contented smile, a clay beer jar held just below frame, warm golden hour light"
+    }
+  ],
+  "description": "He was not a slave — he was a farmer, called up every flood season to help raise the tallest thing anyone in his world had ever seen. This is the true, grounded story of the men who built the Great Pyramid of Giza: the crews with their own names, the bread and beer that paid their wages, the healers who set their broken bones, and the mark one of them left sealed in the dark, meant to outlast every one of us.\n\nBuilt from archaeological research on the Giza workers' village, the Diary of Merer, and the skeletal evidence behind the ancient laborers of Old Kingdom Egypt — told slow and warm, for winding down at the end of your day.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#ancientegypt",
+    "#pyramids",
+    "#historyforsleep"
+  ],
+  "tags": [
+    "ancient egypt",
+    "pyramid builders",
+    "great pyramid of giza",
+    "history for sleep",
+    "your life as a",
+    "ancient history documentary",
+    "khufu pyramid",
+    "egyptian history",
+    "old kingdom egypt",
+    "bedtime history",
+    "how were the pyramids built",
+    "history documentary",
+    "relaxing history",
+    "giza egypt"
+  ],
+  "music_mood": "epic_soft",
+  "narrator_voice": "am_onyx",
+  "ambience": "fire",
+  "era_setting": "Giza, Egypt, Old Kingdom, roughly 2560 BCE: a mudbrick workers' town beside the rising Great Pyramid, pale limestone blocks, sun-bleached linen, warm ochre and dust-gold desert palette",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a lean, sun-browned young Egyptian farmer-laborer in his early twenties, short cropped black hair, calloused bare feet, wearing only a plain undyed linen loincloth"
+    },
+    {
+      "id": "senet",
+      "look": "a young Egyptian woman with warm brown skin, dark hair bound in a simple knot, wearing a plain ankle-length linen sheath dress and a small clay amulet necklace"
+    },
+    {
+      "id": "nakht",
+      "look": "a broad-shouldered, weathered older Egyptian laborer with a shaved head, missing a front tooth, wearing a plain linen loincloth wrapped low on the hips"
+    },
+    {
+      "id": "kha",
+      "look": "a slender middle-aged Egyptian overseer with a shaved head, kohl-lined eyes, ink-stained fingers, wearing a crisp pleated white linen kilt"
+    },
+    {
+      "id": "merer",
+      "look": "a lean, focused Egyptian boat inspector in his thirties with a short black wig, plain linen kilt, always carrying a small wooden writing board"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Flood Calls You Away",
+      "scenes": [
+        {
+          "narration": "The river climbs past your ankle, then your knee, and by morning the field you tended all year is only a brown, glinting lake.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a flooded barley field at dawn, brown water reflecting a pale pink sky, a lone young farmer standing ankle deep staring at the rising water, calm dread, soft golden light, cinematic wide framing",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A man from the district office unrolls a papyrus list and reads out your name, and just like that your next three months belong to the king.",
+          "tone": "tense",
+          "image_prompt": "Wide shot outside a mudbrick village office, a clerk unrolling a papyrus scroll and reading aloud to a small group of solemn farmers, warm dusty afternoon light, quiet gravity",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your wife Senet presses warm bread and a stoppered beer jar into your hands, then holds your face in both of hers before letting you turn.",
+          "tone": "tender",
+          "image_prompt": "Wide shot inside a simple mudbrick home doorway, a young farmer standing while his wife presses a bread loaf and sealed clay jar into his hands, tender close framing, warm interior lamplight",
+          "characters": [
+            "you",
+            "senet"
+          ]
+        },
+        {
+          "narration": "The road south fills with other men from other flooded fields, all walking the same direction, all carrying the same folded scrap of papyrus.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a dusty road at midday, a long line of farmers walking south together, dust rising softly around their sandals, warm hazy sunlight, sense of quiet migration",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Someone ahead of you starts singing, low and rough, and within a mile half the road has picked up the same three worn notes.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of the same dusty road, one man mid-song with head tilted back, others nearby smiling and joining in, warm late afternoon light, communal mood",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You cross a swollen canal on a reed raft, and the boy poling it hardly looks old enough to be trusted with the current.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a wide muddy canal, a young boy poling a reed raft carrying several men across, rippling brown water, soft midday light, calm concentration",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At the horizon something pale and unfinished interrupts the flat brown land, taller than anything you have ever stood beneath.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a vast flat desert plain, a pale unfinished pyramid rising on the horizon far larger than anything nearby, dramatic scale, warm haze, awe-struck mood",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "It does not look like stone from this far away. It looks like a second sunrise that has forgotten how to set.",
+          "tone": "awe",
+          "image_prompt": "Wide shot from a low angle looking toward the pyramid at golden hour, its pale stone glowing like a second sun, cinematic volumetric light, reverent atmosphere",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By the checkpoint your neck has burned raw under the open sun, and a scribe waves your group through without lifting his eyes.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a checkpoint gate, a seated scribe with a papyrus scroll waving through a line of sunburned travelers, harsh midday light, weary relief",
+          "characters": [
+            "you",
+            "kha"
+          ]
+        },
+        {
+          "narration": "Ahead of the checkpoint real streets begin, not a camp at all, but a town of mud-brick houses standing in the pyramid's own shadow.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a mudbrick workers' town seen from its entrance, narrow streets, rooftops, the pyramid looming behind in long shadow, warm late light, sense of arrival",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The City of the Living",
+      "scenes": [
+        {
+          "narration": "Smoke curls from bakeries on every corner, and under the smell of bread there is something warmer still, beer fermenting in vats taller than a man.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a busy village street at dusk, smoke rising from bakery ovens, large clay brewing vats steaming nearby, warm firelight, lively communal atmosphere",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "An overseer named Kha, ink staining his fingers, assigns you to a band called the Vigorous Gang and tells you plainly to be worthy of it.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a mudbrick courtyard, a slender official with ink-stained hands addressing a small cluster of new workers, warm late-day light, orderly calm mood",
+          "characters": [
+            "you",
+            "kha"
+          ]
+        },
+        {
+          "narration": "The Gang is split again into smaller crews of its own, so that even inside one name, a man still belongs to something smaller and nearer.",
+          "tone": "calm",
+          "image_prompt": "Wide shot inside a stone gallery hall, groups of men clustered by small hand-painted crew emblems on the walls, warm torchlight, sense of belonging",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        },
+        {
+          "narration": "Your crewmates are farmers too, called up from villages you had never heard of, and by your second bowl of stew you know their children's names.",
+          "tone": "warm",
+          "image_prompt": "Wide shot around a communal cooking fire at dusk, several farmers sharing bowls of stew and talking, warm orange firelight, relaxed camaraderie",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        },
+        {
+          "narration": "At dusk, herders drive cattle and sheep in for the evening meal, and you are handed a cut of meat finer than any feast day back home.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of an open yard at dusk, herders driving cattle and sheep past waiting laborers holding bowls, warm dusty light, abundant harvest mood",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A record keeper explains the calendar to you, ten days at a time, the same rhythm the boat inspectors use to count their river trips.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a mudbrick courtyard, a record keeper with a wooden tally board explaining a calendar mark to a listening worker, warm afternoon light, calm instruction",
+          "characters": [
+            "you",
+            "merer"
+          ]
+        },
+        {
+          "narration": "You sleep in a long stone gallery beside dozens of other men, and within a week their breathing has stopped feeling strange and started feeling safe.",
+          "tone": "calm",
+          "image_prompt": "Wide shot inside a long stone gallery at night, rows of sleeping men on mats lit by a single small oil lamp, deep shadow, peaceful stillness",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your beer ration arrives in a clay jar every evening, thick and faintly sour, and you understand at last why the men call it their true wage.",
+          "tone": "warm",
+          "image_prompt": "Wide close shot of a hand receiving a clay jar of dark beer at dusk, warm lamplight, contented weary mood",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "No one here calls you a slave. The scribe who counts you each morning uses your actual name, and writes it down as though it matters.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a courtyard at dawn, a scribe with a reed pen recording names on a papyrus list beside a line of workers, soft morning light, quiet dignity",
+          "characters": [
+            "you",
+            "kha"
+          ]
+        },
+        {
+          "narration": "Nakht, the broad-shouldered man who sleeps two mats from yours, teaches you to wrap your palms in old linen before tomorrow's work begins.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a stone gallery, an older weathered laborer wrapping a younger man's palms in linen strips by lamplight, warm intimate light, gentle care",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Weight You Carry",
+      "scenes": [
+        {
+          "narration": "Your first task is nothing grand. You pour water ahead of a loaded sledge, one stripe at a time, and watch the dry sand darken and pack tight.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a construction causeway, a laborer pouring water from a jar onto sand ahead of a large stone-loaded sledge, bright midday sun, focused determination",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The block glides forward far easier than you expected, twenty men pulling where forty would have strained, and someone laughs at how simple the trick is.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a sledge gliding smoothly over wetted sand pulled by a line of straining men, dust and light spray underfoot, bright sun, satisfied effort",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Too much water, Nakht warns you, and the sand clumps into a heavy ridge ahead of the sledge, stopping it dead instead of letting it slide.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a stalled sledge half-buried in clumped wet sand, workers pausing and shaking their heads, bright harsh sunlight, minor frustration",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        },
+        {
+          "narration": "Later you are one of the twenty. Rope bites your shoulder, bare feet finding the wet track, until the block moves only because everyone pulls together.",
+          "tone": "warm",
+          "image_prompt": "Wide shot low to the ground of bare feet and taut ropes as a line of men haul a massive stone block across a wetted track, bright sun, unified strain",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By midday the sun presses on your neck like a second burden you never agreed to carry, stacked right on top of the rope already there.",
+          "tone": "calm",
+          "image_prompt": "Wide close shot of a laborer's sweat-streaked neck and shoulders under a brutal midday sun, heat haze shimmering, exhausted endurance",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Boats arrive along the causeway low in the water, loaded with pale limestone hauled from the quarries at Tura, across the river, through the flood.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of the Nile at flood, wide boats heavy with pale limestone blocks gliding along a stone causeway landing, golden afternoon light, awe at scale",
+          "characters": [
+            "you",
+            "merer"
+          ]
+        },
+        {
+          "narration": "An inspector named Merer walks the landing with a wooden writing board, counting every block off every boat, and your arms ache just from watching him.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a lean inspector with a wooden writing board standing at a boat landing counting stone blocks as they are unloaded, warm afternoon light, quiet diligence",
+          "characters": [
+            "you",
+            "merer"
+          ]
+        },
+        {
+          "narration": "The air along the causeway smells of river mud and dust, and faintly, underneath both, of the bread ovens working somewhere behind you.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a dusty causeway at midday, faint smoke drifting from distant bakery ovens beyond rows of laborers, warm hazy light, sensory calm",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "In your fourth week, a block shifts wrong and crushes two of Nakht's fingers, and for one long breath the entire crew goes silent.",
+          "tone": "urgent",
+          "image_prompt": "Wide shot of a construction site frozen mid-motion, workers turning toward a fallen stone block and an injured man clutching his hand, harsh sunlight, sudden stillness",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        },
+        {
+          "narration": "He is carried, not left behind, straight to healers who set the broken bones with wooden splints, and someone tells you plainly why they feed you so well.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of two men carrying an injured laborer toward a small treatment tent, others watching solemnly, warm late light, grave concern",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        },
+        {
+          "narration": "That night the gallery is quieter than usual, only breathing and the small shift of bodies on their mats, until sleep takes the whole tired room.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot inside a dim stone gallery at night, rows of quiet sleeping men, one lamp flickering low, deep hush, restful stillness",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By morning Nakht is propped against the gallery wall, splinted hand and all, already telling the story wrong on purpose to make the younger men laugh.",
+          "tone": "warm",
+          "image_prompt": "Wide shot inside a sunlit gallery doorway, an older laborer with a splinted, bandaged hand grinning and gesturing dramatically to amused younger men, warm morning light, cheerful mood",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Your Name in the Stone",
+      "scenes": [
+        {
+          "narration": "Months in, your hands have stopped blistering and simply gone hard, the way a footpath packs hard under enough seasons of the same feet.",
+          "tone": "calm",
+          "image_prompt": "Wide close shot of weathered, calloused hands resting on a coil of rope, warm afternoon light, quiet endurance",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "From a distance the pyramid no longer looks unfinished. It looks like something climbing, one pale course at a time, toward whatever waits at the top.",
+          "tone": "awe",
+          "image_prompt": "Wide shot from a distance of the half-built pyramid rising course by course against a golden sky, small figures at its base, cinematic scale, awe",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Kha lets your crew carve its own mark into a block bound for a chamber no living eye will ever see again once it is set.",
+          "tone": "calm",
+          "image_prompt": "Wide shot inside a narrow stone passage, an overseer gesturing toward a hidden chamber wall while a worker looks on, warm torchlight, solemn anticipation",
+          "characters": [
+            "you",
+            "kha"
+          ]
+        },
+        {
+          "narration": "You watch another man scratch Friends of Khufu into soft stone with a chisel point, then add the Vigorous Gang's own mark beside his.",
+          "tone": "reflective",
+          "image_prompt": "Wide close shot of a chisel carving symbols into soft limestone by torchlight, careful hands, warm intimate glow, quiet reverence",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "It will be sealed inside forever, Kha tells you, and somehow that thought sits heavier in your chest than the height of the monument ever has.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a worker's face illuminated by torchlight staring at a freshly carved mark on stone, warm shadow, reflective stillness",
+          "characters": [
+            "you",
+            "kha"
+          ]
+        },
+        {
+          "narration": "No one who buys bread from you back home will ever know this stone exists, and still you find yourself wanting the mark to be right.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a modest mudbrick village bakery seen from outside, contrasted against the distant glowing pyramid on the horizon, warm dusk light, quiet pride",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That evening a storyteller in the gallery insists the pharaoh's own soul will one day climb these stones toward the sun god, when his time comes.",
+          "tone": "awe",
+          "image_prompt": "Wide shot inside a gallery at night, a storyteller gesturing dramatically before a rapt circle of listening workers, warm firelight, awe and wonder",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You do not fully believe it, and you do not fully disbelieve it, but you like imagining your own hands somewhere inside that patient climb.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a lone worker gazing up at the pyramid's peak against a burning sunset sky, warm dramatic light, contemplative awe",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The season's hardest stretch arrives near the end, the heaviest blocks yet, and even the strongest men in your crew fall quiet with the effort.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a construction site at golden hour, a long line of exhausted men resting briefly beside massive stone blocks, warm fading light, weary calm",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You finish the week with torn palms and a strange, aching pride you never expected to feel over a pile of ordinary-looking limestone.",
+          "tone": "warm",
+          "image_prompt": "Wide close shot of torn, calloused palms resting against pale stacked limestone blocks, warm evening light, quiet pride",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Word passes quietly through the gallery that the floodwaters outside have finally begun to drop, the fields drying toward the color of old bread.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a wide floodplain beginning to dry at the edges, cracked mud giving way to pale soil, soft warm light, hopeful stillness",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What Outlasts You",
+      "scenes": [
+        {
+          "narration": "Your name is read from the very same list that first brought you here, and this time it releases you instead of claiming you.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a scribe reading names from a papyrus list to a gathered group of relieved workers, warm morning light, quiet release",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You say your farewells to the Vigorous Gang the way men do when they expect, without saying it aloud, to be called up again next flood.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of two crewmates clasping forearms in farewell outside a mudbrick gallery, warm late light, bittersweet camaraderie",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        },
+        {
+          "narration": "Nakht walks with you partway down the road, still favoring his splinted hand, still laughing louder than anyone left in the gang behind you.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of two men walking together down a dusty road, one favoring a bandaged hand, warm afternoon light, easy companionship",
+          "characters": [
+            "you",
+            "nakht"
+          ]
+        },
+        {
+          "narration": "You look back once at the pyramid, smaller now behind you, and it no longer looks like a second sunrise. It looks like something you helped make.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot from behind a lone traveler looking back at a distant pyramid glowing in late sunlight, warm nostalgic light, quiet awe",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Walking home, you pass fields already softening, the black silt the river leaves behind waiting patiently for your plow, the way it waits every year.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a farmer walking beside softening, drying floodplain fields under a warm afternoon sky, gentle golden light, peaceful homecoming",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Senet sees you from the doorway before you have even reached it, and she does not ask why your palms are scarred, only how hungry you are.",
+          "tone": "tender",
+          "image_prompt": "Wide shot of a woman standing in a mudbrick doorway reaching toward a returning traveler at dusk, warm lamplight spilling outward, tender reunion",
+          "characters": [
+            "you",
+            "senet"
+          ]
+        },
+        {
+          "narration": "That night you sleep in your own bed for the first time in months, and somehow it feels stranger to you than the crowded gallery ever did.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot inside a small mudbrick bedroom at night, a man lying peacefully on a simple bed, single oil lamp glow, restful stillness",
+          "characters": [
+            "you",
+            "senet"
+          ]
+        },
+        {
+          "narration": "The next flood season comes, and the one after that, and each time your name is read from the same list, and each time you go.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of the same floodplain across changing seasons, subtle overlapping impressions of the same road walked many times, warm soft light, gentle passage of time",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Years later, an old man surrounded by grandchildren, you tell them about a block with your crew's mark pressed into it, hidden far past reach.",
+          "tone": "warm",
+          "image_prompt": "Wide shot inside a warm mudbrick home at dusk, an old man gesturing to a circle of wide-eyed grandchildren, warm hearth light, cozy storytelling mood",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You do not describe the height, or the burn of the sun, or the ache that lived in your arms each season.",
+          "tone": "reflective",
+          "image_prompt": "Wide close shot of an old man's weathered, contented face lit by firelight, calm reflective expression, warm intimate glow",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You simply tell them this, you helped build something that was built, on purpose, to outlast every person who ever laid a hand on it.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of an elderly man's hand resting on a small child's shoulder beside a warm hearth, soft golden light, quiet legacy",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Somewhere beneath all that pale, patient stone, your name is still waiting in the dark, sealed away, unseen, and entirely yours.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot pulling back from a moonlit pyramid standing silent under a starry desert sky, deep blue night light, serene eternal stillness",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "They Called Him a Slave. He Was Paid in Beer. #shorts",
+      "description": "The men who built the Great Pyramid were fed, housed and paid, not enslaved. Watch the full story.",
+      "scenes": [
+        {
+          "narration": "The river rises, and just like that, your next three months belong to the king.",
+          "ref": 1
+        },
+        {
+          "narration": "You are handed meat finer than any feast day back home, and a jar of beer every evening.",
+          "ref": 14
+        },
+        {
+          "narration": "A block shifts wrong and crushes your friend's fingers, and for one long breath the whole crew goes silent.",
+          "ref": 28
+        },
+        {
+          "narration": "He is carried, not left behind, straight to healers who set the bones with wooden splints.",
+          "ref": 29
+        },
+        {
+          "narration": "You carve your crew's mark into a stone bound for a chamber no living eye will ever see.",
+          "ref": 34
+        },
+        {
+          "narration": "It will be sealed inside forever, and somehow that thought sits heavier than the height of the whole monument.",
+          "ref": 36
+        },
+        {
+          "narration": "You helped build something that was built, on purpose, to outlast everyone who ever laid a hand on it.",
+          "ref": 53
+        }
+      ]
+    },
+    {
+      "title": "The Trick That Moved a Pyramid Stone #shorts",
+      "description": "One jar of water could cut a hauling crew in half. Here is how ancient Egyptians really moved the stones.",
+      "scenes": [
+        {
+          "narration": "At the horizon, something pale and unfinished breaks the flat land, taller than anything you have ever stood beneath.",
+          "ref": 6
+        },
+        {
+          "narration": "Your first task is nothing grand. You pour water ahead of a loaded sledge, one stripe at a time.",
+          "ref": 20
+        },
+        {
+          "narration": "The block glides forward far easier than expected, twenty men pulling where forty would have strained.",
+          "ref": 21
+        },
+        {
+          "narration": "Too much water, and the sand clumps into a heavy ridge, stopping the sledge dead instead of letting it slide.",
+          "ref": 22
+        },
+        {
+          "narration": "Rope bites your shoulder, bare feet finding the wet track, until the block moves because everyone pulls together.",
+          "ref": 23
+        },
+        {
+          "narration": "Boats arrive low in the water, loaded with pale limestone hauled from the quarries at Tura, through the flood.",
+          "ref": 25
+        },
+        {
+          "narration": "From a distance, the pyramid no longer looks unfinished. It looks like something climbing, toward whatever waits at the top.",
+          "ref": 33
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic cut a repeated hidden-name beat, grounded the wet-sand and Merer lines to research.md exactly, and pushed the wife's farewell and the ten-day-week claim into more honest, sourced phrasing."
+}
