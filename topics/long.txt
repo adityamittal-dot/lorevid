@@ -16,6 +16,6 @@ Your Life as a Royal Falconer in a Medieval Court
 Your Life as a Mughal Miniature Painter
 Your Life as a Vijayanagara Market Trader
 #reserved Your Life as a Byzantine Silk Weaver
-Your Life as a Joseon Court Physician
+#reserved Your Life as a Joseon Court Physician
 Your Life as a Malian Salt Caravan Guide
 #done Your Life as a Medieval Peasant Woman After the Black Death

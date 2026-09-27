@@ -1,0 +1,630 @@
+{
+  "topic": "Your Life as a Royal Physician in the Joseon Court",
+  "queue_item": "Your Life as a Joseon Court Physician",
+  "title": "Your Life as a Royal Physician in the Joseon Court",
+  "thumbnail_text": "THE THREAD DECIDES",
+  "thumbnail_prompt": "Extreme close-up of the protagonist's face in intense candlelit concentration, a faint silk thread glimpsed at the edge of frame, dark palace interior hinted behind him, warm amber light",
+  "thumbnail_label": "JOSEON KOREA",
+  "thumbnails": [
+    {
+      "text": "THE THREAD DECIDES",
+      "highlight": "THREAD",
+      "prompt": "Extreme close-up of the protagonist's face in intense candlelit concentration, a faint silk thread glimpsed at the edge of frame, dark palace interior hinted behind him, warm amber light"
+    },
+    {
+      "text": "NEVER ALLOWED TO TOUCH",
+      "highlight": "TOUCH",
+      "prompt": "Extreme close-up of the protagonist's face showing quiet restrained tension, the edge of a painted screen visible behind him, cool dim palace light"
+    },
+    {
+      "text": "BLAMED FOR A DEATH",
+      "highlight": "BLAMED",
+      "prompt": "Extreme close-up of the protagonist's face showing wounded, controlled anguish, pale mourning fabric hinted in the background, cold winter light"
+    }
+  ],
+  "description": "Long before modern medicine, a boy barred from every proper career by the accident of his birth finds the one door left open to him: the study of medicine. He rises into the royal palace itself, where a queen's life can hang on nothing more than a silk thread tied to her wrist, because his hand is never permitted to touch her skin.\n\nThis is the true, richly documented world of the Joseon court physician: the pulse-by-thread examinations, the herb smoke and ginseng tonics of the palace pharmacy, the female uinyeo physicians who served where men could not, and the razor-thin line between royal favor and ruin. Settle in for a calm, ten-minute journey through one life spent listening for what a body cannot say aloud.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#joseon",
+    "#korea",
+    "#historyforsleep",
+    "#relaxinghistory"
+  ],
+  "tags": [
+    "joseon dynasty",
+    "korean history",
+    "royal physician",
+    "history for sleep",
+    "your life as",
+    "bedtime history",
+    "traditional korean medicine",
+    "donguibogam",
+    "heo jun",
+    "korean palace life",
+    "sleep history story",
+    "calm history documentary",
+    "royal court korea",
+    "asian history"
+  ],
+  "music_mood": "warm",
+  "narrator_voice": "bm_fable",
+  "ambience": "night",
+  "era_setting": "The Joseon-dynasty royal palace in Hanyang, now Seoul, Korea, roughly the sixteen hundreds: red-lacquered wooden gates, painted courtyards, ondol-heated floors, and robes in the deep reds, blues and greens of official rank.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a Korean man of the physician's years, lean steady build, calm dark eyes, a neat black topknot under a low black official's hat, a long silk robe (plain grey-brown as a youth, green then blue as his rank rises, and finally a senior physician's robe in old age), a slim medicine pouch always at his belt; shown as a boy, a young man, and an elderly man across the story"
+    },
+    {
+      "id": "queen",
+      "look": "a young Korean queen with a pale round face and calm dignified bearing, dark hair swept into an ornamented updo with jade pins, wearing a formal wonsam robe in deep red and gold"
+    },
+    {
+      "id": "mentor",
+      "look": "an elderly Korean physician with a long white beard and deeply lined kind face, a plain grey-brown commoner's robe, a wooden walking staff"
+    },
+    {
+      "id": "uinyeo",
+      "look": "a composed Korean woman in her thirties, plain dark blue robe with a white collar, hair in a simple low bun, always carrying a small lacquer medicine box"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Wrong Kind of Son",
+      "scenes": [
+        {
+          "narration": "By sunset, if the fever will not break, the ministers outside the queen's chamber will say your hands were the ones that failed her.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a dim palace corridor at dusk, anxious ministers in dark robes waiting outside a screened doorway, a young physician's silhouette kneeling within, warm lamplight, cinematic tension",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "But hours before those candles were ever lit, you were only a boy again in memory, standing outside a locked examination hall.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a young boy standing before a tall closed wooden gate of an examination hall, other boys filing past him inside, soft grey morning light, quiet exclusion",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are seven when your father tells you, gently, that the state examinations will never open to a son born of a concubine.",
+          "tone": "sad",
+          "image_prompt": "Close framing of a kneeling father speaking softly to his young son in a plain courtyard, both heads bowed, muted earthen colors, tender sorrowful light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "For years every proper door in Hanyang stays shut to a name like yours, though the herb stalls near the market never once ask who your mother was.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a bustling Hanyang market street lined with herb stalls, a young man browsing baskets of dried roots, warm dusty daylight, lived-in city detail",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "An old physician of the Hyeminseo takes you on, teaching you to read a pulse beneath your fingers before you can read every character of Hangul.",
+          "tone": "warm",
+          "image_prompt": "Interior of a modest public clinic, an elderly bearded physician guiding a young apprentice's fingers onto a patient's wrist, soft warm lamplight, gentle instruction",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "The clinic smells of drying mugwort and simmering roots, and beyond the doorway, carts creak over frozen streets in the blue hour before dawn.",
+          "tone": "calm",
+          "image_prompt": "Interior of a small herbal clinic with bundles of drying mugwort hanging from the rafters, steam rising from a clay pot, a frosty blue street visible through the open door",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your teacher shows you how ginseng can steady a failing heart, and which bitter root calms a fever without ever stopping its healing sweat.",
+          "tone": "warm",
+          "image_prompt": "Close-up of weathered hands sorting ginseng roots and dried herbs on a wooden table, an old physician explaining to an attentive young apprentice, warm candlelight",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "A coughing beggar you cannot save teaches you more than any scroll ever could: medicine that never reaches the poor is only half a medicine.",
+          "tone": "sad",
+          "image_prompt": "Wide shot of a narrow alley at dusk, a young physician kneeling beside a frail coughing beggar wrapped in thin cloth, somber muted light, quiet grief",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At sixteen you sit the uigwa, the state medical examination, while officials nearby murmur about your birth behind their folded sleeves.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a formal examination hall, rows of young men writing at low desks, robed officials whispering behind raised sleeves in the background, cold clinical light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You pass. Somewhere behind the murmuring, your old teacher says nothing at all, only rests a hand on your shoulder, the way a father might.",
+          "tone": "tender",
+          "image_prompt": "Close framing of an elderly physician placing a hand on a young man's shoulder outside the examination hall, both faces calm with quiet pride, golden afternoon light",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "But a palace summons for a boy of your birth is not simply a gift; it is a door that can just as easily close on your fingers.",
+          "tone": "reflective",
+          "image_prompt": "Close-up of a rolled official summons scroll bound with red cord resting on an open palm, distant palace rooftops visible beyond, warm but uncertain light",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Behind the Red Gate",
+      "scenes": [
+        {
+          "narration": "You walk beneath the palace's great red gate for the first time, its painted beams towering higher than any building you have ever stood beneath.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a young physician in plain green robes walking beneath an enormous ornate red palace gate, dwarfed by painted eaves and columns, awe-struck framing, soft dawn light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Inside, the courtyards stretch on and on, each one quieter than the last, until even your own footsteps feel like an intrusion.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a long series of empty palace courtyards receding into the distance, pale stone paths, morning mist clinging low, hushed grand scale",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "An elder physician warns you plainly at the threshold: here, a wrong diagnosis is not a lesson, it is a life, and sometimes it is your own.",
+          "tone": "tense",
+          "image_prompt": "Close framing of a stern senior physician addressing a nervous young newcomer in a palace corridor, dim severe lighting, weight of consequence in the composition",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You learn the sound of the palace at night: the water clock's soft chime, a sentry calling the hour, wind moving quietly through the eaves.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a moonlit palace courtyard at night, a distant sentry silhouette calling out beside a water clock tower, soft blue night light, tranquil stillness",
+          "characters": []
+        },
+        {
+          "narration": "Heat rises from the ondol floor beneath your sleeping mat, warmth drawn up from a hidden fire, so even deep winter never quite reaches your bones.",
+          "tone": "warm",
+          "image_prompt": "Interior of a small sleeping chamber at night, a young physician resting on a floor mat, faint warm glow visible at the floor's edge, cozy intimate lighting",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You come to learn your robe's very color speaks before you do: crimson for the senior ranks, blue for the middle, green for a junior physician like you.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of physicians in robes of red, blue and green standing together in a palace hall, hierarchy visible through color, formal composition, soft daylight",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "No man may lay a bare hand upon a queen or a royal consort, so you are taught instead to tie a silk thread about her wrist.",
+          "tone": "reflective",
+          "image_prompt": "Close-up of a physician's hands tying a fine silk thread around a patient's bandaged wrist visible through a painted screen, delicate careful gesture, warm interior light",
+          "characters": [
+            "you",
+            "queen"
+          ]
+        },
+        {
+          "narration": "Through that trembling thread alone you must feel a pulse and name what moves beneath skin you are never permitted to touch.",
+          "tone": "tense",
+          "image_prompt": "Extreme close-up of a taut silk thread stretched between a screen and a physician's fingertips, intense concentration on his face, shallow candlelit focus",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When the queen mother is unwell, she sits behind a painted screen and offers only a bandaged inch of wrist through a narrow gap in the silk.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of an elegant painted folding screen in a palace chamber, a small bandaged wrist extended through a narrow gap, physician seated respectfully at a distance, soft light",
+          "characters": [
+            "you",
+            "queen"
+          ]
+        },
+        {
+          "narration": "A uinyeo, a woman trained in medicine despite her lowly birth, examines what you cannot, and reports back what her hands alone are permitted to know.",
+          "tone": "warm",
+          "image_prompt": "Interior scene of a composed woman physician in plain dark robes examining a patient behind a screen, a male physician waiting attentively nearby, warm respectful light",
+          "characters": [
+            "you",
+            "uinyeo",
+            "queen"
+          ]
+        },
+        {
+          "narration": "You learn she is trained as thoroughly as any man in the bureau, and yet remains bound by law as a servant of the palace all the same.",
+          "tone": "sad",
+          "image_prompt": "Close framing of a woman physician quietly setting down a small lacquer medicine box, tired composed expression, dim corridor light, quiet dignity",
+          "characters": [
+            "uinyeo"
+          ]
+        },
+        {
+          "narration": "You come to depend on her steady judgment more than on any scroll, though the court records will likely never once write down her name.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a physician and a woman physician conferring quietly over herbs in a dim palace pharmacy, mutual respect in their posture, warm low lamplight",
+          "characters": [
+            "you",
+            "uinyeo"
+          ]
+        },
+        {
+          "narration": "Some nights you brew tonics until your very sleeves smell permanently of ginseng and scorched mugwort, and you no longer notice the smell at all.",
+          "tone": "calm",
+          "image_prompt": "Close-up of hands stirring a simmering clay pot of dark herbal decoction, curling steam and smoke, warm firelit palace pharmacy interior",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Other nights you simply wait, listening to the curfew bell toll over Hanyang's rooftops, wondering if you will ever be trusted with more than waiting.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a young physician standing alone at a window overlooking moonlit palace rooftops, distant bell tower visible, pensive quiet longing",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Night the Thread Went Still",
+      "scenes": [
+        {
+          "narration": "Then one spring the young queen falls ill with a fever that climbs faster than any tonic in the bureau's stores can answer.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a palace bedchamber at night, a young queen lying flushed and unwell behind a canopy, worried attendants gathered at a respectful distance, urgent candlelight",
+          "characters": [
+            "queen"
+          ]
+        },
+        {
+          "narration": "The senior physicians argue in whispers just outside her chamber door, each one afraid to commit his own name to the wrong remedy.",
+          "tone": "tense",
+          "image_prompt": "Close framing of several robed senior physicians whispering anxiously in a dim corridor outside a screened doorway, tense huddled composition, low warm light",
+          "characters": []
+        },
+        {
+          "narration": "It falls, at last, to you and the silk thread, your fingers barely steady, everyone behind you waiting to see if you will fail.",
+          "tone": "tense",
+          "image_prompt": "Close-up of a young physician kneeling before a screen, thread trembling between his fingers, anxious officials watching from behind him, dramatic candlelit shadows",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "For one long moment the thread lies still against your fingers, and you cannot tell if it is your own fear or her pulse that has slowed.",
+          "tone": "urgent",
+          "image_prompt": "Extreme close-up of a still silk thread against trembling fingertips, sweat on a physician's brow, dark tight framing, held breath tension",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You call for ginseng brewed strong enough to steady a failing heart, and for cooling herbs to ease the fever without halting her sweat.",
+          "tone": "urgent",
+          "image_prompt": "Wide shot of an attendant rushing to prepare a steaming brew over a small brazier, physician issuing instructions with urgent gestures, warm firelit motion",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The uinyeo lights fresh moxa at careful points along the queen's arm, and its warm mugwort smoke curls slowly upward into the dark rafters.",
+          "tone": "tense",
+          "image_prompt": "Close-up of a woman physician lighting small cones of moxa on a patient's forearm, curling smoke rising into shadowed rafters above, warm amber glow",
+          "characters": [
+            "uinyeo",
+            "queen"
+          ]
+        },
+        {
+          "narration": "Hour after hour you kneel by the screen, listening for the smallest change, while outside the water clock counts the night away without you.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a physician kneeling motionless beside a painted screen through a long night, moonlight shifting slightly across the floor to suggest passing hours",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You remember your old teacher's warning, and wonder, in the dark, whether tonight is the night it finally comes due for you.",
+          "tone": "sad",
+          "image_prompt": "Close framing of a physician's tired, worried face lit only by a single flickering lamp, memory-tinged distant expression, quiet dread",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Just before the paru bell rings to wake the city, the thread finally jumps beneath your fingers, quick, steady, unmistakably alive again.",
+          "tone": "awe",
+          "image_prompt": "Extreme close-up of a silk thread suddenly springing taut with a strong pulse, first pale light of dawn breaking through a window behind, relief and wonder",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You do not shout and you do not smile too widely; you simply bow your head and let the relief move quietly through you.",
+          "tone": "tender",
+          "image_prompt": "Close-up of a physician bowing his head in silent relief beside the screen, soft dawn light spilling across the floor, understated tenderness",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Word of the queen's recovery moves through the palace by morning, and for a while even the ministers who once whispered about your birth fall quiet.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of physicians and officials exchanging relieved glances in a sunlit palace corridor at morning, warmth and quiet vindication, golden light",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What the Throne Cannot Forgive",
+      "scenes": [
+        {
+          "narration": "Years pass, and you rise at last, trusted now with the health of princes as well as queens, a blue sash handed to you without ceremony.",
+          "tone": "warm",
+          "image_prompt": "Close-up of an official quietly handing a blue rank sash to a physician in a modest hallway, understated dignity, warm afternoon light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You remember that small, unceremonious moment more clearly than any grand banquet, because it was the first door that opened simply because you had earned it.",
+          "tone": "reflective",
+          "image_prompt": "Close framing of a physician's hands smoothing a new blue sash, thoughtful private satisfaction, soft warm interior light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "But when the old king finally dies in his own bed one bitter winter, grief in the palace turns quickly, as it often does, into blame.",
+          "tone": "sad",
+          "image_prompt": "Wide shot of a somber palace hall draped in mourning white, officials gathered with lowered heads, cold winter light through paper windows",
+          "characters": []
+        },
+        {
+          "narration": "Officials who resented your birth from the very first day now whisper that his physician, not his failing age, must be the true cause of his death.",
+          "tone": "tense",
+          "image_prompt": "Close framing of officials muttering behind raised sleeves in a mourning hall, suspicious glances directed toward a solitary physician, cold shadowed light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are stripped of your rank in a single short audience, the blue sash taken from your shoulders before you can even speak in your own defense.",
+          "tone": "sad",
+          "image_prompt": "Wide shot of a throne hall, a physician kneeling with head bowed as an official removes his rank sash, stark formal lighting, quiet humiliation",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You are sent from the capital toward a distant countryside town, the only home you have ever truly known now falling away behind the cart.",
+          "tone": "sad",
+          "image_prompt": "Wide shot of a lone cart traveling a muddy winter road away from distant palace rooftops, grey overcast sky, mournful receding perspective",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The road is long and cold, and each town you pass through knows nothing of the physician you once were inside those red gates.",
+          "tone": "sad",
+          "image_prompt": "Wide shot of a weary traveler walking through a small snow-dusted rural village, indifferent villagers passing by, muted wintry palette",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "In your new, plain lodging, you unpack the same worn medicine pouch you carried as a boy, and find some strange comfort in its familiar weight.",
+          "tone": "reflective",
+          "image_prompt": "Close-up of a weathered medicine pouch being unpacked onto a bare wooden table in a simple countryside room, soft nostalgic light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "In exile you keep treating whoever finds their way to your door, because a fever does not care what any court has decided about your name.",
+          "tone": "warm",
+          "image_prompt": "Interior of a modest countryside home, a physician tending to a farmer's injured hand by lamplight, humble warm domestic scene",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You begin writing down every remedy you have ever tested, every root and thread and long night, so that none of it dies quietly with you.",
+          "tone": "reflective",
+          "image_prompt": "Close-up of ink brush moving across paper by candlelight, scattered herb samples and notes across a modest desk, focused quiet dedication",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Word eventually reaches the new king of what truly happened that winter, though some officials still mutter that you were never fully innocent.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a new young king listening to an advisor's report in a formal hall, skeptical older officials standing at the margins, cool authoritative light",
+          "characters": []
+        },
+        {
+          "narration": "He overrules them anyway, and sends word recalling you back to the very gates that once closed so completely on your fingers.",
+          "tone": "awe",
+          "image_prompt": "Close-up of a sealed royal summons scroll being handed to a messenger on horseback, distant palace gates visible on the horizon, hopeful golden light",
+          "characters": []
+        }
+      ]
+    },
+    {
+      "title": "What You Leave Behind",
+      "scenes": [
+        {
+          "narration": "You return older, slower on the stairs, but the palace nights still smell exactly the same: mugwort, rain, and cool stone beneath the ondol floor.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of an aged physician slowly climbing worn palace steps at dusk, familiar rooftops silhouetted against a soft rainy sky, gentle nostalgic light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "This time you are set to a far greater task: to gather everything you have ever learned into a single book any healer might use.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of an elderly physician seated before a large empty desk stacked with blank paper, quiet weight of purpose, warm candlelight",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Night after night your hand aches from writing, and still you keep going, rereading old notes scrawled decades ago in a much younger hand.",
+          "tone": "reflective",
+          "image_prompt": "Close-up of an old weathered hand holding a brush over paper, faded older notes visible nearby for comparison, warm lamplit stillness",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You write it in Hangul rather than the scholars' classical script, so a village healer far from any palace could read it by their own lamp.",
+          "tone": "warm",
+          "image_prompt": "Close-up of Hangul characters being carefully brushed onto paper, soft warm candlelight, deliberate careful penmanship",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "On the last page you do not write your own name in careful, boastful characters; you simply write down what the thread once taught you to feel.",
+          "tone": "tender",
+          "image_prompt": "Close-up of a final page being finished, brush lifted gently away, soft warm golden light, quiet humility",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That fevers pass more often than they take, that a trembling pulse is not yet a lost one, and that patience is its own kind of medicine.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of an old physician gazing out a window at a quiet garden at dusk, contemplative stillness, soft fading light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The uinyeo who once stood beside you through that longest night visits once more, and together you sit quietly over tea, saying very little.",
+          "tone": "tender",
+          "image_prompt": "Wide shot of two old friends, a physician and a woman physician, sitting together over tea in a modest room, warm companionable quiet",
+          "characters": [
+            "you",
+            "uinyeo"
+          ]
+        },
+        {
+          "narration": "Long after you are gone, the book you leave behind will still be read by lamplight in houses that never once had a physician of their own.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a simple rural home at night, a farmer's family reading a worn book together by a single lamp, warm timeless intimacy",
+          "characters": []
+        },
+        {
+          "narration": "And somewhere in the dark beyond the palace walls, a thread lies quiet against a stranger's wrist, waiting only for a steady hand to listen.",
+          "tone": "calm",
+          "image_prompt": "Extreme close-up of a silk thread resting gently against a sleeping patient's wrist in a dim humble room, soft moonlight through a small window, peaceful stillness",
+          "characters": []
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "He Held Her Life By a Single Thread #shorts",
+      "description": "A young palace physician cannot even touch the queen's wrist, yet her life depends on what he feels through a thread. Full story on the channel.",
+      "scenes": [
+        {
+          "narration": "The young queen's fever is climbing faster than any remedy in the stores can answer.",
+          "ref": 25
+        },
+        {
+          "narration": "It falls to you and a single silk thread, everyone waiting to see you fail.",
+          "ref": 27
+        },
+        {
+          "narration": "For one long moment the thread lies still, and you cannot tell whose fear that is.",
+          "ref": 28
+        },
+        {
+          "narration": "You call for ginseng brewed strong enough to steady a heart that is failing fast.",
+          "ref": 29
+        },
+        {
+          "narration": "Warm mugwort smoke curls upward as fresh moxa is lit along her trembling arm.",
+          "ref": 30
+        },
+        {
+          "narration": "Just before dawn the thread finally jumps beneath your fingers, steady, unmistakably alive.",
+          "ref": 33
+        },
+        {
+          "narration": "By morning even the ministers who mocked your birth fall completely silent.",
+          "ref": 35
+        }
+      ]
+    },
+    {
+      "title": "They Stripped Him of Everything Overnight #shorts",
+      "description": "A royal physician spends a lifetime earning his rank, then loses it all in one short audience. Full story on the channel.",
+      "scenes": [
+        {
+          "narration": "Officials murmur about your lowly birth the whole day you sit the state medical exam.",
+          "ref": 8
+        },
+        {
+          "narration": "When the old king finally dies in his own palace bed, grief turns fast into blame.",
+          "ref": 38
+        },
+        {
+          "narration": "Officials who resented you from day one now whisper his death was your fault.",
+          "ref": 39
+        },
+        {
+          "narration": "In one short audience they strip you of every rank you ever earned.",
+          "ref": 40
+        },
+        {
+          "narration": "Exiled, you keep treating anyone who finds their way to your humble door.",
+          "ref": 44
+        },
+        {
+          "narration": "A new king overrules them all and recalls you through those same gates.",
+          "ref": 47
+        },
+        {
+          "narration": "The plain little book you write there will outlive every official who ever doubted you at all.",
+          "ref": 55
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic forced three changes: standalone scenes for the palace-gate arrival and the exile journey instead of single compressed lines, real resistance shown before the exile pardon rather than an easy reversal, and a slower, more physical final chapter around the actual writing of the book."
+}
