@@ -1,0 +1,134 @@
+name: render-and-publish
+# The writer pushes scripts/queue/<id>.json on claude/script-* branches. This merges them into main, renders every
+# queued script (oldest first), uploads it as a scheduled video, and moves it to scripts/done/.
+# The 3-hourly schedule retries anything left in the queue and posts first comments on videos that just went public.
+on:
+  push:
+    branches: ["claude/**"]
+    paths: ["scripts/queue/**"]
+  schedule:
+    - cron: "15 */3 * * *"
+  workflow_dispatch:
+    inputs:
+      upload: {description: "Upload to YouTube", type: boolean, default: true}
+
+permissions:
+  contents: write
+
+concurrency: {group: render, cancel-in-progress: false}
+
+jobs:
+  render:
+    runs-on: ubuntu-24.04   # pinned: ubuntu-latest moves to 26 on 2026-10-19
+    timeout-minutes: 330
+    env:
+      NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+    steps:
+      - uses: actions/checkout@v7
+        with: {ref: main, fetch-depth: 0}
+
+      - name: Collect new scripts
+        id: collect
+        run: |
+          git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
+          merged=""
+          for b in $(git branch -r --list 'origin/claude/script-*'); do
+            if git merge -q --no-edit "$b" -m "merge ${b#origin/}"; then merged="$merged ${b#origin/}"
+            else git merge --abort; echo "::warning::could not merge $b automatically (conflict) - merge it by hand"; fi
+          done
+          if [ -n "$merged" ]; then
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
+            for b in $merged; do git push -q origin --delete "$b" || true; done
+          fi
+          echo "n=$(ls scripts/queue/*.json 2>/dev/null | wc -l)" >> "$GITHUB_OUTPUT"
+
+      - uses: actions/setup-python@v7
+        with: {python-version: "3.12", cache: pip}
+
+      - name: YouTube credentials
+        env:
+          S: ${{ secrets.YT_CLIENT_SECRET }}
+          T: ${{ secrets.YT_TOKEN }}
+          RS: ${{ secrets.YT_RESERVE_CLIENT_SECRET }}
+          RT: ${{ secrets.YT_RESERVE_TOKEN }}
+        run: |
+          [ -n "$S" ] && printf '%s' "$S" > yt_client_secret.json
+          [ -n "$T" ] && printf '%s' "$T" > yt_token.json
+          [ -n "$RS" ] && printf '%s' "$RS" > yt_reserve_client_secret.json
+          [ -n "$RT" ] && printf '%s' "$RT" > yt_reserve_token.json
+          true
+
+      - name: Post queued first comments
+        run: |
+          pip install -q google-api-python-client google-auth-oauthlib
+          python upload.py comments || echo "::warning::comment step failed"
+          git add scripts/done 2>/dev/null
+          git diff --staged --quiet || { git commit -qm "first comments"; for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done; }
+
+      - name: System packages
+        if: steps.collect.outputs.n != '0'
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng
+
+      - name: Python packages
+        if: steps.collect.outputs.n != '0'
+        run: |
+          pip install -q torch --index-url https://download.pytorch.org/whl/cpu
+          pip install -q -r requirements.txt
+
+      - name: Cache voice model
+        if: steps.collect.outputs.n != '0'
+        uses: actions/cache@v6
+        with: {path: ~/.cache/huggingface, key: kokoro-v2}
+
+      - name: Render and publish
+        if: steps.collect.outputs.n != '0'
+        env:
+          CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+          CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+          POLLINATIONS_TOKEN: ${{ secrets.POLLINATIONS_TOKEN }}
+          KOKORO_VOICE: ${{ vars.KOKORO_VOICE }}
+          PUBLISH_MODE: ${{ vars.PUBLISH_MODE }}
+          SYNTHETIC_DISCLOSURE: ${{ vars.SYNTHETIC_DISCLOSURE }}
+        run: |
+          UP="--upload"
+          [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ "${{ inputs.upload }}" = "false" ] && UP=""
+          push() { for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && return 0; sleep 5; done; return 1; }
+          failed=0
+          for f in $(ls scripts/queue/*.json | sort | head -n 12); do
+            id=$(basename "$f" .json); ok=0
+            for attempt in 1 2; do
+              export FINAL_ATTEMPT=$([ "$attempt" = 2 ] && echo 1 || echo 0)
+              echo "::group::$id (attempt $attempt)"
+              python pipeline.py "$f" $UP && ok=1
+              echo "::endgroup::"
+              [ "$ok" = 1 ] && break
+              [ "$attempt" = 1 ] && { echo "retrying $id in 5 min"; sleep 300; }
+            done
+            if [ "$ok" = 1 ]; then
+              rm -f "scripts/queue/.fails/$id"
+              git add -A scripts; git diff --staged --quiet || git commit -qm "published $id"
+            else
+              failed=1
+              # a script that fails on 3 separate runs is parked in scripts/failed/ so it stops blocking the queue
+              mkdir -p scripts/queue/.fails; n=$(( $(cat "scripts/queue/.fails/$id" 2>/dev/null || echo 0) + 1 ))
+              echo "$n" > "scripts/queue/.fails/$id"
+              if [ "$n" -ge 3 ]; then
+                mkdir -p scripts/failed; git mv "$f" "scripts/failed/$id.json"; rm -f "scripts/queue/.fails/$id"
+                [ -n "$NTFY_TOPIC" ] && curl -s -d "Parked $id in scripts/failed after 3 failed runs. Move it back to scripts/queue to retry." "ntfy.sh/$NTFY_TOPIC" > /dev/null
+              fi
+              git add -A scripts; git diff --staged --quiet || git commit -qm "render failed $id ($n)"
+              echo "::error::$id failed"
+            fi
+            push || echo "::error::push failed after $id"
+          done
+          exit $failed
+
+      - uses: actions/upload-artifact@v7
+        if: always() && steps.collect.outputs.n != '0'
+        with:
+          name: renders
+          path: |
+            output/*/final.mp4
+            output/*/thumbnail.jpg
+          retention-days: 3
+          if-no-files-found: ignore

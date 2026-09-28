@@ -1,6 +1,5 @@
-.env
 output/
+.env
 yt_*.json
 __pycache__/
 .venv/
-trends_cache.json

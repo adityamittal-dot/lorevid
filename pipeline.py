@@ -1,257 +1,392 @@
-"""Daily run: next topic -> Claude script -> images -> voice -> 10-min film + 2 Shorts -> private upload -> notify.
+"""lorevid pipeline orchestrator: script json -> final.mp4 (+thumbnail/srt) -> YouTube upload.
 
-  python pipeline.py --next-topic --upload        # what GitHub Actions runs
-  python pipeline.py "Your Life as a Roman Gladiator"
-Everything is cached in output/<slug>/, so re-running resumes where it stopped.
+Usage:
+  python pipeline.py scripts/queue/<id>.json [--upload] [--no-move]
 """
-import argparse, glob, json, os, random, re, zlib
+import argparse
+from datetime import datetime, timedelta, timezone
+import glob
+import json
+import os
+import sys
+import zlib
 from dotenv import load_dotenv
+import requests
 
 load_dotenv()
-import images, tts, video
-import trends
-from script_gen import MOODS, build_long, choose_topic, new_topics
-
-STYLE = os.getenv("STYLE", "richly detailed semi-realistic digital oil painting, historical illustration, "
-                           "cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, "
-                           "atmospheric depth, masterpiece")
-MINUTES = int(os.getenv("MINUTES", "10"))
-PAD = 0.7            # calm pause after each scene (s)
-QUEUE = "topics/long.txt"
+import tts
+import upload
+import video
+import visuals
 
 
-def slugify(s):
-    return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")[:60]
-
-
-def queue_candidates(n=6):
-    lines = [l.rstrip("\n") for l in open(QUEUE, encoding="utf-8")] if os.path.exists(QUEUE) else []
-    todo = [l for l in lines if l.strip() and not l.startswith("#")]
-    if not todo:
-        print("Topic queue empty — asking Claude for new topics")
-        lines += new_topics([l[6:] for l in lines if l.startswith("#done ")])
-        todo = [l for l in lines if l.strip() and not l.startswith("#")]
-        open(QUEUE, "w", encoding="utf-8").write("\n".join(lines) + "\n")
-    return todo[:n], [l[6:] for l in lines if l.startswith("#done ")]
-
-
-def plan_topic(forced=None):
-    """Strategist picks today's topic from the queue using live trends. Returns (topic, queue_item, strategy, trend_text)."""
-    print("Step 1/5: trends + strategist")
-    trend_text = trends.summary(trends.fetch())
-    cands, done = queue_candidates()
-    if forced:
-        cands = [forced]
-    s = choose_topic(cands, trend_text, done)
-    for v in s.get("verdicts", []):
-        print(f"  {v.get('score')}/10 {v.get('topic')} - {v.get('why')}")
-    topic = s.get("topic") or cands[0]
-    print(f"  chosen: {topic} | angle: {s.get('angle')}")
-    return topic, (s.get("chosen_from_queue") or (cands[0] if forced else None)), s, trend_text
-
-
-def mark_done(queue_item, topic):
-    lines = [l.rstrip("\n") for l in open(QUEUE, encoding="utf-8")]
-    if queue_item in lines:
-        lines = [("#done " + topic) if l == queue_item else l for l in lines]
-    else:
-        lines.append("#done " + topic)
-    open(QUEUE, "w", encoding="utf-8").write("\n".join(lines) + "\n")
-
-
-def pick_music(mood, work):
-    """music/<mood>/*.mp3 first, then any track in music/, else a generated soft ambient pad."""
-    for pattern in (f"music/{mood}/*.mp3", "music/*/*.mp3", "music/*.mp3"):
-        tracks = sorted(glob.glob(pattern))
-        if tracks:
-            pick = random.choice(tracks)
-            print(f"  music: {pick}")
-            return pick
-    print("  music: no tracks in music/ - using generated ambient pad")
-    return video.ambient_pad(os.path.join(work, "pad.wav"), mood)
-
-
-def fmt(t):
-    return f"{int(t // 60)}:{int(t % 60):02}"
-
-
-def notify(msg, click=None):
+def notify(msg: str, click: str = None) -> None:
+    """Send alert via ntfy if NTFY_TOPIC is configured in the environment."""
     topic = os.getenv("NTFY_TOPIC")
-    if topic:
-        import requests
-        try:
-            requests.post(f"https://ntfy.sh/{topic}", data=msg.encode(), timeout=15,
-                          headers={"Title": "lorevid", **({"Click": click} if click else {})})
-        except Exception as e:
-            print(f"  notify failed: {e}")
-
-
-def current_style():
-    """Rotate the art style every N long videos (N from styles.json; each video also carries 2 Shorts)."""
+    if not topic:
+        return
     try:
-        cfg = json.load(open("styles.json"))
-    except FileNotFoundError:
-        return {"name": "painted", "prompt": STYLE}
-    done = len(glob.glob("scripts/done/*.json"))
-    st = cfg["styles"][(done // cfg.get("every", 15)) % len(cfg["styles"])]
-    print(f"art style: {st['name']} (video #{done + 1}, changes every {cfg.get('every', 15)})")
-    return st
+        headers = {"Title": "lorevid"}
+        if click:
+            headers["Click"] = click
+        requests.post(
+            f"https://ntfy.sh/{topic}",
+            data=msg.encode("utf-8"),
+            headers=headers,
+            timeout=15,
+        )
+    except Exception as e:
+        print(f"notify failed: {e}", flush=True)
 
 
-def normalise(plan):
-    st = current_style()
-    plan["style"] = plan.get("style_override") or st["prompt"]
-    plan["style_name"] = st["name"]
-    plan["scenes"] = [dict(s, chapter=ci) for ci, ch in enumerate(plan["chapters"]) for s in ch["scenes"]]
-    return plan
+def fmt_time(seconds: float) -> str:
+    """Format seconds into M:SS (or H:MM:SS) timestamp for chapters."""
+    s = int(round(seconds))
+    m = s // 60
+    sec = s % 60
+    if m >= 60:
+        h = m // 60
+        m = m % 60
+        return f"{h}:{m:02d}:{sec:02d}"
+    return f"{m}:{sec:02d}"
 
 
-def make(topic, strategy=None, trend_text="", plan=None):
-    work = os.path.join("output", slugify(topic))
-    for d in ("img", "audio"):
-        os.makedirs(os.path.join(work, d), exist_ok=True)
-    sp = os.path.join(work, "script.json")
-    if plan is not None:
-        plan = normalise(plan)
-        json.dump(plan, open(sp, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
-    elif os.path.exists(sp):
-        plan = json.load(open(sp, encoding="utf-8"))
-    else:
-        plan = build_long(topic, MINUTES, STYLE, strategy, trend_text)
-        json.dump(plan, open(sp, "w", encoding="utf-8"), indent=2, ensure_ascii=False)
-    scenes = plan["scenes"]
-    print(f"{len(scenes)} scenes · editor: {plan.get('editor_notes', '')}")
-    seed = zlib.crc32(topic.encode()) % 1_000_000
+def find_related_long_url(related_id: str) -> str | None:
+    """Check scripts/done/ and scripts/queue/ to see if the related long video has published."""
+    for pattern in ("scripts/done/*.json", "scripts/queue/*.json"):
+        for path in glob.glob(pattern):
+            try:
+                with open(path, encoding="utf-8") as f:
+                    data = json.load(f)
+                if data.get("id") == related_id:
+                    pub = data.get("published", {})
+                    if pub.get("video_id"):
+                        return f"https://youtu.be/{pub['video_id']}"
+                    if pub.get("url"):
+                        return pub["url"]
+            except Exception:
+                continue
+    return None
 
-    # images + narration
-    imgs, segs, padded, words, marks, t = [], [], [], [], [], 0.0
-    voice = plan.get("narrator_voice") if plan.get("narrator_voice") in tts.VOICES else None
-    print(f"narrator: {voice or tts.KOKORO_VOICE}")
-    for i, s in enumerate(scenes):
-        tone = tts.TONES.get(s.get("tone", "calm"), tts.TONES["calm"])
-        if i == 0 or s["chapter"] != scenes[i - 1]["chapter"]:
-            marks.append((t, plan["chapters"][s["chapter"]]["title"]))
-        print(f"[{i+1}/{len(scenes)}] {s['narration'][:70]}")
-        img = os.path.join(work, "img", f"{i:04}.jpg")
-        images.generate(images.full_prompt(s, plan), img, seed + i)
-        wav = os.path.join(work, "audio", f"{i:04}.wav")
-        if not os.path.exists(wav):
-            tts.speak(s["narration"], wav, speed=0.9 * tone[0], voice=voice)
-        d = tts.duration(wav)
-        seg = d + tone[1] + (1.2 if i + 1 < len(scenes) and scenes[i + 1]["chapter"] != s["chapter"] else 0)
-        pw = os.path.join(work, "audio", f"{i:04}.pad.wav")
-        if not os.path.exists(pw):
-            video.pad_audio(wav, seg, pw)
-        words += tts.word_times(s["narration"], t, d)
-        imgs.append(img); segs.append(seg); padded.append(pw)
+
+def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False) -> str:
+    """Execute rendering pipeline for a single script file."""
+    # 1. Load script + channel.json; setup work dir
+    print(f"Step 1: Loading script {script_path}...", flush=True)
+    with open(script_path, encoding="utf-8") as f:
+        script = json.load(f)
+
+    script_id = script["id"]
+    fmt = script.get("format", "short")
+    wiki = script.get("wiki", "onepiece.fandom.com")
+    lines = script.get("lines", [])
+
+    channel_cfg = {}
+    if os.path.exists("channel.json"):
+        try:
+            with open("channel.json", encoding="utf-8") as f:
+                channel_cfg = json.load(f)
+        except Exception as e:
+            print(f"Warning: could not read channel.json: {e}", flush=True)
+
+    work = os.path.join("output", script_id)
+    os.makedirs(work, exist_ok=True)
+    os.makedirs(os.path.join(work, "audio"), exist_ok=True)
+    os.makedirs(os.path.join(work, "img"), exist_ok=True)
+    os.makedirs(os.path.join(work, "clips"), exist_ok=True)
+    os.makedirs(os.path.join(work, "sfx"), exist_ok=True)
+
+    seed = zlib.crc32(script_id.encode()) % 1_000_000
+    voice = tts.voice_from_channel(channel_cfg)
+    base_speed = channel_cfg.get("speed", {}).get(fmt, 1.12 if fmt == "short" else 1.04)
+
+    # Chapters mapping
+    chapters = script.get("chapters", [])
+    chapter_line_map = {ch["line"]: ch.get("title", "") for ch in chapters}
+
+    # 2. Narration TTS, padding, and word timestamp aggregation
+    print(f"Step 2: Synthesizing narration ({len(lines)} lines)...", flush=True)
+    padded_wavs = []
+    segs = []
+    line_starts = []
+    words = []
+    chapter_marks = []
+    t = 0.0
+
+    for i, line in enumerate(lines):
+        if i in chapter_line_map:
+            chapter_marks.append((t, chapter_line_map[i]))
+
+        line_starts.append(t)
+        delivery = line.get("delivery", "normal")
+        sp_mult, pause_after = tts.DELIVERY.get(delivery, tts.DELIVERY["normal"])
+        line_speed = base_speed * sp_mult
+
+        wav_path = os.path.join(work, "audio", f"{i:04d}.wav")
+        words_cache = os.path.join(work, "audio", f"{i:04d}.words.json")
+
+        if os.path.exists(wav_path) and os.path.exists(words_cache):
+            with open(words_cache, encoding="utf-8") as wf:
+                line_words = json.load(wf)
+        else:
+            line_words = tts.speak_line(line.get("text", ""), wav_path, speed=line_speed, voice=voice)
+            with open(words_cache, "w", encoding="utf-8") as wf:
+                json.dump(line_words, wf)
+
+        d = tts.duration(wav_path)
+        is_before_chapter = (i + 1) in chapter_line_map and (i + 1) > 0
+        seg = d + pause_after + (0.6 if is_before_chapter else 0.0)
+
+        pw_path = os.path.join(work, "audio", f"{i:04d}.pad.wav")
+        if not os.path.exists(pw_path):
+            video.pad_audio(wav_path, seg, pw_path)
+
+        for w_start, w_end, w_text in line_words:
+            words.append((w_start + t, w_end + t, w_text))
+
+        padded_wavs.append(pw_path)
+        segs.append(seg)
         t += seg
 
-    narration = os.path.join(work, "narration.wav")
-    video.concat_audio(padded, narration)
-    narration = video.add_ambience(narration, plan.get("ambience", "none"), os.path.join(work, "narration_amb.wav"))
-    srt = os.path.join(work, "captions.srt")
-    tts.write_srt(words, srt)
+    total_duration = t
+    narration_wav = os.path.join(work, "narration.wav")
+    if not os.path.exists(narration_wav):
+        print("  Concatenating padded audio...", flush=True)
+        video.concat_audio(padded_wavs, narration_wav)
 
-    # 3 thumbnail variants (upload uses #1; use YouTube Studio "Test & compare" to A/B test all three)
-    variants = plan.get("thumbnails") or [{"text": plan.get("thumbnail_text", ""), "prompt": plan["thumbnail_prompt"]}]
-    thumbs = []
-    for k, tv in enumerate(variants[:3]):
-        raw = os.path.join(work, f"thumb_raw{k}.jpg")
-        images.generate(f"{tv['prompt']}. {plan['era_setting']}. {plan['style']}. extreme close-up of the face, intense "
-                        "readable emotion, eyes toward the viewer, face filling the right half of the frame, dark "
-                        "simple background on the left, dramatic rim light, high contrast, vivid colours, no text",
-                        raw, seed + 777 + k)
-        tp = os.path.join(work, f"thumbnail{k + 1}.jpg")
-        video.thumbnail(raw, tv.get("text", ""), tp, tv.get("highlight", ""), plan.get("thumbnail_label", ""))
-        thumbs.append(tp)
-    thumb = thumbs[0]
+    # 3. Visuals & video clips
+    print(f"Step 3: Fetching visuals and generating clips ({fmt})...", flush=True)
+    used_images = set()
+    clips = []
+    last_img = None
+    for i, line in enumerate(lines):
+        img_path = os.path.join(work, "img", f"{i:04d}.jpg")
+        clip_path = os.path.join(work, "clips", f"{i:04d}.mp4")
+        shot = line.get("shot", {})
 
-    final = os.path.join(work, "final.mp4")
-    music = pick_music(plan.get("music_mood", "calm") if plan.get("music_mood") in MOODS else "calm", work)
-    if not os.path.exists(final):
-        print("Rendering film...")
-        video.render_long(imgs, segs, narration, final, marks, music, work)
+        vres = visuals.get(shot, wiki, img_path, used_images, seed + i, vertical=(fmt == "short"))
+        if vres:
+            last_img = vres["path"]
+        elif last_img:
+            print(f"  line {i}: no image found, reusing the previous one", flush=True)
+        else:                                          # nothing at all yet: a plain dark frame
+            video.blank_image(img_path, fmt)
+            last_img = img_path
+        # long videos crossfade: every clip but the last runs XF longer so picture and voice stay in sync
+        seconds = segs[i] + (video.XF if fmt == "long" and i < len(lines) - 1 else 0)
+        if not os.path.exists(clip_path):
+            video.shot_clip(last_img, seconds, clip_path, i, fmt, line.get("fx", "none"))
 
-    chapters_txt = "\n".join(f"{fmt(a)} {title}" for a, title in marks)
-    description = (f"{plan['description']}\n\nChapters:\n{chapters_txt}\n\n"
-                   "Narration and illustrations are AI-assisted; scripts are researched and reviewed.\n\n"
-                   + " ".join(plan.get("hashtags", ["#history"])))
-    meta = {"title": plan["title"], "description": description, "tags": plan.get("tags", []),
-            "final": final, "thumb": thumb, "srt": srt, "shorts": []}
+        clips.append(clip_path)
 
-    # shorts
-    for si, sh in enumerate(plan.get("shorts", [])[:2]):
-        sdir = os.path.join(work, f"short{si}"); os.makedirs(sdir, exist_ok=True)
-        out = os.path.join(sdir, "short.mp4")
-        clips, pads, swords, st = [], [], [], 0.0
-        for k, sc in enumerate(sh["scenes"]):
-            wav = os.path.join(sdir, f"{k:02}.wav")
-            if not os.path.exists(wav):
-                tts.speak(sc["narration"], wav, speed=1.0, voice=voice)
-            d = tts.duration(wav)
-            seg = d + 0.12
-            pw = os.path.join(sdir, f"{k:02}.pad.wav"); video.pad_audio(wav, seg, pw)
-            ref = min(max(int(sc.get("ref", k)), 0), len(imgs) - 1)
-            c = os.path.join(sdir, f"{k:02}.mp4")
-            if not os.path.exists(c):
-                video.short_clip(imgs[ref], seg, c, k)
-            swords += tts.word_times(sc["narration"], st, d)
-            clips.append(c); pads.append(pw); st += seg
-        if not os.path.exists(out):
-            sn = os.path.join(sdir, "narration.wav"); video.concat_audio(pads, sn)
-            ssrt = os.path.join(sdir, "captions.srt"); tts.write_srt(swords, ssrt, max_words=3)
-            video.render_short(clips, sn, ssrt, sh["title"], out, music)
-        title = sh["title"] if "#shorts" in sh["title"].lower() else sh["title"] + " #shorts"
-        meta["shorts"].append({"title": title, "final": out,
-                               "description": f"{sh.get('description', '')}\n\nFull story: {plan['title']}"})
-    json.dump(meta, open(os.path.join(work, "meta.json"), "w"), indent=2, ensure_ascii=False)
-    print(f"Done: {final} ({fmt(t)})")
-    return work, meta
+    # 4. SFX events
+    print("Step 4: Scheduling SFX events...", flush=True)
+    sfx_events = []
+    sfx_cache = {}
 
+    def get_sfx(kind: str) -> str:
+        if kind not in sfx_cache:
+            out_sfx = os.path.join(work, "sfx", f"{kind}.wav")
+            sfx_cache[kind] = video.sfx(kind, out_sfx)
+        return sfx_cache[kind]
 
-def publish(meta, privacy, reserve=False):
-    from upload import upload
-    vid = upload(meta["final"], meta["title"], meta["description"], meta["tags"], meta["thumb"],
-                 None if reserve else meta["srt"], privacy)   # reserve: skip captions to save upload quota
-    links = [f"https://studio.youtube.com/video/{vid}/edit"]
-    for sh in meta["shorts"]:
-        sid = upload(sh["final"], sh["title"], sh["description"], meta["tags"][:10], privacy=privacy)
-        links.append(f"https://studio.youtube.com/video/{sid}/edit")
-    head = "Reserve video saved (private, schedule it later)" if reserve else f"New video ready to review ({privacy})"
-    notify(f"{head}: {meta['title']}\n" + "\n".join(links), links[0])
+    for i, line in enumerate(lines):
+        fx = line.get("fx", "none")
+        if fmt == "short" and fx != "none":
+            sfx_events.append((line_starts[i], get_sfx("whoosh"), 0.35))
+        if fx in ("shake", "flash"):
+            sfx_events.append((line_starts[i], get_sfx("hit"), 0.5))
+
+    first_reveal_idx = next((i for i, line in enumerate(lines) if line.get("delivery") == "reveal"), None)
+    if first_reveal_idx is not None:
+        riser_t = max(0.0, line_starts[first_reveal_idx] - 1.2)
+        sfx_events.append((riser_t, get_sfx("riser"), 0.25))
+
+    # 5. Captions, Music bed & Render
+    print("Step 5: Generating subtitles, background track, and rendering...", flush=True)
+    ass_path = None
+    if fmt == "short":                                 # long videos get an uploaded caption track instead
+        ass_path = video.captions_ass(words, os.path.join(work, "captions.ass"), fmt,
+                                      hook_text=script.get("hook_text"), hook_secs=2.6)
+
+    mood = script.get("music_mood", "chill")
+    music = video.music_bed(mood, work, total_duration)
+
+    final_mp4 = os.path.join(work, "final.mp4")
+    if not os.path.exists(final_mp4):
+        print(f"  Rendering final video: {final_mp4}...", flush=True)
+        video.render(
+            clips,
+            segs,
+            narration_wav,
+            final_mp4,
+            fmt,
+            ass=ass_path,
+            music=music,
+            sfx_events=sfx_events,
+            chapter_marks=chapter_marks,
+        )
+
+    # 6. Format checks & long assets
+    print("Step 6: Processing format-specific assets and metadata...", flush=True)
+    if fmt == "short":
+        if total_duration > 180.0:
+            raise ValueError(f"Short duration {total_duration:.1f}s exceeds YouTube Shorts 180s limit")
+        if total_duration > 60.0:
+            print(f"Warning: Short duration {total_duration:.1f}s is longer than 60s", flush=True)
+
+    thumb_path = None
+    srt_path = None
+
+    if fmt == "long":
+        thumb_cfg = script.get("thumbnail", {})
+        thumb_path = os.path.join(work, "thumbnail.jpg")
+        if not os.path.exists(thumb_path):
+            thumb_raw = os.path.join(work, "thumb_raw.jpg")
+            if not os.path.exists(thumb_raw):
+                thumb_shot = {
+                    "image": thumb_cfg.get("image"),
+                    "search": thumb_cfg.get("search") or script.get("topic", ""),
+                    "fallback": f"{script.get('topic', '')}, anime style",
+                }
+                tres = visuals.get(thumb_shot, wiki, thumb_raw, set(), seed + 999, vertical=False)
+                thumb_raw = tres["path"] if tres else (last_img or thumb_raw)
+            video.thumbnail(thumb_raw, thumb_cfg.get("text", ""), thumb_cfg.get("highlight", ""), thumb_path)
+
+        srt_path = os.path.join(work, "captions.srt")
+        if not os.path.exists(srt_path):
+            tts.write_srt(words, srt_path)
+
+    # Build description
+    desc_blocks = [script.get("description", "").strip()]
+    if fmt == "long" and chapter_marks:
+        ch_text = "Chapters:\n" + "\n".join(f"{fmt_time(tm)} {title}" for tm, title in chapter_marks)
+        desc_blocks.append(ch_text)
+    elif fmt == "short" and script.get("related_long"):
+        rl_id = script["related_long"]
+        rl_url = find_related_long_url(rl_id)
+        if rl_url:
+            desc_blocks.append(f"Full breakdown on the channel: {rl_url}")
+        else:
+            desc_blocks.append("Full breakdown on the channel")
+
+    hashtags = script.get("hashtags", [])
+    if hashtags:
+        desc_blocks.append(" ".join(hashtags))
+
+    full_description = "\n\n".join(b for b in desc_blocks if b)
+
+    meta = {
+        "id": script_id,
+        "format": fmt,
+        "title": script.get("title", ""),
+        "description": full_description,
+        "tags": script.get("tags", []),
+        "final": final_mp4,
+        "thumb": thumb_path if fmt == "long" else None,
+        "srt": srt_path if fmt == "long" else None,
+        "duration": total_duration,
+        "chapters": chapter_marks if fmt == "long" else None,
+    }
+    with open(os.path.join(work, "meta.json"), "w", encoding="utf-8") as f:
+        json.dump(meta, f, indent=2, ensure_ascii=False)
+
+    # 7. Uploading
+    if upload_flag:
+        print("Step 7: Uploading to YouTube...", flush=True)
+        mode = os.getenv("PUBLISH_MODE") or channel_cfg.get("publish", {}).get("mode", "schedule")
+        publish_at = None
+        privacy = "private"
+
+        if mode == "schedule":
+            taken = []
+            for pattern in ("scripts/done/*.json", "scripts/queue/*.json"):
+                for path in glob.glob(pattern):
+                    try:
+                        with open(path, encoding="utf-8") as f:
+                            d = json.load(f)
+                        pat = d.get("published", {}).get("publish_at")
+                        if pat:
+                            taken.append(pat)
+                    except Exception:
+                        continue
+            publish_at = upload.next_slot(fmt, channel_cfg, taken)
+            privacy = "private"
+        elif mode == "public":
+            privacy = "public"
+            publish_at = None
+        else:
+            privacy = "private"
+            publish_at = None
+
+        series_id = script.get("series")
+        series_info = next((s for s in channel_cfg.get("series", []) if s.get("id") == series_id), None)
+        playlist_title = series_info.get("playlist") if series_info else None
+
+        upload_meta = {
+            "title": script.get("title", ""),
+            "description": full_description,
+            "tags": script.get("tags", []),
+        }
+
+        video_id = upload.upload(
+            video=final_mp4,
+            meta=upload_meta,
+            publish_at=publish_at,
+            privacy=privacy,
+            thumb=thumb_path if fmt == "long" else None,
+            srt=srt_path if fmt == "long" else None,
+            playlist=playlist_title,
+            comment=script.get("comment") if privacy == "public" and not publish_at else None,
+        )
+        print(f"  Uploaded video ID: {video_id}", flush=True)
+
+        video_url = f"https://youtu.be/{video_id}"
+        script["published"] = {
+            "video_id": video_id,
+            "publish_at": publish_at,
+            "url": video_url,
+            "comment": script.get("comment"),              # posted by `upload.py comments` once the video is public
+            "comment_posted": privacy == "public" and not publish_at,
+        }
+        with open(script_path, "w", encoding="utf-8") as f:
+            json.dump(script, f, indent=2, ensure_ascii=False)
+
+        if not no_move_flag:
+            os.makedirs("scripts/done", exist_ok=True)
+            done_path = os.path.join("scripts", "done", f"{script_id}.json")
+            os.replace(script_path, done_path)
+            print(f"  Moved script to {done_path}", flush=True)
+
+        studio_link = f"https://studio.youtube.com/video/{video_id}/edit"
+        kind_label = "Short" if fmt == "short" else "Long"
+        if publish_at:
+            dt_utc = datetime.fromisoformat(publish_at.replace("Z", "+00:00"))
+            ist_tz = timezone(timedelta(hours=5, minutes=30))
+            dt_ist = dt_utc.astimezone(ist_tz)
+            ist_time_str = dt_ist.strftime("%Y-%m-%d %H:%M IST")
+            status_desc = f"scheduled {ist_time_str}"
+        else:
+            status_desc = privacy
+
+        ntfy_msg = f"{kind_label} {status_desc} | {script.get('title')}\n{studio_link}"
+        notify(ntfy_msg, click=studio_link)
+
+    print(f"Finished pipeline for {script_id}: {final_mp4} ({fmt_time(total_duration)})", flush=True)
+    return final_mp4
 
 
 if __name__ == "__main__":
-    ap = argparse.ArgumentParser()
-    ap.add_argument("topic", nargs="?")
-    ap.add_argument("--next-topic", action="store_true")
-    ap.add_argument("--reserve", action="store_true", help="reserve render: upload privately, keep for later")
-    ap.add_argument("--script", help="render a script written by the Claude writer session (scripts/*.json)")
-    ap.add_argument("--upload", action="store_true")
-    ap.add_argument("--privacy", default=os.getenv("PRIVACY", "private"), choices=["private", "unlisted", "public"])
-    a = ap.parse_args()
-    if a.script:
-        plan = json.load(open(a.script, encoding="utf-8"))
-        topic, queue_item, strategy, trend_text = plan["topic"], plan.get("queue_item"), None, ""
-    elif a.next_topic or a.topic:
-        plan = None
-        topic, queue_item, strategy, trend_text = plan_topic(None if a.next_topic else a.topic)
-    else:
-        ap.error("give --script, a topic, or --next-topic")
-    print(f"== {topic}")
+    parser = argparse.ArgumentParser(description="lorevid v2 pipeline orchestrator")
+    parser.add_argument("script", help="Path to script json (e.g. scripts/queue/<id>.json)")
+    parser.add_argument("--upload", action="store_true", help="Upload rendered video to YouTube")
+    parser.add_argument("--no-move", action="store_true", help="Do not move script to scripts/done/ after upload")
+    args = parser.parse_args()
+
+    script_id = os.path.splitext(os.path.basename(args.script))[0]
     try:
-        work, meta = make(topic, strategy, trend_text, plan)
-        if a.upload:
-            publish(meta, "private" if a.reserve else a.privacy, a.reserve)
-        if a.reserve:
-            os.makedirs("scripts/reserve/uploaded", exist_ok=True)
-            os.replace(a.script, os.path.join("scripts/reserve/uploaded", os.path.basename(a.script)))
-        else:
-            mark_done(queue_item, topic)
-        if a.script and not a.reserve:
-            os.makedirs("scripts/done", exist_ok=True)
-            os.replace(a.script, os.path.join("scripts/done", os.path.basename(a.script)))
+        run(args.script, upload_flag=args.upload, no_move_flag=args.no_move)
     except Exception as e:
-        if os.getenv("FINAL_ATTEMPT", "1") == "1":     # the workflow retries; only buzz the phone on the last try
-            notify(f"Run failed for '{topic}': {str(e)[:300]}")
+        if os.getenv("FINAL_ATTEMPT", "1") != "0":
+            notify(f"Run failed for '{script_id}': {str(e)[:300]}")
         raise

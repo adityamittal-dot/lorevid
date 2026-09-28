@@ -13,14 +13,6 @@ COOLDOWN = int(os.getenv("IMAGE_BACKEND_COOLDOWN", "600"))
 _pipe = None
 
 
-def full_prompt(scene, plan):
-    looks = {c["id"]: c["look"] for c in plan.get("characters", [])}
-    who = "; ".join(looks[c] for c in scene.get("characters", []) if c in looks)
-    parts = [scene["image_prompt"], f"Characters: {who}" if who else "", plan.get("era_setting", ""),
-             plan["style"], "no text, no watermark, no captions, no gore, no nudity"]
-    return ". ".join(p for p in parts if p)
-
-
 def _cloudflare(prompt, out, seed, w, h):
     acct, tok = os.getenv("CF_ACCOUNT_ID"), os.getenv("CF_API_TOKEN")
     if not (acct and tok):

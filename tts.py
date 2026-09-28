@@ -1,45 +1,213 @@
-"""Narration. TTS_ENGINE=kokoro (best free voice, runs on CPU) or edge (Microsoft neural, needs internet).
-Kokoro failures fall back to edge-tts automatically. Word timings for captions are spread over each
-clip by character length (accurate enough for 3-7 word captions)."""
-import asyncio, os, subprocess
+"""Narration via Kokoro TTS with word timestamps and edge-tts fallback."""
+import asyncio
+import json
+import os
+import subprocess
+import numpy as np
+import soundfile as sf
 
 ENGINE = os.getenv("TTS_ENGINE", "kokoro")
-KOKORO_VOICE = os.getenv("KOKORO_VOICE", "bm_george")        # British male storyteller; try bm_fable, am_michael
-EDGE_VOICE = os.getenv("EDGE_VOICE", "en-GB-RyanNeural")
+KOKORO_VOICE = os.getenv("KOKORO_VOICE", "am_michael")
+EDGE_VOICE = os.getenv("EDGE_VOICE", "en-US-GuyNeural")
+
 _kpipes = {}
-VOICES = {  # narrator options the writer can choose per video
-    "bm_george": "British male, deep, warm storyteller (default)",
-    "bm_fable": "British male, softer, fairy-tale feel",
-    "bm_lewis": "British male, older, grave",
-    "am_michael": "American male, calm, documentary",
-    "am_onyx": "American male, very deep",
-    "bf_emma": "British female, gentle, elegant",
-    "bf_isabella": "British female, warm, mature",
+_blends = {}
+
+VOICES = {
     "af_heart": "American female, soft, intimate",
     "af_bella": "American female, warm, expressive",
+    "am_michael": "American male, calm, documentary",
+    "am_fenrir": "American male, deep, commanding",
+    "am_puck": "American male, energetic",
+    "am_echo": "American male, clear, smooth",
+    "am_eric": "American male, lively",
+    "am_liam": "American male, conversational",
+    "am_adam": "American male, gritty",
+    "am_onyx": "American male, very deep",
+    "bm_george": "British male, deep, warm storyteller",
+    "bm_lewis": "British male, older, grave",
+    "bm_fable": "British male, softer, fairy-tale feel",
+    "bm_daniel": "British male, authoritative",
+    "bf_emma": "British female, gentle, elegant",
+    "bf_isabella": "British female, warm, mature",
 }
-# per-scene delivery: (speed multiplier, pause after scene in seconds)
-TONES = {"calm": (1.0, 0.7), "warm": (1.0, 0.7), "tender": (0.95, 0.9), "sad": (0.93, 1.1),
-         "awe": (0.95, 1.0), "tense": (1.08, 0.35), "urgent": (1.12, 0.3), "reflective": (0.92, 1.2)}
 
+DELIVERY = {
+    "normal": (1.0, 0.22),
+    "punch": (1.06, 0.12),
+    "reveal": (0.94, 0.55),
+    "aside": (1.08, 0.15),
+    "slow": (0.9, 0.45),
+}
 
 def duration(path):
-    return float(subprocess.check_output(["ffprobe", "-v", "error", "-show_entries", "format=duration",
-                                          "-of", "default=nw=1:nk=1", path]).strip())
+    out = subprocess.check_output(
+        ["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "default=nw=1:nk=1", str(path)]
+    ).decode().strip()
+    return float(out)
 
 
-def _kokoro(text, out_wav, speed, voice=None):
-    voice = voice if voice in VOICES else KOKORO_VOICE
-    import numpy as np, soundfile as sf
-    from kokoro import KPipeline
-    if voice[0] not in _kpipes:
-        _kpipes[voice[0]] = KPipeline(lang_code=voice[0])
-    parts = [r.audio.numpy() if hasattr(r.audio, "numpy") else r.audio
-             for r in _kpipes[voice[0]](text, voice=voice, speed=speed)]
-    sf.write(out_wav, np.concatenate(parts), 24000)
+def voice_from_channel(cfg=None):
+    env_voice = os.getenv("KOKORO_VOICE")
+    if env_voice:
+        return env_voice
+    if isinstance(cfg, (str, bytes, os.PathLike)) and os.path.exists(cfg):
+        try:
+            with open(cfg, "r", encoding="utf-8") as f:
+                cfg = json.load(f)
+        except Exception:
+            cfg = None
+    if isinstance(cfg, dict):
+        blend = cfg.get("voice_blend")
+        if blend:
+            return blend
+        narrator = cfg.get("narrator_voice")
+        if narrator:
+            return narrator
+    return "am_michael"
 
 
-def _edge(text, out_wav, speed):
+def _is_punct(s):
+    return bool(s) and all(not c.isalnum() and not c.isspace() for c in s)
+
+
+def _get_pipeline(lang_code):
+    if lang_code not in _kpipes:
+        from kokoro import KPipeline
+        _kpipes[lang_code] = KPipeline(lang_code=lang_code)
+    return _kpipes[lang_code]
+
+
+def _resolve_voice(pipe, voice):
+    if isinstance(voice, dict):
+        blend_key = json.dumps(voice, sort_keys=True)
+        if blend_key not in _blends:
+            total_w = sum(voice.values()) or 1.0
+            blended = None
+            for vid, weight in voice.items():
+                vt = pipe.load_voice(vid)
+                term = vt * float(weight)
+                if blended is None:
+                    blended = term.clone() if hasattr(term, "clone") else term.copy()
+                else:
+                    blended = blended + term
+            blended = blended / float(total_w)
+            _blends[blend_key] = blended
+        return _blends[blend_key]
+    return voice
+
+
+def word_times(text, start, dur):
+    words = text.split()
+    if not words:
+        return []
+    total = sum(len(w) + 1 for w in words) or 1
+    t, out = start, []
+    for w in words:
+        d = dur * (len(w) + 1) / total
+        out.append((round(t, 3), round(t + d, 3), w))
+        t += d
+    return out
+
+
+def _kokoro(text, out_wav, speed=1.0, voice=None):
+    if not voice:
+        voice = os.getenv("KOKORO_VOICE", "am_michael")
+
+    if isinstance(voice, dict):
+        lang_code = next(iter(voice.keys()))[0]
+    else:
+        lang_code = str(voice)[0]
+
+    pipe = _get_pipeline(lang_code)
+    kokoro_voice = _resolve_voice(pipe, voice)
+
+    parts = []
+    words = []
+    total_samples = 0
+    has_missing_timestamps = False
+    prefix_punct = ""
+
+    for r in pipe(text, voice=kokoro_voice, speed=speed):
+        audio = r.audio
+        if hasattr(audio, "detach"):
+            audio = audio.detach()
+        if hasattr(audio, "cpu"):
+            audio = audio.cpu()
+        if hasattr(audio, "numpy"):
+            audio = audio.numpy()
+        elif not isinstance(audio, np.ndarray):
+            audio = np.array(audio)
+
+        audio = np.squeeze(audio)
+        if audio.ndim == 0 or len(audio) == 0:
+            continue
+
+        chunk_samples = len(audio)
+        chunk_offset = total_samples / 24000.0
+        parts.append(audio)
+        total_samples += chunk_samples
+
+        tokens = getattr(r, "tokens", None)
+        if tokens is None:
+            has_missing_timestamps = True
+            continue
+
+        for tok in tokens:
+            tok_text = getattr(tok, "text", "")
+            if not tok_text:
+                continue
+
+            tok_str = tok_text.strip()
+            if not tok_str:
+                continue
+
+            start_ts = getattr(tok, "start_ts", None)
+            end_ts = getattr(tok, "end_ts", None)
+            if start_ts is None or end_ts is None:
+                has_missing_timestamps = True
+                continue
+
+            abs_start = round(chunk_offset + float(start_ts), 3)
+            abs_end = round(chunk_offset + float(end_ts), 3)
+            if abs_end <= abs_start:
+                abs_end = round(abs_start + 0.05, 3)
+
+            if _is_punct(tok_str):
+                if words:
+                    prev_start, prev_end, prev_w = words[-1]
+                    words[-1] = (prev_start, max(prev_end, abs_end), prev_w + tok_str)
+                else:
+                    prefix_punct += tok_str
+            else:
+                w_text = prefix_punct + tok_str
+                prefix_punct = ""
+                words.append((abs_start, abs_end, w_text))
+
+    if prefix_punct and words:
+        prev_start, prev_end, prev_w = words[-1]
+        words[-1] = (prev_start, prev_end, prev_w + prefix_punct)
+        prefix_punct = ""
+
+    if not parts:
+        raise RuntimeError("Kokoro produced no audio")
+
+    audio_data = np.concatenate(parts)
+    parent = os.path.dirname(os.path.abspath(out_wav))
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    sf.write(out_wav, audio_data, 24000)
+
+    total_dur = len(audio_data) / 24000.0
+    if has_missing_timestamps or not words:
+        words = word_times(text, 0.0, total_dur)
+    else:
+        words = [(s, min(e, round(total_dur, 3)), w) for s, e, w in words]
+
+    return words
+
+
+def _edge(text, out_wav, speed=1.0):
     import edge_tts
     rate = f"{int(round((speed - 1) * 100)):+d}%"
     mp3 = out_wav + ".mp3"
@@ -49,30 +217,41 @@ def _edge(text, out_wav, speed):
             break
         except Exception as e:
             print(f"  edge-tts error {e}")
-    subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-i", mp3, out_wav], check=True)
-    os.remove(mp3)
+            if attempt == 3:
+                raise
+    parent = os.path.dirname(os.path.abspath(out_wav))
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    subprocess.run(
+        ["ffmpeg", "-y", "-loglevel", "error", "-i", mp3, "-ar", "24000", "-ac", "1", out_wav],
+        check=True,
+    )
+    if os.path.exists(mp3):
+        try:
+            os.remove(mp3)
+        except OSError:
+            pass
 
 
-def speak(text, out_wav, speed=0.95, voice=None):
+def _edge_line(text, out_wav, speed=1.0):
+    _edge(text, out_wav, speed)
+    dur = duration(out_wav)
+    return word_times(text, 0.0, dur)
+
+
+def speak_line(text, out_wav, speed=1.0, voice=None):
     global ENGINE
+    if voice is None:
+        voice = os.getenv("KOKORO_VOICE", "am_michael")
+
     if ENGINE == "kokoro":
         try:
             return _kokoro(text, out_wav, speed, voice)
         except Exception as e:
             print(f"  Kokoro failed ({e}); switching to edge-tts")
             ENGINE = "edge"
-    _edge(text, out_wav, speed)
 
-
-def word_times(text, start, dur):
-    words = text.split()
-    total = sum(len(w) + 1 for w in words) or 1
-    t, out = start, []
-    for w in words:
-        d = dur * (len(w) + 1) / total
-        out.append((t, t + d, w))
-        t += d
-    return out
+    return _edge_line(text, out_wav, speed)
 
 
 def _ts(t):
@@ -82,10 +261,17 @@ def _ts(t):
 def write_srt(words, path, max_words=7):
     groups, cur = [], []
     for w in words:
-        if cur and (len(cur) >= max_words or w[0] - cur[-1][1] > 0.3 or cur[-1][2][-1] in ".?!"):
-            groups.append(cur); cur = []
+        if cur and (len(cur) >= max_words or w[0] - cur[-1][1] > 0.3 or (cur[-1][2] and cur[-1][2][-1] in ".?!")):
+            groups.append(cur)
+            cur = []
         cur.append(w)
     if cur:
         groups.append(cur)
-    open(path, "w", encoding="utf-8").write("\n".join(
-        f"{n}\n{_ts(g[0][0])} --> {_ts(g[-1][1])}\n{' '.join(x[2] for x in g)}\n" for n, g in enumerate(groups, 1)))
+    parent = os.path.dirname(os.path.abspath(path))
+    if parent:
+        os.makedirs(parent, exist_ok=True)
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(
+            f"{n}\n{_ts(g[0][0])} --> {_ts(g[-1][1])}\n{' '.join(x[2] for x in g)}\n"
+            for n, g in enumerate(groups, 1)
+        ))

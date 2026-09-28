@@ -1,106 +1,78 @@
 # lorevid
 
-A calm, beautifully told "Your Life as a ___" history video every day, made automatically on GitHub.
+An automated YouTube channel producing high-retention anime theory, breakdown, and "What If" videos covering **One Piece**, **Naruto / Boruto**, and **Jujutsu Kaisen**.
 
-## How it works
-1. **Writer (Claude cloud session, daily scheduled task)**: follows `WRITER.md`. It checks current trends with web
-   search, picks the topic from `topics/long.txt`, researches, drafts, runs a harsh 3-critic review and rewrites
-   until every score is 9+, then pushes `scripts/<date>.json`. This uses your Claude plan, no API key.
-2. **Renderer (GitHub Actions, free)**: the push starts `daily-video`: ~70 painted illustrations, slow warm
-   Kokoro narration, soft crossfades, gentle camera motion, warm film grade, chapter cards, mood music that dips
-   under the voice. Uploads privately: the 10-min video (thumbnail, captions, chapters) + 2 Shorts.
-3. **You**: phone notification → review → publish.
+The channel publishes roughly **6 vertical Shorts per day** alongside **long-form breakdown videos 3 times a week** (Monday, Wednesday, Friday).
 
 ---
 
-## Setup, step by step (once)
+## How It Works
 
-### Step 1: Put the code on GitHub (done)
-
-### Step 2: The writer
-Created as a scheduled task in the Claude app (Scheduled tasks). It runs daily; you can also run it on demand.
-
-### Step 3: Cloudflare, backup image generator (5 min)
-1. Sign up at dash.cloudflare.com (free).
-2. Copy your **Account ID** (right sidebar on the home page, or in the URL after `dash.cloudflare.com/`).
-3. My Profile → **API Tokens** → Create Token → use template **Workers AI** → Continue → Create → copy the token.
-
-### Step 4: Phone notifications (2 min)
-Install the **ntfy** app (Play Store / App Store) → **+** → subscribe to a topic with a hard-to-guess name,
-e.g. `lorevid-aditya-7k29x`. Use the same name as the `NTFY_TOPIC` secret.
-
-### Step 5: YouTube API (15 min)
-1. Go to console.cloud.google.com with **the Google account that owns your channel** → project drop-down →
-   **New project** → name `lorevid` → Create → select it.
-2. Menu → APIs & Services → **Library** → search "YouTube Data API v3" → **Enable**.
-3. APIs & Services → **OAuth consent screen** (may be called "Google Auth Platform") → Get started →
-   App name `lorevid`, your email → Audience: **External** → contact email → Create.
-4. **Audience** → Test users → add your Gmail. Then click **Publish app** → Confirm (so the login does not expire
-   after 7 days; Google will show it as "unverified", which is fine for your own use).
-5. **Clients** (or Credentials) → Create client → Application type **Desktop app** → name `lorevid` → Create →
-   **Download JSON**. Rename the file to `yt_client_secret.json` and put it in the `lorevid` folder.
-6. In the `lorevid` folder:
-   ```bash
-   python -m venv .venv && source .venv/bin/activate
-   pip install google-api-python-client google-auth-oauthlib python-dotenv
-   python auth.py
-   ```
-   A browser opens → pick your **channel** (not just the Google account) → "Google hasn't verified this app" →
-   **Advanced → Go to lorevid** → allow all. The terminal prints a JSON block. That is your `YT_TOKEN`.
-
-### Step 6: Add the secrets (5 min)
-github.com/adityamittal-dot/lorevid → **Settings → Secrets and variables → Actions → New repository secret**:
-
-| Name | Value |
-|---|---|
-| `CF_ACCOUNT_ID` | from step 3 |
-| `CF_API_TOKEN` | from step 3 |
-| `NTFY_TOPIC` | from step 4 |
-| `YT_CLIENT_SECRET` | the full text of `yt_client_secret.json` (`cat yt_client_secret.json`) |
-| `YT_TOKEN` | the JSON printed by `python auth.py` (`cat yt_token.json`) |
-
-Optional: `POLLINATIONS_TOKEN`.
-
-### Step 7: Music (10 min, strongly recommended)
-YouTube Studio → **Audio Library** → filter Genre *Ambient* / *Cinematic* / *Classical*, Mood *Calm* / *Sad* /
-*Dramatic*, and "Attribution not required". Download 2–4 tracks per mood (instrumental, slow, no drums) into:
-```
-music/calm/  music/warm/  music/melancholy/  music/mystery/  music/epic_soft/
-```
-Claude picks the mood for each video. Then run `git add music && git commit -m music && git push`.
-Without tracks the pipeline makes a soft ambient pad itself (copyright-free, but plainer).
-
-### Step 8: First video
-Repo → **Actions** → enable workflows if asked → **daily-video** → **Run workflow** → Run.
-It takes about 45–75 minutes (the first run downloads the voice model). Watch progress by clicking the run.
-When your phone buzzes, open the link → watch → edit the title if you like → **Visibility: Public**
-(or schedule it for about 05:30–07:30 IST, which is evening in the US).
-The files are also under the run's **Artifacts** (kept 7 days).
-
-From then on it runs every day by itself.
+1. **Scripting**: Automated writer routines run three times daily, follow `WRITER.md` for research and quality rules, and push validated script JSON files to `scripts/queue/<id>.json` alongside research notes in `notes/<id>.md`.
+2. **Merging & Queuing**: The `render.yml` workflow runs on GitHub Actions, merging incoming script branches into `main` and processing queued scripts in chronological order.
+3. **Audio & Visual Pipeline**:
+   - `tts.py` generates speech with word-level timestamps using Kokoro TTS.
+   - `visuals.py` fetches relevant high-resolution manga panels and anime stills.
+   - `video.py` renders the clips, animated subtitles, audio sidechain ducking, and sound effects via FFmpeg.
+4. **Scheduled Upload**: `upload.py` uploads the finished video to YouTube, assigns it to the series playlist, and schedules it for the next free publish slot in `channel.json`. The script's discussion question is posted as the first comment once the video goes public (the 3-hourly run does this).
+5. **Alerts & Archive**: After each upload, ntfy sends your phone the title, the scheduled time (IST) and the YouTube Studio link, and the script moves to `scripts/done/<id>.json`.
+6. **Daily Insights**: `insights.yml` runs daily, querying the YouTube Data API to update `data/performance.md` (video stats and YPP progress) and `data/trends.md` (high-velocity niche search trends).
 
 ---
 
-## Daily routine (10–15 min)
-Watch the private video (1.5× is fine) → fix anything → publish. Publish the 2 Shorts a few hours apart.
-Reply to early comments.
+## Visuals, Voice & Editing
 
-## Weekly (30 min)
-YouTube Studio → Analytics: click-through rate, average view duration, which topics won. Reorder or rewrite
-`topics/long.txt` to lean into winners (the strategist also reads live trends daily).
+- **Visual Sourcing**: Visuals are fetched automatically by `visuals.py` from public Fandom MediaWiki APIs (One Piece, Naruto, and Jujutsu Kaisen wikis). We download authentic manga panels and anime screenshots, filtered to reject low-res icons, logos, or merchandise photos. AI image generation (`images.py`) is reserved strictly as a last-resort fallback. Visuals are shown briefly under commentary—never pirated episode footage.
+- **Voice Narration**: Voiced by Kokoro TTS using a custom weighted blend (`voice_blend` in `channel.json`, defaulting to 65% `am_michael` + 35% `am_fenrir`) running locally on CPU.
+- **Dynamic Editing**:
+  - **Shorts**: Fast cuts on every narration line, punch zooms, camera shakes, subtle flash transitions, procedural sound effects (whoosh, hit, riser), top-screen hook text (~2.5s), and word-by-word ASS animated captions with the active word highlighted in yellow (`#FFD21E`). Endings loop naturally into the hook.
+  - **Long Videos**: Cinematic 0.35s crossfades between shots, chapter title cards, YouTube chapters in the description, an uploaded caption track, and a 1280x720 thumbnail with 2-4 big words.
 
-## Controls
-| What | How |
-|---|---|
-| Specific topic today | Actions → Run workflow → type the topic |
-| Voice | repo **Variables** tab → `KOKORO_VOICE` = `bm_george` (default), `bm_fable`, `bm_lewis`, `am_michael`, `am_onyx` |
-| Time of day | `.github/workflows/make.yml` cron (UTC; IST = UTC+5:30) |
-| See spend | `costs.csv` in the repo |
+---
 
-## If something fails
-You get a notification. Open Actions → the red run → the failed step → copy the last ~30 lines and send them
-to Claude. Re-running is safe: a topic is only marked done after a successful upload.
+## Channel Controls
 
-## Staying safe on YouTube
-Original scripts only; every upload is labelled as synthetic media; Audio Library or generated music only;
-violence and hardship are handled soberly; nothing goes public without you. Turn on 2-step verification.
+Key settings are configured in `channel.json` or through GitHub repository variables:
+
+| Control | Where to Set | Options / Default | Description |
+| :--- | :--- | :--- | :--- |
+| **Publish Mode** | Repo Variable `PUBLISH_MODE` | `schedule` (default), `private`, `public` | Controls visibility of new YouTube uploads. |
+| **Publish Slots** | `channel.json` (`publish`) | UTC times (e.g. `12:00`, `14:30`...) | Daily upload time slots and minimum lead hours. |
+| **Long Video Days** | `channel.json` (`long_days`) | `["Mon", "Wed", "Fri"]` | Days when long-form breakdown videos publish. |
+| **Voice Blend** | `channel.json` (`voice_blend`) | `{"am_michael": 0.65, "am_fenrir": 0.35}` | Weighted combination of Kokoro voice tensors. |
+| **Voice Override** | Repo Variable `KOKORO_VOICE` | Voice ID (e.g. `am_michael`) | Overrides the voice blend with a single voice. |
+| **Series & Weights** | `channel.json` (`series_weights`) | Franchise weight map | Topic distribution across One Piece, Naruto, and JJK. |
+| **AI Disclosure** | Repo Variable `SYNTHETIC_DISCLOSURE` | `0` (default) or `1` | Sets YouTube's altered/synthetic content disclosure flag. |
+| **Background Music** | Folder `music/<mood>/` | `hype`, `suspense`, `emotional`, `epic`, `chill` | Royalty-free MP3 tracks from YouTube Audio Library. |
+
+*Note: If a mood folder is empty, the pipeline synthesizes a tasteful ambient background pad automatically.*
+
+---
+
+## Owner Routines
+
+### Daily Routine (5 Minutes)
+1. **Glance at Notifications**: When a video renders and uploads, ntfy pings your phone with the video title and Studio link.
+2. **Review Scheduled Uploads**: Open YouTube Studio. Check the scheduled video and thumbnail; delete or reschedule if you want any adjustments before the publish time.
+3. **Pin the First Comment**: A few hours after a video goes public, the pipeline posts its discussion question as the first comment. Pin it in YouTube Studio (the API cannot pin).
+4. **Link Related Video on Shorts**: In YouTube Studio, edit the newly uploaded Short and set its **Related video** selector to the latest long-form video.
+
+### Weekly Routine (10 Minutes)
+- Review `data/performance.md` to see which topics, hooks, and formats generated the highest views per day and like rates.
+- Review `data/trends.md` to inspect emerging high-velocity search queries across your series.
+
+---
+
+## Troubleshooting
+
+- **Workflow Failures**: Check **GitHub Actions** > **render-and-publish**. Inspect logs on any failed step.
+- **Failed Scripts**: If a script fails 3 consecutive render attempts, it is parked in `scripts/failed/` to avoid holding up the queue. Once resolved, move the JSON back to `scripts/queue/` to retry.
+- **Quota Fallback**: If the main Google project hits a YouTube quota limit, uploads switch to the reserve project automatically (when its secrets are set).
+
+---
+
+## Monetization & Fair Use
+
+- **YouTube Partner Program (YPP)**: Requires 1,000 subscribers and either 10M Shorts views in 90 days or 4,000 public watch hours. (Note: Starting 1 Feb 2027, new YPP thresholds adjust to 20M Shorts views or 8,000 watch hours). Long-form videos provide the most reliable path to meeting watch-hour criteria.
+- **Copyright & Fair Use**: Content consists of original commentary illustrated by brief still images and manga panels. Raw anime footage or full scenes are never used. Content ID rarely matches still images; if a claim arrives, it usually only redirects that video's ad money. Dispute only when the video is clearly commentary.
+- **Archive**: Former history-channel assets and scripts remain archived in `archive/history/`.

@@ -1,0 +1,139 @@
+{
+ "id": "example-short",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Mihawk trained Zoro to be the blade that cuts Imu",
+ "title": "Zoro Was Trained To Kill Imu (One Piece Theory)",
+ "description": "Mihawk didn't train Zoro by accident. Here's why the King of Hell might be the one sword in One Piece built to cut Imu. Do you buy it?",
+ "hashtags": [
+  "#zoro",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "zoro",
+  "mihawk",
+  "imu",
+  "zoro king of hell",
+  "zoro conqueror's haki",
+  "one piece 1194",
+  "zoro vs imu"
+ ],
+ "hook_text": "MIHAWK KNEW",
+ "music_mood": "suspense",
+ "comment": "Zoro vs Imu: does Zoro land the final cut or does Luffy? Pick one.",
+ "related_long": null,
+ "lines": [
+  {
+   "text": "Mihawk didn't train Zoro to beat him. He trained him to kill a god.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "image": "File:Zoro Using Supreme King Haki.png",
+    "search": "Zoro Supreme King Haki",
+    "fallback": "green haired swordsman with three swords, dark aura"
+   }
+  },
+  {
+   "text": "And I think Oda has been hinting at it for years.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "image": "File:Dracule Mihawk One day.png",
+    "search": "Mihawk",
+    "fallback": "swordsman with hawk eyes"
+   }
+  },
+  {
+   "text": "Think about Kuraigana.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk training",
+    "fallback": "two swordsmen training on a misty island"
+   }
+  },
+  {
+   "text": "Mihawk hates weakness, yet he spends two whole years teaching the guy who swore to take his title.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "image": "File:Zoro Begs Mihawk.png",
+    "search": "Zoro begs Mihawk",
+    "fallback": "swordsman kneeling"
+   }
+  },
+  {
+   "text": "Why would the strongest swordsman build his own replacement?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "image": "File:Dracule Mihawk Anime Infobox.png",
+    "search": "Mihawk infobox",
+    "fallback": "swordsman portrait"
+   }
+  },
+  {
+   "text": "Here's the thing nobody noticed.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "image": "File:Imu Anime Concept Art.png",
+    "search": "Imu",
+    "fallback": "shadowy ruler on a throne"
+   }
+  },
+  {
+   "text": "In Wano, Zoro's King of Hell cut through things no normal blade could touch.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "image": "File:Zoro slices King with King of Hell Three-Sword Serpent.png",
+    "search": "King of Hell Three Sword Style",
+    "fallback": "swordsman slicing through fire"
+   }
+  },
+  {
+   "text": "And Imu? Imu is the one enemy nobody has ever managed to touch.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "image": "File:Imu & the Five Elders Transformations.png",
+    "search": "Imu transformation",
+    "fallback": "dark silhouette with glowing eyes"
+   }
+  },
+  {
+   "text": "So maybe Mihawk saw it first.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "image": "File:Dracule Mihawk at Age 19.png",
+    "search": "Mihawk young",
+    "fallback": "young swordsman"
+   }
+  },
+  {
+   "text": "Mihawk didn't train Zoro to beat him...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "image": "File:Zoro Fights Mihawk.png",
+    "search": "Zoro Fights Mihawk",
+    "fallback": "two swordsmen clash"
+   }
+  }
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Roronoa_Zoro",
+  "https://onepiece.fandom.com/wiki/Dracule_Mihawk",
+  "https://onepiece.fandom.com/wiki/Imu"
+ ],
+ "self_check": {
+  "hook": "claim in line 1",
+  "loop": "last line loops to line 1",
+  "facts_verified": true
+ }
+}

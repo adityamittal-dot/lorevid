@@ -1,0 +1,127 @@
+{
+  "name": "lorevid",
+  "niche": "anime theories, breakdowns and What If stories",
+  "series": [
+    {
+      "id": "onepiece",
+      "name": "One Piece",
+      "playlist": "One Piece Theories",
+      "hashtags": [
+        "#onepiece",
+        "#anime",
+        "#luffy"
+      ],
+      "release": "New manga chapter most Sundays on MANGA Plus (check for break weeks); anime episodes weekly.",
+      "sources": [
+        "https://onepiece.fandom.com/wiki/One_Piece_Wiki",
+        "https://www.reddit.com/r/OnePiece/",
+        "https://www.reddit.com/r/OnePiece/search/?q=theory&sort=top&t=week"
+      ],
+      "search_terms": [
+        "one piece theory",
+        "one piece chapter",
+        "what if luffy"
+      ]
+    },
+    {
+      "id": "naruto",
+      "name": "Naruto / Boruto",
+      "playlist": "Naruto & Boruto Theories",
+      "hashtags": [
+        "#naruto",
+        "#boruto",
+        "#anime"
+      ],
+      "release": "Boruto: Two Blue Vortex manga chapter monthly (around the 20th). Naruto is evergreen: What If stories do best.",
+      "sources": [
+        "https://naruto.fandom.com/wiki/Narutopedia",
+        "https://www.reddit.com/r/Boruto/",
+        "https://www.reddit.com/r/Naruto/"
+      ],
+      "search_terms": [
+        "what if naruto",
+        "boruto two blue vortex theory",
+        "naruto theory"
+      ]
+    },
+    {
+      "id": "jjk",
+      "name": "Jujutsu Kaisen",
+      "playlist": "Jujutsu Kaisen Theories",
+      "hashtags": [
+        "#jujutsukaisen",
+        "#jjk",
+        "#anime"
+      ],
+      "release": "Main manga finished (2024); JJK Modulo manga ongoing; anime season 4 (Culling Game part 2) in production. Gojo/Sukuna What Ifs and power-scaling do best.",
+      "sources": [
+        "https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki",
+        "https://www.reddit.com/r/JuJutsuKaisen/"
+      ],
+      "search_terms": [
+        "what if gojo",
+        "jujutsu kaisen theory",
+        "jjk modulo"
+      ]
+    }
+  ],
+  "series_weights": {
+    "onepiece": 3,
+    "naruto": 1,
+    "jjk": 1
+  },
+  "long_days": [
+    "Mon",
+    "Wed",
+    "Fri"
+  ],
+  "narrator_voice": "am_michael",
+  "formats": {
+    "short": {
+      "words": [
+        95,
+        165
+      ],
+      "lines": [
+        8,
+        22
+      ],
+      "note": "35-60 s vertical: one sharp claim or story beat, evidence, payoff, last line loops into the first"
+    },
+    "long": {
+      "words": [
+        1600,
+        2400
+      ],
+      "lines": [
+        90,
+        220
+      ],
+      "note": "10-16 min: chapter/episode breakdown, deep theory, or a What If story"
+    }
+  },
+  "voice_blend": {
+    "am_michael": 0.65,
+    "am_fenrir": 0.35
+  },
+  "speed": {
+    "short": 1.12,
+    "long": 1.04
+  },
+  "publish": {
+    "mode": "schedule",
+    "short_slots_utc": [
+      "12:00",
+      "14:30",
+      "17:00",
+      "19:30",
+      "22:00",
+      "00:30"
+    ],
+    "long_slots_utc": [
+      "15:00"
+    ],
+    "min_lead_hours": 3
+  },
+  "shorts_per_session": 2
+}
