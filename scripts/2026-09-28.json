@@ -1,0 +1,652 @@
+{
+  "topic": "Your Life as a Roman Soldier's Wife on Hadrian's Wall",
+  "queue_item": "Your Life as a Roman Centurion's Wife",
+  "title": "Your Life as a Roman Soldier's Forbidden Wife",
+  "thumbnail_text": "THE WIFE ROME DENIED",
+  "thumbnail_prompt": "extreme close-up of a young Romano-British woman's face, tender worried expression looking toward a distant fort gate, wind loose strands of brown hair across her cheek, a blurred timber gatehouse in the background, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+  "thumbnail_label": "HADRIAN'S WALL",
+  "thumbnails": [
+    {
+      "text": "THE WIFE ROME DENIED",
+      "highlight": "DENIED",
+      "prompt": "extreme close-up of a young Romano-British woman's face, tender worried expression looking toward a distant fort gate, wind loose strands of brown hair across her cheek, a blurred timber gatehouse in the background, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "NOT HIS WIFE YET",
+      "highlight": "YET",
+      "prompt": "extreme close-up of a young Romano-British woman's face, a small private hopeful smile, one hand touching a plain wool collar at her throat, soft warm hearth glow at the frame's edge, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "TWENTY-FIVE YEARS UNMARRIED",
+      "highlight": "TWENTY-FIVE",
+      "prompt": "extreme close-up of a Romano-British woman's face, weathered and calm, a small bronze diploma tablet held just below frame, faint dawn light on a distant Roman wall behind her, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    }
+  ],
+  "description": "Rome forbade its soldiers to marry for the first two centuries of the empire, yet on the northern frontier of Britain, in the civilian settlement outside a fort on Hadrian's Wall, soldiers and local women built families anyway. Follow one woman's whole life beside a Batavian auxiliary horseman named Rufus: the campaign seasons she waited through, the letters that mattered more than anything ever written in Rome, and the twenty-five years it took for an empire to finally say her name.\n\nA calm, unhurried second-person story to relax or fall asleep to, built on real Roman military law, the Vindolanda letters, and the daily life of a frontier garrison town.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#romanempire",
+    "#hadrianswall",
+    "#historyforsleep"
+  ],
+  "tags": [
+    "your life as",
+    "roman empire",
+    "hadrians wall",
+    "vindolanda",
+    "roman britain",
+    "roman soldier wife",
+    "auxiliary soldier",
+    "history for sleep",
+    "boring history for sleep",
+    "daily life in history",
+    "bedtime history",
+    "sleep story",
+    "ancient rome",
+    "frontier fort",
+    "roman military diploma"
+  ],
+  "music_mood": "calm",
+  "narrator_voice": "bf_emma",
+  "ambience": "rain",
+  "era_setting": "A civilian vicus outside a Roman auxiliary fort on Hadrian's Wall, Britannia, about 100-125 AD: timber strip-houses, wattle-and-daub walls, mail and red wool military dress against plain undyed wool civilian clothing, a palette of iron grey, wet green and warm hearth gold.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a Romano-British woman in her mid-twenties, work-roughened hands, brown hair in a practical knotted braid, wearing an undyed wool tunic with a soldier's plaid-check cloak pin at the shoulder"
+    },
+    {
+      "id": "rufus",
+      "look": "a Batavian auxiliary horseman in his late twenties, broad-shouldered, close-cropped dark hair, a thin scar through one eyebrow, wearing a mail shirt over a red wool tunic and a heavy campaign cloak"
+    },
+    {
+      "id": "neighbor",
+      "look": "a weathered vicus woman in her thirties, greying hair under a plain headscarf, wearing a patched grey wool dress, a soldier's folded cloak always kept near her"
+    },
+    {
+      "id": "daughter",
+      "look": "a serious nine-year-old girl with her mother's brown braid and her father's straight brows, wearing a small undyed wool tunic"
+    },
+    {
+      "id": "son",
+      "look": "a quiet young boy of about six, tousled dark hair, wearing a rough wool tunic with a hand-stitched patch at the knee"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Vicus by the Wall",
+      "scenes": [
+        {
+          "narration": "By the time the evening horn sounds, you already know whether the cohort marches home tonight, or whether you light the lamp again for no one.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a woman standing in a doorway of a wattle-and-daub house at dusk, oil lamp in hand, unlit, watching a distant fort gate across the mud, soft fading blue-gold light, quiet stillness",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Two winters ago you were a farmer's daughter beyond the ditches; now you keep a hearth in the vicus, married in every way but the one Rome recognizes.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a young woman kneeling at a small hearth inside a narrow timber house, banking embers, wattle walls around her, warm firelight, humble domestic framing",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your husband, Rufus, rides with the Ninth Cohort of Batavians, horsemen and foot soldiers together, posted to this fort along the wall's cold spine.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of an auxiliary horseman in mail and a red tunic leading his horse along a muddy track beside a long stone-and-turf wall under a grey northern sky, cinematic distance",
+          "characters": [
+            "rufus"
+          ]
+        },
+        {
+          "narration": "The gate guard waves you through the mud without asking, though your marriage lives only between the two of you, written in no ledger anywhere.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a woman walking past a timber fort gatehouse in churned mud, a guard glancing up and waving her on, overcast daylight, everyday quiet tension",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your house is one narrow room behind a leather-worker's stall, wattle walls, a hard floor, and a hearth you have learned to coax from wet British wood.",
+          "tone": "calm",
+          "image_prompt": "Wide interior shot of a small single-room wattle house, a woman coaxing flame from damp wood at a low hearth, leather tools visible through a doorway to a front stall, warm dim light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You remember the first night the wind found every gap in that wattle, and Rufus laughed and called it a proper wedding gift.",
+          "tone": "tender",
+          "image_prompt": "Wide shot of a young couple laughing together under a blanket inside a wind-rattled timber house at night, single candle glow, intimate warm framing",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "He is gone eleven days of every thirty on patrol, and each departure you tell yourself the same lie, that this time will feel ordinary.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a horseman riding away down a muddy track from a civilian settlement at dawn, a woman standing small in a doorway behind him, cool morning light, distance framing",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "This morning he tied his cloak wrong twice, kissed your forehead, and said nothing of the rumor that tribes are gathering past the last watchtower.",
+          "tone": "tense",
+          "image_prompt": "Medium wide shot of a soldier fumbling with a cloak clasp at a doorway while a woman fixes it for him, both faces close, a distant watchtower visible on a hill beyond, tense grey morning light",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "Rome will not write your name beside his, but the neighbor women call you wife already, and that, for now, is citizenship enough.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of several vicus women gathered at a well, one young woman among them smiling quietly, timber houses and smoke behind, warm midday light, sense of belonging",
+          "characters": [
+            "you",
+            "neighbor"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bread, Beer and Barley",
+      "scenes": [
+        {
+          "narration": "Morning begins with barley bread and a cup of thin, sour beer, since the fort's water tastes of iron and the beer, oddly, tastes of home.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a simple breakfast of dark bread and a clay cup of beer on a wooden table inside a modest vicus house, soft morning light through a shuttered window",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At the corner stall you trade eggs for bacon-fat, haggling in your mother's tongue mixed with soldiers' Latin, understood by everyone and owned by no one.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a lively vicus street market stall, a woman exchanging a basket of eggs with a stallholder, timber strip-houses and awnings lining a muddy street, bright bustling daylight",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The vicus smells of woodsmoke, wet wool, and the leather-worker's tannin next door, a smell you once hated and now cannot fall asleep without.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a narrow vicus street at dusk, smoke curling from many timber roofs, drying wool hung under an eave, a leather-worker's open stall glowing with lamplight",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At the crossroads shrine you leave a bent coin for the household Lares each morning, asking only that they watch the road Rufus rides out on.",
+          "tone": "tender",
+          "image_prompt": "Wide shot of a small roadside shrine with carved household god figures and offerings, a woman kneeling to place a coin, a muddy road stretching toward a distant fort gate, soft dawn light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You have learned to read weather in smoke, to salt fish before frost, to patch a roof before rain finds the seam that failed last year.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a woman patching a thatched roof with reeds under a cold grey sky, smoke rising thin and flat from a nearby chimney, practical everyday framing",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your neighbor lost her own soldier last spring to fever, not battle, and still keeps his cloak folded on the shelf where he used to hang it.",
+          "tone": "sad",
+          "image_prompt": "Wide interior shot of a modest vicus home, a folded soldier's cloak resting untouched on a wall shelf, a woman standing quietly beside it, muted grey light, still and heavy mood",
+          "characters": [
+            "neighbor"
+          ]
+        },
+        {
+          "narration": "You have learned not to flinch when she says his name, since grief here is common enough that flinching would be its own kind of rudeness.",
+          "tone": "tender",
+          "image_prompt": "Wide shot of two women sitting together on a doorstep, one comforting the other with a steady hand, soft overcast afternoon light, quiet companionship",
+          "characters": [
+            "you",
+            "neighbor"
+          ]
+        },
+        {
+          "narration": "In the evenings you mend the same coarse wool socks the soldiers wear pulled over bare feet, inside their sandals, against the cold.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a woman by firelight mending coarse wool socks with a bone needle, a basket of soldiers' clothing beside her, warm amber lamplight, cosy domestic framing",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Rufus once brought you a comb carved from bone, traded away a whole season's wages just to see you smile at something so small.",
+          "tone": "warm",
+          "image_prompt": "Close medium shot of a woman turning a small carved bone comb over in her hands by firelight, a soldier watching her fondly from the doorway, warm intimate glow",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "That autumn the horn would sound three times instead of one, though neither of you yet knew it, admiring the comb together by firelight.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a couple sitting close by a low hearth fire at night, a small bone comb between them, the timber house dark and quiet beyond the firelight, foreboding calm",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Campaign Season",
+      "scenes": [
+        {
+          "narration": "Then the horn sounds three short blasts instead of one, and every woman in the vicus stops what she is doing at exactly the same moment.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a civilian settlement street where several women freeze mid-task, baskets and tools half-lowered, all heads turning toward a distant fort horn tower, cold pale light",
+          "characters": [
+            "you",
+            "neighbor"
+          ]
+        },
+        {
+          "narration": "The cohort is ordered north, past the last milecastle, to answer a raid that burned two farmsteads and left the road smelling of char and wet ash.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a column of auxiliary soldiers riding north past a small stone milecastle toward smoke rising on a distant hillside, overcast grim daylight, wide cinematic framing",
+          "characters": [
+            "rufus"
+          ]
+        },
+        {
+          "narration": "Rufus packs in the dark so as not to wake you, though you have been awake the whole time, watching the shape of him against the low fire.",
+          "tone": "tender",
+          "image_prompt": "Dim interior shot of a soldier quietly packing gear by the last glow of a dying hearth, a woman lying still but awake, watching his silhouette, deep warm shadow",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "He tells you where he has hidden three months of pay under the hearthstone, in case this campaign answers the question neither of you says aloud.",
+          "tone": "urgent",
+          "image_prompt": "Close medium shot of a soldier lifting a loose hearthstone to show coins hidden beneath, a woman watching his face closely, low firelight, tense intimacy",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "You watch the cohort file past the gate at dawn, hooves loud on frozen mud, until the column is a dark line, and then nothing at all.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of mounted soldiers riding out through a fort's timber gate at dawn, a small crowd of women watching from a distance, the column shrinking toward the horizon, cold blue morning light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The first week you keep busy on purpose, since idle hands invite the kind of thinking that does no one, least of all you, any good.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a woman scrubbing laundry at a stone trough with fierce concentration, other vicus women working nearby, overcast practical daylight",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "By the second week, every rider approaching the gate makes your whole body go still before your mind decides whether to hope or brace.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a woman standing rigid in a doorway, staring down a muddy road at an approaching single rider, tense stillness, grey flat light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A runner brings a strength report for the commander, and the vicus reads his face like a letter before anyone dares ask him a question.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a dusty messenger dismounting at the fort gate, a small crowd of vicus women watching his expression intently from a respectful distance, tense hush, dim daylight",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Frost silvers the well-rope that morning, and a single robin works the empty gate-yard for crumbs, unhurried, as if nothing at all were wrong.",
+          "tone": "reflective",
+          "image_prompt": "Close wide shot of frost glittering on a well-rope in pale early light, a small robin pecking calmly in an empty gate-yard, serene still composition, no figures",
+          "characters": []
+        },
+        {
+          "narration": "The news, when it comes, is neither the best nor the worst: skirmishes, one cohort mauled badly, yours untouched so far, beyond the last signal tower.",
+          "tone": "tense",
+          "image_prompt": "Wide shot of a commander reading a dispatch aloud to a gathered crowd outside the fort gate, mixed relief and grief on nearby faces, overcast grey light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "That night you sit at the lararium longer than usual, and for once you do not haggle with the household gods, you simply ask, plainly, for him.",
+          "tone": "tender",
+          "image_prompt": "Close wide shot of a woman kneeling before a small household shrine lit by a single oil lamp, hands folded, eyes closed, warm small light in dark surroundings",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A week later a wounded rider passes through needing a surgeon, and for one terrible breath before you see his face, you believe it might be Rufus.",
+          "tone": "urgent",
+          "image_prompt": "Wide shot of a wounded soldier slumped on a horse being led through a fort gate toward the hospital block, a woman rushing forward with a stricken expression, dim urgent light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "It is not him, and you are ashamed of the relief you feel, since somewhere beyond the wall another woman is about to feel the opposite.",
+          "tone": "sad",
+          "image_prompt": "Close medium shot of a woman stepping back from a stretcher with a mixture of relief and shame on her face, other anxious women still waiting behind her, muted cold light",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Spring arrives before any final word does, green pushing up through the mud around the vicus wells, indifferent to who is still missing.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of fresh green shoots pushing through mud around a stone well in a civilian settlement, soft new spring light, quiet indifferent beauty, a lone woman passing in the background",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Then, on an ordinary grey morning, a letter comes north with the supply train, sealed with wax, written in a hand you would know anywhere.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a supply cart arriving at a vicus street, a woman stepping forward as a courier hands her a small sealed wax tablet letter, soft break of light through grey clouds",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Letter in Spring",
+      "scenes": [
+        {
+          "narration": "The letter says only that he is well, that the cohort held the river crossing, and that he will be home by the barley harvest.",
+          "tone": "warm",
+          "image_prompt": "Close medium shot of a woman reading a wooden writing-tablet letter in warm doorway light, a relieved half-smile, soft golden afternoon glow",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You read it once in the doorway and once more by the fire, as if the words might change if you looked at them again.",
+          "tone": "tender",
+          "image_prompt": "Wide shot of a woman seated by a hearth at night re-reading a small wooden tablet by firelight, quiet absorbed focus, warm intimate glow",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When the cohort rides back through the gate, dust-grey and thinner than they left, you do not run, you simply stand where he can find you.",
+          "tone": "tender",
+          "image_prompt": "Wide shot of tired dust-covered soldiers riding back through a fort gate, a woman standing very still at the edge of a small waiting crowd, warm late afternoon light",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "Rufus finds you first, and for a long moment neither of you speaks, since some homecomings are too large for the vicus's ordinary Latin.",
+          "tone": "tender",
+          "image_prompt": "Close medium shot of a soldier and a woman standing forehead to forehead in a quiet embrace amid a bustling homecoming crowd, warm soft focus, tender stillness",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "He has a new scar above one eyebrow and a story he tells badly and often, and you decide you will let him tell it badly for years.",
+          "tone": "warm",
+          "image_prompt": "Close medium shot of a smiling woman listening to a soldier with a fresh scar above one eyebrow gesturing animatedly by firelight, warm affectionate mood",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "That first night home he sleeps through the whole dark without once stirring, and you sit awake beside him simply to watch him breathe.",
+          "tone": "tender",
+          "image_prompt": "Dim interior shot of a sleeping soldier lit softly by embers, a woman sitting upright beside him, watching quietly, deep warm shadow, tender stillness",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "Slowly the ordinary returns: barley bread, sour beer, the leather-worker's tannin smell, small arguments, smaller laughter, the daily tyranny of chores.",
+          "tone": "calm",
+          "image_prompt": "Wide shot of a couple working side by side in a small vicus house yard, mundane chores, soft warm daylight, easy domestic rhythm",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "Already many winters after that first one, with eleven years left of his twenty-five, he counts them differently now, more carefully than before.",
+          "tone": "reflective",
+          "image_prompt": "Close medium shot of an auxiliary soldier, a little older now, tracing marks on a wooden tally by lamplight, thoughtful expression, a woman watching from nearby, warm dim light",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "You do not need a bronze document to know what you already are to each other, only how much easier the world becomes for those Rome recognizes.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of a couple standing together in a doorway looking out at the fort in the distance, quiet resolve, soft fading evening light",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Bronze Diploma",
+      "scenes": [
+        {
+          "narration": "The years move the way frontier years do, in seasons rather than days: campaigns, harvests, a daughter born loud in autumn, a son born quiet in spring.",
+          "tone": "calm",
+          "image_prompt": "Wide montage-feeling shot of a small family in a vicus yard across seasons, autumn leaves and spring blossom subtly blended in one composed frame, warm gentle light",
+          "characters": [
+            "you",
+            "rufus",
+            "daughter",
+            "son"
+          ]
+        },
+        {
+          "narration": "Your daughter is nine before she asks why other children can already say citizen and she, for now, cannot, and you answer her plainly, without bitterness.",
+          "tone": "tender",
+          "image_prompt": "Close medium shot of a mother kneeling to speak gently with a serious nine-year-old girl in a modest yard, soft honest afternoon light",
+          "characters": [
+            "you",
+            "daughter"
+          ]
+        },
+        {
+          "narration": "Rufus grows grey at the temples and steadier in the shoulders, training younger men who remind you both, painfully, of who he once was.",
+          "tone": "reflective",
+          "image_prompt": "Wide shot of an older auxiliary soldier drilling younger recruits on a training ground, watched from a distance by a woman with a knowing expression, cool afternoon light",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "On the morning of his final parade, you stand at the edge of the ground with both children, the only one there who cannot stop shaking.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a formal parade ground with ranks of soldiers, a woman and two children standing at the edge visibly moved, crisp morning light, ceremonial atmosphere",
+          "characters": [
+            "you",
+            "daughter",
+            "son"
+          ]
+        },
+        {
+          "narration": "The commander reads the names of the discharged in a flat official voice, until Rufus's own name lands in the cold air like something enormous.",
+          "tone": "awe",
+          "image_prompt": "Wide shot of a commander reading from a scroll before assembled ranks, one soldier standing very still as his name is called, cold clear light, solemn framing",
+          "characters": [
+            "rufus"
+          ]
+        },
+        {
+          "narration": "Afterward a clerk hands him a folded sheet of bronze, small enough to hold in one palm, heavier than anything you have carried together.",
+          "tone": "awe",
+          "image_prompt": "Close medium shot of a clerk placing a small folded bronze diploma into a soldier's open palm, a woman watching close beside him, warm ceremonial light",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "It grants him citizenship, grants your children citizenship, and grants you, at last, the plain legal word wife, twenty-five years late and exactly on time.",
+          "tone": "tender",
+          "image_prompt": "Close medium shot of a family of four holding a small bronze diploma together, quiet overwhelmed joy, warm golden light",
+          "characters": [
+            "you",
+            "rufus",
+            "daughter",
+            "son"
+          ]
+        },
+        {
+          "narration": "That evening the whole vicus comes to your door with beer and bread, since everyone here has waited out someone's twenty-five years at least once.",
+          "tone": "warm",
+          "image_prompt": "Wide shot of a small crowd of vicus neighbors gathered outside a timber house doorway with jugs and loaves, warm firelit evening celebration",
+          "characters": [
+            "you",
+            "rufus",
+            "neighbor"
+          ]
+        },
+        {
+          "narration": "You pin the diploma's two bronze leaves above the lararium, beside the household gods who listened to twenty-five winters of the same low request.",
+          "tone": "tender",
+          "image_prompt": "Close wide shot of a small bronze diploma being fixed above a modest household shrine, warm lamplight, quiet reverent framing",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Rufus still ties his cloak wrong sometimes, and you still fix it without a word, the way you have for a quarter of a century.",
+          "tone": "warm",
+          "image_prompt": "Close medium shot of an older woman calmly adjusting an older soldier's cloak clasp in a doorway, gentle familiar affection, soft warm light",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "On the coldest nights you still feel that first wind finding the gaps in the wattle, and still call it, low, a proper wedding gift.",
+          "tone": "reflective",
+          "image_prompt": "Wide interior shot of an older couple sitting close together under a blanket in a softly wind-stirred timber house at night, warm candle glow, tender quiet",
+          "characters": [
+            "you",
+            "rufus"
+          ]
+        },
+        {
+          "narration": "Rome took twenty-five years to say your name, but the vicus said it the first winter, and in the end that was the citizenship that mattered.",
+          "tone": "reflective",
+          "image_prompt": "Wide closing shot of a woman standing in a doorway at dusk looking out over the quiet vicus toward the fort and the long wall beyond, warm fading light, peaceful resolution",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The Wife Rome Refused to Recognize #shorts",
+      "description": "Roman soldiers were banned from marrying for twenty-five years — this is the woman who waited anyway. #history #romanempire #shorts",
+      "scenes": [
+        {
+          "narration": "Rome forbids your husband to marry you, so the whole vicus simply calls you wife instead.",
+          "ref": 0
+        },
+        {
+          "narration": "This morning he hides a rumor from you: tribes are gathering past the last watchtower.",
+          "ref": 7
+        },
+        {
+          "narration": "Then the horn sounds three blasts, and every wife in the settlement goes still at once.",
+          "ref": 19
+        },
+        {
+          "narration": "You watch the cohort ride out at dawn until the column is only mud and silence.",
+          "ref": 23
+        },
+        {
+          "narration": "A wounded rider passes through, and for one breath you believe it might be him.",
+          "ref": 30
+        },
+        {
+          "narration": "Then, on a grey morning, a letter comes north in a hand you would know anywhere.",
+          "ref": 33
+        },
+        {
+          "narration": "Twenty-five years later, one small bronze document finally lets Rome call you his wife.",
+          "ref": 49
+        }
+      ]
+    },
+    {
+      "title": "She Feared It Was Him. It Wasn't. #shorts",
+      "description": "The hidden cost of loving a Roman soldier on the frontier, and the twenty-five year wait that followed. #history #hadrianswall #shorts",
+      "scenes": [
+        {
+          "narration": "A wounded rider passes through the gate needing a surgeon, and your whole body turns cold.",
+          "ref": 30
+        },
+        {
+          "narration": "It is not your husband, and you are ashamed of how relieved that makes you feel.",
+          "ref": 31
+        },
+        {
+          "narration": "Before he left, he showed you where three months of pay lay hidden beneath the hearth.",
+          "ref": 22
+        },
+        {
+          "narration": "The next frost morning a single robin works the yard, unhurried, as if nothing were wrong.",
+          "ref": 27
+        },
+        {
+          "narration": "Years later you stand at his final parade, the only one there who cannot stop shaking.",
+          "ref": 46
+        },
+        {
+          "narration": "A small bronze document grants your children citizenship, and finally, you, the word wife.",
+          "ref": 49
+        },
+        {
+          "narration": "Rome took twenty-five years to say your name; the vicus had said it the first winter.",
+          "ref": 54
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "Critic cut the script from about 1,670 to 1,390 words, trimmed seven overlong scenes, replaced a clinical 'twelve hours straight' line, fixed a timeline gap between chapter four and five, added a calm sensory beat mid-campaign, and gave chapter two a real open loop into the horn call."
+}
