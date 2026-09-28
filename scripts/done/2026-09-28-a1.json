@@ -6,8 +6,23 @@
   "topic": "Zoro decodes Mihawk's old riddle mid-fight and finally cracks Saint Sommers' regeneration",
   "title": "Zoro Just Solved Mihawk's Riddle From Years Ago",
   "description": "Chapter 1194 finally answers a question Mihawk planted on Kuraigana Island years ago. Here's how Zoro used it to crack Saint Sommers' regeneration, and what it says about who's really closing in on the title of strongest swordsman. Do you think Zoro is ready for Mihawk yet?",
-  "hashtags": ["#zoro", "#onepiece", "#anime"],
-  "tags": ["one piece theory", "zoro", "mihawk", "one piece 1194", "zoro conqueror's haki", "saint sommers", "one piece chapter 1194", "zoro three sword style", "one piece egghead arc", "strongest swordsman theory"],
+  "hashtags": [
+    "#zoro",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "zoro",
+    "mihawk",
+    "one piece 1194",
+    "zoro conqueror's haki",
+    "saint sommers",
+    "one piece chapter 1194",
+    "zoro three sword style",
+    "one piece egghead arc",
+    "strongest swordsman theory"
+  ],
   "hook_text": "MIHAWK'S RIDDLE SOLVED",
   "music_mood": "suspense",
   "comment": "Has Zoro already surpassed Mihawk's mindset, or is he still years away? Pick one.",
@@ -161,5 +176,12 @@
     "hook": "leads with Mihawk/Zoro claim in line 1, contrarian-hidden-detail hybrid",
     "loop": "last line trails off into line 1's opening sentence",
     "facts_verified": true
+  },
+  "published": {
+    "video_id": "xo1C6ceMJ2g",
+    "publish_at": "2026-09-28T22:00:00Z",
+    "url": "https://youtu.be/xo1C6ceMJ2g",
+    "comment": "Has Zoro already surpassed Mihawk's mindset, or is he still years away? Pick one.",
+    "comment_posted": false
   }
 }
