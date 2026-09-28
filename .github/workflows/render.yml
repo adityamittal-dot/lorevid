@@ -1,5 +1,5 @@
 name: render-and-publish
-# The writer pushes scripts/queue/<id>.json on claude/script-* branches. This merges them into main, renders every
+# The writer pushes scripts/queue/<id>.json on claude/* branches (claude/script-<id> preferred). This merges them into main, renders every
 # queued script (oldest first), uploads it as a scheduled video, and moves it to scripts/done/.
 # The 3-hourly schedule retries anything left in the queue and posts first comments on videos that just went public.
 on:
@@ -32,7 +32,9 @@ jobs:
         run: |
           git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
           merged=""
-          for b in $(git branch -r --list 'origin/claude/script-*'); do
+          # Any claude/* branch that adds queue files counts, whatever the session named it.
+          for b in $(git branch -r --list 'origin/claude/*'); do
+            git diff --quiet main..."$b" -- scripts/queue && continue
             if git merge -q --no-edit "$b" -m "merge ${b#origin/}"; then merged="$merged ${b#origin/}"
             else git merge --abort; echo "::warning::could not merge $b automatically (conflict) - merge it by hand"; fi
           done
@@ -40,7 +42,13 @@ jobs:
             for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
             for b in $merged; do git push -q origin --delete "$b" || true; done
           fi
-          echo "n=$(ls scripts/queue/*.json 2>/dev/null | wc -l)" >> "$GITHUB_OUTPUT"
+          n=$(ls scripts/queue/*.json 2>/dev/null | wc -l)
+          echo "n=$n" >> "$GITHUB_OUTPUT"
+          if [ "$n" = 0 ] && [ "$GITHUB_EVENT_NAME" = push ]; then
+            msg="Script push on $GITHUB_REF_NAME but the queue on main is empty - nothing rendered."
+            echo "::warning::$msg"
+            [ -n "$NTFY_TOPIC" ] && curl -s -d "$msg" "ntfy.sh/$NTFY_TOPIC" > /dev/null || true
+          fi
 
       - uses: actions/setup-python@v7
         with: {python-version: "3.12", cache: pip}
