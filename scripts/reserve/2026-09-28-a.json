@@ -1,0 +1,701 @@
+{
+  "topic": "Your Life as the King's Falconer in a Medieval Court",
+  "queue_item": "Your Life as a Royal Falconer in a Medieval Court",
+  "title": "Your Life as the King's Falconer in a Medieval Court",
+  "thumbnail_text": "ONE STORM FROM RUIN",
+  "thumbnail_prompt": "extreme close-up of a young falconer's rain-streaked face, eyes wide with fear, scanning a dark stormy sky, a blurred castle silhouette behind him, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+  "thumbnail_label": "MEDIEVAL ENGLAND 1480S",
+  "thumbnails": [
+    {
+      "text": "ONE STORM FROM RUIN",
+      "highlight": "RUIN",
+      "prompt": "extreme close-up of a young falconer's rain-streaked face, eyes wide with fear, scanning a dark stormy sky, a blurred castle silhouette behind him, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "CLOSER THAN THE LORDS",
+      "highlight": "CLOSER",
+      "prompt": "extreme close-up of a young man's face at a torchlit feast table, quiet astonished expression, blurred golden goblets and a crowned king behind him, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    },
+    {
+      "text": "FOUR SEATS FROM KING",
+      "highlight": "FOUR",
+      "prompt": "extreme close-up of a proud, weathered older falconer's face at dusk, a hooded gyrfalcon's silhouette on his raised fist beside his face, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text"
+    }
+  ],
+  "description": "You are a plowman's son the day the old royal falconer chooses you from the village line, and by nightfall you are learning to lace a hood over the eyes of the king's own gyrfalcon inside a silent stone mews. Follow one falconer's whole life at a medieval royal court — a triumphant first flight before the king, a single storm that nearly costs you everything, and the quiet, hard-won respect of a servant who once sat only four seats from the throne.\n\nA calm, unhurried second-person story to relax or fall asleep to, built on real medieval falconry training, law and court history, from the hooded mews to the hawk-by-rank hierarchy of the Boke of Seynt Albans.",
+  "hashtags": [
+    "#history",
+    "#yourlifeas",
+    "#falconry",
+    "#medievalhistory",
+    "#historyforsleep"
+  ],
+  "tags": [
+    "your life as",
+    "medieval falconry",
+    "royal falconer",
+    "medieval court",
+    "gyrfalcon",
+    "boke of saint albans",
+    "falconry history",
+    "medieval england",
+    "history for sleep",
+    "boring history for sleep",
+    "daily life in history",
+    "bedtime history",
+    "sleep story",
+    "history documentary"
+  ],
+  "music_mood": "warm",
+  "narrator_voice": "bm_lewis",
+  "ambience": "wind",
+  "era_setting": "A royal English court in the early 1480s: grey stone keeps and a low stone mews within the bailey wall, muddy village lanes beyond, wool and leather clothing in browns, greens and faded reds, and the hooded gyrfalcons, jesses and bronze bells of the royal hunt.",
+  "characters": [
+    {
+      "id": "you",
+      "look": "a lean man shown from a barefoot village boy of about twelve to an old man past sixty: sun-browned skin, dark brown hair tied back when grown and grey and cropped short in old age; wears a plain undyed wool tunic as a boy, later a weathered green-brown leather jerkin with a thick leather falconry gauntlet always on one arm, ageing into a deeply lined, calm face"
+    },
+    {
+      "id": "mentor",
+      "look": "a stooped, elderly falconer with a close-cropped silver-grey beard, deeply weathered face and calm pale eyes, missing the tip of one finger on his gloved hand; wears a plain dark green wool coat, a wide leather belt hung with a hawking bag, and a well-worn leather gauntlet"
+    },
+    {
+      "id": "king",
+      "look": "a broad-shouldered man in his middle years with a short greying beard and steady dark eyes; wears a rich crimson velvet cloak trimmed with grey fur, fine leather boots, and a plain gold circlet"
+    },
+    {
+      "id": "courtier",
+      "look": "a lean, sharp-featured young knight with pale blond hair, a thin mustache and a permanent thin-lipped expression; wears a fine blue-grey doublet with silver thread embroidery and a jeweled dagger at his belt"
+    },
+    {
+      "id": "son",
+      "look": "shown first as a small fair-haired toddler and later as a slim young man who resembles his father, with lighter brown hair tied back; wears a plain undyed tunic as a child and a green-brown leather jerkin with a gauntlet as a grown falconer"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The Chosen Hand",
+      "scenes": [
+        {
+          "narration": "Woodsmoke and wet straw hang over the square the morning the bell rings, and by dusk your life bends around a bird you have never met.",
+          "tone": "calm",
+          "image_prompt": "a young peasant boy standing amid a crowd of villagers in a muddy square at dawn, drifting woodsmoke, wide shot, low golden light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You have never held anything smaller than a plow handle, yet you step forward before your knees can talk you out of it.",
+          "tone": "calm",
+          "image_prompt": "a nervous young village boy stepping forward from a line of other boys, uncertain expression, mid shot, soft morning light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The falconer studies your hands, not your face, turning your palms up to the grey morning light without a single word.",
+          "tone": "calm",
+          "image_prompt": "an old weathered falconer examining a boy's open palms in grey morning light, close framing on the hands, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "\"Steady hands,\" he says at last, \"and a quiet voice, that is all a hawk ever asks of a man.\"",
+          "tone": "warm",
+          "image_prompt": "an old falconer's weathered face speaking gently, calm knowing expression, close-up, soft light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor"
+          ]
+        },
+        {
+          "narration": "Your mother presses a heel of bread into your fist at the cart, her eyes wet, her voice carefully calm.",
+          "tone": "tender",
+          "image_prompt": "a village woman pressing bread into a young boy's hand beside a loaded cart, tearful tender expression, warm dawn light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your father says nothing, only rests one rough hand on your shoulder, its weight staying with you the whole road to the castle.",
+          "tone": "tender",
+          "image_prompt": "a stern weathered village father resting a hand on his son's shoulder on a dirt road, distant stone castle ahead, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Inside the bailey wall the mews stands apart from the kitchens and stables, a low stone building with one narrow window.",
+          "tone": "calm",
+          "image_prompt": "a low stone mews building set apart within a castle bailey courtyard, single narrow window, soft overcast light, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "The falconer, whom you will soon call master, warns you before you cross the threshold never to raise your voice inside these walls.",
+          "tone": "calm",
+          "image_prompt": "an old falconer holding up a cautioning hand to a boy at a stone doorway, dim interior beyond, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "You step into a hush deeper than any church, hooded birds standing silent on their perches, waiting, breathing, listening for footsteps.",
+          "tone": "awe",
+          "image_prompt": "a boy stepping into a dim stone mews lined with hooded hawks perched in silent rows, shafts of soft light, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "At the far perch sits a white gyrfalcon, the king's own bird, calm now, though everything about her says she remembers the sky.",
+          "tone": "awe",
+          "image_prompt": "a majestic white gyrfalcon perched alone at the far end of a dim stone mews, hooded, proud posture, soft light from a narrow window, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Your master recites the old ranks the way a priest recites psalms: gyrfalcons for kings, goshawks for yeomen, kestrels for servants like you.",
+          "tone": "calm",
+          "image_prompt": "an old falconer gesturing toward rows of different hawks on perches while a boy listens intently, dim mews interior, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "He warns you too that stealing a wild falcon's nest answers to harsh old laws, though an honest mistake, he says, is judged far more kindly.",
+          "tone": "warm",
+          "image_prompt": "an old falconer speaking gravely but gently to a young boy in a stone mews doorway, warm low light, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor",
+            "you"
+          ]
+        },
+        {
+          "narration": "That night you lie on a straw pallet in the loft, listening to feathers shift in the dark, wondering if you are equal to it.",
+          "tone": "reflective",
+          "image_prompt": "a young boy lying awake on a straw pallet in a dim mews loft at night, faint moonlight through a narrow window, intimate framing, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Silent Mews",
+      "scenes": [
+        {
+          "narration": "Your master teaches you first to walk, not to fly a bird, since a startled hawk remembers every clumsy footstep for its whole life.",
+          "tone": "calm",
+          "image_prompt": "an old falconer demonstrating slow deliberate footsteps to a watching boy inside a dim stone mews, soft daylight, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        },
+        {
+          "narration": "You learn to lace the soft leather hood over dark watchful eyes, easing the bird from bright fear into patient darkness.",
+          "tone": "calm",
+          "image_prompt": "a young man's hands gently lacing a leather hood over a hawk's head, close-up on hands and bird, warm soft light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The jesses go through the anklets next, thin leather straps your master ties with fingers steadier than any you have seen.",
+          "tone": "calm",
+          "image_prompt": "an old falconer's weathered steady hands tying thin leather jesses around a hawk's leg, extreme close-up, warm light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor"
+          ]
+        },
+        {
+          "narration": "Small bronze bells ring faintly at the ankles, so that if the wind ever carries a hawk away, her voice can still be found.",
+          "tone": "calm",
+          "image_prompt": "close-up of small bronze bells fastened to a hawk's leg glinting in soft light, shallow focus, warm tones, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "Every morning before the sun clears the wall you set each bird on the scale, because a hawk too full will not hunt for you.",
+          "tone": "calm",
+          "image_prompt": "a young man carefully setting a hooded hawk onto a small wooden scale in a dim mews at dawn, soft light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "A hawk too light grows weak and sullen, your master warns, so hunger and strength become the whole balance of your daily art.",
+          "tone": "calm",
+          "image_prompt": "an old falconer studying a hawk's condition thoughtfully in dim candlelight, contemplative expression, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor"
+          ]
+        },
+        {
+          "narration": "You feed the birds meat still wrapped in fur or feather, a rough casting they cough back up to keep their insides clean.",
+          "tone": "calm",
+          "image_prompt": "a young man feeding a perched hawk a scrap of fur-wrapped meat from his gloved hand, warm interior light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When a flight feather snaps you learn to splice a new one in, so the bird's flight is never truly grounded for long.",
+          "tone": "calm",
+          "image_prompt": "close-up of young hands carefully splicing a feather onto a hawk's wing at a wooden workbench, warm lamplight, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The mews takes its name, your master tells you, from the French word for moulting, the season when every hawk hides away to change.",
+          "tone": "reflective",
+          "image_prompt": "an old falconer gesturing toward a curtained dim corner of the mews where moulting hawks rest, soft filtered light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor"
+          ]
+        },
+        {
+          "narration": "Each spring the mews grows quieter still, curtained and dim, while the birds shed old feathers no one is allowed to disturb.",
+          "tone": "reflective",
+          "image_prompt": "a dim curtained corner of a stone mews with moulting hawks resting quietly on low perches, soft diffused light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You learn to lead a hawk to water at dusk, watching her shake and settle, feathers gleaming like wet slate in the last light.",
+          "tone": "warm",
+          "image_prompt": "a young man watching a hawk bathe and shake off water in a stone courtyard at dusk, warm golden light, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "One grey dawn, months of silence behind you, your master finally sets the gyrfalcon on your own gloved fist, and neither of you breathes.",
+          "tone": "awe",
+          "image_prompt": "a young man standing very still as an old falconer sets a white gyrfalcon onto his gloved fist, dawn light, close framing, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The King's Favor",
+      "scenes": [
+        {
+          "narration": "The king rides out one autumn morning to fly his gyrfalcon, and your master, testing you, sends you forward in his place.",
+          "tone": "calm",
+          "image_prompt": "a king on horseback with a hunting party at the edge of a forest, an old falconer gesturing a young man forward, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor",
+            "king"
+          ]
+        },
+        {
+          "narration": "Your hands shake lacing the jesses before the whole hunting party, every noble eye weighing whether a village boy deserves this bird.",
+          "tone": "tense",
+          "image_prompt": "a nervous young man lacing a hawk's jesses under the watchful eyes of mounted nobles, autumn forest edge, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You lift your fist, slip the hood, and the gyrfalcon rises into a sky the color of a knife blade, and everyone falls silent.",
+          "tone": "awe",
+          "image_prompt": "a young man releasing a white gyrfalcon into a steel-grey autumn sky, hunting party watching in silence below, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "She climbs and climbs until she is only a pale mark against the clouds, then folds and drops like something falling from heaven.",
+          "tone": "awe",
+          "image_prompt": "a tiny pale gyrfalcon high against grey clouds folding into a steep dive, dramatic upward angle, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "The quarry never has a chance, and when she returns to your glove, the king himself laughs aloud in open delight.",
+          "tone": "warm",
+          "image_prompt": "a king laughing with open delight as a gyrfalcon lands on a young man's glove, autumn forest, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "king"
+          ]
+        },
+        {
+          "narration": "From that day the king asks for you by name, and you are seated four seats from him, closer than any servant is meant to sit.",
+          "tone": "warm",
+          "image_prompt": "a young man seated at a long feast table only a few places from a crowned king, warm torchlit hall, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "king"
+          ]
+        },
+        {
+          "narration": "You eat that night nearer the king than half the lords in the hall, and you do not taste a single bite of it.",
+          "tone": "tender",
+          "image_prompt": "a young man sitting stiffly at a grand feast table surrounded by lords, distracted expression, warm candlelight, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Not everyone welcomes a plowman's son so near the throne, and you feel one courtier's stare like a hand pressed flat against your back.",
+          "tone": "calm",
+          "image_prompt": "a sharp-featured courtier staring coldly across a torchlit feast hall at a young man's back, tense atmosphere, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "courtier"
+          ]
+        },
+        {
+          "narration": "That courtier, a knight named for a hawk he is not allowed to fly, begins asking loudly what a servant knows that lords do not.",
+          "tone": "tense",
+          "image_prompt": "a sharp-featured young courtier speaking scornfully to a cluster of nobles in a torchlit hall, close framing, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "courtier"
+          ]
+        },
+        {
+          "narration": "Your master warns you quietly that favor at court is a hooded thing too, calm until the moment someone slips its jesses.",
+          "tone": "calm",
+          "image_prompt": "an old falconer speaking quietly and gravely to a young man in a dim stone corridor, warm low light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor",
+            "you"
+          ]
+        },
+        {
+          "narration": "Still, winter turns to spring turns to summer, and the gyrfalcon knows your whistle now before she knows your master's.",
+          "tone": "warm",
+          "image_prompt": "a young man whistling to a white gyrfalcon that turns eagerly toward him in a sunlit courtyard, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Then comes a hunt in the royal forest, where a sudden storm will take from you the one thing you have learned to love most.",
+          "tone": "reflective",
+          "image_prompt": "a young man riding into a darkening forest under gathering storm clouds, distant thunderheads, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Lost Hawk",
+      "scenes": [
+        {
+          "narration": "Thunder rolls in from the west faster than anyone reads it, and the gyrfalcon bolts high after a heron, straight into the storm.",
+          "tone": "urgent",
+          "image_prompt": "a white gyrfalcon streaking upward into dark storm clouds chasing a distant heron, dramatic lightning-lit sky, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You call and call, swinging the lure until your arm burns, but the wind tears her bells away from you like a stolen name.",
+          "tone": "tense",
+          "image_prompt": "a young man swinging a lure desperately against a howling wind and dark storm sky, forest edge, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Riders turn back to the castle before dark, and you are left alone at the treeline, refusing to leave without her.",
+          "tone": "sad",
+          "image_prompt": "a lone young man standing at a stormy forest treeline as distant riders retreat toward a castle, dusk light, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The jealous courtier reminds anyone who will listen that losing the king's own bird is no small servant's mistake to forgive.",
+          "tone": "tense",
+          "image_prompt": "a sharp-featured courtier speaking smugly to nobles inside a torchlit castle hall, storm visible through a window, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "courtier"
+          ]
+        },
+        {
+          "narration": "You remember, cold to the bone, the harsh old laws on a lost hawk, though your master's disappointment frightens you more than any of them.",
+          "tone": "reflective",
+          "image_prompt": "a soaked young man standing alone in heavy rain at a forest edge, troubled distant expression, dim stormy light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "All night you walk the wet fields, calling into the dark for a bird with no name, only the sound your voice makes for her.",
+          "tone": "sad",
+          "image_prompt": "a lone figure walking through dark wet fields under a clearing night sky calling out, faint moonlight, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Near dawn you hear it, faint and furious, bronze bells ringing from a low branch heavy with rain and one soaked, furious falcon.",
+          "tone": "awe",
+          "image_prompt": "a young man freezing mid-step as he spots a soaked gyrfalcon tangled in a low rain-heavy branch at first light, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "She is tangled by her own jesses in the branches, exhausted, wings dragging, too proud even now to call out for help.",
+          "tone": "tender",
+          "image_prompt": "a close view of an exhausted soaked gyrfalcon tangled by leather jesses in wet branches at dawn, soft grey light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You climb without thinking of the drop, murmuring the same low words you have said to her every morning for two years.",
+          "tone": "tender",
+          "image_prompt": "a young man carefully climbing into a low tree reaching toward a tangled hawk, soft dawn light, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "When your glove finally reaches her, she steps onto it shaking, and something in your chest loosens for the first time since the storm broke.",
+          "tone": "warm",
+          "image_prompt": "a relieved young man cradling a shaking soaked gyrfalcon on his gloved fist at dawn, soft warm light breaking through clouds, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You carry her home wrapped inside your own cloak, her heartbeat fast and small against your ribs the whole walk back.",
+          "tone": "tender",
+          "image_prompt": "a young man walking back toward a distant castle at dawn with a bird wrapped inside his cloak against his chest, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The king asks for the truth before the whole hall, and your master answers first, refusing to let any blame land on you.",
+          "tone": "calm",
+          "image_prompt": "an old falconer speaking firmly before a seated king in a great hall, a young man standing quietly beside him, warm torchlight, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "mentor",
+            "king"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Seasons of the Mews",
+      "scenes": [
+        {
+          "narration": "In the end it is not punishment that finds you, but the king's own relief, plain and unguarded, at seeing his falcon safe.",
+          "tone": "calm",
+          "image_prompt": "a king's face softening with open relief as a young man presents a recovered gyrfalcon in a great hall, warm light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "king",
+            "you"
+          ]
+        },
+        {
+          "narration": "The courtier who wished you gone says nothing more after that day, and within the year he leaves court for lands of his own.",
+          "tone": "calm",
+          "image_prompt": "a sharp-featured courtier riding away alone from a castle gate with a laden packhorse, distant grey morning, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "courtier"
+          ]
+        },
+        {
+          "narration": "Years turn quietly after that, old fears fading the way most storms do once the sky finally clears for good.",
+          "tone": "reflective",
+          "image_prompt": "a peaceful castle bailey and mews under a clear blue sky in gentle sunlight, wide establishing shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": []
+        },
+        {
+          "narration": "You marry, in time, a laundress from the village, and raise a son who follows you into the mews before he can properly walk.",
+          "tone": "warm",
+          "image_prompt": "a young father leading a small toddling boy by the hand toward a stone mews doorway, warm sunlit courtyard, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "Your master grows old and stooped, and one spring morning he sets his own worn glove into your hands without a word of ceremony.",
+          "tone": "tender",
+          "image_prompt": "a stooped elderly falconer placing his own worn leather glove into a grown man's hands, quiet mews interior, soft light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "mentor",
+            "you"
+          ]
+        },
+        {
+          "narration": "You become the one new boys are afraid of on their first morning, though you never once raise your voice inside these quiet walls.",
+          "tone": "calm",
+          "image_prompt": "a mature falconer calmly instructing a nervous new boy in a dim stone mews, warm morning light, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "The gyrfalcon herself grows old beside you, her feathers pale with age, content now to sit the whole afternoon on your fist.",
+          "tone": "warm",
+          "image_prompt": "a middle-aged falconer sitting quietly in a courtyard with an old pale-feathered gyrfalcon resting calmly on his fist, warm afternoon light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "You teach your son, as you were taught, to walk quietly first, to lace a hood gently, to weigh hunger against strength every morning.",
+          "tone": "warm",
+          "image_prompt": "a father guiding his young son's hands as they lace a small hood onto a hawk together, warm interior light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "He asks you once why you never wanted a lord's title, only ever a bird and a bell and a low stone room.",
+          "tone": "tender",
+          "image_prompt": "a father and his teenage son sitting together on a stone bench outside the mews at dusk, warm quiet conversation, medium shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "You tell him that some men are given a throne, and some are simply given the sky, and you were given the sky.",
+          "tone": "reflective",
+          "image_prompt": "a father gesturing toward an open evening sky while his son listens beside him on a castle wall, warm dusk light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you",
+            "son"
+          ]
+        },
+        {
+          "narration": "On the evening you finally set down your own glove for the last time, the mews is quieter than you have ever heard it.",
+          "tone": "reflective",
+          "image_prompt": "an old falconer setting his worn glove down on a wooden shelf in a dim quiet mews, soft evening light, close framing, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Your son takes your place at the scale next morning, weighing the old gyrfalcon's own daughter as gently as you once weighed her mother.",
+          "tone": "tender",
+          "image_prompt": "a young man carefully setting a young hawk onto a small scale in a dim mews at dawn, gentle soft light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "son"
+          ]
+        },
+        {
+          "narration": "You sit outside in the last low sun, listening to bells you no longer need to see to know, each one a familiar name.",
+          "tone": "calm",
+          "image_prompt": "an old man sitting peacefully on a stone bench outside a mews in low golden evening light, eyes closed, wide shot, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        },
+        {
+          "narration": "Somewhere above the wall a young hawk circles once, then folds her wings and comes home to a hand that is not yours anymore.",
+          "tone": "reflective",
+          "image_prompt": "a young hawk circling above a castle wall before descending toward a young man's raised gloved fist, warm golden dusk light, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "son"
+          ]
+        },
+        {
+          "narration": "You close your eyes to the same hush you fell asleep to as a boy in this room, and you are, at last, still content.",
+          "tone": "reflective",
+          "image_prompt": "an old man resting peacefully with closed eyes in a quiet dim stone mews loft, soft warm final light, intimate close framing, medieval English royal court falconry setting, richly detailed semi-realistic digital oil painting, historical illustration, cinematic volumetric lighting, warm muted earthy palette, soft painterly brushwork, atmospheric depth, wide 16:9 composition, no text",
+          "characters": [
+            "you"
+          ]
+        }
+      ]
+    }
+  ],
+  "shorts": [
+    {
+      "title": "The King's Hawk Vanishes Into the Storm #shorts",
+      "description": "A royal falconer risks everything to find the king's lost hawk in a single stormy night. #history #falconry #shorts",
+      "scenes": [
+        {
+          "narration": "You are the servant boy who flies the king's own hawk, until one storm nearly takes her from you forever.",
+          "ref": 36
+        },
+        {
+          "narration": "Thunder cracks, and your gyrfalcon bolts straight into the black clouds chasing a fleeing heron.",
+          "ref": 37
+        },
+        {
+          "narration": "You swing the lure until your arm burns, but the wind steals her bells away.",
+          "ref": 38
+        },
+        {
+          "narration": "All night you walk the wet fields alone, calling for a bird who has no name.",
+          "ref": 42
+        },
+        {
+          "narration": "Near dawn, faint bells ring from a low branch heavy with rain.",
+          "ref": 43
+        },
+        {
+          "narration": "She hangs tangled and exhausted in the branches, too proud to call for help.",
+          "ref": 44
+        },
+        {
+          "narration": "What happens when you finally reach her decides whether you keep your place at the king's own table.",
+          "ref": 46
+        }
+      ]
+    },
+    {
+      "title": "He Broke the Rules to Sit Near the King #shorts",
+      "description": "A plowman's son rises through a medieval court by hand-raising the king's own gyrfalcon. #history #medievalhistory #shorts",
+      "scenes": [
+        {
+          "narration": "A law says a servant may only fly a kestrel, yet they hand you the king's own gyrfalcon.",
+          "ref": 9
+        },
+        {
+          "narration": "Kings fly gyrfalcons, yeomen fly goshawks, servants fly kestrels, your master says, reciting the old ranks like scripture.",
+          "ref": 10
+        },
+        {
+          "narration": "You slip her hood before the whole hunting party, and the sky itself seems to hold still.",
+          "ref": 27
+        },
+        {
+          "narration": "She climbs until she is only a speck, then falls like something dropped from heaven.",
+          "ref": 28
+        },
+        {
+          "narration": "When she returns to your glove, the king laughs aloud in delight.",
+          "ref": 29
+        },
+        {
+          "narration": "By nightfall you sit four seats from the king, closer than any servant should.",
+          "ref": 30
+        },
+        {
+          "narration": "One jealous courtier is already asking what a plowman's son could possibly deserve.",
+          "ref": 33
+        },
+        {
+          "narration": "One storm is coming that will threaten everything you have ever won.",
+          "ref": 36
+        }
+      ]
+    }
+  ],
+  "critic_scores": {
+    "hook": 9,
+    "immersion": 9,
+    "comfort": 9,
+    "accuracy": 9,
+    "pacing": 9,
+    "originality": 9
+  },
+  "editor_notes": "The critic cut an invented place name and a conflated legal fact, moved the sourced 'four seats from the king' detail into the story, and gave the jealous courtier's thread a real resolution instead of dropping it."
+}
