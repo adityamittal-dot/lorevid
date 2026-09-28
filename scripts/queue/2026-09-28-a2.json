@@ -1,0 +1,192 @@
+{
+  "id": "2026-09-28-a2",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "Kawaki kidnaps Kashin Koji to force another look at a future that once showed him killing Boruto",
+  "title": "Kawaki Just Kidnapped The Man Who's Seen Him Kill Boruto",
+  "description": "In Two Blue Vortex chapter 37, Kawaki finally snaps and drags Kashin Koji straight to Amado. That's terrifying, because Koji's Ten Directions once showed a future where Kawaki kills Boruto, and Kawaki knows it. So what is Koji hiding now that he asked to be cut off from Boruto?",
+  "hashtags": ["#kawaki", "#boruto", "#naruto"],
+  "tags": ["boruto theory", "kawaki", "kashin koji", "two blue vortex", "boruto two blue vortex chapter 37", "naruto theory", "amado", "ten directions jutsu", "sarada uchiha", "kawaki vs boruto"],
+  "hook_text": "KAWAKI CROSSED A LINE",
+  "music_mood": "suspense",
+  "comment": "Is Koji hiding a way to save Sarada, or a future where Boruto doesn't make it? Pick one.",
+  "related_long": null,
+  "lines": [
+    {
+      "text": "Kawaki just kidnapped the one man who's seen him kill Boruto.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Kawaki angry confrontation",
+        "fallback": "white-haired young man with a glowing arm mark, furious expression, anime style"
+      }
+    },
+    {
+      "text": "That man is Kashin Koji, Jiraiya's clone.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kashin Koji portrait",
+        "fallback": "grizzled older shinobi with spiky white hair and a cybernetic eye"
+      }
+    },
+    {
+      "text": "Amado gave him a power called Ten Directions.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Amado scientist lab",
+        "fallback": "calm scientist in a high-tech underground lab, glowing monitors"
+      }
+    },
+    {
+      "text": "It lets him see every possible future.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Kashin Koji vision eye glow",
+        "fallback": "shinobi's eye glowing with fractured visions of the future"
+      }
+    },
+    {
+      "text": "And one of those futures was Kawaki killing Boruto.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Kawaki Boruto clash dark",
+        "fallback": "two young shinobi clashing in a dark, ominous silhouette"
+      }
+    },
+    {
+      "text": "That memory never left Kawaki alone.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Kawaki alone troubled",
+        "fallback": "young shinobi standing alone, troubled expression, dim lighting"
+      }
+    },
+    {
+      "text": "In chapter 37, Code took Sarada right in front of them.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Code kidnaps Sarada",
+        "fallback": "shadowy tattooed figure seizing a young kunoichi, chaotic battlefield"
+      }
+    },
+    {
+      "text": "Koji saw it coming and still couldn't stop it.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Kashin Koji shocked",
+        "fallback": "grizzled shinobi with a shocked, helpless expression"
+      }
+    },
+    {
+      "text": "So Kawaki snapped and dragged Koji straight to Amado.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Kawaki drags Koji",
+        "fallback": "furious young shinobi gripping an older man by the collar"
+      }
+    },
+    {
+      "text": "He wanted one more look into the future.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kawaki demanding answer",
+        "fallback": "young shinobi shouting a demand, intense close up"
+      }
+    },
+    {
+      "text": "But Ten Directions doesn't work like that.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Kashin Koji power limit",
+        "fallback": "shinobi straining as visions flicker and refuse to settle"
+      }
+    },
+    {
+      "text": "It shows Koji whatever it wants, not what Kawaki needs.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kashin Koji fractured vision",
+        "fallback": "shattered glass-like visions floating around a shinobi's head"
+      }
+    },
+    {
+      "text": "So Kawaki didn't get the answer he came for.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Kawaki frustrated",
+        "fallback": "young shinobi clenching his fist in frustration"
+      }
+    },
+    {
+      "text": "And Koji still asked to be cut off from Boruto.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kashin Koji comm link",
+        "fallback": "shinobi speaking quietly into a small communication device"
+      }
+    },
+    {
+      "text": "Which means he saw something he isn't ready to share.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Kashin Koji secretive look",
+        "fallback": "shinobi's face half in shadow, unreadable expression"
+      }
+    },
+    {
+      "text": "Maybe it's how Sarada comes home.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Sarada Uchiha hopeful",
+        "fallback": "young kunoichi with sharingan eyes, faint hopeful light"
+      }
+    },
+    {
+      "text": "Or maybe it's how Boruto doesn't.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Boruto silhouette dark",
+        "fallback": "young shinobi silhouette against a darkening sky"
+      }
+    },
+    {
+      "text": "Because Kawaki just kidnapped the one man who already knows the ending...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kawaki angry confrontation",
+        "fallback": "white-haired young man with a glowing arm mark, furious expression, anime style"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://nuxgameguides.com/entertainment/boruto-two-blue-vortex-chapter-37-spoilers-release-date-and-recap/",
+    "https://otakufocus.com/manga/boruto-two-blue-vortex-chapter-37-release-date-spoilers-recap/",
+    "https://www.cbr.com/boruto-two-blue-vortex-kashin-koji-prescience-explained/",
+    "https://screenrant.com/boruto-blue-vortex-power-up-koji-prescience-future-training/"
+  ],
+  "self_check": {
+    "hook": "leads with Kawaki immediately, confirmed-now claim tied to established Koji prescience lore",
+    "loop": "last line trails off into line 1's opening sentence",
+    "facts_verified": true
+  }
+}
