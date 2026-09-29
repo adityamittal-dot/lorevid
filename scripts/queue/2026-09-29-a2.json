@@ -1,0 +1,150 @@
+{
+ "id": "2026-09-29-a2",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Itachi spared Sasuke because Sasuke was the one person he could not kill and the plan he trusted",
+ "title": "Why Itachi Could Never Kill Sasuke",
+ "description": "Itachi wiped out the Uchiha clan and still let Sasuke live. Here's why I think that was the whole plan from the start. Was Itachi a hero or a monster?",
+ "hashtags": [
+  "#itachi",
+  "#sasuke",
+  "#naruto"
+ ],
+ "tags": [
+  "itachi uchiha",
+  "itachi theory",
+  "why itachi spared sasuke",
+  "uchiha massacre",
+  "itachi and sasuke",
+  "naruto theory",
+  "naruto shippuden",
+  "itachi truth"
+ ],
+ "hook_text": "ITACHI'S REAL PLAN",
+ "music_mood": "emotional",
+ "comment": "Was Itachi a hero or a monster? Pick one.",
+ "related_long": null,
+ "lines": [
+  {
+   "text": "Why did Itachi wipe out his whole clan and still let Sasuke live?",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Itachi Uchiha",
+    "fallback": "stern young ninja with a red glowing eye"
+   }
+  },
+  {
+   "text": "Everyone says it was just mercy. I think it was way more calculated.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Sasuke",
+    "fallback": "older brother standing over a child in the dark"
+   }
+  },
+  {
+   "text": "Konoha's leaders had ordered him to end the Uchiha before they could rebel.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uchiha massacre",
+    "fallback": "burning ninja clan district at night"
+   }
+  },
+  {
+   "text": "The whole clan, and Itachi was the one holding the blade.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi massacre",
+    "fallback": "ninja silhouette in a bloodless red moonlit street"
+   }
+  },
+  {
+   "text": "But Sasuke was the one thing he wouldn't give them.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Itachi spares Sasuke",
+    "fallback": "child ninja kneeling in front of his brother"
+   }
+  },
+  {
+   "text": "So he told Sasuke to hate him, and to come back for his eyes.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi tells Sasuke to hate him",
+    "fallback": "shadowy figure whispering to a child"
+   }
+  },
+  {
+   "text": "That hatred kept Sasuke alive, and it kept him focused on one target.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sasuke revenge",
+    "fallback": "boy ninja with burning red eyes"
+   }
+  },
+  {
+   "text": "Years later, Itachi is dying, and he still fights Sasuke like a wall he wants to be broken by.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Itachi vs Sasuke",
+    "fallback": "two ninjas facing off across a dark hideout"
+   }
+  },
+  {
+   "text": "The last thing he does is tap Sasuke's forehead one more time.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi forehead tap",
+    "fallback": "older brother touching a younger brother's forehead"
+   }
+  },
+  {
+   "text": "That's not a villain saying goodbye. That's a brother who never let go.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi love Sasuke",
+    "fallback": "brothers under a soft glowing sky"
+   }
+  },
+  {
+   "text": "So maybe he never chose the village over Sasuke.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Sasuke Konoha",
+    "fallback": "ninja looking at a distant village with his brother"
+   }
+  },
+  {
+   "text": "Why did Itachi wipe out his whole clan and still let Sasuke live?",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Itachi Uchiha portrait",
+    "fallback": "stern ninja with a red glowing eye"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Itachi_Uchiha",
+  "https://naruto.fandom.com/wiki/Uchiha_Clan_Massacre",
+  "https://naruto.fandom.com/wiki/Sasuke_Uchiha"
+ ],
+ "self_check": {
+  "hook": "claim in line 1",
+  "loop": "last line repeats line 1",
+  "facts_verified": true
+ }
+}
