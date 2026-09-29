@@ -71,7 +71,7 @@
     }
   ],
   "series_weights": {
-    "onepiece": 7,
+    "onepiece": 5,
     "naruto": 1,
     "jjk": 1
   },
@@ -117,8 +117,6 @@
     "mode": "schedule",
     "short_slots_utc": [
       "03:00",
-      "06:00",
-      "09:30",
       "12:00",
       "14:30",
       "17:00",
@@ -131,5 +129,9 @@
     ],
     "min_lead_hours": 3
   },
-  "shorts_per_session": 3
+  "shorts_per_session": {
+    "m": 3,
+    "a": 2,
+    "b": 2
+  }
 }

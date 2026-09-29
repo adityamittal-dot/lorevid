@@ -8,7 +8,7 @@ Your job in each Claude cloud session is to research, write, validate, and push 
 
 ## 1. Session Modes and Target IDs
 
-Date is today in IST (`YYYY-MM-DD`). `N` = `"shorts_per_session"` in `channel.json` (currently 3). Check the run prompt for the session mode:
+Date is today in IST (`YYYY-MM-DD`). `N` = this session's count in `"shorts_per_session"` in `channel.json` (currently m: 3, a: 2, b: 2, so 7 Shorts a day). Check the run prompt for the session mode:
 - **Slot a or b** (prompt mentions "slot a" or "slot b", or "RESERVE mode, slot a/b"):
   - Write N Shorts with IDs `<date>-a1` ... `<date>-aN` (or `<date>-b1` ... `<date>-bN`). Set `"related_long": null`.
 - **Daily session (letter m)**:
@@ -34,9 +34,9 @@ Inspect the repository before selecting topics:
 
 ## 3. Topic Selection & High-CTR Formats
 
-**Series mix is fixed: exactly 1 Naruto/Boruto Short and 1 JJK Short per day; every other Short is One Piece** (with N = 3 that is 7 of 9). Assign by session:
-- **Slot a**: `<date>-a1` is Naruto/Boruto; the rest are One Piece.
-- **Slot b**: `<date>-b1` is Jujutsu Kaisen; the rest are One Piece.
+**Series mix is fixed: exactly 1 Naruto/Boruto Short and 1 JJK Short per day; every other Short is One Piece** (5 of the 7 daily Shorts). Assign by session:
+- **Slot a**: `<date>-a1` is Naruto/Boruto; `<date>-a2` is One Piece.
+- **Slot b**: `<date>-b1` is Jujutsu Kaisen; `<date>-b2` is One Piece.
 - **Daily session (m)**: all One Piece, including the long video and its `-Ls` Shorts.
 
 Never add a second Naruto or JJK Short in a day, even for big news; cover the news in that series' one slot. **Fresh official news wins** when choosing the topic within a slot:
@@ -58,7 +58,7 @@ Focus on proven winning formats and fan-favourite characters:
   - Jujutsu Kaisen: Gojo, Sukuna, Yuji, Megumi, Yuta.
 
 ### One Piece Angle Bank (rotate; check the last 60 titles first)
-With 6+ One Piece Shorts a day, draw from these lanes so the feed stays varied:
+With 5 One Piece Shorts a day, draw from these lanes so the feed stays varied:
 - **Current arc (Elbaf) chapter angles**: every new chapter yields 2-3 separate Shorts (one per character or reveal), each with the chapter number in the title.
 - **Anime episode moments**: the week's episode, framed as "what the anime changed / added / foreshadowed".
 - **Mysteries**: Imu, the Void Century, Joy Boy, the One Piece itself, the Poneglyphs, the Will of D., Blackbeard's body, Shanks' twin.
