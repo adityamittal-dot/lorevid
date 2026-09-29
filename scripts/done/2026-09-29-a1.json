@@ -1,0 +1,157 @@
+{
+  "id": "2026-09-29-a1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "What if Luffy had awakened Gear 5 at Marineford, before Ace died",
+  "title": "What If Luffy Had Gear 5 At Marineford",
+  "description": "What if Luffy had Gear 5 at Marineford? Here's how I think the war changes, and why it still might not save Ace. Would you take that trade?",
+  "hashtags": [
+    "#luffy",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "what if luffy",
+    "luffy gear 5",
+    "one piece what if",
+    "marineford",
+    "luffy vs akainu",
+    "portgas d ace",
+    "one piece theory",
+    "whitebeard"
+  ],
+  "hook_text": "GEAR 5 AT MARINEFORD",
+  "music_mood": "epic",
+  "comment": "Gear 5 Luffy at Marineford: does Ace live or does the war get worse? Pick one.",
+  "related_long": null,
+  "lines": [
+    {
+      "text": "What if Luffy had Gear 5 at Marineford?",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy Gear 5",
+        "fallback": "white haired boy laughing with clouds around him"
+      }
+    },
+    {
+      "text": "Picture it. Luffy hits the execution platform and his hair turns white.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gear 5 Wano",
+        "fallback": "boy with white hair and glowing white aura"
+      }
+    },
+    {
+      "text": "Rubber that bends the rules of the ground itself.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Gear 5 Luffy ground",
+        "fallback": "cartoonish giant fist stretching across a battlefield"
+      }
+    },
+    {
+      "text": "Akainu swings his magma fist, and it hits something soft, bouncy, and totally unbothered.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Akainu magma fist",
+        "fallback": "red magma fist striking a bouncing white figure"
+      }
+    },
+    {
+      "text": "For the first time, Luffy can actually stand in front of Ace.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Ace Marineford",
+        "fallback": "two brothers on a stone platform"
+      }
+    },
+    {
+      "text": "Whitebeard sees it and laughs, because his sons finally have a real chance.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Marineford",
+        "fallback": "old giant pirate laughing on a battlefield"
+      }
+    },
+    {
+      "text": "But here's the catch. Gear 5 didn't come free.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Luffy exhausted",
+        "fallback": "boy collapsing after a huge transformation"
+      }
+    },
+    {
+      "text": "At Wano, Luffy passed out after the transformation ended.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy passed out Wano",
+        "fallback": "boy lying down exhausted after battle"
+      }
+    },
+    {
+      "text": "At Marineford, that means he collapses right in the middle of the biggest war in the world.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Marineford war",
+        "fallback": "huge naval war with a boy falling"
+      }
+    },
+    {
+      "text": "So Ace lives, but Luffy is dead weight, and the Navy has him on a plate.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Marineford Luffy Navy",
+        "fallback": "marines surrounding a fallen boy"
+      }
+    },
+    {
+      "text": "Maybe the ending we got was the only one where they both leave.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Ace brothers",
+        "fallback": "two brothers standing together at sunset"
+      }
+    },
+    {
+      "text": "What if Luffy had Gear 5 at Marineford?",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy Marineford",
+        "fallback": "boy with straw hat charging into a war"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Gear_5",
+    "https://onepiece.fandom.com/wiki/Marineford_Arc",
+    "https://onepiece.fandom.com/wiki/Portgas_D._Ace"
+  ],
+  "self_check": {
+    "hook": "claim in line 1",
+    "loop": "last line repeats line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "c5T6O2uTsVM",
+    "publish_at": "2026-09-29T22:00:00Z",
+    "url": "https://youtu.be/c5T6O2uTsVM",
+    "comment": "Gear 5 Luffy at Marineford: does Ace live or does the war get worse? Pick one.",
+    "comment_posted": false
+  }
+}
