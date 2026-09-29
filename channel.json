@@ -11,7 +11,7 @@
         "#anime",
         "#luffy"
       ],
-      "release": "New manga chapter most Sundays on MANGA Plus (check for break weeks); anime episodes weekly.",
+      "release": "New manga chapter most Sundays on MANGA Plus (check for break weeks; 1195 is Oct 11, 2026). Anime paused after episode 1180 and returns in 2027.",
       "sources": [
         "https://onepiece.fandom.com/wiki/One_Piece_Wiki",
         "https://www.reddit.com/r/OnePiece/",
@@ -20,7 +20,11 @@
       "search_terms": [
         "one piece theory",
         "one piece chapter",
-        "what if luffy"
+        "what if luffy",
+        "one piece foreshadowing",
+        "what if zoro",
+        "imu theory",
+        "elbaf one piece"
       ]
     },
     {
@@ -53,7 +57,7 @@
         "#jjk",
         "#anime"
       ],
-      "release": "Main manga finished (2024); JJK Modulo manga ongoing; anime season 4 (Culling Game part 2) in production. Gojo/Sukuna What Ifs and power-scaling do best.",
+      "release": "Main manga finished (2024); JJK Modulo spin-off ended March 2026. Anime season 4 (Culling Game part 2) in production, no date. Evergreen: Gojo/Sukuna What Ifs, Sukuna POV, power-scaling and mechanics questions do best.",
       "sources": [
         "https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki",
         "https://www.reddit.com/r/JuJutsuKaisen/"
@@ -61,12 +65,13 @@
       "search_terms": [
         "what if gojo",
         "jujutsu kaisen theory",
-        "jjk modulo"
+        "what if sukuna",
+        "jjk season 4"
       ]
     }
   ],
   "series_weights": {
-    "onepiece": 3,
+    "onepiece": 7,
     "naruto": 1,
     "jjk": 1
   },
@@ -111,6 +116,9 @@
   "publish": {
     "mode": "schedule",
     "short_slots_utc": [
+      "03:00",
+      "06:00",
+      "09:30",
       "12:00",
       "14:30",
       "17:00",
@@ -123,5 +131,5 @@
     ],
     "min_lead_hours": 3
   },
-  "shorts_per_session": 2
+  "shorts_per_session": 3
 }
