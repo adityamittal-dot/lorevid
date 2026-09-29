@@ -1,0 +1,149 @@
+{
+ "id": "2026-09-29-m1",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Sukuna killed Gojo by copying the target-expansion idea from Mahoraga's second adaptation",
+ "title": "Sukuna Beat Gojo By Stealing Mahoraga's Trick",
+ "description": "Sukuna didn't break Gojo's Infinity, he borrowed a trick from Mahoraga's second adaptation to cut the world itself. Here's the detail that explains the whole Shinjuku ending. Was Gojo out-learned or just unlucky?",
+ "hashtags": [
+  "#gojo",
+  "#sukuna",
+  "#jujutsukaisen"
+ ],
+ "tags": [
+  "jujutsu kaisen theory",
+  "gojo vs sukuna",
+  "sukuna world cutting slash",
+  "mahoraga adaptation",
+  "gojo infinity",
+  "jjk shinjuku showdown",
+  "how sukuna beat gojo",
+  "jjk explained"
+ ],
+ "hook_text": "SUKUNA STOLE IT",
+ "music_mood": "suspense",
+ "comment": "Did Sukuna out-learn Gojo, or was Gojo doomed the moment Mahoraga showed up? Pick one.",
+ "related_long": null,
+ "lines": [
+  {
+   "text": "Sukuna didn't break Gojo's Infinity. He borrowed the answer from Mahoraga.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sukuna Gojo Shinjuku",
+    "fallback": "dark curse king with tattoos facing white haired sorcerer"
+   }
+  },
+  {
+   "text": "And I think most fans missed how he did it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Shinjuku",
+    "fallback": "tattooed demon smirking"
+   }
+  },
+  {
+   "text": "Remember Mahoraga's first adaptation? It changed its cursed energy so the Infinity stopped working on it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahoraga Infinity adaptation",
+    "fallback": "eight handled sword divine general in shadow"
+   }
+  },
+  {
+   "text": "Sukuna couldn't copy that. His cursed energy just doesn't work that way.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Mahoraga",
+    "fallback": "demon king watching a giant shikigami"
+   }
+  },
+  {
+   "text": "So he waited for the second adaptation.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahoraga wheel turns",
+    "fallback": "glowing dharma wheel spinning"
+   }
+  },
+  {
+   "text": "Here's the detail nobody noticed.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Mahoraga slash Gojo",
+    "fallback": "giant shikigami swinging a blade"
+   }
+  },
+  {
+   "text": "That slash wasn't aimed at Gojo. It was aimed at the space around him.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Mahoraga slashes Gojo",
+    "fallback": "blade cutting through the air at a sorcerer"
+   }
+  },
+  {
+   "text": "Mahoraga stopped targeting a person and started targeting the whole world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo arm severed",
+    "fallback": "white haired sorcerer losing an arm"
+   }
+  },
+  {
+   "text": "Sukuna took that idea and put it into his Dismantle.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Dismantle",
+    "fallback": "fingers pointing like a gun with slashes"
+   }
+  },
+  {
+   "text": "A slash that cuts the world itself, so the Infinity has nothing to stop.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Sukuna kills Gojo",
+    "fallback": "a slash splitting a city street in half"
+   }
+  },
+  {
+   "text": "Gojo wasn't outmatched. He got out-learned, by a shikigami he never beat.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Satoru Gojo",
+    "fallback": "white haired sorcerer with a calm smile"
+   }
+  },
+  {
+   "text": "Which is why Sukuna didn't break Gojo's Infinity...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Infinity",
+    "fallback": "glowing barrier around a white haired sorcerer"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo_vs._Sukuna",
+  "https://jujutsu-kaisen.fandom.com/wiki/Sukuna"
+ ],
+ "self_check": {
+  "hook": "contrarian claim naming Sukuna and Gojo in line 1",
+  "loop": "last line ends mid-sentence into line 1 ('Sukuna didn't break Gojo's Infinity')",
+  "facts_verified": true
+ }
+}
