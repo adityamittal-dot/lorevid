@@ -1,24 +1,26 @@
-Updated 2026-09-29 07:16:47 UTC
+Updated 2026-09-30 07:07:02 UTC
 
-**Channel Summary:** 4 subscribers | 128 views | 11 videos
-**YPP Progress:** 4/1,000 (0.4%) subs | Shorts views in last 90 days (approximate): 1,144/10,000,000 (0.01%)
+**Channel Summary:** 8 subscribers | 2,748 views | 17 videos
+**YPP Progress:** 8/1,000 (0.8%) subs | Shorts views in last 90 days (approximate): 4,315/10,000,000 (0.04%)
 
 | Published | Format | Title | Views | Views/Day | Likes | Comments | Like Rate |
 |---|---|---|---|---|---|---|---|
-| 2026-09-28 | short | Zoro Just Solved Mihawk's Riddle From Years Ago | 869 | 2249.5 | 42 | 1 | 4.8% |
-| 2026-09-29 | short | Kawaki Just Kidnapped The Man Who's Seen Him Kill Boruto | 74 | 262.1 | 1 | 1 | 1.4% |
-| 2026-09-27 | short | What the Emperor's Elephants Were Really Trained For #shorts | 68 | 36.7 | 0 | 0 | 0.0% |
-| 2026-09-24 | short | Why Samurai Wives Blackened Their Teeth #shorts | 67 | 14.3 | 1 | 0 | 1.5% |
-| 2026-09-25 | short | The Secret Danger of an Aztec Merchant #shorts | 25 | 6.7 | 0 | 0 | 0.0% |
-| 2026-09-25 | short | The Aztec Merchant Who Was Also a Spy #shorts | 18 | 4.8 | 1 | 0 | 5.6% |
-| 2026-09-24 | short | He Left for Edo — and She Ran Everything #shorts | 20 | 4.3 | 0 | 0 | 0.0% |
-| 2026-09-27 | short | He Tamed the Emperor's Wildest Elephant #shorts | 3 | 1.6 | 0 | 0 | 0.0% |
-| 2026-09-25 | long | Your Life as an Aztec Merchant in Tenochtitlan | 6 | 1.6 | 0 | 0 | 0.0% |
+| 2026-09-30 | short | Why Itachi Could Never Kill Sasuke | 868 | 3152.0 | 32 | 2 | 3.7% |
+| 2026-09-29 | short | Zoro's Conqueror's Haki Finally Makes Sense (1194) | 1,507 | 1892.3 | 58 | 2 | 3.8% |
+| 2026-09-28 | short | Zoro Just Solved Mihawk's Riddle From Years Ago | 1,190 | 862.6 | 50 | 1 | 4.2% |
+| 2026-09-29 | short | Kawaki Kidnapped His Own Ally To Save Sarada | 305 | 440.8 | 15 | 1 | 4.9% |
+| 2026-09-29 | short | Kawaki Just Kidnapped The Man Who's Seen Him Kill Boruto | 142 | 111.3 | 2 | 1 | 1.4% |
+| 2026-09-29 | short | What If Luffy Had Gear 5 At Marineford | 42 | 110.7 | 0 | 1 | 0.0% |
+| 2026-09-29 | short | Sukuna Beat Gojo By Stealing Mahoraga's Trick | 45 | 76.5 | 0 | 1 | 0.0% |
+| 2026-09-27 | short | What the Emperor's Elephants Were Really Trained For #shorts | 68 | 23.9 | 0 | 0 | 0.0% |
+| 2026-09-29 | short | Why Mihawk Walked Away From Shanks At Marineford | 10 | 20.7 | 0 | 1 | 0.0% |
+| 2026-09-24 | short | Why Samurai Wives Blackened Their Teeth #shorts | 67 | 11.8 | 1 | 0 | 1.5% |
+| 2026-09-25 | short | The Secret Danger of an Aztec Merchant #shorts | 25 | 5.3 | 0 | 0 | 0.0% |
+| 2026-09-25 | short | The Aztec Merchant Who Was Also a Spy #shorts | 19 | 4.0 | 1 | 0 | 5.3% |
+| 2026-09-24 | short | He Left for Edo — and She Ran Everything #shorts | 20 | 3.5 | 0 | 0 | 0.0% |
+| 2026-09-27 | short | He Tamed the Emperor's Wildest Elephant #shorts | 7 | 2.5 | 0 | 0 | 0.0% |
+| 2026-09-25 | long | Your Life as an Aztec Merchant in Tenochtitlan | 6 | 1.3 | 0 | 0 | 0.0% |
 | 2026-09-24 | long | Your Life as a Samurai's Wife in Edo Japan | 2 | 0.4 | 0 | 0 | 0.0% |
-| 2026-09-29 | short | Why Mihawk Walked Away From Shanks At Marineford | 0 | 0.0 | 0 | 0 | 0.0% |
-| 2026-09-29 | short | Sukuna Beat Gojo By Stealing Mahoraga's Trick | 0 | 0.0 | 0 | 0 | 0.0% |
-| 2026-09-28 | short | Kawaki Kidnapped His Own Ally To Save Sarada | 0 | 0.0 | 0 | 0 | 0.0% |
-| 2026-09-28 | short | Zoro's Conqueror's Haki Finally Makes Sense (1194) | 0 | 0.0 | 0 | 0 | 0.0% |
 | 2026-09-28 | short | He Broke the Rules to Sit Near the King #shorts | 0 | 0.0 | 0 | 0 | 0.0% |
 | 2026-09-28 | short | The King's Hawk Vanishes Into the Storm #shorts | 0 | 0.0 | 0 | 0 | 0.0% |
 | 2026-09-28 | long | Your Life as the King's Falconer in a Medieval Court | 0 | 0.0 | 0 | 0 | 0.0% |
