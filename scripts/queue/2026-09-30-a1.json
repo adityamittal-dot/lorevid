@@ -1,0 +1,159 @@
+{
+ "id": "2026-09-30-a1",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Kakashi's Sharingan was a debt, not a gift: it drained him for life and finally cost him his life against Pain",
+ "title": "Kakashi's Sharingan Was Never A Free Gift To Him",
+ "description": "Obito handed Kakashi a Sharingan at Kannabi Bridge, but Kakashi is not an Uchiha, so every use drains him. Here is how that gift nearly killed him twice. Do you think Kakashi ever got the better end of the deal?",
+ "hashtags": [
+  "#kakashi",
+  "#naruto",
+  "#anime"
+ ],
+ "tags": [
+  "kakashi theory",
+  "kakashi sharingan",
+  "kakashi kamui",
+  "kakashi obito",
+  "kakashi gaiden",
+  "kakashi vs pain",
+  "naruto theory",
+  "naruto explained"
+ ],
+ "hook_text": "THE GIFT WAS A DEBT",
+ "music_mood": "emotional",
+ "comment": "Was Obito's gift a blessing or a curse for Kakashi? Pick one.",
+ "related_long": null,
+ "lines": [
+  {
+   "text": "Kakashi's Sharingan was never a gift. It was a debt.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Kakashi Sharingan",
+    "fallback": "one eyed ninja with a scar over a red eye"
+   }
+  },
+  {
+   "text": "Obito gave him that eye on the battlefield at Kannabi Bridge.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Gaiden Obito eye",
+    "fallback": "dying boy with goggles beside a masked boy, collapsed bridge"
+   }
+  },
+  {
+   "text": "It looked like a blessing, but Kakashi isn't an Uchiha.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi young Sharingan",
+    "fallback": "young ninja with silver hair holding his eye"
+   }
+  },
+  {
+   "text": "So he can't switch it off, and it bleeds his chakra all day long.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi exhausted",
+    "fallback": "silver haired ninja bedridden and pale"
+   }
+  },
+  {
+   "text": "Here's the part I think people forget.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Rin",
+    "fallback": "silver haired ninja looking at his glowing hand"
+   }
+  },
+  {
+   "text": "In Kakashi Gaiden, his Chidori kills Rin, and that is what awakens the Mangekyo.",
+   "delivery": "reveal",
+   "fx": "shake",
+   "shot": {
+    "search": "Kakashi Rin Chidori",
+    "fallback": "lightning hand through a girl, ninja horrified"
+   }
+  },
+  {
+   "text": "So the upgrade came from the worst day of his life.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Mangekyo Sharingan",
+    "fallback": "red eye with a pinwheel pattern, tears"
+   }
+  },
+  {
+   "text": "Then Kamui makes it worse. Every use eats chakra a normal ninja barely has.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Kakashi Kamui",
+    "fallback": "spiral vortex sucking a missile away"
+   }
+  },
+  {
+   "text": "Some people say he mastered it later, and yes, he got more uses out of it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Kamui master",
+    "fallback": "ninja with a spinning eye standing calm"
+   }
+  },
+  {
+   "text": "But against Pain, he warped one missile away and burned out completely.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Kakashi Pain",
+    "fallback": "ninja collapsing before a pierced ninja in a ruined village"
+   }
+  },
+  {
+   "text": "He died with that eye open, reaching for the friend who gave it to him.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi death Obito Rin Minato",
+    "fallback": "ninja lying in a white void with three smiling figures"
+   }
+  },
+  {
+   "text": "So the gift kept collecting, right to the end.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Sharingan",
+    "fallback": "one eyed ninja looking at his hand"
+   }
+  },
+  {
+   "text": "Because Kakashi's Sharingan was never a gift...",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Kakashi Sharingan",
+    "fallback": "one eyed ninja with a scar over a red eye"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Kakashi_Hatake",
+  "https://naruto.fandom.com/wiki/Pain_vs._Kakashi",
+  "https://naruto.fandom.com/wiki/Kamui"
+ ],
+ "self_check": {
+  "hook": "claim in line 1",
+  "loop": "last line finishes line 1",
+  "facts_verified": true
+ }
+}
