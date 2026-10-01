@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-01-m1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Theory: Loki fights Imu to protect the giants, not to avenge Harald",
+  "title": "Loki Isn't Fighting Imu For Revenge (One Piece 1193)",
+  "description": "Loki and Luffy just hurt Imu together in chapter 1193. Here is my read on why Loki's fight is about the giants, not revenge. Do you agree?",
+  "hashtags": [
+    "#loki",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "loki one piece",
+    "loki vs imu",
+    "one piece 1193",
+    "elbaf arc",
+    "one piece loki hybrid form",
+    "imu theory",
+    "one piece chapter 1193"
+  ],
+  "hook_text": "LOKI ISN'T AFTER REVENGE",
+  "music_mood": "suspense",
+  "comment": "Is Loki fighting Imu to avenge Harald, or to save the giants? Pick one.",
+  "related_long": null,
+  "lines": [
+    {
+      "text": "Loki isn't fighting Imu for revenge. I think he's fighting for something bigger.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Loki Elbaf",
+        "fallback": "giant prince with horns and a dark aura"
+      }
+    },
+    {
+      "text": "Chapter 1193. Luffy and Loki hit Imu together, and Imu goes flying through the Adam Tree.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Loki Luffy Imu attack",
+        "fallback": "two fighters striking a shadowy ruler"
+      }
+    },
+    {
+      "text": "Loki isn't a hero, he's a prince the giants once feared.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Loki",
+        "fallback": "giant prince in dark armor"
+      }
+    },
+    {
+      "text": "So why would he risk everything to hurt a man like Imu?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu",
+        "fallback": "shadowy ruler on a throne"
+      }
+    },
+    {
+      "text": "Most fans say revenge, because Imu's side ruined his family.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Elbaf Harald",
+        "fallback": "old giant king on a throne"
+      }
+    },
+    {
+      "text": "But watch what Imu does next.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Gunko",
+        "fallback": "possessed woman with glowing eyes"
+      }
+    },
+    {
+      "text": "He uses Domi Reversi on Dorry and Brogy and turns two giant legends against their own people.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Dorry Brogy Domi Reversi",
+        "fallback": "two giant warriors with dark eyes"
+      }
+    },
+    {
+      "text": "Revenge doesn't explain that. Protecting Elbaf does.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Elbaf giants",
+        "fallback": "giant warriors standing in a village"
+      }
+    },
+    {
+      "text": "And Loki is already starting his hybrid form.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Loki hybrid form",
+        "fallback": "giant prince transforming into a beast"
+      }
+    },
+    {
+      "text": "Here's my read: Loki isn't avenging a king. He's guarding the last giants Imu hasn't touched.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Loki Elbaph",
+        "fallback": "giant prince shielding warriors"
+      }
+    },
+    {
+      "text": "That's a theory, not canon.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Loki",
+        "fallback": "giant prince watching a storm"
+      }
+    },
+    {
+      "text": "Because Loki isn't fighting Imu for revenge...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Loki Imu",
+        "fallback": "giant prince facing a shadowy ruler"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_1193",
+    "https://onepiece.fandom.com/wiki/Chapter_1194",
+    "https://onepiece.fandom.com/wiki/Loki"
+  ],
+  "self_check": {
+    "hook": "line 1 names the character and makes a claim",
+    "loop": "last line finishes line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "8mz34inUZVc",
+    "publish_at": "2026-10-01T12:00:00Z",
+    "url": "https://youtu.be/8mz34inUZVc",
+    "comment": "Is Loki fighting Imu to avenge Harald, or to save the giants? Pick one.",
+    "comment_posted": false
+  }
+}
