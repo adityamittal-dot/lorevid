@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-01-m2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Chapter reaction: Sanji wins the Killingham fight by leading the giants, not by awakening Haki",
+  "title": "Sanji's Real Weapon Against Killingham (One Piece 1193)",
+  "description": "Fans keep asking if Sanji will awaken Conqueror's Haki like Zoro. Chapter 1193 hints at a different weapon. Which side are you on?",
+  "hashtags": [
+    "#sanji",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "sanji one piece",
+    "sanji vs killingham",
+    "one piece 1193",
+    "sanji elbaf",
+    "one piece theory",
+    "sanji conqueror's haki",
+    "one piece chapter 1193",
+    "elbaf arc"
+  ],
+  "hook_text": "SANJI DOESN'T NEED IT",
+  "music_mood": "hype",
+  "comment": "Will Sanji win by awakening Conqueror's Haki, or by leading the giants? Pick one.",
+  "related_long": null,
+  "lines": [
+    {
+      "text": "Sanji doesn't need Conqueror's Haki to beat Killingham. Chapter 1193 already shows why.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sanji Killingham",
+        "fallback": "blond cook in a black suit mid kick"
+      }
+    },
+    {
+      "text": "Everyone keeps asking if Sanji gets a Zoro moment.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji",
+        "fallback": "blond cook with a cigarette"
+      }
+    },
+    {
+      "text": "Zoro needed a Supreme King Haki breakthrough, because his fight was one on one.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Sommers",
+        "fallback": "swordsman facing an immortal knight"
+      }
+    },
+    {
+      "text": "Sanji's fight isn't like that.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Elbaf",
+        "fallback": "cook standing before giants"
+      }
+    },
+    {
+      "text": "In 1193 Killingham mocks him, and Sanji just kicks him in the stomach.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Sanji kicks Killingham",
+        "fallback": "kick to the stomach of a masked opponent"
+      }
+    },
+    {
+      "text": "Then the giants rally behind Sanji against Killingham's creation.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sanji giants rally",
+        "fallback": "giants raising weapons behind a small cook"
+      }
+    },
+    {
+      "text": "Sanji tells him it all depends on him. That isn't an awakening speech. It's a leader's speech.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji",
+        "fallback": "cook with a determined look"
+      }
+    },
+    {
+      "text": "Sure, people say a fight without a Haki upgrade is a lost fight.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Killingham",
+        "fallback": "tall scary knight in armor"
+      }
+    },
+    {
+      "text": "But Killingham's whole plan needs the giants scared. Sanji just took that away.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Killingham giants",
+        "fallback": "giants standing firm in front of a knight"
+      }
+    },
+    {
+      "text": "So here's my read: Sanji wins by making Elbaf fight with him, not by copying Zoro.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Elbaph",
+        "fallback": "cook leading a crowd of giants"
+      }
+    },
+    {
+      "text": "That's a theory, and I like it.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji",
+        "fallback": "cook smiling"
+      }
+    },
+    {
+      "text": "Sanji doesn't need Conqueror's Haki to beat Killingham...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Killingham",
+        "fallback": "cook facing a knight"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_1193",
+    "https://onepiece.fandom.com/wiki/Sanji",
+    "https://onepiece.fandom.com/wiki/Killingham"
+  ],
+  "self_check": {
+    "hook": "line 1 names the character and makes a claim",
+    "loop": "last line finishes line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "YI9tqz9Yhwc",
+    "publish_at": "2026-10-01T14:30:00Z",
+    "url": "https://youtu.be/YI9tqz9Yhwc",
+    "comment": "Will Sanji win by awakening Conqueror's Haki, or by leading the giants? Pick one.",
+    "comment_posted": false
+  }
+}
