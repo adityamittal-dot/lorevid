@@ -1,4 +1,4 @@
-"""Rendering: Ken Burns scene clips, ASS subtitles with word highlighting, procedural SFX,
+"""Rendering: full-frame beat clips with Ken Burns motion, ASS subtitles with word highlighting, procedural SFX,
 music bed, and full video rendering for vertical Shorts and 16:9 long videos."""
 import glob
 import math
@@ -8,7 +8,6 @@ import subprocess
 from PIL import Image, ImageDraw, ImageEnhance, ImageFilter, ImageFont
 
 FPS = 30
-XF = 0.35                     # crossfade length between shots in long videos
 W = {"short": 1080, "long": 1920}
 H = {"short": 1920, "long": 1080}
 
@@ -47,80 +46,84 @@ def blank_image(out, fmt):
     im.save(out, "JPEG", quality=90)
 
 
-def shot_clip(img, seconds, out, i, fmt, fx):
-    """Still image -> moving clip of exactly round(seconds*FPS) frames. Nothing important is cropped away:
-    Short + landscape image: a tall slice that pans across the whole picture over a blurred copy of itself;
-    otherwise the image fits a box and gets a gentle push-in / pull-out / drift (alternating by i).
-    fx: zoom = fast punch-in, shake = decaying camera shake, flash = white flash; all in the first frames."""
-    os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
-    vw, vh = W[fmt], H[fmt]
-    n = max(2, int(round(seconds * FPS)))
-    try:
-        with Image.open(img) as im:
-            iw, ih = im.size
-    except Exception:
-        iw, ih = vw, vh
-    bg = (f"[bg0]scale={vw}:{vh}:force_original_aspect_ratio=increase,crop={vw}:{vh},"
-          f"gblur=sigma=30,eq=brightness=-0.2:saturation=0.8[bg]")
-    if fmt == "short" and iw / ih > 1.15:
-        ph = 1216                                         # pan window 1080x1216 over the image scaled to that height
-        pw = max(vw + 2, int(round(iw * ph / ih / 2)) * 2)
-        span = pw - vw
-        x = f"{span}*(t/{seconds:.3f})" if i % 2 == 0 else f"{span}*(1-t/{seconds:.3f})"
-        if fx == "zoom":                                  # start closer, then settle
-            fg = (f"[fg0]scale={pw}:{ph},crop={vw}:{ph}:x='{x}':y=0,"
-                  f"scale=w='{vw}*(1+0.12*max(0,1-t/0.3))':h=-2:eval=frame,crop={vw}:{ph}[fg]")
-        else:
-            fg = f"[fg0]scale={pw}:{ph},crop={vw}:{ph}:x='{x}':y=0[fg]"
-    else:
-        bw, bh = (1080, 1350) if fmt == "short" else (vw, vh)
-        f = min(bw / iw, bh / ih)
-        fw, fh = max(2, int(iw * f) // 2 * 2), max(2, int(ih * f) // 2 * 2)
-        z = 0.07
-        if fx == "zoom":
-            zexpr = f"if(lt(on,9),1+0.14*(1-(1-on/9)*(1-on/9)),1.14+0.03*(on-9)/{max(1, n - 9)})"
-        else:
-            zexpr = [f"1+{z}*on/{n}", f"{1 + z}-{z}*on/{n}", f"1.04+0.03*on/{n}"][i % 3]
-        xexpr = "iw/2-(iw/zoom/2)" if i % 3 != 2 else f"(iw-iw/zoom)*(0.35+0.3*on/{n})"
-        fg = (f"[fg0]trim=end_frame=1,scale={fw * 2}:{fh * 2},"
-              f"zoompan=z='{zexpr}':x='{xexpr}':y='ih/2-(ih/zoom/2)':d={n}:s={fw}x{fh}:fps={FPS}[fg]")
-    post = ""
-    if fx == "shake":
-        post = (f",scale={int(vw * 1.06) // 2 * 2}:{int(vh * 1.06) // 2 * 2},crop={vw}:{vh}:"
-                f"x='(in_w-out_w)/2+22*max(0,1-t/0.35)*sin(2*PI*17*t)':"
-                f"y='(in_h-out_h)/2+16*max(0,1-t/0.35)*cos(2*PI*21*t)'")
-    elif fx == "flash":
-        post = ",fade=t=in:st=0:d=0.18:color=white"
-    fc = (f"[0:v]split[bg0][fg0];{bg};{fg};"
-          f"[bg][fg]overlay=(W-w)/2:(H-h)/2:shortest=0{post},fps={FPS},format=yuv420p[v]")
-    run(["ffmpeg", "-y", "-loop", "1", "-t", f"{seconds + 0.2:.3f}", "-i", img, "-filter_complex", fc,
-         "-map", "[v]", "-frames:v", str(n), "-c:v", "libx264", "-preset", "veryfast", "-crf", "18",
-         "-pix_fmt", "yuv420p", "-an", out])
+def _framed(im, cw, ch):
+    """A manga page or portrait still on a wide frame, the way the big analysis channels show pages: the whole
+    picture at ~92% height over a blurred, darkened copy of itself, with a soft shadow."""
+    bg = im.resize((cw, int(im.height * cw / im.width)) if im.width / im.height < cw / ch else
+                   (int(im.width * ch / im.height), ch), Image.LANCZOS)
+    bg = bg.crop(((bg.width - cw) // 2, (bg.height - ch) // 2, (bg.width - cw) // 2 + cw, (bg.height - ch) // 2 + ch))
+    bg = ImageEnhance.Brightness(bg.filter(ImageFilter.GaussianBlur(40))).enhance(0.5)
+    fh = int(ch * 0.92)
+    fw = min(int(cw * 0.94), int(im.width * fh / im.height))
+    fh = int(im.height * fw / im.width)
+    fg = im.resize((fw, fh), Image.LANCZOS)
+    x, y = (cw - fw) // 2, (ch - fh) // 2
+    shadow = Image.new("L", (cw, ch), 0)
+    ImageDraw.Draw(shadow).rectangle((x + 12, y + 16, x + fw + 12, y + fh + 16), fill=170)
+    bg.paste((0, 0, 0), (0, 0), shadow.filter(ImageFilter.GaussianBlur(18)))
+    bg.paste(fg, (x, y))
+    return bg
 
 
-def beat_clip(img, frames, out, k, fx="none", tight=False):
-    """Short beat: the still fills the whole 1080x1920 frame (smart 9:16 crop, no blurred bars) and moves:
-    push-in, pull-out or a slow drift, rotating by k. fx works as in shot_clip. Exactly `frames` frames.
-    tight: a punch-in recut of the same picture (70% of the crop, upper middle) so a line never holds one frame."""
+def _card_filter(card, n):
+    """Big keyword card over the first ~1.6 s of a beat ("CHAPTER 1194", "OUMU"): darkened frame, Anton text."""
+    text = "".join(c for c in str(card).upper() if c not in "'\\:%,;\"").strip()[:28]
+    if not text:
+        return ""
+    cd = min(1.6, n / FPS)
+    size = int(min(170, 1700 / (0.47 * max(1, len(text)))))
+    alpha = f"if(lt(t,0.12),t/0.12,if(gt(t,{cd - 0.15:.2f}),max(0,({cd:.2f}-t)/0.15),1))"
+    return (f",drawbox=x=0:y=0:w=iw:h=ih:color=black@0.45:t=fill:enable='lt(t,{cd:.2f})',"
+            f"drawtext=fontfile='{_esc(FONT)}':text='{text}':fontsize={size}:fontcolor=white:borderw=9:"
+            f"bordercolor=black:shadowx=5:shadowy=6:shadowcolor=black@0.7:x=(w-text_w)/2:y=(h-text_h)/2:"
+            f"alpha='{alpha}':enable='lt(t,{cd:.2f})'")
+
+
+def _title_filter(title, n, fade_in, fade_out):
+    """Chapter title along the lower quarter, faded in on the chapter's first beat and out on its last."""
+    text = "".join(c for c in str(title).upper() if c not in "'\\:%;\"").strip()[:40]
+    if not text:
+        return ""
+    d = n / FPS
+    a_in = "min(1,t/0.5)" if fade_in else "1"
+    a_out = f"min(1,max(0,({d:.2f}-t)/0.5))" if fade_out else "1"
+    return (f",drawtext=fontfile='{_esc(FONT)}':text='{text}':fontsize=72:fontcolor=white:borderw=4:bordercolor=black:"
+            f"shadowx=3:shadowy=3:shadowcolor=black@0.8:alpha='{a_in}*{a_out}':x=(w-text_w)/2:y=h*0.75")
+
+
+def beat_clip(img, frames, out, k, fx="none", tight=False, fmt="short", card=None, title=None):
+    """One beat: a still that fills the whole frame (content-aware crop, no blurred bars) and moves:
+    push-in, pull-out or a slow drift, rotating by k. fx: zoom = punch-in, shake = decaying camera shake, flash = white flash. Exactly `frames` frames.
+    tight: a punch-in recut of the same picture (70% of the crop, upper middle) so a line never holds one frame.
+    Long videos: portrait pictures (manga pages) are shown whole on a blurred backdrop instead of cropped,
+    and `card` puts a big keyword over the first 1.6 s. title = (text, first beat?, last beat?) draws the chapter
+    title; long beats also carry the vignette, since long videos are not re-encoded after joining."""
     import framing
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
-    vw, vh = W["short"], H["short"]
+    vw, vh = W[fmt], H[fmt]
     n = max(2, int(frames))
     with Image.open(img) as src:
         im = src.convert("RGB")
     canvas = os.path.splitext(out)[0] + ".canvas.jpg"
-    cw, ch = vw * 3 // 2, vh * 3 // 2                     # 1.5x canvas keeps zoompan smooth without 4K cost
-    box = framing.crop_box(im)
-    if tight:
-        x0, y0, x1, y1 = box
-        bw, bh = (x1 - x0) * 0.7, (y1 - y0) * 0.7
-        cx, cy = (x0 + x1) / 2, y0 + (y1 - y0) * 0.42
-        box = (int(cx - bw / 2), int(max(y0, cy - bh / 2)), int(cx + bw / 2), int(max(y0, cy - bh / 2) + bh))
-    im.crop(box).resize((cw, ch), Image.LANCZOS).filter(
-        ImageFilter.UnsharpMask(radius=2, percent=60, threshold=3)).save(canvas, "JPEG", quality=93)
+    scale = 1.5 if fmt == "short" else 1.15               # oversized canvas keeps zoompan smooth (1080p needs less)
+    cw, ch = int(vw * scale) // 2 * 2, int(vh * scale) // 2 * 2
+    framed = fmt == "long" and im.width / im.height < 1.25 and not tight
+    if framed:
+        frame = _framed(im, cw, ch)
+    else:
+        box = framing.crop_box(im, aspect=vw / vh)
+        if tight:
+            x0, y0, x1, y1 = box
+            bw, bh = (x1 - x0) * 0.7, (y1 - y0) * 0.7
+            cx, cy = (x0 + x1) / 2, y0 + (y1 - y0) * 0.42
+            box = (int(cx - bw / 2), int(max(y0, cy - bh / 2)), int(cx + bw / 2), int(max(y0, cy - bh / 2) + bh))
+        frame = im.crop(box).resize((cw, ch), Image.LANCZOS)
+    frame.filter(ImageFilter.UnsharpMask(radius=2, percent=60, threshold=3)).save(canvas, "JPEG", quality=93)
     if fx == "zoom":                                      # punch in hard on the first frames, then keep creeping
         z = f"if(lt(on,8),1.22-0.12*on/8,1.10+0.05*on/{n})"
         x, y = "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"
+    elif framed:                                          # pages: a gentle push so the panel stays readable
+        z, x, y = f"1.0+0.05*on/{n}", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"
     else:
         z, x, y = [
             (f"1.0+0.10*on/{n}", "iw/2-(iw/zoom/2)", "ih*0.42-(ih/zoom*0.42)"),              # push in
@@ -134,10 +137,16 @@ def beat_clip(img, frames, out, k, fx="none", tight=False):
                 f"y='(in_h-out_h)/2+16*max(0,1-t/0.35)*cos(2*PI*21*t)'")
     elif fx == "flash":
         post = ",fade=t=in:st=0:d=0.18:color=white"
+    if fmt == "long":
+        post += ",vignette=angle=PI/5"
+    if card and os.path.exists(FONT):
+        post += _card_filter(card, n)
+    if title and os.path.exists(FONT):
+        post += _title_filter(title[0], n, title[1], title[2])
     vf = (f"zoompan=z='{z}':x='{x}':y='{y}':d={n}:s={vw}x{vh}:fps={FPS},"
           f"eq=contrast=1.05:saturation=1.10{post},format=yuv420p")
     run(["ffmpeg", "-y", "-i", canvas, "-vf", vf, "-frames:v", str(n), "-c:v", "libx264", "-preset", "veryfast",
-         "-crf", "18", "-pix_fmt", "yuv420p", "-r", str(FPS), "-an", out])
+         "-crf", "18" if fmt == "short" else "20", "-pix_fmt", "yuv420p", "-r", str(FPS), "-an", out])
     try:
         os.remove(canvas)
     except OSError:
@@ -304,97 +313,32 @@ def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
     return path
 
 
-def _join_xfade(paths, seg_lens, out_path, xf=0.35):
-    if len(paths) == 1:
-        return paths[0]
-    inputs = []
-    for p in paths:
-        inputs.extend(["-i", p])
-    f_chain = []
-    prev = "[0:v]"
-    accum = 0.0
-    for k in range(1, len(paths)):
-        accum += seg_lens[k - 1]
-        lab = f"[v{k}]"
-        f_chain.append(f"{prev}[{k}:v]xfade=transition=fade:duration={xf}:offset={accum:.3f}{lab}")
-        prev = lab
-    cmd = [
-        "ffmpeg", "-y",
-        *inputs,
-        "-filter_complex", ";".join(f_chain),
-        "-map", prev,
-        "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", "-pix_fmt", "yuv420p",
-        out_path
-    ]
-    run(cmd)
-    return out_path
-
-
-def _xfade_chain(clips, segs, chunk_dir, xf=0.35):
-    os.makedirs(chunk_dir, exist_ok=True)
-    if not clips:
-        return ""
-    if len(clips) == 1:
-        return clips[0]
-
-    size = 20
-    parts = []
-    part_segs = []
-    for c in range(0, len(clips), size):
-        ps = clips[c : c + size]
-        ss = segs[c : c + size]
-        if len(ps) == 1 and len(clips) > size:
-            parts.append(ps[0])
-            part_segs.append(ss[0])
-        else:
-            c_out = os.path.join(chunk_dir, f"chunk_{c // size:03d}.mp4")
-            parts.append(_join_xfade(ps, ss, c_out, xf=xf))
-            part_segs.append(sum(ss))
-    if len(parts) == 1:
-        return parts[0]
-    final_joined = os.path.join(chunk_dir, "xfade_final.mp4")
-    return _join_xfade(parts, part_segs, final_joined, xf=xf)
-
-
 def render(clips, segs, narration_wav, out, fmt, ass=None, music=None, sfx_events=(), chapter_marks=()):
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     temp_dir = os.path.join(os.path.dirname(os.path.abspath(out)), f"_tmp_{os.path.basename(out)}")
     os.makedirs(temp_dir, exist_ok=True)
     total_dur = max(0.1, float(sum(segs)))
 
+    # hard cuts for both formats: the top channels cut every 1-1.5 s, and crossfades at that pace read as mush
+    list_file = os.path.join(temp_dir, "clips.txt")
+    with open(list_file, "w", encoding="utf-8") as f:
+        for c in clips:
+            f.write(f"file '{os.path.abspath(c)}'\n")
+    joined_v = os.path.join(temp_dir, "joined.mp4")
+    try:
+        run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", list_file, "-c", "copy", joined_v])
+    except Exception:
+        run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", list_file, "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", joined_v])
+
+    # Long videos: grade, vignette and chapter titles are already baked into each beat clip (rendered in parallel),
+    # so the joined video is stream-copied; re-encoding 15 minutes of 1080p a second time took longer than the video.
+    # Shorts are re-encoded once to burn in the word-by-word captions across clips.
+    fc_parts = []
     if fmt == "short":
-        list_file = os.path.join(temp_dir, "clips.txt")
-        with open(list_file, "w", encoding="utf-8") as f:
-            for c in clips:
-                f.write(f"file '{os.path.abspath(c)}'\n")
-        joined_v = os.path.join(temp_dir, "joined.mp4")
-        try:
-            run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", list_file, "-c", "copy", joined_v])
-        except Exception:
-            run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", list_file, "-c:v", "libx264", "-preset", "veryfast", "-crf", "18", joined_v])
-    else:
-        joined_v = _xfade_chain(clips, segs, temp_dir, xf=XF)
-
-    vfilters = []
-    if fmt == "long" and chapter_marks and len(chapter_marks) > 1 and os.path.exists(FONT):
-        for t0, title in chapter_marks[1:]:
-            a = t0 + 0.3
-            b = t0 + 4.3
-            alpha = f"if(lt(t,{a}+0.5),(t-{a})/0.5,if(gt(t,{b}-0.5),({b}-t)/0.5,1))"
-            c_text = title.upper().replace("'", "").replace(":", " - ")
-            vfilters.append(
-                f"drawtext=fontfile='{_esc(FONT)}':text='{c_text}':fontsize=72:fontcolor=white:"
-                f"borderw=4:bordercolor=black:shadowx=3:shadowy=3:shadowcolor=black@0.8:"
-                f"alpha='{alpha}':x=(w-text_w)/2:y=h*0.75:enable='between(t,{a:.2f},{b:.2f})'"
-            )
-
-    vfilters.append("noise=alls=4:allf=t,vignette=angle=PI/5,eq=contrast=1.04:saturation=1.02")
-
-    if ass and os.path.exists(ass):
-        vfilters.append(f"subtitles=filename='{_esc(ass)}':fontsdir='{_esc(FONTS_DIR)}'")
-
-    v_chain = ",".join(vfilters)
-    fc_parts = [f"[0:v]{v_chain},trim=0:{total_dur:.3f},setpts=PTS-STARTPTS[vout]"]
+        vfilters = ["noise=alls=4:allf=t,vignette=angle=PI/5,eq=contrast=1.04:saturation=1.02"]
+        if ass and os.path.exists(ass):
+            vfilters.append(f"subtitles=filename='{_esc(ass)}':fontsdir='{_esc(FONTS_DIR)}'")
+        fc_parts.append(f"[0:v]{','.join(vfilters)},trim=0:{total_dur:.3f},setpts=PTS-STARTPTS[vout]")
 
     cmd = ["ffmpeg", "-y", "-i", joined_v, "-i", narration_wav]
     next_idx = 2
@@ -435,10 +379,11 @@ def render(clips, segs, narration_wav, out, fmt, ass=None, music=None, sfx_event
     else:
         fc_parts.append(f"{tracks_to_mix[0]}loudnorm=I={target_i}:TP=-1.5,aresample=48000,atrim=0:{total_dur:.3f},asetpts=PTS-STARTPTS[aout]")
 
+    video_out = (["-map", "[vout]", "-map", "[aout]", "-c:v", "libx264", "-preset", "medium", "-crf", "19",
+                  "-pix_fmt", "yuv420p"] if fmt == "short" else ["-map", "0:v", "-map", "[aout]", "-c:v", "copy"])
     cmd.extend([
         "-filter_complex", ";".join(fc_parts),
-        "-map", "[vout]", "-map", "[aout]",
-        "-c:v", "libx264", "-preset", "medium", "-crf", "19", "-pix_fmt", "yuv420p",
+        *video_out,
         "-c:a", "aac", "-b:a", "192k",
         "-movflags", "+faststart",
         out
@@ -529,80 +474,67 @@ def music_bed(mood, work, seconds):
     return ambient_pad(pad_file, mood=mood, seconds=seconds)
 
 
-def thumbnail(img, text, highlight, out):
+def _thumb_part(img, w, h):
+    """The most detailed w:h window of a picture, tightened a little toward its upper middle (faces)."""
+    import framing
+    with Image.open(img) as src:
+        im = src.convert("RGB")
+    x0, y0, x1, y1 = framing.crop_box(im, aspect=w / h)
+    bw, bh = (x1 - x0) * 0.88, (y1 - y0) * 0.88
+    cx, cy = (x0 + x1) / 2, y0 + (y1 - y0) * 0.45
+    left, top = max(0, min(im.width - bw, cx - bw / 2)), max(0, min(im.height - bh, cy - bh / 2))
+    return im.crop((int(left), int(top), int(left + bw), int(top + bh))).resize((w, h), Image.LANCZOS)
+
+
+def thumbnail(img, text, highlight, out, img2=None):
+    """1280x720 thumbnail in the style of the niche's top long videos (GrandLineReview, Facadify, Strawhatists):
+    one face-filling picture, or two characters split by a slanted bar when img2 is given; punchy colour;
+    0-4 words of text along the bottom (none at all is normal for What If videos)."""
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
-    with Image.open(img) as source:
-        im = source.convert("RGB")
-
-    scale = max(1280 / im.width, 720 / im.height)
-    new_w = int(math.ceil(im.width * scale))
-    new_h = int(math.ceil(im.height * scale))
-    im = im.resize((new_w, new_h), Image.Resampling.LANCZOS)
-
-    left = max(0, new_w - 1280)
-    top = max(0, int((new_h - 720) * (0.08 if im.height > im.width else 0.5)))   # tall art: keep the face
-    im = im.crop((left, top, left + 1280, top + 720))
-
-    im = ImageEnhance.Color(im).enhance(1.25)
+    tw, th = 1280, 720
+    if img2:
+        im = _thumb_part(img, 700, th).crop((0, 0, 700, th))
+        canvas = Image.new("RGB", (tw, th))
+        canvas.paste(im, (0, 0))
+        right = _thumb_part(img2, 700, th)
+        mask = Image.new("L", (tw, th), 0)
+        ImageDraw.Draw(mask).polygon([(680, 0), (tw, 0), (tw, th), (560, th)], fill=255)
+        canvas.paste(right, (tw - 700, 0), mask.crop((tw - 700, 0, tw, th)))
+        d = ImageDraw.Draw(canvas)
+        d.line([(680, 0), (560, th)], fill=(0, 0, 0), width=22)
+        d.line([(680, 0), (560, th)], fill=(255, 210, 30), width=8)
+        im = canvas
+    else:
+        im = _thumb_part(img, tw, th)
+    im = ImageEnhance.Color(im).enhance(1.35)
     im = ImageEnhance.Contrast(im).enhance(1.18)
+    im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=90, threshold=2))
+    vig = Image.new("L", (tw, th), 0)
+    ImageDraw.Draw(vig).ellipse((-220, -160, tw + 220, th + 160), fill=255)
+    im = Image.composite(im, Image.new("RGB", (tw, th), (0, 0, 0)), vig.filter(ImageFilter.GaussianBlur(110)))
 
-    grad_w = 780
-    mask = Image.new("L", (1280, 720), 0)
-    draw_mask = ImageDraw.Draw(mask)
-    for x in range(grad_w):
-        val = int(230 * ((1.0 - (x / grad_w)) ** 1.3))
-        draw_mask.line([(x, 0), (x, 720)], fill=val)
-    dark_layer = Image.new("RGB", (1280, 720), (8, 6, 12))
-    im = Image.composite(dark_layer, im, mask)
-
-    vig = Image.new("L", (1280, 720), 0)
-    ImageDraw.Draw(vig).ellipse((-160, -120, 1440, 840), fill=255)
-    im = Image.composite(im, Image.new("RGB", (1280, 720), (0, 0, 0)), vig.filter(ImageFilter.GaussianBlur(100)))
-
-    draw = ImageDraw.Draw(im)
-    words = text.upper().split()[:5]
-    total_chars = len(" ".join(words))
-    size = 140 if total_chars <= 12 else 115 if total_chars <= 20 else 96
-
-    font = None
-    if os.path.exists(FONT):
-        try:
-            font = ImageFont.truetype(FONT, size)
-        except Exception:
-            pass
-    if font is None:
-        font = ImageFont.load_default()
-
-    lines = [[]]
-    for w in words:
-        test_line = " ".join(lines[-1] + [w])
-        if lines[-1] and draw.textlength(test_line, font=font) > 720:
-            lines.append([w])
-        else:
-            lines[-1].append(w)
-
-    hl_targets = {h.strip("?!.,:").upper() for h in highlight.split()} if highlight else set()
-    if not hl_targets and words:
-        hl_targets = {words[-1].strip("?!.,:")}
-
-    line_h = int(size * 1.08)
-    total_h = len(lines) * line_h
-    start_y = max(40, (720 - total_h) // 2)
-
-    y = start_y
-    for line in lines:
-        x = 55
-        for w in line:
-            clean_w = w.strip("?!.,:")
-            is_hl = clean_w in hl_targets
-            color = (255, 210, 30) if is_hl else (255, 255, 255)
-
+    words = [w for w in str(text or "").upper().split()][:4]
+    if words:
+        grad = Image.new("L", (tw, th), 0)
+        gd = ImageDraw.Draw(grad)
+        for y in range(th // 2, th):                      # darken the bottom so the words always read
+            gd.line([(0, y), (tw, y)], fill=int(200 * ((y - th / 2) / (th / 2)) ** 1.6))
+        im = Image.composite(Image.new("RGB", (tw, th), (0, 0, 0)), im, grad)
+        draw = ImageDraw.Draw(im)
+        size = 150
+        while size > 70:
+            font = ImageFont.truetype(FONT, size) if os.path.exists(FONT) else ImageFont.load_default()
+            if draw.textlength(" ".join(words), font=font) <= tw - 120:
+                break
+            size -= 6
+        hl = {h.strip("?!.,:").upper() for h in str(highlight or "").split()}
+        total = draw.textlength(" ".join(words), font=font)
+        x, y = (tw - total) / 2, th - size * 1.18 - 34
+        for w in words:
+            color = (255, 210, 30) if w.strip("?!.,:") in hl else (255, 255, 255)
             draw.text((x + 6, y + 8), w, font=font, fill=(0, 0, 0))
-            draw.text((x, y), w, font=font, fill=color, stroke_width=8, stroke_fill=(0, 0, 0))
-
+            draw.text((x, y), w, font=font, fill=color, stroke_width=9, stroke_fill=(0, 0, 0))
             x += draw.textlength(w + " ", font=font)
-        y += line_h
-
     im.save(out, "JPEG", quality=95)
 
 
@@ -620,8 +552,8 @@ if __name__ == "__main__":
 
     c1 = os.path.join(test_dir, "c1.mp4")
     c2 = os.path.join(test_dir, "c2.mp4")
-    shot_clip(test_img, 3.0, c1, 0, fmt="short", fx="zoom")
-    shot_clip(test_img, 3.0, c2, 1, fmt="short", fx="shake")
+    beat_clip(test_img, 90, c1, 0, fx="zoom")
+    beat_clip(test_img, 90, c2, 1, fx="shake")
 
     wav = os.path.join(test_dir, "narr.wav")
     run(["ffmpeg", "-y", "-f", "lavfi", "-i", "aevalsrc=0.15*sin(2*PI*280*t):s=48000:d=6.0", "-ac", "1", wav])

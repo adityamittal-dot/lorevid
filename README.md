@@ -26,7 +26,7 @@ The channel publishes roughly **7 vertical Shorts per day** alongside **long-for
 - **Voice Narration**: Voiced by Kokoro TTS using a custom weighted blend (`voice_blend` in `channel.json`, defaulting to 65% `am_michael` + 35% `am_fenrir`) running locally on CPU.
 - **Dynamic Editing**:
   - **Shorts**: Full-screen pictures (content-aware 9:16 crop, no blurred bars) that change about every second: each line is split into 1-4 beats on word boundaries, each beat a different matching picture (or a punch-in recut when only one matches), with push-in / pull-out / drift motion. Plus punch zooms, camera shakes, flashes, procedural sound effects (whoosh, hit, riser), top-screen hook text (~2.5s), and two-word ASS captions with the active word highlighted in yellow (`#FFD21E`). Endings loop naturally into the hook. This matches what the top theory Shorts in the niche do (a cut every 0.8-1.2 s, full-bleed art).
-  - **Long Videos**: Cinematic 0.35s crossfades between shots, chapter title cards, YouTube chapters in the description, an uploaded caption track, and a 1280x720 thumbnail with 2-4 big words.
+  - **Long Videos**: Built on what the niche's top long videos do (Facadify, Strawhatists, GrandLineReview): hard cuts to a new matching picture about every 1.7 s, anime stills full-frame and manga pages shown whole on a blurred backdrop, big keyword cards (`card`: "CHAPTER 1194"), chapter title cards and YouTube chapters, ~180 wpm narration (`speed.long` 1.18, tighter pauses), an uploaded caption track, and a 1280x720 thumbnail: one huge saturated character or a two-character split (`thumbnail.search2`), with 0-3 words along the bottom.
 
 ---
 

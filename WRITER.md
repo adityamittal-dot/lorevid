@@ -95,7 +95,7 @@ Every factual claim (chapter numbers, names, events, powers) must be fact-checke
 
 ## 5. Script JSON Schema (scripts/queue/<id>.json)
 
-Every script must match this schema exactly. `examples/short.json` is a complete, rendered-and-checked Short to model yours on (structure, line length, hook, loop, shots):
+Every script must match this schema exactly. `examples/short.json` is a complete, rendered-and-checked Short to model yours on (structure, line length, hook, loop, shots). `examples/long.json` shows the shape of a long video (cold open, chapters, cards, split thumbnail); a real one has 100-260 lines:
 
 ```json
 {
@@ -126,7 +126,7 @@ Every script must match this schema exactly. `examples/short.json` is a complete
     }
   ],
   "chapters": [{"line": 0, "title": "Chapter title"}],
-  "thumbnail": {"text": "2-4 WORDS", "highlight": "WORD", "image": "File:...", "search": "..."},
+  "thumbnail": {"text": "0-3 WORDS", "highlight": "WORD", "search": "Zoro Supreme King Haki", "search2": "Sommers Excited"},
   "sources": ["https://onepiece.fandom.com/..."],
   "self_check": {"hook": "...", "loop": "...", "facts_verified": true}
 }
@@ -143,6 +143,8 @@ Every script must match this schema exactly. `examples/short.json` is a complete
 - `pages`: 2-5 exact wiki article titles (spaces, not underscores) the Short is about. Every image on those articles
   becomes the Short's picture pool, so pick the most specific ones: fight and event pages beat character pages,
   and character pages beat arc pages. Wiki URLs in `sources` are added automatically.
+- `card` (long videos only, optional, per line): 1-3 words shown as a big on-screen title over that line (section 6).
+- In `shot.search`, put the subject first ("Zoro ..."): pictures that don't show the subject are pushed down.
 
 ---
 
@@ -200,12 +202,40 @@ Our voice is synthetic, and fans scroll straight past AI-voice slop. The only wa
 
 **Before pushing, ask for each Short**: would a fan who has read every chapter learn something, or want to argue? If neither, rewrite it.
 
-### Long Video Rules (10-16 min, 1600-2400 words, 90-220 lines)
-- **Cold Open Hook**: First 15 seconds promise the payoff and set the stakes.
-- **Chapter Structure**: New chapter every 2-3 minutes (>= 3 chapters, first at line 0). End every chapter with an open loop.
-- **Pattern Interrupts**: Shift visual tone, music, or pacing every 60-90 seconds.
-- **What If Narration**: Present tense story format. Paraphrase dialogue naturally; never copy manga or anime lines verbatim.
-- **Conclusion**: Solid resolution; end with a soft pointer to a related breakdown on the channel.
+### Long Video Rules (12-16 min, 1800-3000 words, 100-260 lines)
+What wins in long form right now (studied 2026-10-02): Facadify, "What If Luffy Was Raised By Joy Boy?" (233k views in
+6 days, 17 min); Strawhatists, "What If Luffy, Ace & Sabo Were Reborn With Their Memories" (140k, 15 min);
+GrandLineReview, "The Rules Just Changed... (1194)" (538k) and "Imu is a PARROT!" (443k, 17 min). The two What If
+channels are faceless narrated stories like ours and grew past 100k subscribers on that format alone.
+
+- **Pick the format.** Default to a **What If story**. Write a **theory breakdown** only when a new chapter came out in
+  the last 7 days (chapter number in the title) or a single sharp claim is worth 12 minutes ("Imu is a PARROT!").
+- **Cold open (first ~40 words, about 15 s).** The What If question, then two escalating questions with stakes
+  ("How powerful would Luffy become? And how differently would the story unfold?"). No greeting, channel name or
+  "in this video". By second 20 the story starts: "The story begins..." or "To understand how we get there, we have to go
+  back to Sabaody."
+- **Story spine (What If).** Change exactly ONE canon event (name the chapter or episode). Then follow 4-6 consequences
+  in the story's own arc order, one chapter each: the change, the first ripple, how a fan favourite reacts, the big
+  confrontation, the twist ending. Every consequence follows the power system and what characters already know.
+  No power creep, no random outcomes.
+- **Spine (theory breakdown).** Claim, then 3-5 evidence chapters (each with chapter numbers and one "most people
+  forget" detail), then the strongest counter-argument steelmanned, then the verdict and what it predicts for the next chapter.
+- **Narration.** Present tense, concrete scenes: who is where, what they do, what they say (paraphrased, never copied
+  dialogue). Name characters, places and techniques constantly. Every name you say pulls the matching picture, and the
+  renderer cuts every ~1.7 s. Lines are 8-20 words, spoken at ~180 words a minute.
+- **Open loops every 60-90 s.** End every chapter on an unresolved beat ("But Akainu wasn't finished."), and drop
+  mid-chapter pivots ("Now, here's the part that changes everything.").
+- **Chapters.** 5-8 chapters of 1.5-3 min. Titles are 2-5 teasing words ("The Fight That Never Ends"); the first is at line 0.
+  They become YouTube chapters and on-screen title cards.
+- **`card` (optional, per line).** About one line a minute introduces a key number, name or term. Put it in `card`
+  (1-3 words, max 28 characters: `"CHAPTER 1194"`, `"OUMU"`, `"GEAR 5"`) and it appears as a big title over that moment,
+  as GrandLineReview does. Never on two lines in a row.
+- **`fx` in long videos.** At most one a minute: `shake` on impacts, `zoom` on reveals, `flash` at most 3 times.
+- **`pages`.** 4-8 articles: every major character in the story, the arc page and any fight page.
+- **Ending.** The twist a fan wouldn't predict, a one-line verdict, then the comment question spoken plainly and a
+  pointer to a related video ("And if you want to see what happens if Ace survives Marineford, that's the next story.").
+- **Shorts cut from it (`-Ls`).** Each is one self-contained moment of the story (its own hook, payoff and loop), not a
+  trailer. The renderer adds "Full breakdown on the channel" with the link.
 
 ---
 
@@ -214,7 +244,9 @@ Our voice is synthetic, and fans scroll straight past AI-voice slop. The only wa
 ### Titles & Metadata
 - **Short Titles**: 40-60 characters. Character or series keyword within first 3 words. Clear claim or question. At most one ALL-CAPS word. No hashtags, no emoji spam.
   - *Examples*: `Zoro Was Trained To Kill Imu`, `Why Shanks Fears Blackbeard's Third Fruit`, `Gojo Would Beat Sukuna If He Did This`.
-- **Long Titles**: <= 70 characters. Same rules; may end with chapter tag: `The Secret Oda Kept For 20 Years (One Piece 1194)`.
+- **Long Titles**: <= 70 characters. What If: copy the proven pattern exactly, `What If <Character> <One Change>?`
+  (`What If Zoro Was Executed?`, `What If Luffy Was Raised By Joy Boy?`). Theory: 2-6 punchy words, a statement, optional
+  chapter tag (`Imu is a PARROT!`, `The Rules Just Changed... (1194)`). At most one ALL-CAPS word.
 - **Description**: 2-4 natural sentences with keywords and a viewer question. For long videos, include chapter timestamps (`0:00 Title`).
 - **Hashtags**: 3-5 tags, most specific first (`["#zoro", "#onepiece", "#anime"]`).
 - **Tags**: 8-15 realistic search phrases (e.g. `"one piece theory"`, `"zoro conqueror's haki"`, `"one piece 1194"`).
@@ -233,17 +265,21 @@ The render pipeline does this automatically:
 
 So your job is the words:
 1. **`pages`**: 2-5 specific articles (see section 5).
-2. **`shot.search`**: name the character AND the action, object or event, the way wiki files are named:
+2. **`shot.search`**: subject first, then the action, object or event, the way wiki files are named:
    `Zoro Sommers steel heart`, `Gojo Unlimited Void`, `Kakashi Kamui Pain`, `Sukuna Dismantle Mahoraga`.
    Never a bare name (`Zoro`): that matches hundreds of unrelated files. The validator warns on one-word searches.
 3. **Line 1** must name the main character in `shot.search`, so the opening frame is a close-up of them.
 4. `shot.image` is optional. Set it only if you are sure of an exact file title (the validator cannot check it here).
 5. `shot.fallback`: anime-style prompt describing the scene without character or real names (used only when the wiki
    has no match at all).
-6. **Long Thumbnail**:
-   - `image` / `search`: emotional close-up with intense expression.
-   - `text`: 2-4 punchy words different from the title.
-   - `highlight`: one word colored yellow.
+6. **Long Thumbnail** (built like the niche's top thumbnails: one or two huge, saturated characters, little or no text):
+   - `search`: main character + power or emotion, subject first (`"Zoro Supreme King Haki"`). The renderer picks the
+     most colourful close-up match.
+   - `search2` (optional): a second character for a split thumbnail with a slanted divider. Use it for every rival,
+     "X vs Y" or two-character What If (`"Sommers Excited"`).
+   - `text`: 0-3 words that add to the title and never repeat it (`"HE'S ALIVE?!"`, `"EVERY. SINGLE. TIME."`). What If
+     videos often work best with none (`""`).
+   - `highlight`: one word drawn in yellow.
 
 ---
 

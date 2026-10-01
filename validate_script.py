@@ -31,7 +31,7 @@ BANNED_AI_PATTERNS = [
 
 DEFAULT_LIMITS = {
     "short": {"min_lines": 8, "max_lines": 22, "min_words": 95, "max_words": 165},
-    "long": {"min_lines": 90, "max_lines": 220, "min_words": 1600, "max_words": 2400},
+    "long": {"min_lines": 100, "max_lines": 260, "min_words": 1800, "max_words": 3000},
 }
 
 
@@ -261,8 +261,18 @@ def main():
         if not isinstance(thumb, dict):
             err.append("long video requires 'thumbnail' object")
         else:
-            if not thumb.get("text") or not str(thumb.get("text")).strip():
-                err.append("thumbnail missing 'text'")
+            if len(str(thumb.get("text") or "").split()) > 4:
+                err.append("thumbnail 'text' must be 0-4 words (none is fine for What If videos)")
+            if not (thumb.get("search") or thumb.get("image")):
+                err.append("thumbnail needs 'search' (character + emotion/event) or an exact 'image'")
+
+        cards = [ln.get("card") for ln in lines if isinstance(ln, dict) and ln.get("card")]
+        for c in cards:
+            if not isinstance(c, str) or len(c) > 28:
+                err.append(f"card '{c}' must be a string of at most 28 characters")
+        per_min = len(cards) / max(1.0, total_words / 180)
+        if per_min > 1.5:
+            warn.append(f"{len(cards)} cards is a lot ({per_min:.1f} a minute); keep them for key names and numbers")
 
     # 7. notes/<id>.md check
     notes_candidates = [
@@ -318,7 +328,7 @@ def main():
                 break
 
     # One-line summary first
-    rate = 2.7 if fmt == "short" else 2.5
+    rate = 2.7 if fmt == "short" else 3.0      # long: speed 1.18 with tighter pauses, ~180 words a minute
     est_s = round(total_words / rate) if rate > 0 else 0
     print(f"{script_id} {fmt} {n_lines} lines, {total_words} words ~{est_s} s")
 

@@ -9,7 +9,6 @@ import argparse, io, os, re, time
 import requests
 from PIL import Image
 
-import images
 
 UA = {"User-Agent": "lorevid/1.0 (+https://github.com/adityamittal-dot/lorevid)"}
 BAD = re.compile(r"logo|icon|merch|bloks|figure|diorama|toy|card|sticker|funko|statue|dub\b|volume cover|poster|"
@@ -19,7 +18,8 @@ BAD = re.compile(r"logo|icon|merch|bloks|figure|diorama|toy|card|sticker|funko|s
                  r"treasure cruise|thousand storm|unlimited world|world seeker|ultimate ninja|ninja storm|blazing|"
                  r"cursed clash|phantom parade|-share|\bplush|\bpvc\b|keychain|t-shirt|\bshirt\b|hungry days|"
                  r"unlimited adventure|unlimited cruise|grand adventure|gear spirit|grand battle|pirate's carnival|"
-                 r"kaizoku musou|memorial museum|\bcollab", re.I)
+                 r"kaizoku musou|memorial museum|\bcollab|onepi no mi|collection|pop!|& tee|\btee\b|"
+                 r"merchandise|\bmug\b|\bcake\b|\bcafe\b|restaurant|\bstore\b|\bshop\b|\bpromo", re.I)
 EXTS = (".png", ".jpg", ".jpeg", ".webp")
 ANIME_STYLE = ("anime key visual, cel shaded, dramatic lighting, detailed background, cinematic composition, "
                "no text, no watermark")
@@ -130,6 +130,8 @@ def rank(wiki, shot, text, pool):
     search hits and images on the Short's own wiki articles get a bonus; infoboxes, portraits and concept art
     (static, seen everywhere) lose points. strong = shares 2+ words with the line, or 1 and sits on those articles."""
     want, said = _tokens(shot.get("search", "")), _tokens(text)
+    first = re.findall(r"[a-z0-9]+", shot.get("search", "").lower())
+    subject = {first[0][:-1] if len(first[0]) > 4 and first[0].endswith("s") else first[0]} - STOP if first else set()
     cands = dict(pool)
     hits = {}
     if wiki and shot.get("search"):
@@ -148,6 +150,9 @@ def rank(wiki, shot, text, pool):
             s -= 2
         if "-" in t or len(name) <= 1:                   # "Becoming a Hero - Zoro": songs/products; "Sukuna.png": a bare render
             s -= 1.5
+        if subject and not subject & name:               # search starts with its subject: "Zoro ..." must show Zoro,
+            s -= 3                                       # not "Douglas Bullet Using Supreme King Haki"
+            matched = min(matched, 1)
         if s > 0:
             out.append((s, t, i, matched >= 2 or (t in pool and matched >= 1)))
     out.sort(key=lambda x: -x[0])
@@ -227,37 +232,6 @@ def pick_hook(shot, text, wiki, pool, used, out_path, tries=4):
             pass
     used[t] = used.get(t, 0) + 1
     return t
-
-
-def get(shot, wiki, out_path, used, seed, vertical):
-    """Fill out_path with the shot's image. Returns {"path", "source", "file"} or None (caller reuses the last image).
-    Order: the writer's exact file -> wiki search (unused images first) -> AI fallback."""
-    if os.path.exists(out_path) and os.path.getsize(out_path) > 5000:
-        return {"path": out_path, "source": "cache", "file": ""}
-    os.makedirs(os.path.dirname(os.path.abspath(out_path)), exist_ok=True)
-    if wiki and shot.get("image"):
-        t = _title(shot["image"])
-        i = info(wiki, [t]).get(t)
-        if i and i.get("width", 0) >= 300 and _download(i["url"], out_path):      # the writer chose it: trust it
-            used.add(t)
-            return {"path": out_path, "source": "wiki", "file": t}
-        print(f"  wiki file not usable: {t}", flush=True)
-    if wiki and shot.get("search"):
-        titles = search(wiki, shot["search"])
-        infos = info(wiki, titles)
-        ok = [t for t in titles if t in infos and acceptable(t, infos[t])]
-        for t in [t for t in ok if t not in used] + [t for t in ok if t in used]:
-            if _download(infos[t]["url"], out_path):
-                used.add(t)
-                return {"path": out_path, "source": "wiki", "file": t}
-    if shot.get("fallback"):
-        w, h = (768, 1344) if vertical else (1344, 768)
-        try:
-            images.generate(f"{shot['fallback']}, {ANIME_STYLE}", out_path, seed, w, h)
-            return {"path": out_path, "source": "ai", "file": ""}
-        except Exception as e:
-            print(f"  AI fallback failed ({e})", flush=True)
-    return None
 
 
 if __name__ == "__main__":

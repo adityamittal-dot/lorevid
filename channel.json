@@ -95,14 +95,14 @@
     },
     "long": {
       "words": [
-        1600,
-        2400
+        1800,
+        3000
       ],
       "lines": [
-        90,
-        220
+        100,
+        260
       ],
-      "note": "10-16 min: chapter/episode breakdown, deep theory, or a What If story"
+      "note": "12-16 min at ~180 wpm: a What If story (best faceless format) or a theory breakdown; cold open in 15 s, open loop every 60-90 s"
     }
   },
   "voice_blend": {
@@ -111,7 +111,7 @@
   },
   "speed": {
     "short": 1.12,
-    "long": 1.04
+    "long": 1.18
   },
   "publish": {
     "mode": "schedule",

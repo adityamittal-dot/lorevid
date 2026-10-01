@@ -1,0 +1,178 @@
+{
+ "id": "example-long",
+ "format": "long",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "What if Zoro never solved Mihawk's riddle against Sommers",
+ "title": "What If Zoro Never Remembered Mihawk's Lesson?",
+ "description": "What if Zoro never remembered Mihawk's lesson in his fight with Shepherd Sommers? Without Supreme King Haki, a Knight of God can't die, and Elbaph loses its best swordsman at the worst moment. Who stops Imu now?",
+ "hashtags": [
+  "#zoro",
+  "#onepiece",
+  "#whatif"
+ ],
+ "tags": [
+  "what if zoro",
+  "one piece what if",
+  "zoro vs sommers",
+  "zoro supreme king haki",
+  "one piece 1194",
+  "mihawk lesson",
+  "knights of god",
+  "elbaph"
+ ],
+ "music_mood": "epic",
+ "comment": "Without Zoro, does Elbaph fall to Imu, or does Sanji step up? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Roronoa Zoro",
+  "Shepherd Sommers",
+  "Dracule Mihawk",
+  "Imu",
+  "Elbaph Arc"
+ ],
+ "lines": [
+  {
+   "text": "What if Zoro never remembered Mihawk's lesson in the middle of his fight with Sommers?",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Zoro Sommers Confrontation",
+    "fallback": "green haired swordsman facing a smiling knight"
+   }
+  },
+  {
+   "text": "What if the Knight of God just kept healing, cut after cut, until Zoro ran out of strength?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers Regeneration",
+    "fallback": "wounds closing on an armored knight"
+   }
+  },
+  {
+   "text": "And with Zoro stuck in a fight he can't finish, who stops Imu on Elbaph?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Controls Gunko",
+    "fallback": "shadowy figure controlling a girl with glowing eyes"
+   }
+  },
+  {
+   "text": "To understand how everything changes, we have to go back to the start of chapter 1193.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers",
+    "fallback": "two swordsmen clash in a giant village"
+   },
+   "card": "CHAPTER 1193"
+  },
+  {
+   "text": "Shepherd Sommers is a Knight of God, and Knights of God don't die the way normal fighters do.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Knights of God",
+    "fallback": "four knights in white cloaks"
+   }
+  },
+  {
+   "text": "Every wound Zoro gives him closes in seconds, as if the blade never touched him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers Regeneration",
+    "fallback": "flesh knitting back together"
+   }
+  },
+  {
+   "text": "In the real story, Zoro remembers Mihawk's words and coats all three swords in Supreme King Haki.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Using Supreme King Haki",
+    "fallback": "swordsman with three swords wrapped in black lightning"
+   }
+  },
+  {
+   "text": "But in this version, that memory never comes back.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk",
+    "fallback": "swordsman alone, eyes closed"
+   }
+  },
+  {
+   "text": "[...the story continues: 100-260 lines in total, 5-8 chapters, a card about once a minute...]",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph giants village",
+    "fallback": "giant village under a stormy sky"
+   }
+  },
+  {
+   "text": "So the strongest swordsman on the crew ends the arc still swinging at a man who can't die.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Cuts Sommers Hand",
+    "fallback": "exhausted swordsman, broken blades"
+   }
+  },
+  {
+   "text": "Was Mihawk's lesson the only thing standing between Elbaph and Imu? Tell me which side you're on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dracule Mihawk",
+    "fallback": "hawk-eyed swordsman on a throne"
+   }
+  },
+  {
+   "text": "And if you want to see what happens if Sanji gets Supreme King Haki first, that's the next story.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Killingham",
+    "fallback": "blond cook kicking with fire"
+   }
+  }
+ ],
+ "chapters": [
+  {
+   "line": 0,
+   "title": "The Question"
+  },
+  {
+   "line": 3,
+   "title": "The Fight That Never Ends"
+  },
+  {
+   "line": 8,
+   "title": "Elbaph Without Zoro"
+  },
+  {
+   "line": 9,
+   "title": "The Verdict"
+  }
+ ],
+ "thumbnail": {
+  "text": "",
+  "highlight": "",
+  "search": "Zoro Supreme King Haki",
+  "search2": "Sommers Excited"
+ },
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Shepherd_Sommers",
+  "https://onepiece.fandom.com/wiki/Chapter_1194"
+ ],
+ "self_check": {
+  "hook": "What If question + two escalating questions in the first 15 s",
+  "loop": "chapter endings leave an open question",
+  "facts_verified": true
+ }
+}
