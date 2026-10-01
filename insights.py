@@ -59,23 +59,36 @@ def parse_rfc3339(ts_str: str) -> datetime:
         return datetime.now(timezone.utc)
 
 
-def load_search_terms(cfg_path: Path) -> list[str]:
-    """Read unique search terms from channel.json series (up to 9 total)."""
+def load_search_terms(cfg_path: Path, cap: int = 9) -> list[str]:
+    """Up to `cap` search terms from channel.json, shared out by series_weights with at least 2 per series,
+    so a series listed late (JJK) is never starved by an earlier one's long term list. Each term costs
+    2 searches (Shorts + long) = 200 quota units a day."""
     if not cfg_path.is_file():
         return []
     try:
         with open(cfg_path, "r", encoding="utf-8") as f:
             cfg = json.load(f)
-        terms: list[str] = []
-        for s in cfg.get("series", []):
-            for t in s.get("search_terms", []):
-                t_str = str(t).strip()
-                if t_str and t_str not in terms:
-                    terms.append(t_str)
-        return terms[:9]
     except Exception as e:
         print(f"Warning: could not read {cfg_path}: {e}")
         return []
+    weights = cfg.get("series_weights", {})
+    pools = []
+    for s in cfg.get("series", []):
+        terms = list(dict.fromkeys(str(t).strip() for t in s.get("search_terms", []) if str(t).strip()))
+        if terms:
+            pools.append([float(weights.get(s.get("id"), 1)), terms])
+    quota = {i: min(len(t), 2) for i, (_, t) in enumerate(pools)}
+    total_w = sum(w for w, _ in pools) or 1.0
+    while sum(quota.values()) < cap:                     # hand the rest out by weight
+        open_ = [i for i, (_, t) in enumerate(pools) if quota[i] < len(t)]
+        if not open_:
+            break
+        i = max(open_, key=lambda j: pools[j][0] / total_w * cap - quota[j])
+        quota[i] += 1
+    out: list[str] = []
+    for i, (_, terms) in enumerate(pools):
+        out += [t for t in terms[:quota[i]] if t not in out]
+    return out[:cap]
 
 
 def update_performance(client, now_utc: datetime, data_dir: Path) -> None:

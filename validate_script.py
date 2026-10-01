@@ -172,6 +172,9 @@ def main():
             has_fallback = bool(shot.get("fallback") and str(shot.get("fallback")).strip())
             if not has_search and not has_fallback:
                 err.append(f"line {i+1}: shot must have at least 'search' or 'fallback'")
+            elif has_search and len(str(shot.get("search")).split()) < 2:
+                warn.append(f"line {i+1}: shot.search '{shot.get('search')}' is one word; name the character AND the "
+                            f"action or event (e.g. 'Zoro Sommers steel heart')")
 
         for name, pattern in BANNED_AI_PATTERNS:
             if re.search(pattern, text, re.IGNORECASE):
@@ -184,6 +187,16 @@ def main():
             err.append(f"{fmt} lines count {n_lines} outside allowed range [{limits['min_lines']}, {limits['max_lines']}]")
         if not (limits["min_words"] <= total_words <= limits["max_words"]):
             err.append(f"{fmt} words count {total_words} outside allowed range [{limits['min_words']}, {limits['max_words']}]")
+
+    # Picture pool: wiki articles named in "pages" or linked in "sources"
+    pages = p.get("pages", [])
+    if pages is not None and (not isinstance(pages, list) or not all(isinstance(x, str) and x.strip() for x in pages)):
+        err.append("pages must be a list of wiki article titles (strings)")
+    else:
+        wiki_links = [u for u in p.get("sources", []) if isinstance(u, str) and str(p.get("wiki", "")) in u and "/wiki/" in u]
+        if len(pages or []) + len(wiki_links) < 2:
+            warn.append("fewer than 2 wiki articles in 'pages' + wiki 'sources'; add 2-5 specific article titles to "
+                        "'pages' so the renderer has on-topic pictures (see WRITER.md section 7)")
 
     # 3. Title check
     title = str(p.get("title", ""))

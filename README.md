@@ -2,7 +2,7 @@
 
 An automated YouTube channel producing high-retention anime theory, breakdown, and "What If" videos covering **One Piece**, **Naruto / Boruto**, and **Jujutsu Kaisen**.
 
-The channel publishes roughly **6 vertical Shorts per day** alongside **long-form breakdown videos 3 times a week** (Monday, Wednesday, Friday).
+The channel publishes roughly **7 vertical Shorts per day** alongside **long-form breakdown videos 3 times a week** (Monday, Wednesday, Friday).
 
 ---
 
@@ -12,7 +12,7 @@ The channel publishes roughly **6 vertical Shorts per day** alongside **long-for
 2. **Merging & Queuing**: The `render.yml` workflow runs on GitHub Actions, merging incoming script branches into `main` and processing queued scripts in chronological order.
 3. **Audio & Visual Pipeline**:
    - `tts.py` generates speech with word-level timestamps using Kokoro TTS.
-   - `visuals.py` fetches relevant high-resolution manga panels and anime stills.
+   - `visuals.py` builds a picture pool from the wiki articles the script is about and ranks files against each line; `framing.py` crops them to fill the vertical frame.
    - `video.py` renders the clips, animated subtitles, audio sidechain ducking, and sound effects via FFmpeg.
 4. **Scheduled Upload**: `upload.py` uploads the finished video to YouTube, assigns it to the series playlist, and schedules it for the next free publish slot in `channel.json`. The script's discussion question is posted as the first comment once the video goes public (the 3-hourly run does this).
 5. **Alerts & Archive**: After each upload, ntfy sends your phone the title, the scheduled time (IST) and the YouTube Studio link, and the script moves to `scripts/done/<id>.json`.
@@ -22,10 +22,10 @@ The channel publishes roughly **6 vertical Shorts per day** alongside **long-for
 
 ## Visuals, Voice & Editing
 
-- **Visual Sourcing**: Visuals are fetched automatically by `visuals.py` from public Fandom MediaWiki APIs (One Piece, Naruto, and Jujutsu Kaisen wikis). We download authentic manga panels and anime screenshots, filtered to reject low-res icons, logos, or merchandise photos. AI image generation (`images.py`) is reserved strictly as a last-resort fallback. Visuals are shown briefly under commentary—never pirated episode footage.
+- **Visual Sourcing**: `visuals.py` pulls every image on the wiki articles in the script's `pages` (and its wiki `sources`) from the public Fandom MediaWiki APIs, adds a file search on each line's `shot.search`, and ranks files by how many words their descriptive names share with the search words and the spoken line ("Zoro Stabs Sommers Chest.png"). Manga panels and anime screenshots only: icons, logos, merchandise, figure lines and game renders are filtered out. Line 1 opens on the most colourful close-up match. AI images (`images.py`) are a last resort when the wiki has nothing. Stills only, shown under commentary; never episode footage.
 - **Voice Narration**: Voiced by Kokoro TTS using a custom weighted blend (`voice_blend` in `channel.json`, defaulting to 65% `am_michael` + 35% `am_fenrir`) running locally on CPU.
 - **Dynamic Editing**:
-  - **Shorts**: Fast cuts on every narration line, punch zooms, camera shakes, subtle flash transitions, procedural sound effects (whoosh, hit, riser), top-screen hook text (~2.5s), and word-by-word ASS animated captions with the active word highlighted in yellow (`#FFD21E`). Endings loop naturally into the hook.
+  - **Shorts**: Full-screen pictures (content-aware 9:16 crop, no blurred bars) that change about every second: each line is split into 1-4 beats on word boundaries, each beat a different matching picture (or a punch-in recut when only one matches), with push-in / pull-out / drift motion. Plus punch zooms, camera shakes, flashes, procedural sound effects (whoosh, hit, riser), top-screen hook text (~2.5s), and two-word ASS captions with the active word highlighted in yellow (`#FFD21E`). Endings loop naturally into the hook. This matches what the top theory Shorts in the niche do (a cut every 0.8-1.2 s, full-bleed art).
   - **Long Videos**: Cinematic 0.35s crossfades between shots, chapter title cards, YouTube chapters in the description, an uploaded caption track, and a 1280x720 thumbnail with 2-4 big words.
 
 ---

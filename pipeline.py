@@ -14,6 +14,7 @@ from dotenv import load_dotenv
 import requests
 
 load_dotenv()
+import images
 import tts
 import upload
 import video
@@ -69,6 +70,85 @@ def find_related_long_url(related_id: str) -> str | None:
     return None
 
 
+BEAT = 1.0           # target seconds per picture in a Short; top theory Shorts cut every ~0.8-1.2 s
+
+
+def beat_cuts(seg: float, rel_words: list, n: int) -> list:
+    """Split a line of `seg` seconds into n beats; cuts land on word starts so a picture changes with the words.
+    Returns the n+1 boundaries in seconds from the line start (fewer beats if the line is too short)."""
+    cuts = [0.0]
+    starts = [w[0] for w in rel_words]
+    for k in range(1, n):
+        target = seg * k / n
+        snap = min(starts, key=lambda s: abs(s - target)) if starts else target
+        if abs(snap - target) > seg / (2 * n):
+            snap = target
+        if snap - cuts[-1] >= 0.6 and seg - snap >= 0.6:
+            cuts.append(snap)
+    return cuts + [seg]
+
+
+def short_clips(script, lines, segs, line_starts, line_words_rel, work, seed) -> list:
+    """Shorts: 1-4 full-screen pictures per line, each picked for that line from the wiki pages the Short is
+    about (visuals.rank), cut on word boundaries, with every clip's length laid on one 30 fps frame grid so
+    hundreds of cuts never drift from the voice."""
+    wiki = script.get("wiki", "onepiece.fandom.com")
+    pool = {}
+    pages = visuals.script_pages(script)
+    for page in pages:
+        pool.update(visuals.page_images(wiki, page))
+    print(f"  image pool: {len(pool)} files from {len(pages)} wiki pages", flush=True)
+    used, clips, last_img, k = visuals.Picks(), [], None, 0
+    used_log, seen_log, missing = used.order, [], 0
+    for i, line in enumerate(lines):
+        shot = line.get("shot", {})
+        seg = segs[i]
+        n = max(1, min(4, round(seg / BEAT)))
+        paths = [os.path.join(work, "img", f"{i:04d}_{b}.jpg") for b in range(n)]
+        imgs = [p for p in paths if os.path.exists(p) and os.path.getsize(p) > 5000]
+        fresh = not imgs
+        if not imgs:
+            if i == 0 and not shot.get("image") and visuals.pick_hook(shot, line.get("text", ""), wiki, pool, used,
+                                                                      paths[0]):
+                imgs = [paths[0]] + visuals.pick(dict(shot, image=None), line.get("text", ""), wiki, pool, used,
+                                                 n - 1, paths[1:])
+            else:
+                imgs = visuals.pick(shot, line.get("text", ""), wiki, pool, used, n, paths)
+        if not imgs and shot.get("fallback"):
+            try:
+                images.generate(f"{shot['fallback']}, {visuals.ANIME_STYLE}", paths[0], seed + i, 768, 1344)
+                imgs = [paths[0]]
+            except Exception as e:
+                print(f"  line {i}: AI fallback failed ({e})", flush=True)
+        if not imgs:
+            if not last_img:
+                last_img = paths[0]
+                video.blank_image(last_img, "short")
+            print(f"  line {i}: no image found, reusing the previous one", flush=True)
+            imgs = [last_img]
+            missing += 1
+        if fresh and len(used_log) > len(seen_log):
+            print(f"  line {i}: " + " | ".join(t[5:] for t in used_log[len(seen_log):]), flush=True)
+            seen_log[:] = used_log
+        last_img = imgs[-1]
+        tight = [False] * len(imgs)
+        if len(imgs) < n:                                  # not enough matching pictures: punch in on the last one
+            imgs, tight = imgs + [imgs[-1]], tight + [True]
+        cuts = beat_cuts(seg, line_words_rel[i], len(imgs))
+        for b in range(len(cuts) - 1):
+            f0 = round((line_starts[i] + cuts[b]) * video.FPS)
+            f1 = round((line_starts[i] + cuts[b + 1]) * video.FPS)
+            clip = os.path.join(work, "clips", f"{i:04d}_{b}.mp4")
+            if not os.path.exists(clip):
+                video.beat_clip(imgs[b], f1 - f0, clip, k, line.get("fx", "none") if b == 0 else "none", tight[b])
+            clips.append(clip)
+            k += 1
+    print(f"  {len(clips)} cuts, {sum(segs) / max(1, len(clips)):.2f} s per picture", flush=True)
+    if missing > len(lines) / 2:                       # wiki and AI both down: retry on the next run, don't publish
+        raise RuntimeError(f"no picture for {missing} of {len(lines)} lines (wiki or image backends unreachable)")
+    return clips
+
+
 def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False) -> str:
     """Execute rendering pipeline for a single script file."""
     # 1. Load script + channel.json; setup work dir
@@ -109,6 +189,7 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
     padded_wavs = []
     segs = []
     line_starts = []
+    line_words_rel = []
     words = []
     chapter_marks = []
     t = 0.0
@@ -141,6 +222,7 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
         if not os.path.exists(pw_path):
             video.pad_audio(wav_path, seg, pw_path)
 
+        line_words_rel.append(line_words)
         for w_start, w_end, w_text in line_words:
             words.append((w_start + t, w_end + t, w_text))
 
@@ -159,7 +241,9 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
     used_images = set()
     clips = []
     last_img = None
-    for i, line in enumerate(lines):
+    if fmt == "short":
+        clips = short_clips(script, lines, segs, line_starts, line_words_rel, work, seed)
+    for i, line in enumerate(lines if fmt == "long" else []):
         img_path = os.path.join(work, "img", f"{i:04d}.jpg")
         clip_path = os.path.join(work, "clips", f"{i:04d}.mp4")
         shot = line.get("shot", {})

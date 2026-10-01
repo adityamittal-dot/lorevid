@@ -98,6 +98,52 @@ def shot_clip(img, seconds, out, i, fmt, fx):
          "-pix_fmt", "yuv420p", "-an", out])
 
 
+def beat_clip(img, frames, out, k, fx="none", tight=False):
+    """Short beat: the still fills the whole 1080x1920 frame (smart 9:16 crop, no blurred bars) and moves:
+    push-in, pull-out or a slow drift, rotating by k. fx works as in shot_clip. Exactly `frames` frames.
+    tight: a punch-in recut of the same picture (70% of the crop, upper middle) so a line never holds one frame."""
+    import framing
+    os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
+    vw, vh = W["short"], H["short"]
+    n = max(2, int(frames))
+    with Image.open(img) as src:
+        im = src.convert("RGB")
+    canvas = os.path.splitext(out)[0] + ".canvas.jpg"
+    cw, ch = vw * 3 // 2, vh * 3 // 2                     # 1.5x canvas keeps zoompan smooth without 4K cost
+    box = framing.crop_box(im)
+    if tight:
+        x0, y0, x1, y1 = box
+        bw, bh = (x1 - x0) * 0.7, (y1 - y0) * 0.7
+        cx, cy = (x0 + x1) / 2, y0 + (y1 - y0) * 0.42
+        box = (int(cx - bw / 2), int(max(y0, cy - bh / 2)), int(cx + bw / 2), int(max(y0, cy - bh / 2) + bh))
+    im.crop(box).resize((cw, ch), Image.LANCZOS).filter(
+        ImageFilter.UnsharpMask(radius=2, percent=60, threshold=3)).save(canvas, "JPEG", quality=93)
+    if fx == "zoom":                                      # punch in hard on the first frames, then keep creeping
+        z = f"if(lt(on,8),1.22-0.12*on/8,1.10+0.05*on/{n})"
+        x, y = "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"
+    else:
+        z, x, y = [
+            (f"1.0+0.10*on/{n}", "iw/2-(iw/zoom/2)", "ih*0.42-(ih/zoom*0.42)"),              # push in
+            (f"1.12-0.10*on/{n}", "iw/2-(iw/zoom/2)", "ih/2-(ih/zoom/2)"),                   # pull out
+            ("1.10", f"(iw-iw/zoom)*(0.15+0.7*on/{n})", "ih/2-(ih/zoom/2)"),                 # drift across
+        ][k % 3]
+    post = ""
+    if fx == "shake":
+        post = (f",scale={int(vw * 1.06) // 2 * 2}:{int(vh * 1.06) // 2 * 2},crop={vw}:{vh}:"
+                f"x='(in_w-out_w)/2+22*max(0,1-t/0.35)*sin(2*PI*17*t)':"
+                f"y='(in_h-out_h)/2+16*max(0,1-t/0.35)*cos(2*PI*21*t)'")
+    elif fx == "flash":
+        post = ",fade=t=in:st=0:d=0.18:color=white"
+    vf = (f"zoompan=z='{z}':x='{x}':y='{y}':d={n}:s={vw}x{vh}:fps={FPS},"
+          f"eq=contrast=1.05:saturation=1.10{post},format=yuv420p")
+    run(["ffmpeg", "-y", "-i", canvas, "-vf", vf, "-frames:v", str(n), "-c:v", "libx264", "-preset", "veryfast",
+         "-crf", "18", "-pix_fmt", "yuv420p", "-r", str(FPS), "-an", out])
+    try:
+        os.remove(canvas)
+    except OSError:
+        pass
+
+
 def sfx(kind, out):
     if os.path.exists(out) and os.path.getsize(out) > 100:
         return out
@@ -175,7 +221,7 @@ def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
     ]
 
     if is_short:
-        lines.append("Style: Default,Anton,104,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,6,2,2,40,40,730,1")
+        lines.append("Style: Default,Anton,116,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,3,2,40,40,730,1")
         lines.append("Style: Hook,Anton,112,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,3,10,0,8,40,40,300,1")
     else:
         lines.append("Style: Default,Anton,58,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,60,60,130,1")
@@ -205,7 +251,7 @@ def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
                 prev_s, prev_e, prev_t = curr[-1]
                 gap = s - prev_e
                 punct = any(prev_t.endswith(p) for p in [".", "!", "?", ",", ";", ":", "—", "-"])
-                if len(curr) >= 3 or gap > 0.25 or punct:
+                if len(curr) >= 2 or gap > 0.25 or punct:
                     chunks.append(curr)
                     curr = []
             curr.append(w_item)
@@ -385,9 +431,9 @@ def render(clips, segs, narration_wav, out, fmt, ass=None, music=None, sfx_event
     if len(tracks_to_mix) > 1:
         mix_inputs = "".join(tracks_to_mix)
         fc_parts.append(f"{mix_inputs}amix=inputs={len(tracks_to_mix)}:duration=first:normalize=0[amix]")
-        fc_parts.append(f"[amix]loudnorm=I={target_i}:TP=-1.5,atrim=0:{total_dur:.3f},asetpts=PTS-STARTPTS[aout]")
+        fc_parts.append(f"[amix]loudnorm=I={target_i}:TP=-1.5,aresample=48000,atrim=0:{total_dur:.3f},asetpts=PTS-STARTPTS[aout]")
     else:
-        fc_parts.append(f"{tracks_to_mix[0]}loudnorm=I={target_i}:TP=-1.5,atrim=0:{total_dur:.3f},asetpts=PTS-STARTPTS[aout]")
+        fc_parts.append(f"{tracks_to_mix[0]}loudnorm=I={target_i}:TP=-1.5,aresample=48000,atrim=0:{total_dur:.3f},asetpts=PTS-STARTPTS[aout]")
 
     cmd.extend([
         "-filter_complex", ";".join(fc_parts),

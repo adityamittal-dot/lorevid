@@ -22,7 +22,14 @@ Skip any ID already existing in `scripts/queue/` or `scripts/done/`. Never overw
 
 ## 2. Setup, Context and Performance Data
 
-Setup once per session: `pip install -q requests pillow` (needed by `visuals.py`).
+Setup once per session: `pip install -q requests pillow numpy` (needed by `validate_script.py` and the optional `visuals.py` checks).
+
+**Network reality (read this first).** The cloud session's egress proxy blocks the fandom wikis, Reddit and most news sites
+(`EGRESS_BLOCKED` / 403). WebSearch works. This is the normal state, not an error:
+- **Never end a session without pushing scripts because a page is blocked.** A session that pushes nothing costs the channel
+  2-3 Shorts (it happened on 2026-09-29 and twice on 2026-09-30). Research through WebSearch instead (section 4).
+- **You do not pick images.** The render pipeline (GitHub Actions, which can reach the wikis) chooses and crops every picture
+  from your `pages` and `shot.search` words (section 7). `visuals.py` from this session will print "no usable images"; ignore it.
 
 Inspect the repository before selecting topics:
 1. `channel.json`: note series list, voice blends, long days, and publish configuration.
@@ -77,7 +84,12 @@ Every factual claim (chapter numbers, names, events, powers) must be fact-checke
 - Check top weekly threads on r/OnePiece, r/Boruto, and r/JuJutsuKaisen for debates, community consensus, and sharp talking points.
 - Check winning YouTube theory titles in the niche this week.
 - Verify every named ability, chapter/episode number, family connection, and canonical timeline event.
-- Keep at least 3 genuine source URLs actually visited during the session.
+- Keep at least 3 genuine source URLs. When a page is blocked, a URL counts if WebSearch returned it and its result
+  summary supports the claim. Cross-check every fact across two search results; drop any claim you can't confirm.
+  Never invent a URL. `facts_verified: true` means "confirmed by search results", which is the bar.
+- Also note the **wiki article titles** your Short is about (they appear in WebSearch results as
+  `https://<wiki>/wiki/<Title>`): the character pages, the fight page (`Satoru Gojo vs. Sukuna`), the arc page
+  (`Elbaph Arc`), the technique page (`Malevolent Shrine`). They go in `pages`.
 
 ---
 
@@ -100,6 +112,7 @@ Every script must match this schema exactly. `examples/short.json` is a complete
   "music_mood": "hype",
   "comment": "question posted as the first comment to spark replies",
   "related_long": null,
+  "pages": ["Roronoa Zoro", "Shepherd Sommers", "Elbaph Arc"],
   "lines": [
     {
       "text": "narration, 3-24 words, written for the ear",
@@ -127,6 +140,9 @@ Every script must match this schema exactly. `examples/short.json` is a complete
 - `related_long`: string ID (e.g. `"2026-09-28-L"`) for shorts derived from a long video, else `null`.
 - `chapters`: for long videos, at least 3 chapters, first line must be 0, line numbers strictly increasing; for shorts, use `[]`.
 - `thumbnail`: required for long videos; for shorts, use `null`.
+- `pages`: 2-5 exact wiki article titles (spaces, not underscores) the Short is about. Every image on those articles
+  becomes the Short's picture pool, so pick the most specific ones: fight and event pages beat character pages,
+  and character pages beat arc pages. Wiki URLs in `sources` are added automatically.
 
 ---
 
@@ -143,7 +159,7 @@ Every script must match this schema exactly. `examples/short.json` is a complete
 - **Infinite Loop**: The final line must flow straight back into line 1 syntactically or conceptually. Rewatches multiply reach.
   Example: line 1 "Mihawk didn't train Zoro to beat him. He trained him to kill a god." ... last line
   "Because Mihawk didn't train Zoro to beat him..." (the viewer hears line 1 finish the sentence).
-- **Visual Pace**: Every line is one breath: 3-18 words, hard maximum 24 words. Visuals cut on every line (1.5-4 s per shot).
+- **Visual Pace**: Every line is one breath: 3-18 words, hard maximum 24 words. The renderer cuts to a new picture about every second within each line, so every line needs a specific `shot.search`.
 - **Human Voice**: Use contractions, first-person thoughts ("I think", "here is what nobody noticed"), rhetorical questions, and varied sentence lengths. No lists read aloud, no hedging stacks, no corporate words.
 - **Banned Words (Validator rejects these)**: `delve`, `tapestry`, `testament`, `embark`, `realm`, `unleash`, `in this video`, `let's dive`, `buckle up`, `little did`, `without further ado`, `journey`, `game-changer`.
 - **Numbers & Symbols**: Numbers as digits are fine ("chapter 1194"). Avoid symbols like `%`, `&`, `/` in narration; spell them out.
@@ -203,20 +219,29 @@ Our voice is synthetic, and fans scroll straight past AI-voice slop. The only wa
 - **Hashtags**: 3-5 tags, most specific first (`["#zoro", "#onepiece", "#anime"]`).
 - **Tags**: 8-15 realistic search phrases (e.g. `"one piece theory"`, `"zoro conqueror's haki"`, `"one piece 1194"`).
 
-### Visual Sourcing (visuals.py)
-For every line, select an exact wiki image:
-1. Search wiki files via CLI:
-   `python visuals.py search <wiki_host> "<search words>" -n 15`
-2. Check candidate file:
-   `python visuals.py check <wiki_host> "File:<filename>"`
-3. Fill `shot`:
-   - `image`: exact title from wiki (e.g. `File:Zoro Fights Mihawk.png`).
-   - `search`: 2-4 clean backup keywords.
-   - `fallback`: anime-style prompt describing the scene without character or real names.
-4. **Acceptable Wiki Images**: PNG/JPG/JPEG/WEBP, width and height >= 400. Never use logos, icons, merchandise, figures, dioramas, toys, cards, stickers, statues, dub covers, SVGs, GIFs, volume covers, or posters.
-5. **Usage Limits**: Reuse any single image at most twice per Short. Line 1 must have the most striking image.
+### Visual Sourcing (how the pictures get chosen)
+Top theory Shorts in this niche (Akagami Decode, Peak Anime: 100k-500k views each) fill the whole vertical frame and
+cut to a new, on-topic picture every ~1 second: the exact character, technique or manga panel the voice is naming.
+The render pipeline does this automatically:
+- Each line is split into 1-4 beats on word boundaries, about one picture per second.
+- Pictures come from the wiki articles in `pages`, plus a wiki file search with the line's `shot.search` words.
+  Wiki file names describe the event ("Zoro Stabs Sommers Chest.png", "Sukuna firing Dismantle at Gojo.png"),
+  and each file is scored by how many of its words match `shot.search` (x3) and the spoken line (x1).
+- Every picture gets a content-aware 9:16 crop with no blurred bars, and slowly pushes in, pulls out or drifts.
+  Recent-chapter events (Elbaph, Shinjuku) are mostly manga panels; anime events are screenshots.
+- The first picture is the most colourful, close-up match for line 1. AI images are used only when the wiki has nothing.
+
+So your job is the words:
+1. **`pages`**: 2-5 specific articles (see section 5).
+2. **`shot.search`**: name the character AND the action, object or event, the way wiki files are named:
+   `Zoro Sommers steel heart`, `Gojo Unlimited Void`, `Kakashi Kamui Pain`, `Sukuna Dismantle Mahoraga`.
+   Never a bare name (`Zoro`): that matches hundreds of unrelated files. The validator warns on one-word searches.
+3. **Line 1** must name the main character in `shot.search`, so the opening frame is a close-up of them.
+4. `shot.image` is optional. Set it only if you are sure of an exact file title (the validator cannot check it here).
+5. `shot.fallback`: anime-style prompt describing the scene without character or real names (used only when the wiki
+   has no match at all).
 6. **Long Thumbnail**:
-   - `image`: emotional close-up with intense expression.
+   - `image` / `search`: emotional close-up with intense expression.
    - `text`: 2-4 punchy words different from the title.
    - `highlight`: one word colored yellow.
 
@@ -225,7 +250,7 @@ For every line, select an exact wiki image:
 ## 8. Evidence Notes & Self-Review
 
 Write `notes/<id>.md` for each script with these required sections:
-- `## Sources`: At least 3 genuine URLs opened and verified during research.
+- `## Sources`: At least 3 genuine URLs, opened or surfaced by WebSearch with a summary that supports the claim.
 - `## Angle`: 2-3 lines explaining why this topic and angle win right now.
 - `## Self-review`: Go through the Cream Quality Bar point by point and note how this Short passes each one. Then read the narration aloud as a swiping viewer. Fix any line where the hook fails to grab, words sound written instead of spoken, facts lack verification, the loop stumbles, or the title overpromises. Do not assign numeric scores.
 

@@ -25,6 +25,11 @@
  "music_mood": "suspense",
  "comment": "Zoro vs Imu: does Zoro land the final cut or does Luffy? Pick one.",
  "related_long": null,
+ "pages": [
+  "Roronoa Zoro",
+  "Dracule Mihawk",
+  "Imu"
+ ],
  "lines": [
   {
    "text": "Mihawk didn't train Zoro to beat him. He trained him to kill a god.",
@@ -42,7 +47,7 @@
    "fx": "none",
    "shot": {
     "image": "File:Dracule Mihawk One day.png",
-    "search": "Mihawk",
+    "search": "Mihawk Zoro Kuraigana",
     "fallback": "swordsman with hawk eyes"
    }
   },
@@ -71,7 +76,7 @@
    "fx": "none",
    "shot": {
     "image": "File:Dracule Mihawk Anime Infobox.png",
-    "search": "Mihawk infobox",
+    "search": "Mihawk greatest swordsman",
     "fallback": "swordsman portrait"
    }
   },
@@ -81,7 +86,7 @@
    "fx": "none",
    "shot": {
     "image": "File:Imu Anime Concept Art.png",
-    "search": "Imu",
+    "search": "Imu Mary Geoise throne",
     "fallback": "shadowy ruler on a throne"
    }
   },
@@ -111,7 +116,7 @@
    "fx": "none",
    "shot": {
     "image": "File:Dracule Mihawk at Age 19.png",
-    "search": "Mihawk young",
+    "search": "Mihawk Zoro training Kuraigana",
     "fallback": "young swordsman"
    }
   },
