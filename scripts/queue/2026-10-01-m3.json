@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-01-m3",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Hidden detail: Gaban's line in 1194 makes Zoro the third pupil in a chain of Roger Pirates teachers",
+ "title": "Gaban's Quiet Gift To Zoro (One Piece 1194)",
+ "description": "Everyone is talking about Mihawk in chapter 1194, but Gaban's few words did just as much. Here's why that matters for Zoro's future.",
+ "hashtags": [
+  "#zoro",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "zoro gaban",
+  "zoro supreme king haki",
+  "one piece 1194",
+  "scopper gaban",
+  "roger pirates",
+  "zoro conqueror's haki",
+  "elbaf arc"
+ ],
+ "hook_text": "NOBODY CREDITS GABAN",
+ "music_mood": "emotional",
+ "comment": "Who shaped Zoro more, Mihawk or Gaban? Pick one.",
+ "related_long": null,
+ "lines": [
+  {
+   "text": "Everyone credits Mihawk for Zoro's breakthrough. Nobody talks about Gaban.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Scopper Gaban",
+    "fallback": "old pirate with a scar"
+   }
+  },
+  {
+   "text": "Chapter 1194. Zoro can't control his Supreme King Haki, and Sommers keeps regenerating.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Zoro Sommers",
+    "fallback": "swordsman against an immortal knight"
+   }
+  },
+  {
+   "text": "Then he remembers Mihawk's lesson.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dracule Mihawk",
+    "fallback": "hawk eyed swordsman"
+   }
+  },
+  {
+   "text": "But the real shift is Gaban's line.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban Zoro",
+    "fallback": "old pirate talking to a swordsman"
+   }
+  },
+  {
+   "text": "Gaban admits he never knew he had Supreme King Haki himself.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban",
+    "fallback": "old pirate looking down"
+   }
+  },
+  {
+   "text": "Think about that. A Roger Pirate carried it his whole life and never knew.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger Pirates",
+    "fallback": "old pirate crew on a ship"
+   }
+  },
+  {
+   "text": "Zoro didn't just get a lesson. He got the proof you can lose it by never believing it.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Zoro Haki",
+    "fallback": "green haired swordsman with dark aura"
+   }
+  },
+  {
+   "text": "Sure, Mihawk gets the credit because he's the famous teacher.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk Zoro",
+    "fallback": "swordsman teaching a student"
+   }
+  },
+  {
+   "text": "But Mihawk gave him the technique. Gaban gave him the permission.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Gaban",
+    "fallback": "two fighters nodding to each other"
+   }
+  },
+  {
+   "text": "And that's the part I think Oda planted on purpose.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Eiichiro Oda Zoro",
+    "fallback": "swordsman looking at a stormy sky"
+   }
+  },
+  {
+   "text": "Here is my read: Zoro won because two old legends handed him what they never used.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro",
+    "fallback": "swordsman coating swords in black lightning"
+   }
+  },
+  {
+   "text": "Everyone credits Mihawk for Zoro's breakthrough...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk",
+    "fallback": "swordsman at sunset"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Chapter_1194",
+  "https://onepiece.fandom.com/wiki/Scopper_Gaban",
+  "https://onepiece.fandom.com/wiki/Silvers_Rayleigh"
+ ],
+ "self_check": {
+  "hook": "line 1 names the character and makes a claim",
+  "loop": "last line finishes line 1",
+  "facts_verified": true
+ }
+}
