@@ -1,0 +1,161 @@
+{
+ "id": "2026-10-01-b1",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Sukuna's barrierless Malevolent Shrine is why the domain clash with Gojo tilted his way",
+ "title": "Why Gojo's Domain Broke Before Sukuna's Did",
+ "description": "Gojo's Unlimited Void is the strongest domain in Jujutsu Kaisen, so why did it shatter first? The answer is a design choice in Sukuna's Malevolent Shrine that most fans skip past. Do you think Gojo was ever going to win that clash?",
+ "hashtags": [
+  "#gojo",
+  "#sukuna",
+  "#jujutsukaisen",
+  "#anime"
+ ],
+ "tags": [
+  "jujutsu kaisen theory",
+  "gojo vs sukuna",
+  "unlimited void",
+  "malevolent shrine",
+  "sukuna domain expansion",
+  "gojo domain",
+  "jjk domain clash",
+  "shinjuku showdown"
+ ],
+ "hook_text": "WHY GOJO'S DOMAIN BROKE",
+ "music_mood": "suspense",
+ "comment": "Gojo vs Sukuna: was the domain clash decided by Sukuna's barrierless trick, or by Gojo's exhaustion? Pick one.",
+ "related_long": null,
+ "lines": [
+  {
+   "text": "Gojo's Unlimited Void should have won. So why did it break first?",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Gojo Unlimited Void",
+    "fallback": "white haired sorcerer in a starry void"
+   }
+  },
+  {
+   "text": "People blame power, but I think it's design.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Gojo",
+    "fallback": "two sorcerers facing off in ruined city"
+   }
+  },
+  {
+   "text": "A normal domain is a closed barrier, a little prison made of cursed energy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Unlimited Void barrier",
+    "fallback": "glowing sphere barrier in a city"
+   }
+  },
+  {
+   "text": "And that barrier is a weakness. You can crack it from outside.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Domain barrier",
+    "fallback": "cracking glowing sphere"
+   }
+  },
+  {
+   "text": "Sukuna's Malevolent Shrine has no barrier at all.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Malevolent Shrine",
+    "fallback": "dark shrine with skull ornaments"
+   }
+  },
+  {
+   "text": "He opens it right in the open air, so there is nothing to crack.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Malevolent Shrine",
+    "fallback": "demon king standing before a shrine"
+   }
+  },
+  {
+   "text": "Here's the detail most people forget.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna",
+    "fallback": "four armed demon king grinning"
+   }
+  },
+  {
+   "text": "During the clash, Sukuna shrank the Shrine's range to squeeze more power into every Cleave and Dismantle.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Sukuna Dismantle",
+    "fallback": "slashes tearing through the ground"
+   }
+  },
+  {
+   "text": "Gojo had to keep his whole barrier standing. Sukuna only had to keep cutting.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Gojo Sukuna domain clash",
+    "fallback": "two domains clashing over a city"
+   }
+  },
+  {
+   "text": "Yes, the Shrine collapsed at the end too. People say that proves they were equal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shrine collapse",
+    "fallback": "shrine crumbling to dust"
+   }
+  },
+  {
+   "text": "But Gojo's barrier shattered first, and that's what decided the next move.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo domain shatters",
+    "fallback": "shattering sphere of stars"
+   }
+  },
+  {
+   "text": "So the strongest domain lost to a domain with no walls.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Sukuna Shinjuku",
+    "fallback": "fallen white haired sorcerer"
+   }
+  },
+  {
+   "text": "Gojo's Unlimited Void should have won...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Unlimited Void",
+    "fallback": "white haired sorcerer in a starry void"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Malevolent_Shrine",
+  "https://jujutsu-kaisen.fandom.com/wiki/Unlimited_Void",
+  "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo_vs._Sukuna",
+  "https://gamerant.com/jujutsu-kaisen-how-sukuna-was-able-to-withstand-unlimited-void/"
+ ],
+ "self_check": {
+  "hook": "verdict question in line 1",
+  "loop": "last line repeats line 1 hook",
+  "facts_verified": true
+ }
+}
