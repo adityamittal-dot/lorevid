@@ -1,0 +1,150 @@
+{
+ "id": "2026-10-01-a1",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Boruto Two Blue Vortex 37: Sarada's kidnapping was Boruto's plan, and she adapts it when it breaks",
+ "title": "Sarada Planned Her Own Kidnapping (Boruto 37)",
+ "description": "In Boruto: Two Blue Vortex chapter 37, Sarada walks into Code's hands on purpose. Here's what the flashback shows, how the plan breaks, and why Koji's warning matters. Was Boruto right to trust her?",
+ "hashtags": [
+  "#boruto",
+  "#sarada",
+  "#anime"
+ ],
+ "tags": [
+  "boruto two blue vortex",
+  "boruto chapter 37",
+  "sarada uchiha",
+  "sarada kidnapped",
+  "flying raijin boruto",
+  "koji momoshiki",
+  "code boruto",
+  "boruto theory"
+ ],
+ "hook_text": "SHE PLANNED IT",
+ "music_mood": "suspense",
+ "comment": "Koji's warning: is saving Sarada worth risking Momoshiki's return, or should Boruto let her fend for herself?",
+ "related_long": null,
+ "lines": [
+  {
+   "text": "Sarada planned her own kidnapping in Boruto chapter 37.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sarada Uchiha",
+    "fallback": "girl with glasses and dark hair, determined"
+   }
+  },
+  {
+   "text": "Not a rescue gone wrong. A trap she walked into on purpose.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sarada Uchiha",
+    "fallback": "teen ninja girl in a dark hideout, tense, anime style"
+   }
+  },
+  {
+   "text": "Here's what the flashback in chapter 37 shows.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sarada Uchiha",
+    "fallback": "teen ninja girl in a dark hideout, tense, anime style"
+   }
+  },
+  {
+   "text": "Boruto has two ways into the shinju hideout: Code's claw marks, or his Flying Raijin.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Boruto Flying Raijin",
+    "fallback": "blond teen ninja teleporting in lightning"
+   }
+  },
+  {
+   "text": "But Flying Raijin needs symbols planted inside, and Boruto can't plant them himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sarada Uchiha",
+    "fallback": "teen ninja girl in a dark hideout, tense, anime style"
+   }
+  },
+  {
+   "text": "So he trusts Sarada to get taken, and to mark the place for him.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Boruto Sarada",
+    "fallback": "teen ninja girl and boy facing each other"
+   }
+  },
+  {
+   "text": "Then the plan breaks. Code removes the markers, and Hidari turns on her.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Code Hidari",
+    "fallback": "pale hooded villain and a masked fighter in a hideout"
+   }
+  },
+  {
+   "text": "Sarada doesn't panic. She works out how Flying Raijin finds her, and builds a new way.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sarada Uchiha Sharingan",
+    "fallback": "girl with red eyes thinking"
+   }
+  },
+  {
+   "text": "People say this chapter was just talking panels. I'd say it's her proving Boruto's trust right.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sarada Uchiha",
+    "fallback": "teen ninja girl in a dark hideout, tense, anime style"
+   }
+  },
+  {
+   "text": "And Koji warns that saving her could lead to a future where Momoshiki takes over.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Koji Kashin Momoshiki",
+    "fallback": "old scientist warning, dark celestial being behind him"
+   }
+  },
+  {
+   "text": "So here's my read. The rescue itself might be the real trap.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sarada Uchiha",
+    "fallback": "teen ninja girl in a dark hideout, tense, anime style"
+   }
+  },
+  {
+   "text": "Because Sarada planned her own kidnapping...",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sarada Uchiha",
+    "fallback": "girl with glasses, determined"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://www.soapcentral.com/anime/boruto-two-blue-vortex-chapter-37-momoshiki-s-return-sarada-s-clever-plan",
+  "https://doublesama.com/boruto-two-blue-vortex-chapter-37/",
+  "https://gamerant.com/boruto-two-blue-vortex-chapter-37-spoilers-release-date/"
+ ],
+ "self_check": {
+  "hook": "claim in line 1",
+  "loop": "last line completes line 1",
+  "facts_verified": true
+ }
+}
