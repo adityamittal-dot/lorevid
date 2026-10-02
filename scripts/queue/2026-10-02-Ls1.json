@@ -1,0 +1,156 @@
+{
+  "id": "2026-10-02-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Theory: Akainu won chapter 573 by attacking Ace's pride, not his strength",
+  "title": "Akainu Never Beat Ace, He Baited Him",
+  "description": "Akainu didn't win a fair fight in chapter 573. He insulted Whitebeard and Ace did the rest. The full What If is on the channel: what if Ace had kept running? Was it a trap or just Ace's pride?",
+  "hashtags": [
+    "#ace",
+    "#onepiece",
+    "#akainu"
+  ],
+  "tags": [
+    "akainu ace",
+    "ace death",
+    "one piece 573",
+    "marineford",
+    "akainu theory",
+    "one piece what if ace",
+    "whitebeard akainu",
+    "one piece ace"
+  ],
+  "hook_text": "AKAINU'S REAL WEAPON",
+  "music_mood": "suspense",
+  "comment": "Was Ace's death Akainu's trap, or just Ace being Ace? Pick one.",
+  "related_long": "2026-10-02-L",
+  "pages": [
+    "Portgas D. Ace",
+    "Sakazuki",
+    "Summit War of Marineford",
+    "Edward Newgate"
+  ],
+  "lines": [
+    {
+      "text": "Akainu didn't beat Ace in chapter 573. He baited him.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Ace Akainu Marineford",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Ace was free. He was running toward the ships with Luffy beside him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ace Luffy running Marineford",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Whitebeard had just ordered every man to live and return to the New World.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard final order Marineford",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Then Akainu called Whitebeard a failure who never beat Roger or became Pirate King.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Akainu insults Whitebeard",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Ace stopped. He turned around. That is the whole trap.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Ace turns back Akainu",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "People say that was just Ace's pride. And yes, that is the steelman.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Ace pride Whitebeard",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "But look at who Akainu picked. A magma user against a fire user.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Akainu magma Ace fire",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "He knew Ace's fire was the weaker element, and he knew exactly which insult would make Ace use it.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Akainu magma beats Mera Mera",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Then he went for Luffy, and Ace took the hit that was meant for his brother.",
+      "delivery": "slow",
+      "fx": "flash",
+      "shot": {
+        "search": "Ace shields Luffy Akainu",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "So Akainu never needed to out-fight Ace. He only needed one sentence.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Akainu Sakazuki Marineford",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "If Ace had ignored that insult, I think he lives, and Whitebeard's last order wins.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ace keeps running Whitebeard order",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "That is why I'll say it again: Akainu didn't beat Ace in chapter 573.",
+      "delivery": "slow",
+      "fx": "zoom",
+      "shot": {
+        "search": "Akainu Ace chapter 573",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_573",
+    "https://onepiece.fandom.com/wiki/Chapter_575",
+    "https://onepiece.fandom.com/wiki/Summit_War_of_Marineford"
+  ],
+  "self_check": {
+    "hook": "first line names the character and makes a claim",
+    "loop": "last line repeats line 1 so the loop restarts the claim",
+    "facts_verified": true
+  }
+}

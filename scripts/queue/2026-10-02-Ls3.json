@@ -1,0 +1,156 @@
+{
+  "id": "2026-10-02-Ls3",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Claim: the crew's scattering, not Ace's death, is what sent Luffy into two years of training",
+  "title": "Why Luffy Really Trained For Two Years",
+  "description": "Fans say Ace's death made Luffy stronger. I think the real trigger was the crew scattered at Sabaody. Here is my read, plus a full What If Ace Survived Marineford breakdown on the channel.",
+  "hashtags": [
+    "#luffy",
+    "#onepiece",
+    "#ace"
+  ],
+  "tags": [
+    "luffy training",
+    "luffy rayleigh",
+    "luffy after marineford",
+    "one piece timeskip",
+    "what if ace survived",
+    "luffy ace death",
+    "one piece theory",
+    "luffy sabaody"
+  ],
+  "hook_text": "NOT ACE'S DEATH",
+  "music_mood": "hype",
+  "comment": "What pushed Luffy harder: losing Ace or losing his crew? Pick one.",
+  "related_long": "2026-10-02-L",
+  "pages": [
+    "Monkey D. Luffy",
+    "Silvers Rayleigh",
+    "Portgas D. Ace",
+    "Bartholomew Kuma"
+  ],
+  "lines": [
+    {
+      "text": "Why did Luffy really train for two years after Marineford?",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy Rayleigh training",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Most fans say Ace's death. After chapter 575, Luffy was shattered.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy collapse Ace death",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Law operated on him, and he woke on Amazon Lily wanting to give up.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Amazon Lily Jinbe",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "That's the steelman, and it's strong. But look at what Luffy actually says.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Marineford resolve",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "He didn't just mourn Ace. He said he'd been too weak to protect anyone.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy too weak Marineford",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "That weakness had two faces: Ace dying, and his crew being sent away by Kuma.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Bartholomew Kuma Straw Hats scattered",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Rayleigh then trained him on Rusukaina for two years.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Luffy Rusukaina",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "But the thing that sent him there was the promise to his crew at Sabaody.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Straw Hats Sabaody",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "So take Ace's death out, and I think Luffy still trains. The crew scatter still happens.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Rayleigh training Ace alive",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "What changes is the weight he carries. Not the motive.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy New World",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "He'd be a happier Luffy, and maybe a more careless one.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy smiling Straw Hats",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "That's why I keep asking: why did Luffy really train for two years?",
+      "delivery": "slow",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy Rayleigh Straw Hats training",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_573",
+    "https://onepiece.fandom.com/wiki/Chapter_575",
+    "https://onepiece.fandom.com/wiki/Summit_War_of_Marineford"
+  ],
+  "self_check": {
+    "hook": "first line names the character and makes a claim",
+    "loop": "last line re-asks line 1",
+    "facts_verified": true
+  }
+}

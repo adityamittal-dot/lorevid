@@ -1,0 +1,156 @@
+{
+  "id": "2026-10-02-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Hidden detail: Sabo's memory and the Mera Mera no Mi both depend on Ace's death",
+  "title": "Sabo's Memory Came Back Because Ace Died",
+  "description": "Sabo only remembered his brothers because he read that Ace had died. And he only ate the Mera Mera no Mi because Ace's death freed it. What If Ace had lived? The full story is on the channel.",
+  "hashtags": [
+    "#sabo",
+    "#onepiece",
+    "#ace"
+  ],
+  "tags": [
+    "sabo memory",
+    "sabo ace",
+    "mera mera no mi",
+    "one piece what if ace survived",
+    "sabo dressrosa",
+    "one piece sabo luffy",
+    "ace death consequences",
+    "one piece theory"
+  ],
+  "hook_text": "SABO NEEDED ACE'S DEATH",
+  "music_mood": "emotional",
+  "comment": "If Ace had lived, would Sabo be better off, or lost forever? Pick one.",
+  "related_long": "2026-10-02-L",
+  "pages": [
+    "Sabo",
+    "Portgas D. Ace",
+    "Mera Mera no Mi",
+    "Monkey D. Luffy"
+  ],
+  "lines": [
+    {
+      "text": "Nobody talks about this: Sabo only remembered his brothers because Ace died.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sabo Ace sake brothers",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Years earlier, a Celestial Dragon shot down his ship and he lost his memory.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sabo ship shot down Celestial Dragon",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "He lived as a Revolutionary and had no idea he had brothers at all.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sabo Revolutionary Army",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Then he read the news: Whitebeard and Ace were dead at Marineford.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sabo newspaper Ace death",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "It hit him. He remembered the sake cups, the oath, and Luffy.",
+      "delivery": "slow",
+      "fx": "shake",
+      "shot": {
+        "search": "Sabo remembers oath",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Now the second link. When Ace died, the Mera Mera no Mi was reborn as a new fruit.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mera Mera no Mi new fruit",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "It ended up as the prize in the Dressrosa colosseum, and that is why Sabo showed up.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dressrosa Colosseum Sabo Mera Mera",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "He met Luffy there and ate the fruit that was Ace's.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Sabo Luffy Dressrosa reunion",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "So here's my read: if Ace lives, Sabo doesn't remember, and there's no prize.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sabo Ace alive Mera Mera",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "No colosseum entry, no reunion, and no flames in Sabo's hands.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sabo flames Dressrosa",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "People say a living Ace is simply better. But the story paid for him with this.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Ace Luffy Sabo brothers",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    },
+    {
+      "text": "Nobody talks about this: Sabo only remembered his brothers because Ace died.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Sabo remembered brothers Ace",
+        "fallback": "anime style dramatic pirate scene, no text"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_573",
+    "https://onepiece.fandom.com/wiki/Chapter_575",
+    "https://onepiece.fandom.com/wiki/Summit_War_of_Marineford"
+  ],
+  "self_check": {
+    "hook": "first line names the character and makes a claim",
+    "loop": "last line repeats line 1",
+    "facts_verified": true
+  }
+}
