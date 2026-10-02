@@ -152,5 +152,12 @@
     "hook": "first line names the character and makes a claim",
     "loop": "last line repeats line 1 so the loop restarts the claim",
     "facts_verified": true
+  },
+  "published": {
+    "video_id": "OJ0ii0hgkv4",
+    "publish_at": "2026-10-02T12:00:00Z",
+    "url": "https://youtu.be/OJ0ii0hgkv4",
+    "comment": "Was Ace's death Akainu's trap, or just Ace being Ace? Pick one.",
+    "comment_posted": false
   }
 }
