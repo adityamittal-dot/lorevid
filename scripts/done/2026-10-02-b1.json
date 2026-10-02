@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-02-b1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Mahito could reshape almost every soul except Yuji's, because Sukuna lives in it",
+  "title": "Why Mahito Could Never Touch Yuji's Soul",
+  "description": "Mahito's Idle Transfiguration worked on nearly everyone, so why not Yuji? Here's my read on the Sukuna detail behind it. Do you agree?",
+  "hashtags": [
+    "#jujutsukaisen",
+    "#mahito",
+    "#anime"
+  ],
+  "tags": [
+    "jujutsu kaisen theory",
+    "mahito idle transfiguration",
+    "why mahito couldn't transform yuji",
+    "yuji sukuna soul",
+    "jjk explained",
+    "mahito vs yuji",
+    "jjk mechanics",
+    "junpei yoshino"
+  ],
+  "hook_text": "MAHITO'S ONE BLIND SPOT",
+  "music_mood": "suspense",
+  "comment": "Was Mahito scared of Yuji, or just curious about him? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Mahito",
+    "Idle Transfiguration",
+    "Junpei Yoshino",
+    "Yuji Itadori"
+  ],
+  "lines": [
+    {
+      "text": "Mahito could rewrite almost anyone's soul. Yuji was the one he couldn't touch.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Mahito Idle Transfiguration Yuji",
+        "fallback": "pale patchwork curse reaching toward a teenage boy"
+      }
+    },
+    {
+      "text": "And I think that's exactly why he obsessed over him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mahito Yuji Itadori stare",
+        "fallback": "curse staring at a pink haired boy"
+      }
+    },
+    {
+      "text": "Idle Transfiguration works by touch. Mahito reshapes the soul, and the body follows.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mahito Idle Transfiguration hand soul",
+        "fallback": "curse spirit with hand on a glowing soul"
+      }
+    },
+    {
+      "text": "In episode 11, he does it to Junpei, a kid with no protection at all.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Junpei Yoshino Mahito transfigured",
+        "fallback": "tragic schoolboy twisted into a monster"
+      }
+    },
+    {
+      "text": "People say Yuji just has a tougher soul. But toughness isn't the rule. Shape is.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Yuji Itadori Mahito soul",
+        "fallback": "boy facing a curse in a dark corridor"
+      }
+    },
+    {
+      "text": "Here's the detail most fans forget.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Mahito Sukuna Yuji soul",
+        "fallback": "glowing soul with a shadow inside"
+      }
+    },
+    {
+      "text": "Sukuna lives inside Yuji, and Mahito can't reshape a soul the King of Curses already occupies.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Sukuna Yuji Itadori soul domain",
+        "fallback": "giant demon king looming inside a boy's soul"
+      }
+    },
+    {
+      "text": "That's my read, anyway, and it fits every scene they share.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mahito Yuji Shibuya",
+        "fallback": "curse and boy facing off in a ruined street"
+      }
+    },
+    {
+      "text": "Gojo and Sukuna were the only others on that short list.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Gojo Sukuna Mahito",
+        "fallback": "white haired sorcerer and king of curses"
+      }
+    },
+    {
+      "text": "So the curse that treated souls like clay found the one he could never mold.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Mahito defeated Yuji Black Flash",
+        "fallback": "patchwork curse defeated and fading"
+      }
+    },
+    {
+      "text": "Because Mahito could rewrite almost anyone's soul...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Mahito Idle Transfiguration Yuji",
+        "fallback": "pale curse with a cruel smile"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://jujutsu-kaisen.fandom.com/wiki/Mahito",
+    "https://jujutsu-kaisen.fandom.com/wiki/Episode_11",
+    "https://jujutsu-kaisen.fandom.com/wiki/Junpei_Yoshino",
+    "https://gamerant.com/jujutsu-kaisen-mahitos-idle-transfiguration-explained/"
+  ],
+  "self_check": {
+    "hook": "line 1 names Mahito and a contrarian claim",
+    "loop": "last line completes line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "Bwi4u3XzbMA",
+    "publish_at": "2026-10-03T00:30:00Z",
+    "url": "https://youtu.be/Bwi4u3XzbMA",
+    "comment": "Was Mahito scared of Yuji, or just curious about him? Pick one.",
+    "comment_posted": false
+  }
+}
