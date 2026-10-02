@@ -1,0 +1,148 @@
+{
+ "id": "2026-10-02-b2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Theory: Dorry and Brogy's hundred-year Little Garden duel foreshadows that only each other can stop them after Imu's Domi Reversi",
+ "title": "Dorry And Brogy's Hundred Year Duel Was Foreshadowing",
+ "description": "Dorry and Brogy fought to a draw for a hundred years at Little Garden. Here's my theory on why Oda turned both of them with Domi Reversi. Who wins that rematch?",
+ "hashtags": [
+  "#onepiece",
+  "#dorry",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "dorry and brogy",
+  "one piece elbaf",
+  "domi reversi",
+  "little garden",
+  "giant warrior pirates",
+  "one piece foreshadowing",
+  "imu theory"
+ ],
+ "hook_text": "THE DUEL WAS A SETUP",
+ "music_mood": "epic",
+ "comment": "Dorry and Brogy: do they snap out of it by fighting each other, or does someone else free them?",
+ "related_long": null,
+ "pages": [
+  "Dorry",
+  "Brogy",
+  "Little Garden Arc",
+  "Imu"
+ ],
+ "lines": [
+  {
+   "text": "Dorry and Brogy fought for a hundred years, and Oda never told us why that matters.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Dorry Brogy Little Garden duel",
+    "fallback": "two giant warriors dueling on a volcanic island"
+   }
+  },
+  {
+   "text": "I think Elbaf is where it finally pays off.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy Elbaph giants",
+    "fallback": "giant warrior captains on a snowy island"
+   }
+  },
+  {
+   "text": "At Little Garden, the two giants fought every time the volcano erupted.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Dorry Brogy Little Garden volcano",
+    "fallback": "giants clashing as a volcano erupts"
+   }
+  },
+  {
+   "text": "It started over a Sea King, and tens of thousands of duels all ended in a draw.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy Sea King argument",
+    "fallback": "two giants arguing over a dead sea monster"
+   }
+  },
+  {
+   "text": "So here's the setup: these two are each other's perfect equal.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy equal draw",
+    "fallback": "two giants of equal strength facing off"
+   }
+  },
+  {
+   "text": "Now look at Elbaf. Imu uses Domi Reversi on both of them.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Imu Domi Reversi Dorry Brogy",
+    "fallback": "dark circle flipping a giant into a demon"
+   }
+  },
+  {
+   "text": "People say Oda just wanted a nostalgia cameo. But he didn't turn one giant. He turned both.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy demon Domi Reversi",
+    "fallback": "two corrupted giants with glowing eyes"
+   }
+  },
+  {
+   "text": "Imu flips their personalities, but not the rivalry that built them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy Giant Warrior Pirates",
+    "fallback": "giant pirate captains side by side"
+   }
+  },
+  {
+   "text": "My theory is the only person who can stop Dorry is Brogy.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Brogy Dorry fight Elbaph",
+    "fallback": "two giants swinging axe and sword at each other"
+   }
+  },
+  {
+   "text": "A hundred years of draws becomes the one fight that finally frees them.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy fight Elbaph",
+    "fallback": "giants dueling beneath a stormy sky"
+   }
+  },
+  {
+   "text": "Dorry and Brogy fought for a hundred years...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy Little Garden duel",
+    "fallback": "two giant warriors dueling on a volcanic island"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Dorry",
+  "https://onepiece.fandom.com/wiki/Brogy",
+  "https://onepiece.fandom.com/wiki/Little_Garden_Arc",
+  "https://shonenvortex.com/domi-reversi-explained-one-piece"
+ ],
+ "self_check": {
+  "hook": "line 1 hidden-detail hook naming Dorry and Brogy",
+  "loop": "last line completes line 1",
+  "facts_verified": true
+ }
+}
