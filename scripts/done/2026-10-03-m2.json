@@ -1,0 +1,174 @@
+{
+  "id": "2026-10-03-m2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "related_long": null,
+  "chapters": [],
+  "thumbnail": null,
+  "lines": [
+    {
+      "text": "Garp didn't fail Ace at Marineford. He chose Luffy.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Monkey D. Garp Marineford",
+        "fallback": "old marine hero in a cape with a dog hat"
+      }
+    },
+    {
+      "text": "I know, the internet says he stood there and let his grandson die.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Ace execution Marineford",
+        "fallback": "marine veteran on a battlefield"
+      }
+    },
+    {
+      "text": "But watch what actually happens when Luffy charges at the scaffold.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy charges Ace scaffold Marineford",
+        "fallback": "boy sprinting across a war zone"
+      }
+    },
+    {
+      "text": "Garp jumps in front of him and says he's a Marine Vice Admiral.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp blocks Luffy Marineford",
+        "fallback": "old marine blocking a boy's path"
+      }
+    },
+    {
+      "text": "He tells Luffy he'll have to kill him to get to Ace.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy Marineford move aside",
+        "fallback": "grandfather glaring at grandson"
+      }
+    },
+    {
+      "text": "And then, at the last second, Garp falters.",
+      "delivery": "reveal",
+      "fx": "shake",
+      "shot": {
+        "search": "Luffy punches Garp Marineford",
+        "fallback": "boy punching an old marine"
+      }
+    },
+    {
+      "text": "Luffy hits him and Garp doesn't hit back.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp falls Luffy punch",
+        "fallback": "old marine crashing into the ground"
+      }
+    },
+    {
+      "text": "A man who's fought pirates since before Luffy was born just let the pirate through.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Fist of Love Marineford",
+        "fallback": "veteran marine looking down in shame"
+      }
+    },
+    {
+      "text": "People say he should have stopped Akainu instead. That's fair.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Akainu kills Ace Marineford",
+        "fallback": "red-haired admiral striking"
+      }
+    },
+    {
+      "text": "But look at what he does after Ace dies. He wants to kill Akainu.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Akainu Marineford rage",
+        "fallback": "furious grandfather charging"
+      }
+    },
+    {
+      "text": "It's Sengoku who has to hold him back.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Sengoku Garp Marineford",
+        "fallback": "two old marines struggling"
+      }
+    },
+    {
+      "text": "So the duty was never the real choice. It was the cage.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Garp tears Marineford Ace",
+        "fallback": "old man weeping in the rain"
+      }
+    },
+    {
+      "text": "Garp didn't fail Ace at Marineford...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Monkey D. Luffy grandson",
+        "fallback": "old marine facing a young pirate"
+      }
+    }
+  ],
+  "topic": "At Marineford Garp refused to move for Luffy, then let Luffy hit him: the Marine duty was his excuse, not his choice",
+  "title": "Garp Didn't Fail Ace At Marineford, He Chose Luffy",
+  "description": "Everyone says Garp let Ace die for his duty. Look closer at what he did when Luffy ran at him, and what he wanted to do to Akainu after. Does Garp deserve the hate, or was he stuck in an impossible spot?",
+  "hashtags": [
+    "#garp",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "garp marineford",
+    "garp ace",
+    "garp luffy",
+    "monkey d garp",
+    "marineford arc",
+    "one piece emotional",
+    "garp akainu",
+    "one piece analysis"
+  ],
+  "hook_text": "GARP'S CHOICE",
+  "music_mood": "emotional",
+  "comment": "Did Garp fail Ace at Marineford, or did he do the only thing a Marine grandfather could? Pick one.",
+  "pages": [
+    "Monkey D. Garp",
+    "Summit War of Marineford",
+    "Portgas D. Ace",
+    "Sakazuki"
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Monkey_D._Garp",
+    "https://onepiece.fandom.com/wiki/Summit_War_of_Marineford",
+    "https://onepiece.fandom.com/wiki/Marineford_Arc",
+    "https://sureshotsource.com/garps-greatest-regret-why-he-didnt-save-ace-at-marineford-one-piece/"
+  ],
+  "self_check": {
+    "hook": "contrarian claim in line 1",
+    "loop": "last line completes the first sentence",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "BbiwTpqnvmg",
+    "publish_at": "2026-10-03T14:30:00Z",
+    "url": "https://youtu.be/BbiwTpqnvmg",
+    "comment": "Did Garp fail Ace at Marineford, or did he do the only thing a Marine grandfather could? Pick one.",
+    "comment_posted": false
+  }
+}
