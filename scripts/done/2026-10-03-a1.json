@@ -1,0 +1,171 @@
+{
+  "id": "2026-10-03-a1",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "Iruka's one sentence in chapter 3, not the Shadow Clones, is what made Naruto",
+  "title": "Iruka Gave Naruto What The Whole Village Wouldn't",
+  "description": "Iruka lost his parents to the Nine-Tails and still shielded Naruto from Mizuki in chapter 3. Here's why one sentence mattered more than the Shadow Clones. Do you agree?",
+  "hashtags": [
+    "#naruto",
+    "#iruka",
+    "#anime"
+  ],
+  "tags": [
+    "naruto theory",
+    "iruka and naruto",
+    "naruto chapter 3",
+    "naruto mizuki",
+    "iruka umino",
+    "naruto emotional",
+    "naruto shadow clone",
+    "naruto iruka sensei"
+  ],
+  "hook_text": "IRUKA SAW HIM",
+  "music_mood": "emotional",
+  "comment": "Which moment made Naruto who he is: Iruka acknowledging him in chapter 3, or Jiraiya's training later? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Iruka Umino",
+    "Mizuki",
+    "Naruto Uzumaki"
+  ],
+  "lines": [
+    {
+      "text": "Iruka didn't just save Naruto from Mizuki. He saved him from the whole village.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Iruka Naruto Mizuki",
+        "fallback": "teacher shielding a blond boy in a dark forest"
+      }
+    },
+    {
+      "text": "And I think that one night in chapter 3 is where Naruto's real story starts.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto Iruka Mizuki forest",
+        "fallback": "blond boy and teacher in a night forest"
+      }
+    },
+    {
+      "text": "Think about what Iruka had lost.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Iruka parents Nine-Tails attack",
+        "fallback": "ninja child watching a giant fox destroy a village"
+      }
+    },
+    {
+      "text": "His parents were killed when the Nine-Tails attacked, twelve years before the story begins.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Iruka Nine-Tails attack parents",
+        "fallback": "burning village and giant nine-tailed fox"
+      }
+    },
+    {
+      "text": "So when Mizuki exposes the secret, Iruka has every reason to look at Naruto and see the fox.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Mizuki reveals Nine-Tails Naruto",
+        "fallback": "traitor ninja pointing at a shocked blond boy"
+      }
+    },
+    {
+      "text": "Instead, he takes the shuriken that was meant for Naruto.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Iruka shuriken Naruto Mizuki",
+        "fallback": "teacher shielding boy from a giant shuriken"
+      }
+    },
+    {
+      "text": "Here's the detail people forget.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Iruka Umino smile Naruto",
+        "fallback": "teacher with a scar across his nose"
+      }
+    },
+    {
+      "text": "Iruka is the first person, besides the Third Hokage, to ever acknowledge Naruto.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Iruka acknowledges Naruto",
+        "fallback": "teacher smiling at a crying blond boy"
+      }
+    },
+    {
+      "text": "People say Naruto earned his headband by beating Mizuki with Shadow Clones.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto Multiple Shadow Clone Mizuki",
+        "fallback": "crowd of blond boy clones surrounding a ninja"
+      }
+    },
+    {
+      "text": "But the clones only appear after Iruka calls him an excellent student.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Naruto Shadow Clones Iruka excellent student",
+        "fallback": "blond boy surrounded by clones glowing orange"
+      }
+    },
+    {
+      "text": "One kind sentence did what twelve years of cold stares never could.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto Iruka forehead protector",
+        "fallback": "blond boy touching a new forehead protector"
+      }
+    },
+    {
+      "text": "Naruto didn't prove himself to the village that night. He proved it to one man.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto Iruka headband graduation",
+        "fallback": "teacher handing a forehead protector to a boy"
+      }
+    },
+    {
+      "text": "Because Iruka didn't just save Naruto from Mizuki...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Iruka Naruto Mizuki",
+        "fallback": "teacher shielding a blond boy in a dark forest"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://naruto.fandom.com/wiki/Iruka_Umino",
+    "https://naruto.fandom.com/wiki/Mizuki",
+    "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+  ],
+  "self_check": {
+    "hook": "claim in line 1",
+    "loop": "last line finishes line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "bf8kZCqPzaA",
+    "publish_at": "2026-10-03T19:30:00Z",
+    "url": "https://youtu.be/bf8kZCqPzaA",
+    "comment": "Which moment made Naruto who he is: Iruka acknowledging him in chapter 3, or Jiraiya's training later? Pick one.",
+    "comment_posted": false
+  }
+}
