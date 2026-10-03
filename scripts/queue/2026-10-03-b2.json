@@ -1,0 +1,158 @@
+{
+ "id": "2026-10-03-b2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Shanks saved Koby at Marineford, a setup for Koby vs Luffy",
+ "title": "Why Shanks Saved Koby At Marineford (Not Luffy)",
+ "description": "Shanks stopped Akainu from killing Koby at Marineford. Here's why that moment might matter more for Luffy's endgame than anyone admits. Is Koby Luffy's final obstacle?",
+ "hashtags": [
+  "#shanks",
+  "#koby",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "shanks saved koby",
+  "koby vs luffy",
+  "marineford shanks",
+  "one piece koby theory",
+  "shanks marineford",
+  "akainu koby",
+  "one piece endgame"
+ ],
+ "hook_text": "SHANKS SAVED KOBY",
+ "music_mood": "suspense",
+ "comment": "Will Koby end up fighting Luffy, or standing beside him? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Shanks",
+  "Koby",
+  "Akainu",
+  "Marineford Arc"
+ ],
+ "lines": [
+  {
+   "text": "Shanks didn't just save Luffy at Marineford. He saved Koby.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Shanks stops Akainu Koby",
+    "fallback": "red haired pirate blocking a magma fist"
+   }
+  },
+  {
+   "text": "And I think that's the part Oda wants us to remember.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Marineford war ends",
+    "fallback": "red haired pirate on a battlefield"
+   }
+  },
+  {
+   "text": "Chapter 574. Akainu is about to strike Koby down.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Akainu about to hit Koby",
+    "fallback": "admiral raising a magma fist over a boy"
+   }
+  },
+  {
+   "text": "Shanks steps in, and the war ends with one conversation.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Shanks Akainu clash blades",
+    "fallback": "red haired pirate stopping a magma fist"
+   }
+  },
+  {
+   "text": "Everyone remembers that as Shanks ending the war. But look at who he actually saved.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Koby Marineford",
+    "fallback": "pirate standing over a boy in marine coat"
+   }
+  },
+  {
+   "text": "A kid who'd just begged both sides to stop fighting.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Marineford stop the war",
+    "fallback": "marine cadet shouting on a battlefield"
+   }
+  },
+  {
+   "text": "Today that kid is a Marine hero, trained by Garp himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Garp training",
+    "fallback": "old marine hero training a young marine"
+   }
+  },
+  {
+   "text": "People say Koby is Luffy's friend, so he'd never stand in his way.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Luffy Alvida",
+    "fallback": "two young friends smiling"
+   }
+  },
+  {
+   "text": "But reports on this theory point out Koby has learned what finding the One Piece could mean.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Marine Captain Hachinosu",
+    "fallback": "marine officer looking troubled"
+   }
+  },
+  {
+   "text": "So maybe Shanks wasn't only protecting a future Pirate King. He was protecting the one man who might have to stop him.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Shanks Koby Luffy",
+    "fallback": "pirate between a marine and a boy in straw hat"
+   }
+  },
+  {
+   "text": "That's my read, and it fits Shanks perfectly.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks smiling Marineford",
+    "fallback": "calm red haired pirate"
+   }
+  },
+  {
+   "text": "Shanks didn't just save Luffy at Marineford...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks stops Akainu Koby",
+    "fallback": "red haired pirate blocking a magma fist"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Koby",
+  "https://fandomwire.com/one-piece-theory-shanks-stopped-kaido-from-coming-to-marineford-by-spilling-luffys-secret/",
+  "https://www.cbr.com/will-koby-stop-luffy-in-one-piece/",
+  "https://gamerant.com/one-piece-koby-role-final-saga-potential-threat-luffy/"
+ ],
+ "self_check": {
+  "hook": "contrarian claim in line 1",
+  "loop": "last line completes line 1 sentence",
+  "facts_verified": true
+ }
+}
