@@ -1,0 +1,168 @@
+{
+ "id": "2026-10-03-m3",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "related_long": null,
+ "chapters": [],
+ "thumbnail": null,
+ "lines": [
+  {
+   "text": "Nobody noticed what Shanks did the second Luffy ate that fruit.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Shanks Luffy Gomu Gomu no Mi Foosha",
+    "fallback": "red haired pirate staring at a boy"
+   }
+  },
+  {
+   "text": "Chapter 1. The Red Hair Pirates stole a Devil Fruit from the World Government.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Red Hair Pirates Gomu Gomu no Mi chest",
+    "fallback": "pirates guarding a treasure chest"
+   }
+  },
+  {
+   "text": "They kept it in a small chest in Foosha Village.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Foosha Village Partys Bar",
+    "fallback": "pirate bar in a seaside village"
+   }
+  },
+  {
+   "text": "Then young Luffy ate it like dessert.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy eats Gomu Gomu no Mi",
+    "fallback": "boy biting a strange fruit"
+   }
+  },
+  {
+   "text": "And Shanks didn't laugh. He charged at him to make him spit it out.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Shanks Luffy spit out fruit",
+    "fallback": "pirate grabbing a boy in panic"
+   }
+  },
+  {
+   "text": "That's the detail I can't unsee.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Gomu Gomu no Mi shocked",
+    "fallback": "pirate captain with a scar looking horrified"
+   }
+  },
+  {
+   "text": "Because Luffy's fruit turned out to be the Hito Hito no Mi, Model: Nika.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Luffy Gear 5 Nika Sun God",
+    "fallback": "glowing white laughing hero"
+   }
+  },
+  {
+   "text": "Here's my read: Shanks didn't steal a rare snack. He knew it mattered.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Red Hair Pirates deck",
+    "fallback": "red-haired pirate captain on a ship"
+   }
+  },
+  {
+   "text": "The strongest counter is that every pirate would panic over a priceless fruit.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Gomu Gomu no Mi treasure",
+    "fallback": "pirates staring at a lost treasure"
+   }
+  },
+  {
+   "text": "But priceless to a pirate and dangerous to the World Government are two different things.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks World Government Gomu Gomu no Mi",
+    "fallback": "red-haired pirate handing over a straw hat"
+   }
+  },
+  {
+   "text": "Accident or plan, Shanks knew whose hands that fruit landed in.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Luffy Romance Dawn",
+    "fallback": "pirate and boy on a dock"
+   }
+  },
+  {
+   "text": "Either way, he saw the future in that kid before anyone else did.",
+   "delivery": "slow",
+   "fx": "zoom",
+   "shot": {
+    "search": "Shanks Monkey D. Luffy future",
+    "fallback": "pirate looking at a boy at sunrise"
+   }
+  },
+  {
+   "text": "And nobody noticed what Shanks did the second Luffy ate that fruit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Luffy Gomu Gomu no Mi Foosha",
+    "fallback": "red haired pirate staring at a boy"
+   }
+  }
+ ],
+ "topic": "Shanks charged at Luffy to make him spit out the fruit in chapter 1: the Red Hair Pirates stole it for a reason",
+ "title": "Shanks Knew What Luffy Ate In Chapter 1",
+ "description": "Shanks stole the Gomu Gomu no Mi from the World Government, then panicked when Luffy ate it. Here's my read on why that panic doesn't look like a man losing treasure. Do you think Shanks knew about Nika?",
+ "hashtags": [
+  "#shanks",
+  "#onepiece",
+  "#luffy"
+ ],
+ "tags": [
+  "one piece theory",
+  "shanks",
+  "gomu gomu no mi",
+  "nika",
+  "hito hito no mi model nika",
+  "shanks knew",
+  "luffy devil fruit",
+  "one piece chapter 1",
+  "red hair pirates",
+  "gear 5"
+ ],
+ "hook_text": "SHANKS KNEW",
+ "music_mood": "suspense",
+ "comment": "Did Shanks steal the fruit for Luffy, or to keep it away from him? Pick one.",
+ "pages": [
+  "Shanks",
+  "Gomu Gomu no Mi",
+  "Monkey D. Luffy",
+  "Red Hair Pirates"
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi",
+  "https://onepiece.fandom.com/wiki/Shanks",
+  "https://screenrant.com/one-piece-shanks-knew-luffy-gum-gum-nika-secret/",
+  "https://fandomwire.com/one-piece-did-shanks-knowingly-plan-luffy-to-eat-the-gum-gum-fruit-explained/"
+ ],
+ "self_check": {
+  "hook": "confirmed-style hidden detail in line 1, labelled as a read",
+  "loop": "last line returns to line 1",
+  "facts_verified": true
+ }
+}

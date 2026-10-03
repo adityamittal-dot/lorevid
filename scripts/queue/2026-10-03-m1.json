@@ -1,0 +1,168 @@
+{
+ "id": "2026-10-03-m1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "related_long": null,
+ "chapters": [],
+ "thumbnail": null,
+ "lines": [
+  {
+   "text": "Was Kizaru secretly protecting Luffy the entire time?",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Borsalino Kizaru Egghead",
+    "fallback": "admiral in yellow suit glowing with light"
+   }
+  },
+  {
+   "text": "Hear me out, because Oda left one strange clue on Egghead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Egghead Gear 5 exhausted",
+    "fallback": "exhausted boy lying on a lab floor"
+   }
+  },
+  {
+   "text": "In chapter 1103, Luffy is out of stamina and starving, and Saturn is standing over him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Saturn Egghead",
+    "fallback": "pale elder standing over a fallen hero"
+   }
+  },
+  {
+   "text": "Then food shows up. Out of nowhere.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy eating meat Egghead",
+    "fallback": "boy stuffing food in his mouth"
+   }
+  },
+  {
+   "text": "Nobody on that island could have delivered it that fast.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats Egghead Lab Phase",
+    "fallback": "chaotic futuristic laboratory"
+   }
+  },
+  {
+   "text": "Then Oda answered a fan in the SBS, and he kept stressing the speed of light.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Oda SBS Egghead food Luffy",
+    "fallback": "author's hand drawing at a desk"
+   }
+  },
+  {
+   "text": "Only one person in this world moves at the speed of light.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Kizaru Yata no Kagami light speed",
+    "fallback": "man turning into beams of light"
+   }
+  },
+  {
+   "text": "Now look at chapter 1093, where they actually fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy vs Kizaru Egghead Star Gun",
+    "fallback": "two fighters clashing, one made of light"
+   }
+  },
+  {
+   "text": "It ends in a draw, even though Borsalino can run circles around a tired Luffy.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Luffy Kizaru Gomu Gomu no Star Gun",
+    "fallback": "rubber fist hitting a glowing admiral"
+   }
+  },
+  {
+   "text": "People say Kizaru just attacked the Straw Hats at Sabaody, so he's a villain.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Sabaody Archipelago Straw Hats",
+    "fallback": "admiral attacking pirates on a grove"
+   }
+  },
+  {
+   "text": "But that's the thing: a Marine can obey orders and still feed the kid he was ordered to catch.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Borsalino Marine Admiral Luffy",
+    "fallback": "uneasy admiral watching a boy"
+   }
+  },
+  {
+   "text": "It's a theory, but I think Borsalino picked his side on Egghead.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Borsalino Kizaru smirk",
+    "fallback": "admiral in sunglasses smirking"
+   }
+  },
+  {
+   "text": "So no, he wasn't just a villain. Was Kizaru secretly protecting Luffy the entire time?",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Luffy Egghead",
+    "fallback": "admiral and rubber boy facing each other"
+   }
+  }
+ ],
+ "topic": "Kizaru fed Luffy at light speed on Egghead: Oda's SBS says only someone with the speed of light could have done it",
+ "title": "Was Kizaru Secretly Protecting Luffy The Whole Time?",
+ "description": "Kizaru is a Marine Admiral, but Egghead hides a strange clue. Chapter 1103 shows Luffy getting food out of nowhere, and Oda's SBS points at light speed. Here's why I think Borsalino picked a side. Do you buy it?",
+ "hashtags": [
+  "#kizaru",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "kizaru",
+  "borsalino",
+  "kizaru luffy egghead",
+  "who fed luffy egghead",
+  "one piece 1103",
+  "kizaru double agent",
+  "one piece sbs",
+  "one piece admiral"
+ ],
+ "hook_text": "KIZARU'S SECRET",
+ "music_mood": "suspense",
+ "comment": "Is Kizaru a hidden ally of Luffy, or just a Marine who couldn't finish the job? Pick a side.",
+ "pages": [
+  "Borsalino",
+  "Egghead Incident",
+  "Monkey D. Luffy",
+  "Saturn"
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Borsalino",
+  "https://onepiece.fandom.com/wiki/Egghead_Incident",
+  "https://onepiece.fandom.com/wiki/Chapter_1093",
+  "https://screenrant.com/one-piece-manga-plot-hole-luffy-kizaru-villain/",
+  "https://gamerant.com/one-piece-oda-finally-reveals-gave-luffy-food-egghead-war/"
+ ],
+ "self_check": {
+  "hook": "question about Kizaru in line 1",
+  "loop": "last line returns to the question in line 1",
+  "facts_verified": true
+ }
+}
