@@ -1,0 +1,159 @@
+{
+ "id": "2026-10-04-b2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Zoro's chapter 1194 flashback implies Mihawk is a Conqueror's Haki user, seeded since the Baratie fight",
+ "title": "Mihawk Had Conqueror's Haki The Whole Time (1194)",
+ "description": "One Piece chapter 1194 may have just revealed that Mihawk has Conqueror's Haki, 28 years after he first appeared. Here is the Zoro flashback clue and the Baratie setup behind it. Do you buy it?",
+ "hashtags": [
+  "#mihawk",
+  "#zoro",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "mihawk conqueror's haki",
+  "one piece 1194",
+  "zoro mihawk",
+  "supreme king haki",
+  "one piece chapter 1194",
+  "mihawk haki",
+  "zoro sommers"
+ ],
+ "hook_text": "MIHAWK'S SECRET",
+ "music_mood": "epic",
+ "comment": "Does Mihawk really have Conqueror's Haki, or was it just a good lesson? Pick a side.",
+ "related_long": null,
+ "pages": [
+  "Dracule Mihawk",
+  "Roronoa Zoro",
+  "Haki",
+  "Shepherd Sommers"
+ ],
+ "lines": [
+  {
+   "text": "Mihawk had Conqueror's Haki the whole time, and Oda hid it for 28 years.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Mihawk Conqueror's Haki Zoro",
+    "fallback": "hawk eyed swordsman with a dark aura"
+   }
+  },
+  {
+   "text": "Chapter 1194 never says it out loud. But I think the proof is in Zoro's flashback.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk Zoro flashback training",
+    "fallback": "swordsman teaching a green haired swordsman"
+   }
+  },
+  {
+   "text": "Zoro can't hurt Sommers because he's pouring out Haki without aiming it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers Supreme King Haki",
+    "fallback": "green haired swordsman facing a giant armored knight"
+   }
+  },
+  {
+   "text": "Then he remembers Mihawk's lesson: this power comes from your own self.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk lesson Zoro Kuraigana",
+    "fallback": "swordsman lecturing a student on a gloomy island"
+   }
+  },
+  {
+   "text": "Here's what everyone skipped. You can't teach a power you've never felt.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Dracule Mihawk portrait",
+    "fallback": "hawk eyed swordsman in dark coat"
+   }
+  },
+  {
+   "text": "Mihawk says weak people can't even stand against it. That's not advice, that's experience.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Mihawk Zoro Haki weak people",
+    "fallback": "swordsman with intense glare"
+   }
+  },
+  {
+   "text": "Go back to chapter 49, where Mihawk debuts as the strongest swordsman alive.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk Baratie Zoro first meeting",
+    "fallback": "hawk eyed swordsman on a small boat"
+   }
+  },
+  {
+   "text": "Then comes the Baratie duel, where Mihawk nearly kills Zoro.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Zoro Mihawk Baratie cut",
+    "fallback": "green haired swordsman bleeding but standing"
+   }
+  },
+  {
+   "text": "Fans say it was just advice. But Zoro's breakthrough follows the lesson exactly.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro three swords Haki Sommers heart",
+    "fallback": "swordsman with three swords wrapped in black lightning"
+   }
+  },
+  {
+   "text": "So the greatest swordsman never needed to say he had it.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Mihawk Zoro Kuraigana",
+    "fallback": "swordsman standing in a ruined castle"
+   }
+  },
+  {
+   "text": "Oda planted Mihawk's Haki in the first fight, and Zoro just dug it up.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk Haki training",
+    "fallback": "two swordsmen facing each other in mist"
+   }
+  },
+  {
+   "text": "Because Mihawk had Conqueror's Haki the whole time...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk Conqueror's Haki",
+    "fallback": "hawk eyed swordsman with dark aura"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://gamerant.com/one-piece-mihawk-conquerors-haki/",
+  "https://noscriptneeded.com/one-piece-chapter-1194-mihawk-haki-lesson-zoro",
+  "https://fandomwire.com/one-piece-reveals-mihawk-greatest-lesson-to-zoro/",
+  "https://onepiece.fandom.com/wiki/Dracule_Mihawk",
+  "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
+ ],
+ "self_check": {
+  "hook": "Mihawk had Conqueror's Haki claim",
+  "loop": "last line repeats line 1",
+  "facts_verified": true
+ }
+}
