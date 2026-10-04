@@ -1,0 +1,176 @@
+{
+ "id": "2026-10-04-m3",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Luffy burning the flag gets the credit, but Robin's chapter 398 'I want to live' is what actually declared war on the World Government",
+ "title": "Robin's I Want To Live Was The Real War Declaration",
+ "description": "Everyone remembers the flag burning at Enies Lobby. I think the real declaration of war came a moment earlier, from Robin. Chapters 397 and 398 make the case. Do you agree?",
+ "hashtags": [
+  "#robin",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "nico robin",
+  "robin i want to live",
+  "enies lobby",
+  "one piece 398",
+  "ohara",
+  "one piece 397",
+  "void century",
+  "straw hats declare war"
+ ],
+ "hook_text": "ROBIN FIRED FIRST",
+ "music_mood": "emotional",
+ "comment": "The real declaration of war: Luffy burning the flag, or Robin saying she wants to live? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Nico Robin",
+  "Ohara",
+  "Enies Lobby Arc",
+  "Jaguar D. Saul"
+ ],
+ "lines": [
+  {
+   "text": "Luffy didn't declare war on the World Government. Robin did.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nico Robin I want to live Enies Lobby",
+    "fallback": "woman crying on a tower surrounded by fire"
+   }
+  },
+  {
+   "text": "Here's my read.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Enies Lobby tears",
+    "fallback": "dark haired woman crying"
+   }
+  },
+  {
+   "text": "Chapter 398. Luffy tells Sogeking to burn the World Government's flag.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sogeking shoots World Government flag Enies Lobby",
+    "fallback": "masked sniper shooting a flag"
+   }
+  },
+  {
+   "text": "That's the famous image, and I get why.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats declare war World Government flag",
+    "fallback": "pirates in front of a burning flag"
+   }
+  },
+  {
+   "text": "But look at what comes right before it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Ohara Buster Call",
+    "fallback": "girl watching a burning island"
+   }
+  },
+  {
+   "text": "Chapter 397. Ohara burns, Saul smashes the Buster Call ship, and the scholars die saving history.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Ohara Buster Call Saul Olvia Clover",
+    "fallback": "burning library island"
+   }
+  },
+  {
+   "text": "Robin was eight years old, with a bounty on her head.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Young Nico Robin Ohara",
+    "fallback": "small girl alone on a ship"
+   }
+  },
+  {
+   "text": "For twenty years she ran from a world that wanted her dead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin young Devil Child running",
+    "fallback": "girl hiding in the shadows"
+   }
+  },
+  {
+   "text": "Then Luffy tells her to say it. And she says she wants to live.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Nico Robin I want to live Luffy",
+    "fallback": "woman tearfully shouting on a tower"
+   }
+  },
+  {
+   "text": "Remember what the World Government erased: the Void Century, and the people who dared to read it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara Void Century Poneglyph scholars",
+    "fallback": "scholars reading a giant stone"
+   }
+  },
+  {
+   "text": "A woman who can read Poneglyphs choosing life is the one thing that plan can't survive.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nico Robin Poneglyph reading",
+    "fallback": "woman reading an ancient stone"
+   }
+  },
+  {
+   "text": "People say the flag burn is the literal declaration, and that's true.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Usopp burns World Government flag",
+    "fallback": "pirate burning a flag"
+   }
+  },
+  {
+   "text": "But a flag burn is a gesture. Robin choosing to live was the first shot.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Straw Hat crew Enies Lobby",
+    "fallback": "woman among her smiling crew"
+   }
+  },
+  {
+   "text": "Luffy didn't declare war on the World Government...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin I want to live Enies Lobby",
+    "fallback": "woman crying on a tower surrounded by fire"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Chapter_397",
+  "https://onepiece.fandom.com/wiki/Chapter_398",
+  "https://onepiece.fandom.com/wiki/Ohara",
+  "https://onepiece.fandom.com/wiki/Jaguar_D._Saul"
+ ],
+ "self_check": {
+  "hook": "contrarian hidden claim in line 1",
+  "loop": "last line repeats the opening so it flows back into line 1",
+  "facts_verified": true
+ }
+}
