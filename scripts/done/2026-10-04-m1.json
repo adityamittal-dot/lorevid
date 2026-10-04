@@ -1,0 +1,174 @@
+{
+  "id": "2026-10-04-m1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Roger's words invited the Great Pirate Era, but Whitebeard's chapter 576 declaration that the One Piece is real is what proved it",
+  "title": "Whitebeard's Last Words Matter More Than Roger's",
+  "description": "Roger started the Great Pirate Era with an invitation. Whitebeard's dying words at Marineford turned it into a fact. Here's my case for why chapter 576 matters more than chapter 1. Which one actually started the era?",
+  "hashtags": [
+    "#whitebeard",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "whitebeard",
+    "gol d roger",
+    "marineford",
+    "one piece 576",
+    "great pirate era",
+    "one piece is real",
+    "whitebeard last words",
+    "one piece lore"
+  ],
+  "hook_text": "ROGER LIT IT. WHITEBEARD PROVED IT",
+  "music_mood": "epic",
+  "comment": "Who really started the Great Pirate Era: Roger with his invitation, or Whitebeard with his proof? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Edward Newgate",
+    "Gol D. Roger",
+    "Summit War of Marineford",
+    "Great Pirate Era"
+  ],
+  "lines": [
+    {
+      "text": "Roger started the Great Pirate Era. But Whitebeard made it real.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Whitebeard Marineford One Piece is real",
+        "fallback": "old pirate giant dying on a battlefield"
+      }
+    },
+    {
+      "text": "Here's my read, and yes, it's a hot take.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Edward Newgate portrait",
+        "fallback": "white mustached pirate captain"
+      }
+    },
+    {
+      "text": "Chapter 1. Roger stands on the scaffold and tells the world his treasure is out there for anyone to find.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gol D. Roger execution Loguetown",
+        "fallback": "pirate king smiling on a scaffold"
+      }
+    },
+    {
+      "text": "Half the world hears that and thinks, the condemned man is bluffing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gol D. Roger execution crowd",
+        "fallback": "crowd staring at a scaffold"
+      }
+    },
+    {
+      "text": "Now jump to chapter 576. Marineford.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Summit War of Marineford Whitebeard",
+        "fallback": "giant war at a marine base"
+      }
+    },
+    {
+      "text": "Whitebeard, the strongest man alive, is dying in front of the entire world.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Whitebeard death Marineford",
+        "fallback": "giant old pirate standing wounded"
+      }
+    },
+    {
+      "text": "And he says one thing: the One Piece is real.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Whitebeard The One Piece is real",
+        "fallback": "old pirate raising his voice"
+      }
+    },
+    {
+      "text": "Not find it. Not maybe. Real.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard final words One Piece",
+        "fallback": "old pirate with fierce eyes"
+      }
+    },
+    {
+      "text": "The wiki records what came next: piracy exploded across the whole world.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Great Pirate Era pirates new world",
+        "fallback": "ships sailing under pirate flags"
+      }
+    },
+    {
+      "text": "People say Roger lit the fuse, so the credit is his.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Gol D. Roger smiling Pirate King",
+        "fallback": "pirate king laughing"
+      }
+    },
+    {
+      "text": "But a fuse needs proof, and Whitebeard had nothing to gain by lying.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Edward Newgate Marineford speech",
+        "fallback": "old pirate captain speaking"
+      }
+    },
+    {
+      "text": "Roger gave the world a dream. Whitebeard gave it a fact.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Roger Moby Dick Oro Jackson",
+        "fallback": "two legendary pirates silhouettes"
+      }
+    },
+    {
+      "text": "Roger started the Great Pirate Era...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Marineford One Piece is real",
+        "fallback": "old pirate giant dying on a battlefield"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_576",
+    "https://onepiece.fandom.com/wiki/Edward_Newgate",
+    "https://onepiece.fandom.com/wiki/Gol_D._Roger",
+    "https://onepiece.fandom.com/wiki/Summit_War_of_Marineford"
+  ],
+  "self_check": {
+    "hook": "contrarian claim in line 1",
+    "loop": "last line repeats the opening so it flows back into line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "-yNw1Gis3Uk",
+    "publish_at": "2026-10-04T12:00:00Z",
+    "url": "https://youtu.be/-yNw1Gis3Uk",
+    "comment": "Who really started the Great Pirate Era: Roger with his invitation, or Whitebeard with his proof? Pick one.",
+    "comment_posted": false
+  }
+}
