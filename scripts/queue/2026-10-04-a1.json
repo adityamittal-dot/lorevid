@@ -1,0 +1,174 @@
+{
+ "id": "2026-10-04-a1",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Minato only sealed half of Kurama on purpose, so the halves could reunite through Naruto",
+ "title": "Minato Split Kurama So Naruto Could Finish It",
+ "description": "Minato didn't just seal the Nine-Tails, he split it. Here's why that half-and-half plan pays off in chapter 643, and why it might be Minato's smartest move. Do you agree?",
+ "hashtags": [
+  "#naruto",
+  "#minato",
+  "#anime"
+ ],
+ "tags": [
+  "naruto theory",
+  "minato namikaze",
+  "minato kurama",
+  "yin kurama",
+  "yang kurama",
+  "dead demon consuming seal",
+  "naruto chapter 643",
+  "naruto minato plan"
+ ],
+ "hook_text": "MINATO PLANNED THIS",
+ "music_mood": "emotional",
+ "comment": "Was Minato's plan genius, or did he gamble his son's life? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Minato Namikaze",
+  "Kurama",
+  "Dead Demon Consuming Seal",
+  "Naruto Uzumaki"
+ ],
+ "lines": [
+  {
+   "text": "Minato didn't just seal the Nine-Tails. He split it in half on purpose.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Minato Kurama Dead Demon Consuming Seal",
+    "fallback": "blond ninja with giant fox spirit behind him"
+   }
+  },
+  {
+   "text": "And I think that split is the smartest thing he ever did.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Namikaze Hokage",
+    "fallback": "blond ninja in white cloak"
+   }
+  },
+  {
+   "text": "In chapter 503, Minato says the Nine-Tails is too big to seal in a baby.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Naruto baby Kurama",
+    "fallback": "ninja holding a newborn in a ruined village"
+   }
+  },
+  {
+   "text": "So the Shinigami takes the Yin half, and Minato keeps it inside himself.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Minato Shinigami Yin Kurama",
+    "fallback": "death god behind a ninja"
+   }
+  },
+  {
+   "text": "Naruto gets the Yang half, locked behind the Eight Trigrams Seal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Eight Trigrams Seal Naruto Yang Kurama",
+    "fallback": "glowing seal on a baby's stomach"
+   }
+  },
+  {
+   "text": "Here's what most people forget.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Naruto Kurama seal Yin Yang",
+    "fallback": "giant fox behind bars"
+   }
+  },
+  {
+   "text": "A split beast can be put back together.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Kurama Yin Yang halves",
+    "fallback": "two halves of a fox merging"
+   }
+  },
+  {
+   "text": "Years later, in chapter 643, Naruto bumps fists with Minato.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Naruto Minato fist bump Kurama",
+    "fallback": "father and son bumping fists"
+   }
+  },
+  {
+   "text": "Yin Kurama and Yang Kurama finally join as one.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Kurama Yin Yang reunited Naruto",
+    "fallback": "golden fox chakra fusing"
+   }
+  },
+  {
+   "text": "People say Minato just got lucky.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Kushina Kurama attack",
+    "fallback": "ninja couple facing a giant fox"
+   }
+  },
+  {
+   "text": "But Kurama itself asks Minato if he planned for his son to clean up the mess.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yin Kurama Minato Naruto question",
+    "fallback": "fox speaking to a ninja in a dark space"
+   }
+  },
+  {
+   "text": "My read is that Minato hid a future in that seal.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Naruto seal future",
+    "fallback": "ninja smiling at his son"
+   }
+  },
+  {
+   "text": "And Naruto's the one who reunited it.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Naruto Kurama Nine Tails Chakra Mode",
+    "fallback": "blond ninja in golden fox cloak"
+   }
+  },
+  {
+   "text": "Minato didn't just seal the Nine-Tails...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Kurama Dead Demon Consuming Seal",
+    "fallback": "blond ninja with giant fox spirit behind him"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Minato_Namikaze",
+  "https://naruto.fandom.com/wiki/Dead_Demon_Consuming_Seal",
+  "https://naruto.fandom.com/wiki/Joining_Fists%E2%80%A6!!"
+ ],
+ "self_check": {
+  "hook": "Minato didn't just seal Kurama, he split it",
+  "loop": "last line ends line 1 sentence: '...he split it in half on purpose'",
+  "facts_verified": true
+ }
+}
