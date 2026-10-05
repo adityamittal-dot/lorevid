@@ -1,0 +1,181 @@
+{
+  "id": "2026-10-05-b2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Blackbeard's Yami Yami has a gap: a hit that lands before he absorbs it hurts; Ace and Whitebeard proved it",
+  "title": "Blackbeard's Darkness Has A Flaw Whitebeard Exposed",
+  "description": "Blackbeard's Yami Yami no Mi swallows attacks and cancels Devil Fruits, but Marineford showed its gap. Here's the flaw and why it matters for Shanks.",
+  "hashtags": [
+    "#blackbeard",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "blackbeard",
+    "yami yami no mi",
+    "blackbeard weakness",
+    "whitebeard blackbeard",
+    "marineford",
+    "shanks vs blackbeard",
+    "one piece power scaling"
+  ],
+  "hook_text": "BLACKBEARD'S FLAW",
+  "music_mood": "suspense",
+  "comment": "Shanks vs Blackbeard: does pure Haki beat two fruits, or does Blackbeard win? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Marshall D. Teach",
+    "Yami Yami no Mi",
+    "Edward Newgate",
+    "Portgas D. Ace"
+  ],
+  "lines": [
+    {
+      "text": "Blackbeard's darkness swallows everything, except one thing.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Blackbeard Yami Yami no Mi darkness",
+        "fallback": "huge pirate surrounded by swirling black void"
+      }
+    },
+    {
+      "text": "And I think Marineford showed us exactly what it is.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Marineford Whitebeard",
+        "fallback": "pirate captain on a war battlefield"
+      }
+    },
+    {
+      "text": "Darkness pulls attacks in, and his touch cancels any Devil Fruit, Logia, Paramecia or Zoan.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard touch nullifies Devil Fruit",
+        "fallback": "hand touching glowing fruit power gone"
+      }
+    },
+    {
+      "text": "But the fruit only protects him if the attack goes through the darkness.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Yami Yami weakness",
+        "fallback": "man hit by attack that skips the darkness"
+      }
+    },
+    {
+      "text": "If he can't absorb it in time, he gets hurt like anyone else, sometimes worse.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Blackbeard hurt Ace fire spears",
+        "fallback": "pirate struck in chest by fire"
+      }
+    },
+    {
+      "text": "Ace's fire spears landed in his chest.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Ace Fire Spears Blackbeard chest",
+        "fallback": "fiery spears hitting a large pirate"
+      }
+    },
+    {
+      "text": "Then Whitebeard drove his bisento into his shoulder at Marineford.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Whitebeard bisento Blackbeard shoulder",
+        "fallback": "old pirate emperor swinging a huge polearm"
+      }
+    },
+    {
+      "text": "And here's the detail I don't think gets enough credit.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Yami Yami drains stamina",
+        "fallback": "tired pirate sweating in darkness"
+      }
+    },
+    {
+      "text": "The fruit constantly drains his body, so keeping the darkness up costs him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Yami Yami strain",
+        "fallback": "pirate exhausted while using darkness"
+      }
+    },
+    {
+      "text": "The strongest counter-argument is that he took Whitebeard's Gura Gura and still stood.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Gura Gura no Mi Whitebeard",
+        "fallback": "pirate with cracking quake power"
+      }
+    },
+    {
+      "text": "But that proves my point, because he needed a second fruit to cover the gap.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Blackbeard two Devil Fruits",
+        "fallback": "pirate holding two glowing fruits"
+      }
+    },
+    {
+      "text": "So the question for Shanks isn't whether Blackbeard can be hurt.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Blackbeard Conqueror's Haki",
+        "fallback": "red haired pirate facing a dark rival"
+      }
+    },
+    {
+      "text": "It's whether anyone can land a hit before the darkness pulls it in.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Blackbeard clash",
+        "fallback": "two pirates clashing with haki"
+      }
+    },
+    {
+      "text": "That is why Blackbeard's darkness swallows everything...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Yami Yami no Mi darkness",
+        "fallback": "huge pirate surrounded by swirling black void"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Yami_Yami_no_Mi",
+    "https://fandomwire.com/one-piece-what-is-blackbeards-true-weakness-eiichiro-odas-earliest-design-has-an-answer/",
+    "https://www.sportskeeda.com/anime/one-piece-chapter-1080-shanks-alleged-status-strongest-series-explored"
+  ],
+  "self_check": {
+    "hook": "claim in line 1",
+    "loop": "last line flows into line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "8vWVZaNShLs",
+    "publish_at": "2026-10-06T03:00:00Z",
+    "url": "https://youtu.be/8vWVZaNShLs",
+    "comment": "Shanks vs Blackbeard: does pure Haki beat two fruits, or does Blackbeard win? Pick one.",
+    "comment_posted": false
+  }
+}
