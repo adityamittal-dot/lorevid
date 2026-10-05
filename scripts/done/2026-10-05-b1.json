@@ -1,0 +1,164 @@
+{
+  "id": "2026-10-05-b1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Haibara's ghost asks why Nanami came back to sorcery, and Yuji is the answer",
+  "title": "Nanami Came Back To Sorcery For One Reason: Yuji",
+  "description": "Nanami quit jujutsu after Haibara died, then came back. In Shibuya, his last vision answers why. Was Yuji really the reason, or was it guilt?",
+  "hashtags": [
+    "#nanami",
+    "#jujutsukaisen",
+    "#anime"
+  ],
+  "tags": [
+    "jujutsu kaisen nanami",
+    "nanami death",
+    "nanami haibara",
+    "nanami yuji",
+    "shibuya incident",
+    "jjk theory",
+    "jjk nanami last words",
+    "kento nanami"
+  ],
+  "hook_text": "NANAMI'S REAL ANSWER",
+  "music_mood": "emotional",
+  "comment": "Did Nanami return to sorcery for Yuji, or for Haibara's memory? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Kento Nanami",
+    "Yu Haibara",
+    "Yuji Itadori",
+    "Shibuya Incident Arc"
+  ],
+  "lines": [
+    {
+      "text": "Nanami's last moment isn't a goodbye. It's an answer to a question he'd carried for years.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Nanami Shibuya Station Yuji",
+        "fallback": "bleeding sorcerer in suit in a train station"
+      }
+    },
+    {
+      "text": "Back at Jujutsu High, Nanami had one friend in his year, Yu Haibara.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haibara Nanami first years",
+        "fallback": "two first year students in school uniforms"
+      }
+    },
+    {
+      "text": "Haibara died on a mission when he misjudged the strength of the curse.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Haibara death mission",
+        "fallback": "young sorcerer lying defeated, dark mood"
+      }
+    },
+    {
+      "text": "Nanami carried the body to the morgue, and then he quit being a sorcerer.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Haibara morgue",
+        "fallback": "man in suit walking away from a school"
+      }
+    },
+    {
+      "text": "Now jump to Shibuya, chapter 69.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Shibuya Station Mahito",
+        "fallback": "wrecked subway station corridor"
+      }
+    },
+    {
+      "text": "He sees Haibara, who doesn't speak and just points.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Nanami Haibara hallucination points Yuji",
+        "fallback": "ghost of a friend pointing in a corridor"
+      }
+    },
+    {
+      "text": "The answer to why he came back is standing right there. It's Yuji.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Nanami sees Yuji Itadori",
+        "fallback": "boy with pink hair arriving in a station"
+      }
+    },
+    {
+      "text": "People say Nanami just wanted to protect a kid. But the timing says it's more than that.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Yuji Mahito Idle Transfiguration",
+        "fallback": "sorcerer facing a stitched cursed spirit"
+      }
+    },
+    {
+      "text": "Mahito asks for last words, and Nanami says nothing that could put Yuji in danger.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami last words Mahito",
+        "fallback": "dying sorcerer speaking to a monster"
+      }
+    },
+    {
+      "text": "He just says Yuji's got it from here.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami tells Yuji he leaves it to him",
+        "fallback": "man smiling faintly while dying"
+      }
+    },
+    {
+      "text": "Haibara's death sent him away, and Yuji is what finally brought him back to the fight.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Haibara Yuji",
+        "fallback": "two memories merging, blond sorcerer"
+      }
+    },
+    {
+      "text": "Because Nanami's last moment isn't a goodbye...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Shibuya Station Yuji",
+        "fallback": "bleeding sorcerer in suit in a train station"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://jujutsu-kaisen.fandom.com/wiki/Yu_Haibara",
+    "https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami/Synopsis",
+    "https://www.cbr.com/jjk-nanami-death-explained/",
+    "https://screenrant.com/jujutsu-kaisen-nanami-death-almost-didnt-happen-factoid/"
+  ],
+  "self_check": {
+    "hook": "claim in line 1",
+    "loop": "last line flows into line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "FuEUORTGAf0",
+    "publish_at": "2026-10-06T00:30:00Z",
+    "url": "https://youtu.be/FuEUORTGAf0",
+    "comment": "Did Nanami return to sorcery for Yuji, or for Haibara's memory? Pick one.",
+    "comment_posted": false
+  }
+}
