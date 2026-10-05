@@ -1,0 +1,156 @@
+{
+  "id": "2026-10-05-a2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Dragon saving Luffy in Loguetown was not a coincidence, Dragon came to watch Luffy set sail",
+  "title": "Dragon Didn't Save Luffy By Accident In Loguetown",
+  "description": "Chapter 100 looks like a lucky storm. Chapter 432 and chapter 1101 say Monkey D. Dragon was there on purpose. Was Loguetown a father watching his son leave home?",
+  "hashtags": [
+    "#dragon",
+    "#onepiece",
+    "#luffy"
+  ],
+  "tags": [
+    "one piece theory",
+    "monkey d dragon",
+    "dragon loguetown",
+    "luffy father",
+    "one piece chapter 100",
+    "one piece chapter 1101",
+    "one piece chapter 432",
+    "dragon and luffy",
+    "revolutionary army"
+  ],
+  "hook_text": "NO COINCIDENCE",
+  "music_mood": "suspense",
+  "comment": "Is Dragon a loving father who watches from afar, or a leader who only cares about Luffy as a weapon? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Monkey D. Dragon",
+    "Monkey D. Luffy",
+    "Loguetown",
+    "Smoker"
+  ],
+  "lines": [
+    {
+      "text": "Dragon didn't save Luffy in Loguetown by accident.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Dragon Loguetown saves Luffy Smoker",
+        "fallback": "cloaked man stopping a marine with wind"
+      }
+    },
+    {
+      "text": "Back in chapter 100, it looks like pure luck. A storm hits and Smoker gets stopped.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Luffy Smoker Loguetown storm lightning",
+        "fallback": "pirate about to be struck down in a storm"
+      }
+    },
+    {
+      "text": "Then Garp says it plainly in chapter 432. That man is Luffy's father, Monkey D. Dragon.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp tells Luffy Dragon father",
+        "fallback": "old marine telling a boy about his father"
+      }
+    },
+    {
+      "text": "Here is the part I think people forget.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Revolutionary Army leader",
+        "fallback": "hooded revolutionary leader"
+      }
+    },
+    {
+      "text": "Dragon is the most wanted man in the world, and he walked into a Marine town.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Loguetown Marine base",
+        "fallback": "wanted man walking into a marine town"
+      }
+    },
+    {
+      "text": "Why would he take that risk for one pirate rookie on his first day at sea?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Luffy set sail Loguetown",
+        "fallback": "cloaked man watching a ship leave"
+      }
+    },
+    {
+      "text": "Chapter 1101 answers it. Dragon keeps tabs on his son whenever Luffy is back in the East Blue.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Dragon watches Luffy chapter 1101",
+        "fallback": "cloaked man watching from a distance"
+      }
+    },
+    {
+      "text": "People say he only rescued Luffy because Smoker was about to catch a D.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Luffy Dragon rescue",
+        "fallback": "marine with smoke arms"
+      }
+    },
+    {
+      "text": "But then why stay long enough to talk to Luffy at all?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Luffy Loguetown",
+        "fallback": "father looking at a son"
+      }
+    },
+    {
+      "text": "Loguetown wasn't a lucky rescue. It was a father watching his son sail away.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Dragon Luffy father son Loguetown",
+        "fallback": "cloaked man and straw hat boy"
+      }
+    },
+    {
+      "text": "Dragon didn't save Luffy in Loguetown by accident...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Loguetown storm",
+        "fallback": "cloaked man in a storm"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Monkey_D._Dragon",
+    "https://www.cbr.com/one-piece-chapter-1101-monkey-d-dragon-loguetown-explained/",
+    "https://onepiece.fandom.com/wiki/Monkey_D._Garp/History",
+    "https://www.cbr.com/one-piece-monkey-d-dragon-explained/"
+  ],
+  "self_check": {
+    "hook": "claim in line 1 that the rescue was deliberate",
+    "loop": "last line repeats line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "HUzAwEcfIm4",
+    "publish_at": "2026-10-05T22:00:00Z",
+    "url": "https://youtu.be/HUzAwEcfIm4",
+    "comment": "Is Dragon a loving father who watches from afar, or a leader who only cares about Luffy as a weapon? Pick one.",
+    "comment_posted": false
+  }
+}
