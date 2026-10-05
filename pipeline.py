@@ -15,6 +15,7 @@ import requests
 
 load_dotenv()
 import images
+import music as music_lib
 import tts
 import upload
 import video
@@ -75,7 +76,32 @@ def find_related_long_url(related_id: str) -> str | None:
 # can be read.
 BEAT = {"short": 1.0, "long": 1.7}
 MAX_BEATS = {"short": 4, "long": 3}
-PAUSE_SCALE = {"short": 1.0, "long": 0.6}   # long videos: tighter gaps between lines (pauses ate ~20% of runtime)
+PAUSE_SCALE = {"short": 1.0, "long": 1.0}   # line ends are trimmed now (tts.py), so long needs no extra squeeze
+
+
+MISSING_NAMES = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data", "pronounce_missing.md")
+
+
+def note_unknown_names(script_id: str, lines: list) -> None:
+    """Names the voice had to guess (not in Kokoro's dictionary or pronounce.json) go to data/pronounce_missing.md,
+    which the writer clears by adding pronounce.json entries (WRITER.md, Pronunciation)."""
+    names = sorted({n for line in lines for n in tts.unknown_names(line.get("text", ""))})
+    if not names:
+        return
+    print(f"  names without a pronunciation entry (guessed): {', '.join(names)}", flush=True)
+    seen = set()
+    if os.path.exists(MISSING_NAMES):
+        with open(MISSING_NAMES, encoding="utf-8") as f:
+            seen = {ln[2:].split(" (")[0] for ln in f if ln.startswith("- ")}
+    new = [n for n in names if n not in seen]
+    if not new:
+        return
+    if not os.path.exists(MISSING_NAMES):
+        with open(MISSING_NAMES, "w", encoding="utf-8") as f:
+            f.write("# Names the voice had to guess\n\nAdd each to pronounce.json (see WRITER.md, Pronunciation), "
+                    "then delete its line here.\n\n")
+    with open(MISSING_NAMES, "a", encoding="utf-8") as f:
+        f.writelines(f"- {n} ({script_id})\n" for n in new)
 
 
 def beat_cuts(seg: float, rel_words: list, n: int) -> list:
@@ -93,7 +119,7 @@ def beat_cuts(seg: float, rel_words: list, n: int) -> list:
     return cuts + [seg]
 
 
-def beat_clips(script, fmt, lines, segs, line_starts, line_words_rel, work, seed):
+def beat_clips(script, fmt, lines, segs, line_starts, line_words_rel, work, seed, ass=None):
     """1-4 pictures per line (Shorts) or 1-3 (long), each picked for that line from the wiki pages the video is
     about (visuals.rank), cut on word boundaries, with every clip's length laid on one 30 fps frame grid so
     hundreds of cuts never drift from the voice. Long videos: a line's `card` text appears over its first beat."""
@@ -149,13 +175,14 @@ def beat_clips(script, fmt, lines, segs, line_starts, line_words_rel, work, seed
             if not os.path.exists(clip):
                 title = ((chapter_at[i], b == 0, b == len(cuts) - 2) if fmt == "long" and i in chapter_at else None)
                 jobs.append((imgs[b], f1 - f0, clip, k, line.get("fx", "none") if b == 0 else "none", tight[b], fmt,
-                             line.get("card") if b == 0 and fmt == "long" and i not in chapter_at else None, title))
+                             line.get("card") if b == 0 and fmt == "long" and i not in chapter_at else None, title,
+                             (ass, f0 / video.FPS) if ass else None))
             clips.append(clip)
             k += 1
     # every picture is chosen in order above (no repeats); the ffmpeg renders are independent, so run them side by side
     from concurrent.futures import ThreadPoolExecutor
     with ThreadPoolExecutor(max_workers=os.cpu_count() or 2) as pool_:
-        list(pool_.map(lambda j: video.beat_clip(*j[:6], fmt=j[6], card=j[7], title=j[8]), jobs))
+        list(pool_.map(lambda j: video.beat_clip(*j[:6], fmt=j[6], card=j[7], title=j[8], subs=j[9]), jobs))
     print(f"  {len(clips)} cuts, {sum(segs) / max(1, len(clips)):.2f} s per picture", flush=True)
     if missing > len(lines) / 2:                       # wiki and AI both down: retry on the next run, don't publish
         raise RuntimeError(f"no picture for {missing} of {len(lines)} lines (wiki or image backends unreachable)")
@@ -245,6 +272,10 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
         t += seg
 
     total_duration = t
+    try:
+        note_unknown_names(script_id, lines)
+    except Exception as e:
+        print(f"  pronunciation check skipped ({e})", flush=True)
     narration_wav = os.path.join(work, "narration.wav")
     if not os.path.exists(narration_wav):
         print("  Concatenating padded audio...", flush=True)
@@ -252,7 +283,10 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
 
     # 3. Visuals & video clips
     print(f"Step 3: Fetching visuals and generating clips ({fmt})...", flush=True)
-    clips, pool = beat_clips(script, fmt, lines, segs, line_starts, line_words_rel, work, seed)
+    long_ass = None
+    if fmt == "long":                                  # burned into each beat clip (the joined video is stream-copied)
+        long_ass = video.captions_ass(words, os.path.join(work, "captions_long.ass"), fmt)
+    clips, pool = beat_clips(script, fmt, lines, segs, line_starts, line_words_rel, work, seed, ass=long_ass)
     last_img = next((p for p in sorted(glob.glob(os.path.join(work, "img", "*.jpg")))), None)
 
     # 4. SFX events
@@ -281,12 +315,21 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
     # 5. Captions, Music bed & Render
     print("Step 5: Generating subtitles, background track, and rendering...", flush=True)
     ass_path = None
-    if fmt == "short":                                 # long videos get an uploaded caption track instead
+    if fmt == "short":                                 # long videos burn captions per beat clip (step 3)
         ass_path = video.captions_ass(words, os.path.join(work, "captions.ass"), fmt,
                                       hook_text=script.get("hook_text"), hook_secs=2.6)
 
     mood = script.get("music_mood", "chill")
-    music = video.music_bed(mood, work, total_duration)
+    music_tracks = []
+    try:
+        music, music_tracks = music_lib.bed(mood, work, total_duration, narration_wav, fmt, seed=seed)
+    except Exception as e:
+        print(f"  music bed failed ({e}); using the synthesized pad", flush=True)
+        music = None
+    music_leveled = bool(music)
+    if not music:
+        music = video.music_bed(mood, work, total_duration)
+    print(f"  music: {', '.join(os.path.basename(t) for t in music_tracks) or 'synthesized pad'}", flush=True)
 
     final_mp4 = os.path.join(work, "final.mp4")
     if not os.path.exists(final_mp4):
@@ -301,6 +344,7 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
             music=music,
             sfx_events=sfx_events,
             chapter_marks=chapter_marks,
+            music_leveled=music_leveled,
         )
 
     # 6. Format checks & long assets
@@ -357,6 +401,14 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
             desc_blocks.append(f"Full breakdown on the channel: {rl_url}")
         else:
             desc_blocks.append("Full breakdown on the channel")
+
+    # Credits: rights holders of the series, the wiki the stills came from, the music (CC BY requires it, and the
+    # composer's Content ID releases videos that credit him), and a plain fan-commentary note.
+    series_cfg = next((s for s in channel_cfg.get("series", []) if s.get("id") == script.get("series")), {})
+    credit_lines = [series_cfg.get("credit", ""), music_lib.credit(music_tracks), channel_cfg.get("fair_use_note", "")]
+    credits = "\n".join(c for c in credit_lines if c)
+    if credits:
+        desc_blocks.append(credits)
 
     hashtags = script.get("hashtags", [])
     if hashtags:

@@ -166,11 +166,18 @@ Every script must match this schema exactly. `examples/short.json` is a complete
 - **Banned Words (Validator rejects these)**: `delve`, `tapestry`, `testament`, `embark`, `realm`, `unleash`, `in this video`, `let's dive`, `buckle up`, `little did`, `without further ado`, `journey`, `game-changer`.
 - **Numbers & Symbols**: Numbers as digits are fine ("chapter 1194"). Avoid symbols like `%`, `&`, `/` in narration; spell them out.
 - **Delivery Enums**:
-  - `normal`: standard baseline pace.
-  - `punch`: accelerated delivery for hard claims (1.06x speed, 0.12 s pause).
-  - `reveal`: slower delivery before/at the payoff (0.94x speed, 0.55 s pause).
-  - `aside`: quick parenthetical comment (1.08x speed, 0.15 s pause).
-  - `slow`: emotional or dramatic beats (0.9x speed, 0.45 s pause).
+  - `normal`: standard baseline pace (0.10 s pause).
+  - `punch`: accelerated delivery for hard claims (1.06x speed, 0.05 s pause).
+  - `reveal`: slower delivery before/at the payoff (0.94x speed, 0.35 s pause). Use 1-2 per Short: it is the only real silence.
+  - `aside`: quick parenthetical comment (1.08x speed, 0.06 s pause).
+  - `slow`: emotional or dramatic beats (0.9x speed, 0.28 s pause).
+- **Pronunciation (`pronounce.json`)**: the voice guesses names it doesn't know, and viewers mock wrong ones
+  ("SASS OOK" for Sasuke). Before pushing, check every character, place and technique name in your lines against
+  `pronounce.json`. If a Japanese or invented name is missing, add it in the same commit as
+  `"Name": ["Fan-style respelling", "phonemes"]`, copying the pattern of a similar entry (`a` in "Haki" is `ɑ`,
+  "ee" is `i`, "oo" is `u`, "oh" is `O`, "ay" is `A`, "eye" is `I`; put `ˈ` before the stressed vowel).
+  Common English words and names (Shanks, Ace, Garp) need no entry. Also read `data/pronounce_missing.md` at the
+  start of a session: it lists names the renderer had to guess; add entries for them and clear the list.
 - **FX Enums**: `none`, `zoom` (reveals/drift), `shake` (impacts/clashes), `flash` (white flash, max 2 per Short). Apply FX to ~1 in 3 lines.
 - **Engagement**: Never ask for likes/subscribes in narration (it destroys the loop). Put a divisive either/or question in `comment`.
 

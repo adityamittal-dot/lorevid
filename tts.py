@@ -2,6 +2,7 @@
 import asyncio
 import json
 import os
+import re
 import subprocess
 import numpy as np
 import soundfile as sf
@@ -32,13 +33,72 @@ VOICES = {
     "bf_isabella": "British female, warm, mature",
 }
 
+# (speed multiplier, pause after the line in seconds). The niche's top Shorts run 190-210 wpm with almost no
+# dead air; ours had 11-13 gaps over 0.5 s per Short. Only `reveal` and `slow` keep a real beat of silence.
 DELIVERY = {
-    "normal": (1.0, 0.22),
-    "punch": (1.06, 0.12),
-    "reveal": (0.94, 0.55),
-    "aside": (1.08, 0.15),
-    "slow": (0.9, 0.45),
+    "normal": (1.0, 0.10),
+    "punch": (1.06, 0.05),
+    "reveal": (0.94, 0.35),
+    "aside": (1.08, 0.06),
+    "slow": (0.9, 0.28),
 }
+
+PRONOUNCE_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "pronounce.json")
+_lexicon = None
+
+
+def lexicon():
+    """{word: [fan respelling, Kokoro phonemes]} from pronounce.json. Kokoro's own guesses for anime names are wrong
+    ("Sasuke" came out as "SASS-ook", "Haki" as "HACK-ee") and viewers called it out in the comments."""
+    global _lexicon
+    if _lexicon is None:
+        try:
+            with open(PRONOUNCE_FILE, encoding="utf-8") as f:
+                _lexicon = json.load(f)
+        except (OSError, ValueError):
+            _lexicon = {}
+    return _lexicon
+
+
+_NAME_RE = re.compile(r"\b([A-Z][A-Za-z]+(?:-[A-Z][A-Za-z]+)?)('s|s')?(?![\w-])")
+
+
+def apply_lexicon(text):
+    """Swap lexicon names for Kokoro's inline phoneme syntax: "Sasuke's" -> "[Sasuke's](/sˈɑskAz/)".
+    The bracketed word is what Kokoro reports as the token text, so captions keep the normal spelling."""
+    lex = lexicon()
+
+    def rep(m):
+        word, suffix = m.group(1), m.group(2) or ""
+        entry = lex.get(word)
+        if not entry:
+            return m.group(0)
+        ph = entry[1]
+        if suffix:
+            ph += "ᵻz" if ph[-1] in "szʃʒʧʤ" else ("s" if ph[-1] in "ptkfθ" else "z")
+        return f"[{word}{suffix}](/{ph}/)"
+
+    return _NAME_RE.sub(rep, text)
+
+
+def unknown_names(text):
+    """Capitalised words neither Kokoro's dictionary nor pronounce.json knows (Kokoro guesses these)."""
+    try:
+        g2p = _get_pipeline("a").g2p
+        known = g2p.lexicon.golds, g2p.lexicon.silvers
+    except Exception:
+        return []
+    out = []
+    for m in _NAME_RE.finditer(text):
+        w = m.group(1)
+        if w in lexicon() or any(w in d or w.lower() in d for d in known):
+            continue
+        parts = w.split("-")
+        if len(parts) > 1 and all(p in lexicon() or any(p in d or p.lower() in d for d in known) for p in parts):
+            continue
+        out.append(w)
+    return out
+
 
 def duration(path):
     out = subprocess.check_output(
@@ -128,7 +188,7 @@ def _kokoro(text, out_wav, speed=1.0, voice=None):
     has_missing_timestamps = False
     prefix_punct = ""
 
-    for r in pipe(text, voice=kokoro_voice, speed=speed):
+    for r in pipe(apply_lexicon(text), voice=kokoro_voice, speed=speed):
         audio = r.audio
         if hasattr(audio, "detach"):
             audio = audio.detach()
@@ -193,6 +253,15 @@ def _kokoro(text, out_wav, speed=1.0, voice=None):
         raise RuntimeError("Kokoro produced no audio")
 
     audio_data = np.concatenate(parts)
+    # Kokoro pads every line with ~0.2 s of silence at each end; between lines that stacked into dead air
+    # (11-13 gaps over 0.5 s per Short, where the top Shorts in the niche have 0-1). Trim to 40 ms.
+    loud = np.flatnonzero(np.abs(audio_data) > 0.02 * (np.abs(audio_data).max() or 1))
+    if len(loud):
+        head = max(0, loud[0] - 960)
+        tail = min(len(audio_data), loud[-1] + 960)
+        audio_data = audio_data[head:tail]
+        shift = head / 24000.0
+        words = [(round(max(0.0, s - shift), 3), round(max(0.0, e - shift), 3), w) for s, e, w in words]
     parent = os.path.dirname(os.path.abspath(out_wav))
     if parent:
         os.makedirs(parent, exist_ok=True)

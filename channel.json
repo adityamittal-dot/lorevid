@@ -25,7 +25,8 @@
         "what if zoro",
         "imu theory",
         "elbaf one piece"
-      ]
+      ],
+      "credit": "One Piece © Eiichiro Oda / Shueisha / Toei Animation. Stills and manga panels via the One Piece Wiki (Fandom)."
     },
     {
       "id": "naruto",
@@ -46,7 +47,8 @@
         "what if naruto",
         "boruto two blue vortex theory",
         "naruto theory"
-      ]
+      ],
+      "credit": "Naruto © Masashi Kishimoto / Shueisha / Studio Pierrot. Boruto: Two Blue Vortex © Ukyo Kodachi, Mikio Ikemoto / Shueisha. Stills and manga panels via Narutopedia (Fandom)."
     },
     {
       "id": "jjk",
@@ -67,7 +69,8 @@
         "jujutsu kaisen theory",
         "what if sukuna",
         "jjk season 4"
-      ]
+      ],
+      "credit": "Jujutsu Kaisen © Gege Akutami / Shueisha / MAPPA. Stills and manga panels via the Jujutsu Kaisen Wiki (Fandom)."
     }
   ],
   "series_weights": {
@@ -133,5 +136,6 @@
     "m": 3,
     "a": 2,
     "b": 2
-  }
+  },
+  "fair_use_note": "Fan-made commentary and theory, not affiliated with the creators. All anime and manga images belong to their rights holders and are used here for commentary and discussion."
 }

@@ -23,10 +23,11 @@ The channel publishes roughly **7 vertical Shorts per day** alongside **long-for
 ## Visuals, Voice & Editing
 
 - **Visual Sourcing**: `visuals.py` pulls every image on the wiki articles in the script's `pages` (and its wiki `sources`) from the public Fandom MediaWiki APIs, adds a file search on each line's `shot.search`, and ranks files by how many words their descriptive names share with the search words and the spoken line ("Zoro Stabs Sommers Chest.png"). Manga panels and anime screenshots only: icons, logos, merchandise, figure lines and game renders are filtered out. Line 1 opens on the most colourful close-up match. AI images (`images.py`) are a last resort when the wiki has nothing. Stills only, shown under commentary; never episode footage.
-- **Voice Narration**: Voiced by Kokoro TTS using a custom weighted blend (`voice_blend` in `channel.json`, defaulting to 65% `am_michael` + 35% `am_fenrir`) running locally on CPU.
+- **Voice Narration**: Kokoro TTS with a weighted blend (`voice_blend` in `channel.json`, 65% `am_michael` + 35% `am_fenrir`) on CPU. Anime names are read from `pronounce.json` (fan pronunciation as phonemes), because Kokoro's own guesses were wrong ("Sasuke" came out as "SASS-ook") and viewers said so in the comments. Names the voice still had to guess are logged to `data/pronounce_missing.md` for the writer to add. Each line's built-in silence is trimmed and pauses are short, so Shorts run ~190-205 wpm with almost no dead air, like the niche's top Shorts. Chatterbox (Turbo/Nano) was tested on 2026-10-05 and not adopted: worse on anime names even with respellings, 3-5x slower than Kokoro on the 4-core CI runner, and no word timestamps for captions.
+- **Music**: real cinematic tracks from Scott Buckley's CC BY 4.0 library (`music.py`, mapped to the five `music_mood`s), downloaded and cached in CI, cut at the track's most energetic stretch and leveled 6 dB (Shorts) / 9 dB (long) under the voice with light ducking. Every video that uses a track gets the required credit line in its description. Any licensed MP3 dropped into `music/<mood>/` joins the pool.
 - **Dynamic Editing**:
   - **Shorts**: Full-screen pictures (content-aware 9:16 crop, no blurred bars) that change about every second: each line is split into 1-4 beats on word boundaries, each beat a different matching picture (or a punch-in recut when only one matches), with push-in / pull-out / drift motion. Plus punch zooms, camera shakes, flashes, procedural sound effects (whoosh, hit, riser), top-screen hook text (~2.5s), and two-word ASS captions with the active word highlighted in yellow (`#FFD21E`). Endings loop naturally into the hook. This matches what the top theory Shorts in the niche do (a cut every 0.8-1.2 s, full-bleed art).
-  - **Long Videos**: Built on what the niche's top long videos do (Facadify, Strawhatists, GrandLineReview): hard cuts to a new matching picture about every 1.7 s, anime stills full-frame and manga pages shown whole on a blurred backdrop, big keyword cards (`card`: "CHAPTER 1194"), chapter title cards and YouTube chapters, ~180 wpm narration (`speed.long` 1.18, tighter pauses), an uploaded caption track, and a 1280x720 thumbnail: one huge saturated character or a two-character split (`thumbnail.search2`), with 0-3 words along the bottom.
+  - **Long Videos**: Built on what the niche's top long videos do (Facadify, Strawhatists, GrandLineReview): hard cuts to a new matching picture about every 1.7 s, anime stills full-frame and manga pages shown whole on a blurred backdrop, big keyword cards (`card`: "CHAPTER 1194"), chapter title cards and YouTube chapters, ~180 wpm narration (`speed.long` 1.18, tighter pauses), captions burned into the picture (drawn per beat clip, since the joined video is stream-copied) plus an uploaded caption track, and a 1280x720 thumbnail: one huge saturated character or a two-character split (`thumbnail.search2`), with 0-3 words along the bottom.
 
 ---
 
@@ -43,9 +44,9 @@ Key settings are configured in `channel.json` or through GitHub repository varia
 | **Voice Override** | Repo Variable `KOKORO_VOICE` | Voice ID (e.g. `am_michael`) | Overrides the voice blend with a single voice. |
 | **Series & Weights** | `channel.json` (`series_weights`) | Franchise weight map | Topic distribution across One Piece, Naruto, and JJK. |
 | **AI Disclosure** | Repo Variable `SYNTHETIC_DISCLOSURE` | `0` (default) or `1` | Sets YouTube's altered/synthetic content disclosure flag. |
-| **Background Music** | Folder `music/<mood>/` | `hype`, `suspense`, `emotional`, `epic`, `chill` | Royalty-free MP3 tracks from YouTube Audio Library. |
+| **Background Music** | `music.py` `TRACKS`, or folder `music/<mood>/` | `hype`, `suspense`, `emotional`, `epic`, `chill` | Scott Buckley CC BY 4.0 tracks (credited automatically) plus any licensed MP3s you add. |
 
-*Note: If a mood folder is empty, the pipeline synthesizes a tasteful ambient background pad automatically.*
+*Note: if no track can be downloaded, the pipeline falls back to a synthesized ambient pad.*
 
 ---
 
@@ -74,5 +75,5 @@ Key settings are configured in `channel.json` or through GitHub repository varia
 ## Monetization & Fair Use
 
 - **YouTube Partner Program (YPP)**: Requires 1,000 subscribers and either 10M Shorts views in 90 days or 4,000 public watch hours. (Note: Starting 1 Feb 2027, new YPP thresholds adjust to 20M Shorts views or 8,000 watch hours). Long-form videos provide the most reliable path to meeting watch-hour criteria.
-- **Copyright & Fair Use**: Content consists of original commentary illustrated by brief still images and manga panels. Raw anime footage or full scenes are never used. Content ID rarely matches still images; if a claim arrives, it usually only redirects that video's ad money. Dispute only when the video is clearly commentary.
+- **Copyright & Fair Use**: Every description credits the series' rights holders and the wiki the stills came from (`credit` per series in `channel.json`), the music (CC BY), and states that the video is fan commentary. Content consists of original commentary illustrated by brief still images and manga panels. Raw anime footage or full scenes are never used. Content ID rarely matches still images; if a claim arrives, it usually only redirects that video's ad money. Dispute only when the video is clearly commentary.
 - **Archive**: Former history-channel assets and scripts remain archived in `archive/history/`.

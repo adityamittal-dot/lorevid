@@ -88,6 +88,15 @@ jobs:
         uses: actions/cache@v6
         with: {path: ~/.cache/huggingface, key: kokoro-v2}
 
+      - name: Cache music library
+        if: steps.collect.outputs.n != '0'
+        uses: actions/cache@v6
+        with: {path: music/library, key: music-library-v1}
+
+      - name: Music library
+        if: steps.collect.outputs.n != '0'
+        run: python music.py fetch || echo "::warning::music download failed; videos fall back to the synthesized pad"
+
       - name: Render and publish
         if: steps.collect.outputs.n != '0'
         env:
@@ -114,7 +123,7 @@ jobs:
             done
             if [ "$ok" = 1 ]; then
               rm -f "scripts/queue/.fails/$id"
-              git add -A scripts; git diff --staged --quiet || git commit -qm "published $id"
+              git add -A scripts; git add data/pronounce_missing.md 2>/dev/null || true; git diff --staged --quiet || git commit -qm "published $id"
             else
               failed=1
               # a script that fails on 3 separate runs is parked in scripts/failed/ so it stops blocking the queue
@@ -124,7 +133,7 @@ jobs:
                 mkdir -p scripts/failed; git mv "$f" "scripts/failed/$id.json"; rm -f "scripts/queue/.fails/$id"
                 [ -n "$NTFY_TOPIC" ] && curl -s -d "Parked $id in scripts/failed after 3 failed runs. Move it back to scripts/queue to retry." "ntfy.sh/$NTFY_TOPIC" > /dev/null
               fi
-              git add -A scripts; git diff --staged --quiet || git commit -qm "render failed $id ($n)"
+              git add -A scripts; git add data/pronounce_missing.md 2>/dev/null || true; git diff --staged --quiet || git commit -qm "render failed $id ($n)"
               echo "::error::$id failed"
             fi
             push || echo "::error::push failed after $id"

@@ -91,13 +91,15 @@ def _title_filter(title, n, fade_in, fade_out):
             f"shadowx=3:shadowy=3:shadowcolor=black@0.8:alpha='{a_in}*{a_out}':x=(w-text_w)/2:y=h*0.75")
 
 
-def beat_clip(img, frames, out, k, fx="none", tight=False, fmt="short", card=None, title=None):
+def beat_clip(img, frames, out, k, fx="none", tight=False, fmt="short", card=None, title=None, subs=None):
     """One beat: a still that fills the whole frame (content-aware crop, no blurred bars) and moves:
     push-in, pull-out or a slow drift, rotating by k. fx: zoom = punch-in, shake = decaying camera shake, flash = white flash. Exactly `frames` frames.
     tight: a punch-in recut of the same picture (70% of the crop, upper middle) so a line never holds one frame.
     Long videos: portrait pictures (manga pages) are shown whole on a blurred backdrop instead of cropped,
     and `card` puts a big keyword over the first 1.6 s. title = (text, first beat?, last beat?) draws the chapter
-    title; long beats also carry the vignette, since long videos are not re-encoded after joining."""
+    title; long beats also carry the vignette, since long videos are not re-encoded after joining.
+    subs = (ass path, start second of this beat in the video): burns the captions in (long videos are joined by
+    stream copy, so captions are drawn per beat, with timestamps shifted to the beat's place in the video)."""
     import framing
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     vw, vh = W[fmt], H[fmt]
@@ -143,6 +145,9 @@ def beat_clip(img, frames, out, k, fx="none", tight=False, fmt="short", card=Non
         post += _card_filter(card, n)
     if title and os.path.exists(FONT):
         post += _title_filter(title[0], n, title[1], title[2])
+    if subs and subs[0] and os.path.exists(subs[0]):
+        post += (f",setpts=PTS+{subs[1]:.3f}/TB,subtitles=filename='{_esc(subs[0])}':fontsdir='{_esc(FONTS_DIR)}',"
+                 f"setpts=PTS-STARTPTS")
     vf = (f"zoompan=z='{z}':x='{x}':y='{y}':d={n}:s={vw}x{vh}:fps={FPS},"
           f"eq=contrast=1.05:saturation=1.10{post},format=yuv420p")
     run(["ffmpeg", "-y", "-i", canvas, "-vf", vf, "-frames:v", str(n), "-c:v", "libx264", "-preset", "veryfast",
@@ -233,7 +238,7 @@ def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
         lines.append("Style: Default,Anton,116,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,3,2,40,40,730,1")
         lines.append("Style: Hook,Anton,112,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,3,10,0,8,40,40,300,1")
     else:
-        lines.append("Style: Default,Anton,58,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,4,1,2,60,60,130,1")
+        lines.append("Style: Default,Anton,66,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,80,80,70,1")
 
     lines.extend(["", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"])
 
@@ -313,7 +318,7 @@ def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
     return path
 
 
-def render(clips, segs, narration_wav, out, fmt, ass=None, music=None, sfx_events=(), chapter_marks=()):
+def render(clips, segs, narration_wav, out, fmt, ass=None, music=None, sfx_events=(), chapter_marks=(), music_leveled=False):
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     temp_dir = os.path.join(os.path.dirname(os.path.abspath(out)), f"_tmp_{os.path.basename(out)}")
     os.makedirs(temp_dir, exist_ok=True)
@@ -349,13 +354,21 @@ def render(clips, segs, narration_wav, out, fmt, ass=None, music=None, sfx_event
         cmd.extend(["-stream_loop", "-1", "-i", music])
         music_idx = next_idx
         next_idx += 1
-        m_vol = 0.12 if fmt == "short" else 0.08
-        fade_out_st = max(0.0, total_dur - 2.5)
         fc_parts.append(f"[1:a]asplit=2[narr_main][narr_sc]")
-        fc_parts.append(
-            f"[{music_idx}:a]volume={m_vol},afade=t=in:d=1.5,afade=t=out:st={fade_out_st:.2f}:d=2.0[m_pre];"
-            f"[m_pre][narr_sc]sidechaincompress=threshold=0.03:ratio=4:attack=50:release=400[m_ducked]"
-        )
+        if music_leveled:
+            # music.bed() already sits 6-9 dB under the voice and is faded; duck ~4-6 dB under words so the
+            # music stays audible in every gap, like the niche's top Shorts (bed 5-8 dB under the voice)
+            fc_parts.append(
+                f"[{music_idx}:a]anull[m_pre];"
+                f"[m_pre][narr_sc]sidechaincompress=threshold=0.06:ratio=2.5:attack=30:release=350:makeup=1[m_ducked]"
+            )
+        else:
+            m_vol = 0.12 if fmt == "short" else 0.08
+            fade_out_st = max(0.0, total_dur - 2.5)
+            fc_parts.append(
+                f"[{music_idx}:a]volume={m_vol},afade=t=in:d=1.5,afade=t=out:st={fade_out_st:.2f}:d=2.0[m_pre];"
+                f"[m_pre][narr_sc]sidechaincompress=threshold=0.03:ratio=4:attack=50:release=400[m_ducked]"
+            )
         tracks_to_mix.append("[narr_main]")
         tracks_to_mix.append("[m_ducked]")
     else:
