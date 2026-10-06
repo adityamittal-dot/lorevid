@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-06-m3",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Whitebeard lending Oden to Roger is why Roger reached Laugh Tale",
+  "title": "Whitebeard Lent Roger The Key To Laugh Tale",
+  "description": "Roger begged Whitebeard to let Oden sail with him, and that single loan may be why the Pirate King reached Laugh Tale. Here's the detail most fans forget. Was Oden the real key to the Road Poneglyphs?",
+  "hashtags": [
+    "#oden",
+    "#whitebeard",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "oden road poneglyphs",
+    "whitebeard roger oden",
+    "roger laugh tale",
+    "one piece poneglyphs",
+    "oden roger pirates",
+    "one piece lore",
+    "one piece void century"
+  ],
+  "hook_text": "WHITEBEARD'S SECRET GIFT",
+  "music_mood": "epic",
+  "comment": "Did Roger need Oden to read the Road Poneglyphs, or could he have done it alone? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Oden Kozuki",
+    "Gol D. Roger",
+    "Edward Newgate",
+    "Road Poneglyph"
+  ],
+  "lines": [
+    {
+      "text": "Whitebeard is the reason Roger reached Laugh Tale.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Whitebeard Roger Laugh Tale",
+        "fallback": "old pirate captain with crescent moustache"
+      }
+    },
+    {
+      "text": "Not his fleet. Not his Haki. One man he lent away.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Oden Roger",
+        "fallback": "pirate captain handing over a young samurai"
+      }
+    },
+    {
+      "text": "That man was Oden.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Oden Kozuki Roger Pirates",
+        "fallback": "long haired samurai on a pirate ship"
+      }
+    },
+    {
+      "text": "Roger needed someone who could read the Road Poneglyphs, so he begged Whitebeard to let Oden join him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Roger begs Whitebeard Oden",
+        "fallback": "pirate bowing before a giant captain"
+      }
+    },
+    {
+      "text": "Oden agreed, and joined the Roger Pirates.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Oden joins Roger Pirates",
+        "fallback": "samurai joining a pirate crew"
+      }
+    },
+    {
+      "text": "Here's the detail most people forget.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Oden Roger Skypiea Poneglyph",
+        "fallback": "samurai reading a stone pillar"
+      }
+    },
+    {
+      "text": "At Skypiea, Oden deciphered the Poneglyph by the Golden Belfry Bell, and wrote Roger's own message beside it.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Oden Skypiea Poneglyph Golden Belfry Bell",
+        "fallback": "samurai carving beside a giant golden bell"
+      }
+    },
+    {
+      "text": "People say Roger could read Poneglyphs himself.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Roger reads Poneglyph",
+        "fallback": "pirate king studying ancient stone"
+      }
+    },
+    {
+      "text": "Sure. But then why beg Whitebeard at all?",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Roger Whitebeard Oden",
+        "fallback": "pirate king asking a giant captain a favor"
+      }
+    },
+    {
+      "text": "Whitebeard handed the Pirate King his finish line, and I think he knew it.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Roger Laugh Tale Oden",
+        "fallback": "old captain smiling at a departing ship"
+      }
+    },
+    {
+      "text": "Because Whitebeard is the reason Roger reached Laugh Tale.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Roger Laugh Tale",
+        "fallback": "old pirate captain with crescent moustache"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Poneglyph",
+    "https://www.reddit.com/r/OnePieceSpoilers/comments/1blis96/how_did_roger_get_all_the_road_poneglyphs/",
+    "https://www.facebook.com/ryzenedit.onepiece/posts/when-roger-discovered-that-oden-could-read-the-road-poneglyphs-he-knew-he-needed/654978957539321/"
+  ],
+  "self_check": {
+    "hook": "claim in line 1",
+    "loop": "last line returns to line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "KEmZ6fPv9n0",
+    "publish_at": "2026-10-06T17:00:00Z",
+    "url": "https://youtu.be/KEmZ6fPv9n0",
+    "comment": "Did Roger need Oden to read the Road Poneglyphs, or could he have done it alone? Pick one.",
+    "comment_posted": false
+  }
+}
