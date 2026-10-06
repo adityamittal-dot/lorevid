@@ -1,0 +1,175 @@
+{
+  "id": "2026-10-06-a2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Theory: the true final threat in One Piece is the last Ancient Weapon, Uranus, not Imu",
+  "title": "One Piece's Final Boss Isn't Imu, It's Uranus",
+  "description": "Vegapunk's broadcast said the Ancient Weapons flooded the world and still exist. Two of the three are located, so what if the last one is the real final boss? Is Imu the final villain, or is it Uranus?",
+  "hashtags": [
+    "#onepiece",
+    "#imu",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "one piece uranus",
+    "ancient weapons one piece",
+    "one piece final boss",
+    "imu theory",
+    "vegapunk message",
+    "void century",
+    "one piece 1115",
+    "one piece pluton poseidon uranus"
+  ],
+  "hook_text": "NOT IMU",
+  "music_mood": "suspense",
+  "comment": "Is Imu the final villain, or is the last Ancient Weapon the real threat? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Ancient Weapons",
+    "Uranus",
+    "Pluton",
+    "Shirahoshi",
+    "Imu"
+  ],
+  "lines": [
+    {
+      "text": "The final boss of One Piece might not be Imu. It might be Uranus.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Imu Uranus Ancient Weapon",
+        "fallback": "dark ruler on a throne beside a glowing ancient weapon"
+      }
+    },
+    {
+      "text": "Hear me out, because Oda already told us in Vegapunk's broadcast.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vegapunk broadcast Egghead",
+        "fallback": "scientist hologram broadcast to the world"
+      }
+    },
+    {
+      "text": "In chapter 1115, he says the Ancient Weapons raised the sea by two hundred meters.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Vegapunk Void Century flooded continents",
+        "fallback": "world map with sunken continents under rising sea"
+      }
+    },
+    {
+      "text": "Whole continents went under, and he says the weapons still exist today.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vegapunk Ancient Weapons still exist",
+        "fallback": "giant ancient weapon buried underground"
+      }
+    },
+    {
+      "text": "So the Great War isn't over. It's just waiting.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Joy Boy Great War Void Century",
+        "fallback": "ancient war scene with a figure in a white outfit"
+      }
+    },
+    {
+      "text": "Count the weapons. Poseidon is Shirahoshi, and Pluton sleeps under Wano.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shirahoshi Poseidon Pluton Wano",
+        "fallback": "giant mermaid princess and ancient warship under a mountain"
+      }
+    },
+    {
+      "text": "That's two accounted for. Uranus is the only one nobody has located.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Uranus Ancient Weapon unknown",
+        "fallback": "mysterious glowing sky weapon silhouette"
+      }
+    },
+    {
+      "text": "Vegapunk and Ivankov think a weapon powered by the Mother Flame destroyed Lulusia.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Lulusia Kingdom destroyed Mother Flame",
+        "fallback": "kingdom burning under a huge flame"
+      }
+    },
+    {
+      "text": "It might be Uranus, it might not. But it points to something still hidden.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Lulusia Ivankov Vegapunk Ancient Weapon",
+        "fallback": "revolutionary leader looking at a ruined kingdom"
+      }
+    },
+    {
+      "text": "People say Imu is the final villain, because he sits on the throne.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Mary Geoise throne",
+        "fallback": "shadowy ruler on a throne in a vast palace"
+      }
+    },
+    {
+      "text": "But beating Imu doesn't turn the weapons off.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Luffy Imu Ancient Weapons battle",
+        "fallback": "hero facing a shadowy ruler in a ruined hall"
+      }
+    },
+    {
+      "text": "Here's my read: whoever controls the last weapon decides how this story ends.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Uranus Ancient Weapon Imu Luffy",
+        "fallback": "glowing weapon between a hero and a dark ruler"
+      }
+    },
+    {
+      "text": "Because the final boss of One Piece might not be Imu...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Uranus Ancient Weapon",
+        "fallback": "dark ruler on a throne beside a glowing ancient weapon"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Ancient_Weapons",
+    "https://onepiece.fandom.com/wiki/Chapter_1115",
+    "https://onepiece.fandom.com/wiki/Uranus",
+    "https://gamerant.com/one-piece-chapter-1115-review-truth-about-ancient-weapons/"
+  ],
+  "self_check": {
+    "hook": "claim in line 1 names One Piece and Imu",
+    "loop": "last line restarts line 1 sentence",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "hY9adH_4oLI",
+    "publish_at": "2026-10-06T22:00:00Z",
+    "url": "https://youtu.be/hY9adH_4oLI",
+    "comment": "Is Imu the final villain, or is the last Ancient Weapon the real threat? Pick one.",
+    "comment_posted": false
+  }
+}

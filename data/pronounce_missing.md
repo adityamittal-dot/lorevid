@@ -4,3 +4,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 
 - Chunin (2026-10-06-a1)
 - Exams (2026-10-06-a1)
+- Ivankov (2026-10-06-a2)
