@@ -1,0 +1,162 @@
+{
+ "id": "2026-10-06-b2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Chapter 585's sake cup pact foreshadows each brother paying for another; Luffy's bill is still unpaid",
+ "title": "The Brothers' Cup In Chapter 585 Was A Prophecy",
+ "description": "In chapter 585 Ace, Sabo and Luffy share sake and become brothers, and Sabo immediately sacrifices himself for them. Here's the pattern across chapters 573 and 744 and why Luffy might be next. Do you buy it?",
+ "hashtags": [
+  "#onepiece",
+  "#luffy",
+  "#sabo",
+  "#ace",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "ace sabo luffy",
+  "brothers sake cups",
+  "one piece 585",
+  "one piece foreshadowing",
+  "sabo mera mera no mi",
+  "ace death marineford",
+  "luffy theory",
+  "one piece brothers"
+ ],
+ "hook_text": "THE CUP PROPHECY",
+ "music_mood": "emotional",
+ "comment": "Does Luffy pay the final price for the brothers' cup, or does he break the pattern?",
+ "related_long": null,
+ "pages": [
+  "Monkey D. Luffy",
+  "Portgas D. Ace",
+  "Sabo",
+  "Mera Mera no Mi",
+  "Marineford Arc"
+ ],
+ "lines": [
+  {
+   "text": "The brothers' cup in chapter 585 was a prophecy, and Oda paid it off again and again.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Luffy Ace Sabo sake cups",
+    "fallback": "three boys sharing cups of sake"
+   }
+  },
+  {
+   "text": "Here's my read, and I think the evidence is brutal.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo Ace Luffy brothers",
+    "fallback": "three brothers on a hill"
+   }
+  },
+  {
+   "text": "Chapter 585. Ace pours sake into three cups, and Luffy, Ace and Sabo become sworn brothers.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ace pours sake Luffy Sabo brothers",
+    "fallback": "boy pouring sake into cups"
+   }
+  },
+  {
+   "text": "Minutes later, Sabo agrees to go home so Ace and Luffy don't get beaten for him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo returns to noble father Bluejam",
+    "fallback": "boy in a top hat taken away by nobles"
+   }
+  },
+  {
+   "text": "That's payment one. Sabo paid for his brothers.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo young goodbye Ace Luffy",
+    "fallback": "crying boys reaching out"
+   }
+  },
+  {
+   "text": "Years later at Marineford, chapter 573, Ace takes Akainu's attack to protect Luffy.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Ace Akainu Marineford Luffy protect",
+    "fallback": "fire fist user shielding a boy from magma"
+   }
+  },
+  {
+   "text": "Payment two. Ace paid for Luffy.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Ace dies Marineford Luffy",
+    "fallback": "fallen fire user in arms of rubber boy"
+   }
+  },
+  {
+   "text": "Then in chapter 744, Sabo eats the Mera Mera no Mi, so Ace's fire ends up with another brother.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Sabo Mera Mera no Mi Ace fire",
+    "fallback": "young man wielding flames"
+   }
+  },
+  {
+   "text": "People say it's just a flashback. But three brothers, three cups, and every sacrifice lands on the next one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo Ace Luffy brothers cups",
+    "fallback": "three brothers silhouette"
+   }
+  },
+  {
+   "text": "And maybe Oda wrote it as pure backstory. I still say it's too clean to be an accident.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Eiichiro Oda Sabo Ace Luffy",
+    "fallback": "manga artist drawing three brothers"
+   }
+  },
+  {
+   "text": "Here's what scares me. Luffy is the one brother who hasn't paid yet.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Gear 5 brothers Ace Sabo",
+    "fallback": "rubber boy looking at the sky"
+   }
+  },
+  {
+   "text": "Because the brothers' cup in chapter 585 was a prophecy...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Ace Sabo sake cups",
+    "fallback": "three boys sharing cups of sake"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://daddyjim.ai/one-piece/manga-chapter/Chapter-585",
+  "https://onepiece.fandom.com/wiki/Chapter_583",
+  "https://onepiece.fandom.com/wiki/Chapter_573",
+  "https://onepiece.fandom.com/wiki/Episode_496",
+  "https://sportskeeda.com/anime/one-piece-episode-1081-how-sabo-became-flame-emperor"
+ ],
+ "self_check": {
+  "hook": "claim in line 1",
+  "loop": "last line restarts line 1",
+  "facts_verified": true
+ }
+}
