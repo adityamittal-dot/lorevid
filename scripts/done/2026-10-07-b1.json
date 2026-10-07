@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-07-b1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Sukuna sensed Yuji's Black Flash coming in chapter 256 and still got hit, because Larue stole his attention, not because Yuji got stronger",
+  "title": "Sukuna Saw Yuji's Black Flash Coming And Still Lost",
+  "description": "Sukuna felt Yuji's Black Flash coming in chapter 256 and still couldn't dodge it. Here's the one detail that explains how Yuji hit the King of Curses. Was it Yuji's skill or Larue's help?",
+  "hashtags": [
+    "#jujutsukaisen",
+    "#yuji",
+    "#sukuna",
+    "#anime"
+  ],
+  "tags": [
+    "jujutsu kaisen theory",
+    "yuji black flash",
+    "yuji vs sukuna",
+    "jjk chapter 256",
+    "black flash explained",
+    "sukuna vs yuji",
+    "yuji itadori awakening",
+    "jjk larue"
+  ],
+  "hook_text": "SUKUNA SAW IT COMING",
+  "music_mood": "suspense",
+  "comment": "Did Yuji earn that Black Flash, or did Larue win that fight for him? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Yuji Itadori",
+    "Ryomen Sukuna",
+    "Black Flash",
+    "Larue",
+    "Chapter 256"
+  ],
+  "lines": [
+    {
+      "text": "Sukuna saw Yuji's Black Flash coming, and he still couldn't dodge it.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Yuji Itadori Black Flash Sukuna",
+        "fallback": "boy with pink hair punching with black lightning sparks"
+      }
+    },
+    {
+      "text": "A Black Flash needs cursed energy to land within a millionth of a second of impact.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Black Flash cursed energy distortion",
+        "fallback": "black lightning sparks around a fist"
+      }
+    },
+    {
+      "text": "Nanami said the first one puts you in the zone, where cursed energy feels like breathing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Black Flash zone Yuji",
+        "fallback": "tall blond sorcerer in a suit"
+      }
+    },
+    {
+      "text": "Now watch Sukuna in chapter 256. He feels the punch coming and he braces for it.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Sukuna senses Yuji Black Flash",
+        "fallback": "tattooed king of curses bracing for a hit"
+      }
+    },
+    {
+      "text": "So why did it land?",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Sukuna Yuji Black Flash lands",
+        "fallback": "black lightning hitting a tattooed demon"
+      }
+    },
+    {
+      "text": "Because Larue used his technique, Cutie Honey, and dragged Sukuna's attention away for one second.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Larue Cutie Honey Sukuna",
+        "fallback": "old man sorcerer pulling attention of a demon"
+      }
+    },
+    {
+      "text": "That's the whole fight. Yuji didn't get stronger in that moment. Sukuna just looked away.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuji Sukuna Black Flash awakening",
+        "fallback": "pink haired boy surrounded by black sparks"
+      }
+    },
+    {
+      "text": "People call it luck. But Sukuna knew the hit was coming, which proves Yuji had earned it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sukuna Yuji Black Flash chapter 256",
+        "fallback": "demon king reacting in shock"
+      }
+    },
+    {
+      "text": "Then in chapter 257 Yuji chained several Black Flashes in a row, so the zone was real.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Yuji consecutive Black Flash Sukuna chapter 257",
+        "fallback": "fists with black lightning in rapid succession"
+      }
+    },
+    {
+      "text": "The strongest curse in history lost the exchange to a distraction and a kid in the zone.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Sukuna Yuji Black Flash",
+        "fallback": "demon king hit by black lightning"
+      }
+    },
+    {
+      "text": "Because Sukuna saw Yuji's Black Flash coming...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sukuna Yuji Black Flash",
+        "fallback": "demon king braced for a punch"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://jujutsu-kaisen.fandom.com/wiki/Chapter_256",
+    "https://jujutsu-kaisen.fandom.com/wiki/Chapter_257",
+    "https://jujutsu-kaisen.fandom.com/wiki/Black_Flash",
+    "https://gamerant.com/jujutsu-kaisen-jjk-yuji-black-flash-awakening/"
+  ],
+  "self_check": {
+    "hook": "Sukuna named in line 1 with a contradiction",
+    "loop": "last line restarts line 1 sentence",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "dHe0URMzwSs",
+    "publish_at": "2026-10-08T00:30:00Z",
+    "url": "https://youtu.be/dHe0URMzwSs",
+    "comment": "Did Yuji earn that Black Flash, or did Larue win that fight for him? Pick one.",
+    "comment_posted": false
+  }
+}
