@@ -1,0 +1,166 @@
+{
+ "id": "2026-10-07-b2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Blackbeard didn't back down from Shanks at Marineford; he'd already got what he came for",
+ "title": "Blackbeard Wasn't Scared Of Shanks At Marineford",
+ "description": "Everyone says Shanks scared Blackbeard off at Marineford. Chapter 580 says something different. Was it fear, or a man who already won?",
+ "hashtags": [
+  "#blackbeard",
+  "#shanks",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "blackbeard",
+  "shanks vs blackbeard",
+  "one piece 580",
+  "marineford ending",
+  "shanks marineford",
+  "blackbeard whitebeard",
+  "one piece blackbeard theory"
+ ],
+ "hook_text": "HE NEVER RAN",
+ "music_mood": "suspense",
+ "comment": "Shanks vs Blackbeard: who actually wins today? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Marshall D. Teach",
+  "Shanks",
+  "Summit War of Marineford",
+  "Edward Newgate"
+ ],
+ "lines": [
+  {
+   "text": "Blackbeard didn't run from Shanks at Marineford.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Blackbeard Shanks Marineford",
+    "fallback": "big bearded pirate facing a red haired pirate"
+   }
+  },
+  {
+   "text": "Everyone says the Red Hair arrived and the war just stopped. But look at who actually walked away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks arrives Marineford war ends",
+    "fallback": "red haired pirate stepping onto a battlefield"
+   }
+  },
+  {
+   "text": "In chapter 580, Shanks turns to Blackbeard, and Blackbeard doesn't flinch.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Blackbeard Marineford chapter 580",
+    "fallback": "red haired pirate confronting a dark pirate"
+   }
+  },
+  {
+   "text": "He's satisfied with what he took, so he postpones the fight and leaves.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blackbeard leaves Marineford",
+    "fallback": "large pirate laughing and walking away"
+   }
+  },
+  {
+   "text": "That isn't a man backing off from a stronger Emperor. That's a man who got what he came for.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Blackbeard Whitebeard fruit Marineford",
+    "fallback": "dark pirate with glowing quake power"
+   }
+  },
+  {
+   "text": "And what he came for was Whitebeard's power.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Blackbeard stole Whitebeard Tremor fruit",
+    "fallback": "dark pirate absorbing quake power"
+   }
+  },
+  {
+   "text": "Here's the part I keep thinking about.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Marineford Sengoku",
+    "fallback": "calm pirate captain speaking to an admiral"
+   }
+  },
+  {
+   "text": "Shanks had fought Kaido the day before, and the Marines were stunned he arrived so fast.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Kaido Marineford",
+    "fallback": "red haired pirate with scarred eye"
+   }
+  },
+  {
+   "text": "Blackbeard saw the same thing, and he still chose the exit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blackbeard Shanks standoff",
+    "fallback": "big pirate smirking"
+   }
+  },
+  {
+   "text": "People say he was scared. But a scared man doesn't call it postponing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blackbeard postpones fight Shanks",
+    "fallback": "pirate with a toothy grin"
+   }
+  },
+  {
+   "text": "The war ended because Blackbeard's errand was finished, and Sengoku knew it.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sengoku accepts ceasefire Shanks",
+    "fallback": "admiral in a coat nodding"
+   }
+  },
+  {
+   "text": "Shanks didn't scare Blackbeard off Marineford. He just got there after Blackbeard had already won.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Blackbeard Marineford",
+    "fallback": "two Emperors facing off"
+   }
+  },
+  {
+   "text": "Blackbeard didn't run from Shanks at Marineford...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blackbeard Shanks Marineford",
+    "fallback": "big bearded pirate"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Chapter_580",
+  "https://onepiece.fandom.com/wiki/Episode_489",
+  "https://onepiece.fandom.com/wiki/Summit_War_of_Marineford"
+ ],
+ "self_check": {
+  "hook": "Blackbeard and Shanks named in line 1",
+  "loop": "last line restarts line 1",
+  "facts_verified": true
+ }
+}
