@@ -1,0 +1,183 @@
+{
+  "id": "2026-10-07-a1",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "Jiraiya built his final message about Pain so that only Naruto's circle could decode it",
+  "title": "Jiraiya's Final Message Was Written For Naruto",
+  "description": "Jiraiya's coded message about Pain used a writing quirk only Naruto would know. Here's why I think the last lesson of Jiraiya was hidden inside the code. Was it for Konoha, or for Naruto?",
+  "hashtags": [
+    "#naruto",
+    "#jiraiya",
+    "#anime"
+  ],
+  "tags": [
+    "naruto theory",
+    "jiraiya",
+    "jiraiya death",
+    "pain arc",
+    "jiraiya code",
+    "naruto shippuden",
+    "jiraiya message",
+    "naruto and jiraiya",
+    "naruto pain"
+  ],
+  "hook_text": "WRITTEN FOR NARUTO",
+  "music_mood": "emotional",
+  "comment": "Was Jiraiya's code made for Naruto on purpose, or was it just a lucky quirk? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Jiraiya",
+    "Pain",
+    "Fukasaku",
+    "Naruto Uzumaki"
+  ],
+  "lines": [
+    {
+      "text": "Jiraiya's last message wasn't written for Konoha. It was written for Naruto.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Jiraiya Naruto Pain arc",
+        "fallback": "old white haired sage writing a code on a toad's back"
+      }
+    },
+    {
+      "text": "And I think that's the detail everyone forgets about his death.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Jiraiya dies Pain",
+        "fallback": "wounded old ninja lying in rain"
+      }
+    },
+    {
+      "text": "Jiraiya dies fighting Pain, but first he scratches a code onto Fukasaku's back.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Jiraiya Fukasaku code back",
+        "fallback": "old toad sage with glowing writing on his back"
+      }
+    },
+    {
+      "text": "Numbers. Pages. Nothing a normal code breaker could crack.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Konoha cryptology team code",
+        "fallback": "ninja scholars staring at coded numbers"
+      }
+    },
+    {
+      "text": "Here's the part I love. Shikamaru sees it right away.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shikamaru decipher Jiraiya code",
+        "fallback": "lazy genius ninja studying paper"
+      }
+    },
+    {
+      "text": "This message was built with Naruto in mind.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Shikamaru Naruto code",
+        "fallback": "two ninjas leaning over a scroll"
+      }
+    },
+    {
+      "text": "Because the nine in the code isn't a nine. Jiraiya just wrote that katakana strangely.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Naruto Jiraiya handwriting nine",
+        "fallback": "blond ninja pointing at a strange number"
+      }
+    },
+    {
+      "text": "Only the student who travelled with him would know.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto Jiraiya travelling",
+        "fallback": "blond boy and white haired man walking road"
+      }
+    },
+    {
+      "text": "The rest points to pages in Make-Out Tactics, and Kakashi has to read it out loud.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Kakashi reads Make-Out Tactics",
+        "fallback": "masked ninja reading an orange book"
+      }
+    },
+    {
+      "text": "People say the code was just Jiraiya being careful. Maybe. But careful doesn't need Naruto.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Jiraiya Make-Out Tactics Naruto",
+        "fallback": "white haired man writing a novel"
+      }
+    },
+    {
+      "text": "The message reads: the real one is not among them.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Pain six paths Jiraiya Animal Path",
+        "fallback": "six pierced ninja bodies standing in rain"
+      }
+    },
+    {
+      "text": "That's how Naruto learns Pain isn't who he seems.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto Pain Nagato truth",
+        "fallback": "blond ninja facing orange haired figure"
+      }
+    },
+    {
+      "text": "Jiraiya didn't just die. He trained his student one last time.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Jiraiya Naruto Mount Myoboku",
+        "fallback": "old master and student under sunset"
+      }
+    },
+    {
+      "text": "Because Jiraiya's last message wasn't written for Konoha.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Jiraiya message Naruto",
+        "fallback": "old sage ninja smiling at a student"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://naruto.fandom.com/wiki/Jiraiya",
+    "https://naruto.fandom.com/wiki/Shiho",
+    "https://criticalhits.com.br/anime/por-qual-motivo-jiraiya-teve-que-codificar-a-mensagem-sobre-pain-em-naruto-shippuden/",
+    "https://www.thetvdb.com/series/naruto-shippuden/episodes/1947791"
+  ],
+  "self_check": {
+    "hook": "claim in line 1",
+    "loop": "last line loops to line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "OYGmubdBuQs",
+    "publish_at": "2026-10-07T19:30:00Z",
+    "url": "https://youtu.be/OYGmubdBuQs",
+    "comment": "Was Jiraiya's code made for Naruto on purpose, or was it just a lucky quirk? Pick one.",
+    "comment_posted": false
+  }
+}
