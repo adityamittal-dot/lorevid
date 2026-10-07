@@ -1,0 +1,128 @@
+{
+  "id": "2026-10-07-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Garp trained an Admiral but lost both grandsons to piracy; what if he kept Luffy",
+  "title": "Garp Raised Kuzan, Then Failed Luffy (One Piece)",
+  "description": "Garp trained a future Admiral and still lost both grandsons to the sea. What if he had never left Luffy on the mountain? Full breakdown on the channel: What If Luffy Joined The Marines?",
+  "hashtags": [
+    "#garp",
+    "#onepiece",
+    "#luffy"
+  ],
+  "tags": [
+    "what if luffy",
+    "garp luffy",
+    "one piece garp",
+    "kuzan garp training",
+    "one piece what if",
+    "one piece theory",
+    "one piece marines",
+    "luffy dream"
+  ],
+  "hook_text": "GARP'S BIGGEST MISTAKE",
+  "music_mood": "emotional",
+  "comment": "Did Garp fail Luffy by leaving him with Dadan, or did he save him? Pick one.",
+  "related_long": "2026-10-07-L",
+  "pages": [
+    "Monkey D. Garp",
+    "Monkey D. Luffy",
+    "Kuzan",
+    "Dadan"
+  ],
+  "lines": [
+    {
+      "text": "Garp trained an Admiral, and he still lost both his grandsons to pirates.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Garp Luffy Ace Marine",
+        "fallback": "anime style garp luffy ace marine, dramatic lighting, no text"
+      }
+    },
+    {
+      "text": "Here's the detail most people forget. The Admiral he trained was Kuzan, the one who later became Aokiji.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Kuzan Aokiji training",
+        "fallback": "anime style garp kuzan aokiji training, dramatic lighting, no text"
+      }
+    },
+    {
+      "text": "And in canon, he did not give Luffy the same lessons for long. He left both boys with Dadan on Mount Colubo.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Dadan Mount Colubo",
+        "fallback": "anime style garp dadan mount colubo, dramatic lighting, no text"
+      }
+    },
+    {
+      "text": "I think the answer is that Luffy still gets stronger, because Garp's methods are brutal and Luffy is rubber.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp fist of love Luffy",
+        "fallback": "anime style garp fist of love luffy, dramatic lighting, no text"
+      }
+    },
+    {
+      "text": "But the Marines can't give him the one thing Chapter 1 already gave him. A dream.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Pirate King dream",
+        "fallback": "anime style luffy pirate king dream, dramatic lighting, no text"
+      }
+    },
+    {
+      "text": "People say Garp could have forced him. But look at how Ace turned out, a pirate anyway.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ace pirate Whitebeard Garp",
+        "fallback": "anime style ace pirate whitebeard garp, dramatic lighting, no text"
+      }
+    },
+    {
+      "text": "So the training works and the Marines don't. That's the twist, a Luffy who is stronger, and still a pirate.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy stronger Garp pirate",
+        "fallback": "anime style luffy stronger garp pirate, dramatic lighting, no text"
+      }
+    },
+    {
+      "text": "Because Garp trained an Admiral, and he still lost both his grandsons to pirates.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp lost grandsons",
+        "fallback": "anime style garp lost grandsons, dramatic lighting, no text"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Monkey_D._Garp",
+    "https://onepiece.fandom.com/wiki/Marineford_Arc",
+    "https://onepiece.fandom.com/wiki/Koby",
+    "https://onepiece.fandom.com/wiki/Monkey_D._Dragon"
+  ],
+  "self_check": {
+    "hook": "Contrarian line naming Garp and the loss",
+    "loop": "last line repeats line 1 so the loop restarts",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "xqm1f6y49O8",
+    "publish_at": "2026-10-07T12:00:00Z",
+    "url": "https://youtu.be/xqm1f6y49O8",
+    "comment": "Did Garp fail Luffy by leaving him with Dadan, or did he save him? Pick one.",
+    "comment_posted": false
+  }
+}
