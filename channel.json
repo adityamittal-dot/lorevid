@@ -78,12 +78,32 @@
     "naruto": 1,
     "jjk": 1
   },
-  "long_days": [
-    "Mon",
-    "Wed",
-    "Fri"
+  "long_schedule": [
+    {
+      "from": "2026-10-09",
+      "days": ["Mon", "Wed", "Fri"]
+    },
+    {
+      "from": "2026-11-02",
+      "days": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+    }
   ],
+  "shorts_per_day": 1,
   "narrator_voice": "am_michael",
+  "banned_phrases": [
+    "to understand how we get there",
+    "remember ",
+    "let's dive in",
+    "buckle up",
+    "in this video",
+    "thanks for watching",
+    "don't forget to subscribe",
+    "smash that like",
+    "without further ado",
+    "little did",
+    "but here's the thing",
+    "fast forward"
+  ],
   "formats": {
     "short": {
       "words": [
@@ -98,7 +118,7 @@
     },
     "long": {
       "words": [
-        1800,
+        2200,
         3000
       ],
       "lines": [
@@ -119,13 +139,8 @@
   "publish": {
     "mode": "schedule",
     "short_slots_utc": [
-      "03:00",
-      "12:00",
       "14:30",
-      "17:00",
-      "19:30",
-      "22:00",
-      "00:30"
+      "17:00"
     ],
     "long_slots_utc": [
       "15:00"

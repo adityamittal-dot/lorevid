@@ -2,7 +2,7 @@
 
 An automated YouTube channel producing high-retention anime theory, breakdown, and "What If" videos covering **One Piece**, **Naruto / Boruto**, and **Jujutsu Kaisen**.
 
-The channel publishes roughly **7 vertical Shorts per day** alongside **long-form breakdown videos 3 times a week** (Monday, Wednesday, Friday).
+The channel publishes **1 vertical Short per day** alongside **long-form breakdown/What If videos**: 3 times a week (Monday, Wednesday, Friday) from 2026-10-09, rising to 5 times a week (Monday-Friday) from 2026-11-02. On a long day the day's one Short is cut from the long video; otherwise it stands alone. See `channel.json`'s `long_schedule`.
 
 ---
 
@@ -39,7 +39,8 @@ Key settings are configured in `channel.json` or through GitHub repository varia
 | :--- | :--- | :--- | :--- |
 | **Publish Mode** | Repo Variable `PUBLISH_MODE` | `schedule` (default), `private`, `public` | Controls visibility of new YouTube uploads. |
 | **Publish Slots** | `channel.json` (`publish`) | UTC times (e.g. `12:00`, `14:30`...) | Daily upload time slots and minimum lead hours. |
-| **Long Video Days** | `channel.json` (`long_days`) | `["Mon", "Wed", "Fri"]` | Days when long-form breakdown videos publish. |
+| **Long Video Days** | `channel.json` (`long_schedule`) | 3/week (Mon/Wed/Fri) from 2026-10-09, 5/week (Mon-Fri) from 2026-11-02 | Days when long-form breakdown videos publish; each entry's `days` applies from its `from` date. |
+| **Shorts Per Day** | `channel.json` (`shorts_per_day`) | `1` | One Short a day: cut from the long on long days (`-Ls1`), otherwise a standalone (`-m1`). |
 | **Voice Blend** | `channel.json` (`voice_blend`) | `{"am_michael": 0.65, "am_fenrir": 0.35}` | Weighted combination of Kokoro voice tensors. |
 | **Voice Override** | Repo Variable `KOKORO_VOICE` | Voice ID (e.g. `am_michael`) | Overrides the voice blend with a single voice. |
 | **Series & Weights** | `channel.json` (`series_weights`) | Franchise weight map | Topic distribution across One Piece, Naruto, and JJK. |

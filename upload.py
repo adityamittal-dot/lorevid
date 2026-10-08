@@ -164,13 +164,16 @@ def existing(yt, title):
     return None
 
 
-def next_slot(fmt, cfg, taken=None):
-    """Return earliest slot >= now + min_lead_hours not in taken as an RFC3339 UTC string."""
+def next_slot(fmt, cfg, taken=None, min_date=None):
+    """Return earliest slot >= now + min_lead_hours (and >= min_date, if given) not in taken, as an RFC3339 UTC
+    string. `min_date` is the script's own intended publish date (its id's "YYYY-MM-DD" prefix): a script queued
+    ahead of its date (the backlog release step moves it in early, or a render catches up) must not jump the
+    queue and publish before the day it was written for."""
     fmt = str(fmt).lower()
     pub = cfg.get("publish", cfg) if isinstance(cfg, dict) else {}
     min_lead = int(pub.get("min_lead_hours", 3))
     default_slots = (
-        ["12:00", "14:30", "17:00", "19:30", "22:00", "00:30"]
+        ["14:30", "17:00"]
         if fmt == "short"
         else ["15:00"]
     )
@@ -185,6 +188,13 @@ def next_slot(fmt, cfg, taken=None):
     taken_set = set(taken or [])
     now = datetime.datetime.now(datetime.timezone.utc)
     earliest = now + datetime.timedelta(hours=min_lead)
+
+    if min_date:
+        min_day = min_date if isinstance(min_date, datetime.date) else datetime.datetime.strptime(
+            min_date, "%Y-%m-%d").date()
+        min_dt = datetime.datetime(min_day.year, min_day.month, min_day.day, 0, 0, 0, tzinfo=datetime.timezone.utc)
+        if min_dt > earliest:
+            earliest = min_dt
 
     today = now.date()
     for day_offset in range(365):

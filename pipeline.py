@@ -8,6 +8,7 @@ from datetime import datetime, timedelta, timezone
 import glob
 import json
 import os
+import re
 import sys
 import zlib
 from dotenv import load_dotenv
@@ -450,7 +451,9 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
                             taken.append(pat)
                     except Exception:
                         continue
-            publish_at = upload.next_slot(fmt, channel_cfg, taken)
+            id_date_match = re.match(r"(\d{4}-\d{2}-\d{2})-", script_id)
+            min_date = id_date_match.group(1) if id_date_match else None
+            publish_at = upload.next_slot(fmt, channel_cfg, taken, min_date=min_date)
             privacy = "private"
         elif mode == "public":
             privacy = "public"
