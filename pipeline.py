@@ -56,20 +56,41 @@ def fmt_time(seconds: float) -> str:
 
 def find_related_long_url(related_id: str) -> str | None:
     """Check scripts/done/ and scripts/queue/ to see if the related long video has published."""
+    info = find_related_long(related_id)
+    return info["url"] if info else None
+
+
+def find_related_long(related_id: str) -> dict | None:
+    """{"url", "title"} for a related long video once it has published (scripts/done/ or scripts/queue/),
+    else None. Used both for the Short's description/comment and for the studio_todo.md related-video note
+    (the Data API has no "related video" field to set directly; a human links it in YouTube Studio)."""
     for pattern in ("scripts/done/*.json", "scripts/queue/*.json"):
         for path in glob.glob(pattern):
             try:
                 with open(path, encoding="utf-8") as f:
                     data = json.load(f)
-                if data.get("id") == related_id:
-                    pub = data.get("published", {})
-                    if pub.get("video_id"):
-                        return f"https://youtu.be/{pub['video_id']}"
-                    if pub.get("url"):
-                        return pub["url"]
+                if data.get("id") != related_id:
+                    continue
+                pub = data.get("published", {})
+                url = (f"https://youtu.be/{pub['video_id']}" if pub.get("video_id") else pub.get("url"))
+                if url:
+                    return {"url": url, "title": data.get("title", "")}
             except Exception:
                 continue
     return None
+
+
+def append_studio_todo(line: str, data_dir: str = "data") -> None:
+    """One manual follow-up line in data/studio_todo.md: things the YouTube Data API can't do itself
+    (Test & Compare thumbnails, a Short's "related video" field), so a human checks them off in Studio."""
+    os.makedirs(data_dir, exist_ok=True)
+    path = os.path.join(data_dir, "studio_todo.md")
+    is_new = not os.path.exists(path)
+    with open(path, "a", encoding="utf-8") as f:
+        if is_new:
+            f.write("# Studio To-Do\n\nManual YouTube Studio follow-ups the API can't do on its own. "
+                    "Check items off as you handle them.\n\n")
+        f.write(line.rstrip("\n") + "\n")
 
 
 # Target seconds per picture. Top theory Shorts cut every ~0.8-1.2 s; the top faceless long videos in the niche
@@ -357,11 +378,14 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
             print(f"Warning: Short duration {total_duration:.1f}s is longer than 60s", flush=True)
 
     thumb_path = None
+    thumb_b_path = None
     srt_path = None
 
     if fmt == "long":
         thumb_cfg = script.get("thumbnail") or {}
+        device = thumb_cfg.get("device")
         thumb_path = os.path.join(work, "thumbnail.jpg")
+        thumb_b_path = os.path.join(work, "thumbnail_b.jpg")
         if not os.path.exists(thumb_path):
             # the most colourful close-up for the thumbnail's search words (and a second character for a split)
             raws = []
@@ -382,9 +406,17 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
                 raws = [last_img]
             if raws:
                 video.thumbnail(raws[0], thumb_cfg.get("text", ""), thumb_cfg.get("highlight", ""), thumb_path,
-                                img2=raws[1] if len(raws) > 1 else None)
+                                img2=raws[1] if len(raws) > 1 else None, device=device)
+                # Variant B for a manual YouTube Studio Test & Compare (the Data API can't run A/B tests itself):
+                # a different device if the main thumbnail used one, else a device added; always text-free, so
+                # it's a genuinely different hypothesis rather than a copy with a pixel moved.
+                b_device = None if device else "circle"
+                if not os.path.exists(thumb_b_path):
+                    video.thumbnail(raws[0], "", "", thumb_b_path, img2=raws[1] if len(raws) > 1 else None,
+                                    device=b_device)
             else:
                 thumb_path = None
+                thumb_b_path = None
 
         srt_path = os.path.join(work, "captions.srt")
         if not os.path.exists(srt_path):
@@ -392,14 +424,16 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
 
     # Build description
     desc_blocks = [script.get("description", "").strip()]
+    related_long_url = None
     if fmt == "long" and chapter_marks:
         ch_text = "Chapters:\n" + "\n".join(f"{fmt_time(tm)} {title}" for tm, title in chapter_marks)
         desc_blocks.append(ch_text)
     elif fmt == "short" and script.get("related_long"):
-        rl_id = script["related_long"]
-        rl_url = find_related_long_url(rl_id)
-        if rl_url:
-            desc_blocks.append(f"Full breakdown on the channel: {rl_url}")
+        rl_info = find_related_long(script["related_long"])
+        if rl_info:
+            related_long_url = rl_info["url"]
+            desc_blocks.insert(0, related_long_url)          # the full video's link is the first line, not buried
+            desc_blocks.append(f"Full breakdown: {rl_info['title']}")
         else:
             desc_blocks.append("Full breakdown on the channel")
 
@@ -425,6 +459,7 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
         "tags": script.get("tags", []),
         "final": final_mp4,
         "thumb": thumb_path if fmt == "long" else None,
+        "thumb_b": thumb_b_path if fmt == "long" else None,
         "srt": srt_path if fmt == "long" else None,
         "duration": total_duration,
         "chapters": chapter_marks if fmt == "long" else None,
@@ -472,6 +507,11 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
             "tags": script.get("tags", []),
         }
 
+        # The long video's link also opens the Short's first comment, same as the description (section 8).
+        comment_text = script.get("comment")
+        if related_long_url and comment_text:
+            comment_text = f"{comment_text}\n{related_long_url}"
+
         video_id = upload.upload(
             video=final_mp4,
             meta=upload_meta,
@@ -480,7 +520,7 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
             thumb=thumb_path if fmt == "long" else None,
             srt=srt_path if fmt == "long" else None,
             playlist=playlist_title,
-            comment=script.get("comment") if privacy == "public" and not publish_at else None,
+            comment=comment_text if privacy == "public" and not publish_at else None,
         )
         print(f"  Uploaded video ID: {video_id}", flush=True)
 
@@ -489,7 +529,7 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
             "video_id": video_id,
             "publish_at": publish_at,
             "url": video_url,
-            "comment": script.get("comment"),              # posted by `upload.py comments` once the video is public
+            "comment": comment_text,                        # posted by `upload.py comments` once the video is public
             "comment_posted": privacy == "public" and not publish_at,
         }
         with open(script_path, "w", encoding="utf-8") as f:
@@ -500,6 +540,16 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
             done_path = os.path.join("scripts", "done", f"{script_id}.json")
             os.replace(script_path, done_path)
             print(f"  Moved script to {done_path}", flush=True)
+
+        # Human follow-ups the Data API can't do itself: a thumbnail A/B test, and an Ls Short's related video.
+        if fmt == "long" and thumb_b_path and os.path.exists(thumb_b_path):
+            append_studio_todo(f"- [ ] {script.get('title', '')} ({video_url}) -> thumbnail B saved at "
+                               f"{thumb_b_path}; run YouTube Studio Test & Compare")
+        if fmt == "short" and re.search(r"-Ls\d+$", script_id) and script.get("related_long"):
+            rl_info = find_related_long(script["related_long"])
+            if rl_info:
+                append_studio_todo(f"- [ ] {script.get('title', '')} ({video_url}) -> related video: "
+                                   f"{rl_info['title']} ({rl_info['url']})")
 
         studio_link = f"https://studio.youtube.com/video/{video_id}/edit"
         kind_label = "Short" if fmt == "short" else "Long"

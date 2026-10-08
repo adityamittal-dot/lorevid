@@ -499,50 +499,149 @@ def _thumb_part(img, w, h):
     return im.crop((int(left), int(top), int(left + bw), int(top + bh))).resize((w, h), Image.LANCZOS)
 
 
-def thumbnail(img, text, highlight, out, img2=None):
+SUBJECT_FRAC = 0.62   # the subject fills 55-70% of the frame width; the rest is the "empty third" for text
+
+
+def _compose_offcenter(im):
+    """Place a full-frame crop off-centre: crisp on whichever side holds more picture detail (the subject),
+    a blurred/darkened atmospheric extension on the other (the empty third where text goes). Returns
+    (canvas, text_side) with text_side "left" or "right"."""
+    import framing
+    tw, th = im.size
+    e, s = framing._energy(im)
+    half = e.shape[1] // 2
+    subject_side = "left" if e[:, :half].sum() >= e[:, half:].sum() else "right"
+    text_side = "right" if subject_side == "left" else "left"
+
+    subj_w = int(tw * SUBJECT_FRAC)
+    x0 = 0 if subject_side == "left" else tw - subj_w
+    crop = im.crop((x0, 0, x0 + subj_w, th))
+
+    backdrop = ImageEnhance.Brightness(im.filter(ImageFilter.GaussianBlur(30))).enhance(0.55)
+    canvas = backdrop.copy()
+    feather = max(24, subj_w // 10)
+    mask = Image.new("L", (subj_w, th), 255)
+    md = ImageDraw.Draw(mask)
+    for i in range(feather):                              # feather only the inner edge (toward the empty side)
+        a = int(255 * (i / feather))
+        if subject_side == "left":
+            md.line([(subj_w - feather + i, 0), (subj_w - feather + i, th)], fill=255 - a)
+        else:
+            md.line([(i, 0), (i, th)], fill=a)
+    canvas.paste(crop, (x0, 0), mask)
+    return canvas, text_side
+
+
+def _detail_peak(im):
+    """Pixel coordinates of the single most detailed point in an image (framing's edge/colour energy)."""
+    import numpy as np
+    import framing
+    e, s = framing._energy(im)
+    y, x = np.unravel_index(int(np.argmax(e)), e.shape)
+    return int(x / s), int(y / s)
+
+
+def _device_circle(im):
+    """Red ring + arrow on the most detailed region (the thing the viewer's eye should land on first)."""
+    d = ImageDraw.Draw(im)
+    cx, cy = _detail_peak(im)
+    r = int(min(im.size) * 0.14)
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=(225, 30, 30), width=10)
+    ax, ay = int(im.width * 0.07), int(im.height * 0.93)
+    hx, hy = cx - r * 0.7, cy + r * 0.7
+    d.line([(ax, ay), (hx, hy)], fill=(225, 30, 30), width=10)
+    ang = math.atan2(ay - hy, ax - hx)
+    for da in (0.5, -0.5):
+        d.line([(hx, hy), (hx + 26 * math.cos(ang + da), hy + 26 * math.sin(ang + da))], fill=(225, 30, 30), width=10)
+    return im
+
+
+def _device_question(im):
+    """Big yellow '?' badge in the top corner — a cheap, high-contrast curiosity cue."""
+    d = ImageDraw.Draw(im)
+    r = int(min(im.size) * 0.12)
+    cx, cy = im.width - r - 26, r + 26
+    d.ellipse([cx - r, cy - r, cx + r, cy + r], fill=(255, 210, 30), outline=(0, 0, 0), width=6)
+    font = ImageFont.truetype(FONT, int(r * 1.3)) if os.path.exists(FONT) else ImageFont.load_default()
+    tl = d.textlength("?", font=font)
+    d.text((cx - tl / 2, cy - r * 0.8), "?", font=font, fill=(0, 0, 0))
+    return im
+
+
+def _device_blur(im):
+    """Blur the most detailed region and stamp a '?' over it — a mystery box instead of a spoiler."""
+    cx, cy = _detail_peak(im)
+    r = int(min(im.size) * 0.17)
+    box = (max(0, cx - r), max(0, cy - r), min(im.width, cx + r), min(im.height, cy + r))
+    im.paste(im.crop(box).filter(ImageFilter.GaussianBlur(24)), box)
+    d = ImageDraw.Draw(im)
+    font = ImageFont.truetype(FONT, int(r * 1.1)) if os.path.exists(FONT) else ImageFont.load_default()
+    bx, by = (box[0] + box[2]) / 2, (box[1] + box[3]) / 2
+    tl = d.textlength("?", font=font)
+    d.text((bx - tl / 2 + 6, by - r * 0.55 + 6), "?", font=font, fill=(0, 0, 0))
+    d.text((bx - tl / 2, by - r * 0.55), "?", font=font, fill=(255, 210, 30), stroke_width=6, stroke_fill=(0, 0, 0))
+    return im
+
+
+DEVICES = {"circle": _device_circle, "question": _device_question, "blur": _device_blur}
+
+
+def thumbnail(img, text, highlight, out, img2=None, device=None):
     """1280x720 thumbnail in the style of the niche's top long videos (GrandLineReview, Facadify, Strawhatists):
-    one face-filling picture, or two characters split by a slanted bar when img2 is given; punchy colour;
-    0-4 words of text along the bottom (none at all is normal for What If videos)."""
+    the subject off-centre, filling 55-70% of the frame, with the rest a blurred atmospheric "empty third" for
+    0-3 words of text (none at all is normal for What If videos); punchier colour (x1.3 saturation, x1.1
+    contrast); a slanted two-character split when img2 is given (or `device="split"`); otherwise an optional
+    `device` ("circle": ring + arrow on the busiest detail, "question": a yellow "?" badge, "blur": blur that
+    detail and stamp a "?" over it) for extra curiosity without spoiling the payoff."""
     os.makedirs(os.path.dirname(os.path.abspath(out)), exist_ok=True)
     tw, th = 1280, 720
-    if img2:
-        im = _thumb_part(img, 700, th).crop((0, 0, 700, th))
+    if img2 or device == "split":
+        left = _thumb_part(img, 700, th).crop((0, 0, 700, th))
         canvas = Image.new("RGB", (tw, th))
-        canvas.paste(im, (0, 0))
-        right = _thumb_part(img2, 700, th)
+        canvas.paste(left, (0, 0))
+        right = _thumb_part(img2 or img, 700, th)
         mask = Image.new("L", (tw, th), 0)
         ImageDraw.Draw(mask).polygon([(680, 0), (tw, 0), (tw, th), (560, th)], fill=255)
         canvas.paste(right, (tw - 700, 0), mask.crop((tw - 700, 0, tw, th)))
         d = ImageDraw.Draw(canvas)
         d.line([(680, 0), (560, th)], fill=(0, 0, 0), width=22)
         d.line([(680, 0), (560, th)], fill=(255, 210, 30), width=8)
-        im = canvas
+        im, text_col = canvas, (0, tw)
     else:
-        im = _thumb_part(img, tw, th)
-    im = ImageEnhance.Color(im).enhance(1.35)
-    im = ImageEnhance.Contrast(im).enhance(1.18)
+        base = _thumb_part(img, tw, th)
+        im, text_side = _compose_offcenter(base)
+        subj_w = int(tw * SUBJECT_FRAC)
+        text_col = (tw - subj_w, tw) if text_side == "right" else (0, tw - subj_w)
+
+    im = ImageEnhance.Color(im).enhance(1.3)
+    im = ImageEnhance.Contrast(im).enhance(1.1)
     im = im.filter(ImageFilter.UnsharpMask(radius=2, percent=90, threshold=2))
     vig = Image.new("L", (tw, th), 0)
     ImageDraw.Draw(vig).ellipse((-220, -160, tw + 220, th + 160), fill=255)
     im = Image.composite(im, Image.new("RGB", (tw, th), (0, 0, 0)), vig.filter(ImageFilter.GaussianBlur(110)))
 
-    words = [w for w in str(text or "").upper().split()][:4]
+    if device in DEVICES:
+        im = DEVICES[device](im)
+
+    words = [w for w in str(text or "").upper().split()][:3]
     if words:
+        col_x0, col_x1 = text_col
+        col_w = col_x1 - col_x0
         grad = Image.new("L", (tw, th), 0)
         gd = ImageDraw.Draw(grad)
         for y in range(th // 2, th):                      # darken the bottom so the words always read
-            gd.line([(0, y), (tw, y)], fill=int(200 * ((y - th / 2) / (th / 2)) ** 1.6))
+            gd.line([(col_x0, y), (col_x1, y)], fill=int(200 * ((y - th / 2) / (th / 2)) ** 1.6))
         im = Image.composite(Image.new("RGB", (tw, th), (0, 0, 0)), im, grad)
         draw = ImageDraw.Draw(im)
-        size = 150
-        while size > 70:
+        size = 140
+        while size > 56:
             font = ImageFont.truetype(FONT, size) if os.path.exists(FONT) else ImageFont.load_default()
-            if draw.textlength(" ".join(words), font=font) <= tw - 120:
+            if draw.textlength(" ".join(words), font=font) <= col_w - 70:
                 break
             size -= 6
         hl = {h.strip("?!.,:").upper() for h in str(highlight or "").split()}
         total = draw.textlength(" ".join(words), font=font)
-        x, y = (tw - total) / 2, th - size * 1.18 - 34
+        x, y = col_x0 + (col_w - total) / 2, th - size * 1.18 - 34
         for w in words:
             color = (255, 210, 30) if w.strip("?!.,:") in hl else (255, 255, 255)
             draw.text((x + 6, y + 8), w, font=font, fill=(0, 0, 0))
