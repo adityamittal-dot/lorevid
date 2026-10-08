@@ -54,7 +54,7 @@ Inspect the repository before selecting topics:
    attention, not just which get clicked). Double down on formats, angles, and titles that win; channel data takes
    precedence over outside ideas.
    `data/community.md`: **read it every session.** It holds what fans on Reddit and the wikis are debating right now, where each story stands, release dates, and what fans reject. This session cannot open Reddit or the wikis itself, so this is your community ear. Pick topics from its debates and trend patterns.
-3. `scripts/done/`, `scripts/queue/` and `scripts/backlog/`: inspect the last 60 titles across all three to prevent
+3. `scripts/done/`, `scripts/queue/` and `scripts/backlog/`: inspect EVERY title across all three (the backlog runs months ahead) to prevent
    repeating characters, theories, or identical topics — `plan.py` already keeps you off duplicate IDs, but titles
    and angles are your job to vary.
 
