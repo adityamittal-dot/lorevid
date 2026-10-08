@@ -1,11 +1,14 @@
 name: render-and-publish
-# The writer pushes scripts/queue/<id>.json on claude/* branches (claude/script-<id> preferred). This merges them into main, renders every
-# queued script (oldest first), uploads it as a scheduled video, and moves it to scripts/done/.
-# The 3-hourly schedule retries anything left in the queue and posts first comments on videos that just went public.
+# The writer pushes scripts/backlog/<id>.json (id starts with its intended publish date) on claude/* branches
+# (claude/script-<id> preferred). This merges them into main, releases any backlog script whose date has
+# arrived into scripts/queue, renders every queued script (oldest first, so it renders just-in-time with the
+# latest code), uploads it as a scheduled video, and moves it to scripts/done/.
+# The 3-hourly schedule retries anything left in the queue, releases backlog that has come due, and posts
+# first comments on videos that just went public.
 on:
   push:
     branches: ["claude/**"]
-    paths: ["scripts/queue/**"]
+    paths: ["scripts/queue/**", "scripts/backlog/**"]
   schedule:
     - cron: "15 */3 * * *"
   workflow_dispatch:
@@ -32,9 +35,9 @@ jobs:
         run: |
           git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
           merged=""
-          # Any claude/* branch that adds queue files counts, whatever the session named it.
+          # Any claude/* branch that adds queue OR backlog files counts, whatever the session named it.
           for b in $(git branch -r --list 'origin/claude/*'); do
-            git diff --quiet main..."$b" -- scripts/queue && continue
+            git diff --quiet main..."$b" -- scripts/queue scripts/backlog && continue
             if git merge -q --no-edit "$b" -m "merge ${b#origin/}"; then merged="$merged ${b#origin/}"
             else git merge --abort; echo "::warning::could not merge $b automatically (conflict) - merge it by hand"; fi
           done
@@ -42,10 +45,34 @@ jobs:
             for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
             for b in $merged; do git push -q origin --delete "$b" || true; done
           fi
+
+      - name: Release backlog
+        id: release
+        run: |
+          # Backlog scripts (scripts/backlog/<id>.json, id starts with the intended publish date) move into
+          # scripts/queue once that date has arrived, so render only ever processes the queue: it renders
+          # just-in-time, with whatever code is on main that day, instead of days ahead of the publish date.
+          git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
+          mkdir -p scripts/queue
+          cutoff=$(date -u -d "+1 day" +%F)
+          released=""
+          for f in scripts/backlog/*.json; do
+            [ -e "$f" ] || continue
+            id=$(basename "$f" .json)
+            date_prefix=${id:0:10}
+            if [[ "$date_prefix" =~ ^[0-9]{4}-[0-9]{2}-[0-9]{2}$ ]] && [[ "$date_prefix" < "$cutoff" || "$date_prefix" == "$cutoff" ]]; then
+              git mv "$f" "scripts/queue/$id.json"
+              released="$released $id"
+            fi
+          done
+          if [ -n "$released" ]; then
+            git commit -qm "release$released"
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
+          fi
           n=$(ls scripts/queue/*.json 2>/dev/null | wc -l)
           echo "n=$n" >> "$GITHUB_OUTPUT"
           if [ "$n" = 0 ] && [ "$GITHUB_EVENT_NAME" = push ]; then
-            msg="Script push on $GITHUB_REF_NAME but the queue on main is empty - nothing rendered."
+            msg="Script push on $GITHUB_REF_NAME but the queue on main is empty (nothing due out of the backlog yet) - nothing rendered."
             echo "::warning::$msg"
             [ -n "$NTFY_TOPIC" ] && curl -s -d "$msg" "ntfy.sh/$NTFY_TOPIC" > /dev/null || true
           fi
@@ -74,31 +101,31 @@ jobs:
           git diff --staged --quiet || { git commit -qm "first comments"; for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done; }
 
       - name: System packages
-        if: steps.collect.outputs.n != '0'
+        if: steps.release.outputs.n != '0'
         run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg espeak-ng
 
       - name: Python packages
-        if: steps.collect.outputs.n != '0'
+        if: steps.release.outputs.n != '0'
         run: |
           pip install -q torch --index-url https://download.pytorch.org/whl/cpu
           pip install -q -r requirements.txt
 
       - name: Cache voice model
-        if: steps.collect.outputs.n != '0'
+        if: steps.release.outputs.n != '0'
         uses: actions/cache@v6
         with: {path: ~/.cache/huggingface, key: kokoro-v2}
 
       - name: Cache music library
-        if: steps.collect.outputs.n != '0'
+        if: steps.release.outputs.n != '0'
         uses: actions/cache@v6
         with: {path: music/library, key: music-library-v1}
 
       - name: Music library
-        if: steps.collect.outputs.n != '0'
+        if: steps.release.outputs.n != '0'
         run: python music.py fetch || echo "::warning::music download failed; videos fall back to the synthesized pad"
 
       - name: Render and publish
-        if: steps.collect.outputs.n != '0'
+        if: steps.release.outputs.n != '0'
         env:
           CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
           CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
@@ -141,7 +168,7 @@ jobs:
           exit $failed
 
       - uses: actions/upload-artifact@v7
-        if: always() && steps.collect.outputs.n != '0'
+        if: always() && steps.release.outputs.n != '0'
         with:
           name: renders
           path: |
