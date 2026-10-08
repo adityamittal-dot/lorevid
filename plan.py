@@ -100,7 +100,7 @@ def _walk(repo_dir, days):
     cfg = load_channel(repo_dir)
     schedule = cfg.get("long_schedule", [])
     shorts_per_day = int(cfg.get("shorts_per_day", 1))
-    start = ist_today() + datetime.timedelta(days=1)
+    start = ist_today()   # today too: a slot still empty today can still be released and scheduled 3 h ahead
     first = datetime.date.fromisoformat(schedule[0]["from"]) if schedule else start
     long_index = 0
     day = min(first, start)
@@ -134,7 +134,7 @@ def cmd_status(repo_dir=REPO_DIR):
     """How many consecutive days from tomorrow already have every id they need (a "covered" streak),
     plus the total count still missing in the next 60 days."""
     existing = existing_ids(repo_dir)
-    start = ist_today() + datetime.timedelta(days=1)
+    start = ist_today()   # today too: a slot still empty today can still be released and scheduled 3 h ahead
     covered_days, missing_60d, streak_broken = 0, 0, False
     for _, items in _walk(repo_dir, 60):
         day_missing = [it for it in items if it["id"] not in existing]
@@ -144,7 +144,7 @@ def cmd_status(repo_dir=REPO_DIR):
         else:
             streak_broken = True
 
-    print(f"Fully covered from tomorrow ({start.isoformat()}): {covered_days} day(s) in a row.")
+    print(f"Fully covered from today ({start.isoformat()}): {covered_days} day(s) in a row.")
     print(f"Missing scripts in the next 60 days: {missing_60d}.")
 
 
