@@ -412,6 +412,15 @@ def main():
             if needs_fact_check and not re.search(r"^##\s*Fact check\b", notes_content, re.M | re.I):
                 err.append(f"notes/{script_id}.md missing '## Fact check' section (required for long videos "
                            f"and their -Ls Shorts; run the fact-check subagent before pushing, see WRITER.md)")
+            if fmt == "long":
+                m = re.search(r"^##\s*Editor review\b(.*?)(?=^##\s|\Z)", notes_content, re.M | re.I | re.S)
+                scores = [int(x) for x in re.findall(r"\b(\d{1,2})\s*/\s*10\b", m.group(1))] if m else []
+                if not m:
+                    err.append(f"notes/{script_id}.md missing '## Editor review' section (WRITER.md, Editor review)")
+                elif not scores:
+                    err.append(f"notes/{script_id}.md '## Editor review' has no scores; write each as 'hook: 8/10'")
+                elif min(scores) < 8:
+                    err.append(f"editor review scored {min(scores)}/10 on at least one axis; rewrite until every score is 8+")
         except Exception as e:
             err.append(f"failed reading notes/{script_id}.md: {e}")
 
@@ -469,6 +478,31 @@ def main():
                         except Exception:
                             pass
                 if any("line 1's first 8 words match" in e for e in err):
+                    break
+
+    # 10. Near-duplicate topic: a title sharing most of its key words with another script's title is the same
+    # video twice (the backlog runs months ahead, so this compares against everything ever written).
+    stop = {"the", "a", "an", "of", "to", "in", "on", "and", "is", "was", "if", "what", "why", "how", "his", "her",
+            "he", "she", "it", "that", "this", "for", "with", "at", "one", "piece", "never", "really", "just"}
+    def _keys(t):
+        return {w for w in re.findall(r"[a-z0-9']+", str(t).lower()) if w not in stop and len(w) > 2}
+    my_keys = _keys(p.get("title", ""))
+    if len(my_keys) >= 2:
+        for sub in ["queue", "done", "backlog", "failed"]:
+            for other_fp in glob.glob(os.path.join(repo_dir, "scripts", sub, "*.json")):
+                if os.path.realpath(other_fp) == canonical_self:
+                    continue
+                try:
+                    with open(other_fp, encoding="utf-8") as f:
+                        other = json.load(f)
+                except Exception:
+                    continue
+                if other.get("format") != fmt:
+                    continue
+                ok = _keys(other.get("title", ""))
+                if ok and len(my_keys & ok) / len(my_keys | ok) >= 0.6:
+                    err.append(f"title is a near-duplicate of {os.path.basename(other_fp)} ('{other.get('title')}'); "
+                               f"pick a different character, event or angle")
                     break
 
     # One-line summary first

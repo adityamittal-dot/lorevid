@@ -304,6 +304,14 @@ flag anything wrong, unverifiable, or contradicted by its own WebSearch. Fix wha
 `notes/<id>.md`'s `## Fact check` section listing the claims checked and any fixes made —
 `validate_script.py` errors if that section is missing.
 
+**Editor review (mandatory, every long video, after the fact check).** Spawn a second subagent (`model: "sonnet"`)
+as a ruthless YouTube editor who has studied GrandLineReview and Facadify. Give it the script and ask for a 1-10
+score (written as `hook: 9/10`) on each of: hook (first 15 s), retention (a fresh open question every 30-45 s, no slow stretch), originality
+(an argument fans haven't heard, not a recap), specificity (named chapters, episodes, quotes), and title + thumbnail
+curiosity. Any score under 8: rewrite those parts and re-score, at most twice. If it still scores under 8, do not push
+that video; push the others and say so in the summary. Record the final scores in `notes/<id>.md` under
+`## Editor review` (`validate_script.py` requires it for long videos).
+
 ---
 
 ## 7. Titles, Metadata, and Visual Sourcing

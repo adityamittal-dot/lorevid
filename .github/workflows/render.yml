@@ -34,12 +34,24 @@ jobs:
         id: collect
         run: |
           git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
-          merged=""
+          merged=""; before=$(git rev-parse HEAD)
           # Any claude/* branch that adds queue OR backlog files counts, whatever the session named it.
           for b in $(git branch -r --list 'origin/claude/*'); do
             git diff --quiet main..."$b" -- scripts/queue scripts/backlog && continue
             if git merge -q --no-edit "$b" -m "merge ${b#origin/}"; then merged="$merged ${b#origin/}"
             else git merge --abort; echo "::warning::could not merge $b automatically (conflict) - merge it by hand"; fi
+          done
+          # Quality gate: every newly merged script must pass validate_script.py (stdlib only), or it is moved to
+          # scripts/rejected/ with its errors so it never publishes.
+          for f in $(git diff --name-only --diff-filter=A "$before" HEAD -- scripts/backlog scripts/queue | grep '\.json$'); do
+            [ -f "$f" ] || continue
+            if ! out=$(python3 validate_script.py "$f" 2>&1); then
+              id=$(basename "$f" .json); mkdir -p scripts/rejected
+              git mv "$f" "scripts/rejected/$id.json"; printf '%s\n' "$out" > "scripts/rejected/$id.log"; git add "scripts/rejected/$id.log"
+              git commit -qm "rejected $id (failed validation)"
+              echo "::warning::rejected $id: $out"
+              [ -n "$NTFY_TOPIC" ] && curl -s -d "lorevid rejected $id (failed validation)" "ntfy.sh/$NTFY_TOPIC" > /dev/null || true
+            fi
           done
           if [ -n "$merged" ]; then
             for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
