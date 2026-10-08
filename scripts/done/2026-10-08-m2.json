@@ -1,0 +1,182 @@
+{
+  "id": "2026-10-08-m2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "What If: Shanks keeps his arm, so Mihawk never gets bored, never reaches Baratie, and Zoro never meets his goal",
+  "title": "What If Shanks Never Lost His Arm To The Sea King",
+  "description": "What if Shanks never lost his arm saving Luffy? Follow the chain from Mihawk's daily duels to the Baratie and see why Zoro might never learn to control Supreme King Haki. Which part of the chain would you break?",
+  "hashtags": [
+    "#shanks",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "what if shanks",
+    "shanks arm",
+    "mihawk shanks",
+    "zoro mihawk",
+    "one piece what if",
+    "baratie",
+    "one piece 1194",
+    "supreme king haki",
+    "one piece theory"
+  ],
+  "hook_text": "ONE ARM CHANGES EVERYTHING",
+  "music_mood": "suspense",
+  "comment": "Does Mihawk still end up teaching Zoro without the Baratie, or does that one lost arm decide everything? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Shanks",
+    "Dracule Mihawk",
+    "Roronoa Zoro",
+    "Baratie"
+  ],
+  "lines": [
+    {
+      "text": "What if Shanks never lost his arm? Zoro never becomes Zoro.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Shanks lost arm Sea King Luffy",
+        "fallback": "red haired pirate saving a boy from a sea monster"
+      }
+    },
+    {
+      "text": "First, Mihawk. Before the Sea King, he and Shanks dueled almost daily, and neither won.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Mihawk duel rivalry",
+        "fallback": "two swordsmen clashing on a ship deck"
+      }
+    },
+    {
+      "text": "After the arm, Mihawk stopped fighting him. A one-armed rival went against his code.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk Shanks one arm rivalry",
+        "fallback": "hawk eyed swordsman turning away from a red haired pirate"
+      }
+    },
+    {
+      "text": "Keep the arm, and the duels never stop.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Shanks Mihawk sword clash",
+        "fallback": "two legendary swordsmen clashing swords"
+      }
+    },
+    {
+      "text": "So Mihawk never gets bored.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dracule Mihawk bored throne",
+        "fallback": "hawk eyed swordsman sitting calmly in a small boat"
+      }
+    },
+    {
+      "text": "But chapter 50 shows us what a bored Mihawk does.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk Baratie coffin boat",
+        "fallback": "swordsman rowing a coffin shaped boat"
+      }
+    },
+    {
+      "text": "He chases Krieg's fleet into the East Blue just to kill time.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk Don Krieg Baratie",
+        "fallback": "swordsman destroying a pirate fleet from a small boat"
+      }
+    },
+    {
+      "text": "No bored Mihawk, no Baratie. I'd bet the boredom starts with that arm.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk Baratie Zoro duel",
+        "fallback": "swordsman facing a green haired boy on a restaurant ship"
+      }
+    },
+    {
+      "text": "No Baratie means Zoro never meets the man who becomes his goal.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Zoro Mihawk Baratie duel",
+        "fallback": "green haired swordsman facing a hawk eyed man"
+      }
+    },
+    {
+      "text": "No scar across his chest, and no two years on Kuraigana.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Mihawk Kuraigana training",
+        "fallback": "swordsman training on a foggy castle island"
+      }
+    },
+    {
+      "text": "Zoro would still get strong. But the lesson he used in chapter 1194 came from Mihawk.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Mihawk advice Supreme King Haki",
+        "fallback": "swordsman remembering his master's lesson"
+      }
+    },
+    {
+      "text": "So Zoro never learns to control Supreme King Haki, because Shanks kept his arm.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Zoro Supreme King Haki Sommers",
+        "fallback": "green haired swordsman with black lightning swords"
+      }
+    },
+    {
+      "text": "One lost arm built the swordsman now cutting a Knight of God apart.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Zoro Sommers Knight of God",
+        "fallback": "swordsman slicing a giant armored holy knight"
+      }
+    },
+    {
+      "text": "And the whole thing unravels the second you ask...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Luffy Sea King",
+        "fallback": "red haired pirate saving a boy from a sea monster"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_50",
+    "https://onepiece.fandom.com/wiki/Chapter_1194",
+    "https://gamerant.com/one-piece-shanks-mihawk-rivalry-explained/"
+  ],
+  "self_check": {
+    "hook": "question in line 1 with the stakes",
+    "loop": "last line repeats the opening sentence's first words so line 1 completes it",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "ebqQvwwbxoc",
+    "publish_at": "2026-10-08T14:30:00Z",
+    "url": "https://youtu.be/ebqQvwwbxoc",
+    "comment": "Does Mihawk still end up teaching Zoro without the Baratie, or does that one lost arm decide everything? Pick one.",
+    "comment_posted": false
+  }
+}
