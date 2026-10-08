@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-10-m1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Gojo was sealed by Geto's face and the Prison Realm's rules, not by power",
+  "title": "Gojo Wasn't Beaten By Power, Just One Familiar Face",
+  "description": "Gojo is the strongest sorcerer alive, so how did the Prison Realm take him in Shibuya? The answer is in its rules and in whose body Kenjaku wore. Do you call that a mistake or grief?",
+  "hashtags": [
+    "#gojo",
+    "#jujutsukaisen",
+    "#anime"
+  ],
+  "tags": [
+    "jujutsu kaisen theory",
+    "gojo prison realm",
+    "gojo sealed",
+    "shibuya incident",
+    "kenjaku geto",
+    "gojo satoru",
+    "jjk explained",
+    "gojo vs kenjaku"
+  ],
+  "hook_text": "ONE FACE",
+  "music_mood": "suspense",
+  "comment": "Was Gojo careless in Shibuya, or was the trap simply unbeatable? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Satoru Gojo",
+    "Prison Realm",
+    "Shibuya Incident",
+    "Kenjaku"
+  ],
+  "lines": [
+    {
+      "text": "Gojo wasn't beaten by power. He was beaten by a face.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Gojo Geto Shibuya Prison Realm",
+        "fallback": "white haired sorcerer staring at a familiar face"
+      }
+    },
+    {
+      "text": "Shibuya, Halloween night, and Gojo walks into a trap built for exactly one man.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Shibuya Incident",
+        "fallback": "white haired sorcerer in a dark city street"
+      }
+    },
+    {
+      "text": "Thousands of civilians are trapped inside the barrier, so he can't cut loose.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shibuya Incident curtain civilians",
+        "fallback": "crowded city under a black dome"
+      }
+    },
+    {
+      "text": "Then Kenjaku walks out wearing Geto's body.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kenjaku Geto Shibuya",
+        "fallback": "man with stitched forehead smiling"
+      }
+    },
+    {
+      "text": "The sealing cube has rules. Gojo has to stay within four meters of it for one full minute.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Prison Realm Gojo sealed",
+        "fallback": "glowing cube sealing a sorcerer"
+      }
+    },
+    {
+      "text": "One minute, against the man nobody can even keep up with.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Infinity Shibuya",
+        "fallback": "blue energy swirling around a sorcerer"
+      }
+    },
+    {
+      "text": "So Kenjaku doesn't try to out-fight him. He gives him a reason to stand still.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Gojo Kenjaku Prison Realm",
+        "fallback": "two sorcerers facing each other"
+      }
+    },
+    {
+      "text": "Gojo sees his best friend's face, and he freezes. The clock does the rest.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Geto Hidden Inventory friends",
+        "fallback": "two young sorcerers in school uniforms"
+      }
+    },
+    {
+      "text": "People call that carelessness. I think it's the one thing Infinity could never block, grief.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Geto death grief",
+        "fallback": "white haired sorcerer looking down"
+      }
+    },
+    {
+      "text": "It's the same lesson as Toji. Gojo falls when someone walks around his strength, not through it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Toji Gojo Infinity stab",
+        "fallback": "scarred man stabbing a sorcerer"
+      }
+    },
+    {
+      "text": "Neither of them beat the strongest. They both found the one door he leaves open.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Gojo Prison Realm sealed Shibuya",
+        "fallback": "sorcerer trapped inside a glowing cube"
+      }
+    },
+    {
+      "text": "Because Gojo wasn't beaten by power...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Geto Shibuya Prison Realm",
+        "fallback": "white haired sorcerer staring at a familiar face"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://sportskeeda.com/anime/jujutsu-kaisen-why-gojo-satoru-sealed-explained",
+    "https://www.dexerto.com/anime/jujutsu-kaisen-how-was-gojo-sealed-2304272",
+    "https://ww4.soapcentral.com/anime/jujutsu-kaisen-how-did-kenjaku-trap-gojo",
+    "https://jujutsu-kaisen.fandom.com/wiki/Prison_Realm"
+  ],
+  "self_check": {
+    "hook": "contrarian claim in line 1",
+    "loop": "last line completes line 1",
+    "facts_verified": true
+  }
+}

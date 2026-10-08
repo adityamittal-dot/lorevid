@@ -1,0 +1,157 @@
+{
+  "id": "2026-10-11-m1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Wado Ichimonji, the sword that helped hurt Sommers, was Kuina's",
+  "title": "The Sword That Hurt Sommers Belonged To Kuina",
+  "description": "One of the three swords Zoro coated in Supreme King Haki in chapter 1194 is Wado Ichimonji, which belonged to Kuina before it was his. Here is why that matters. Which of his swords hits hardest?",
+  "hashtags": [
+    "#zoro",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "zoro kuina",
+    "wado ichimonji",
+    "zoro swords",
+    "one piece 1194",
+    "zoro sommers",
+    "zoro promise",
+    "zoro backstory"
+  ],
+  "hook_text": "A DEAD GIRL'S SWORD",
+  "music_mood": "emotional",
+  "comment": "Does Zoro's strength come from Mihawk's lesson or from Kuina's promise? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Roronoa Zoro",
+    "Kuina",
+    "Wado Ichimonji",
+    "Shepherd Sommers"
+  ],
+  "lines": [
+    {
+      "text": "The sword that hurt a Knight of God belonged to a dead girl.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Zoro Wado Ichimonji Kuina",
+        "fallback": "green haired swordsman holding a white hilted sword in his teeth"
+      }
+    },
+    {
+      "text": "In chapter 1194, Zoro coats all three of his swords in Supreme King Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Sommers three swords chapter 1194",
+        "fallback": "swordsman with three black coated blades"
+      }
+    },
+    {
+      "text": "Everyone talks about Enma, the demon sword.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Enma",
+        "fallback": "swordsman with a dark demon sword"
+      }
+    },
+    {
+      "text": "But look at the one in his mouth. That's Wado Ichimonji.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Wado Ichimonji mouth",
+        "fallback": "swordsman biting a white hilted sword"
+      }
+    },
+    {
+      "text": "It belonged to Kuina, his childhood friend and the daughter of the dojo master, Koshiro.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kuina Koshiro dojo",
+        "fallback": "young girl with a wooden sword in a dojo"
+      }
+    },
+    {
+      "text": "When she died, her father gave Zoro her sword.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Kuina Zoro Wado Ichimonji",
+        "fallback": "boy holding a girl's sword at a grave"
+      }
+    },
+    {
+      "text": "They'd sworn that one of them would become the world's greatest swordsman.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Kuina promise",
+        "fallback": "two children with swords at sunset"
+      }
+    },
+    {
+      "text": "Zoro carries that vow into every fight, including the one he lost at the Baratie.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Mihawk Baratie",
+        "fallback": "swordsman falling after a cut"
+      }
+    },
+    {
+      "text": "Other swords of his have broken or been replaced. Wado never has.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro swords Mihawk broke",
+        "fallback": "broken swords on a deck"
+      }
+    },
+    {
+      "text": "People say it's just a sword. I think it's the one he's fighting for.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Wado Ichimonji Sommers",
+        "fallback": "swordsman fighting with a white hilted sword"
+      }
+    },
+    {
+      "text": "So the cut Elbaph needed carried a promise from a dead girl.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Zoro Sommers Supreme King Haki cut",
+        "fallback": "glowing slash across an armored knight"
+      }
+    },
+    {
+      "text": "Because the sword that hurt a Knight of God...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Wado Ichimonji Kuina",
+        "fallback": "green haired swordsman holding a white hilted sword in his teeth"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Kuina",
+    "https://onepiece.fandom.com/wiki/Wado_Ichimonji",
+    "https://onepiece.fandom.com/wiki/Roronoa_Zoro",
+    "https://www.sportskeeda.com/anime/understanding-significance-zoro-s-swords-one-piece"
+  ],
+  "self_check": {
+    "hook": "bold claim in line 1",
+    "loop": "last line leads into line 1",
+    "facts_verified": true
+  }
+}
