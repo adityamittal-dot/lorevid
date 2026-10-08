@@ -1,11 +1,11 @@
 {
- "id": "example-long",
+ "id": "long",
  "format": "long",
  "series": "onepiece",
  "wiki": "onepiece.fandom.com",
- "topic": "What if Zoro never solved Mihawk's riddle against Sommers",
+ "topic": "What if Zoro never remembered Mihawk's lesson against Shepherd Sommers",
  "title": "What If Zoro Never Remembered Mihawk's Lesson?",
- "description": "What if Zoro never remembered Mihawk's lesson in his fight with Shepherd Sommers? Without Supreme King Haki, a Knight of God can't die, and Elbaph loses its best swordsman at the worst moment. Who stops Imu now?",
+ "description": "What if Zoro never remembered Mihawk's two-year lesson in his fight with Shepherd Sommers? Without Supreme King Haki landing clean, a Knight of God can't be cut down, and Elbaph loses its best answer to anything that regenerates. Who pays the price instead?",
  "hashtags": [
   "#zoro",
   "#onepiece",
@@ -19,94 +19,51 @@
   "one piece 1194",
   "mihawk lesson",
   "knights of god",
-  "elbaph"
+  "elbaph",
+  "one piece theory",
+  "brook one piece"
  ],
  "music_mood": "epic",
- "comment": "Without Zoro, does Elbaph fall to Imu, or does Sanji step up? Pick one.",
+ "comment": "Does Mihawk's lesson matter more than Zoro's blades, or is it the other way around? Pick one.",
  "related_long": null,
  "pages": [
   "Roronoa Zoro",
   "Shepherd Sommers",
   "Dracule Mihawk",
   "Imu",
+  "Brook",
   "Elbaph Arc"
  ],
  "lines": [
   {
-   "text": "What if Zoro never remembered Mihawk's lesson in the middle of his fight with Sommers?",
+   "text": "What if Zoro never remembered the one thing Mihawk taught him on Kuraigana Island?",
    "delivery": "punch",
    "fx": "zoom",
    "shot": {
+    "search": "Zoro Mihawk Kuraigana training",
+    "fallback": "green haired swordsman training under a hawk eyed master"
+   }
+  },
+  {
+   "text": "Not swordsmanship. Not footwork. One lesson about what happens when his rage takes over.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro rage berserk",
+    "fallback": "swordsman losing control, dark aura"
+   }
+  },
+  {
+   "text": "Without it, I don't think Zoro loses to Shepherd Sommers. I think he disappears into something worse.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
     "search": "Zoro Sommers Confrontation",
-    "fallback": "green haired swordsman facing a smiling knight"
+    "fallback": "swordsman facing a smiling knight"
    }
   },
   {
-   "text": "What if the Knight of God just kept healing, cut after cut, until Zoro ran out of strength?",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Sommers Regeneration",
-    "fallback": "wounds closing on an armored knight"
-   }
-  },
-  {
-   "text": "And with Zoro stuck in a fight he can't finish, who stops Imu on Elbaph?",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Imu Controls Gunko",
-    "fallback": "shadowy figure controlling a girl with glowing eyes"
-   }
-  },
-  {
-   "text": "To understand how everything changes, we have to go back to the start of chapter 1193.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Zoro Sommers",
-    "fallback": "two swordsmen clash in a giant village"
-   },
-   "card": "CHAPTER 1193"
-  },
-  {
-   "text": "Shepherd Sommers is a Knight of God, and Knights of God don't die the way normal fighters do.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Knights of God",
-    "fallback": "four knights in white cloaks"
-   }
-  },
-  {
-   "text": "Every wound Zoro gives him closes in seconds, as if the blade never touched him.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Sommers Regeneration",
-    "fallback": "flesh knitting back together"
-   }
-  },
-  {
-   "text": "In the real story, Zoro remembers Mihawk's words and coats all three swords in Supreme King Haki.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Zoro Using Supreme King Haki",
-    "fallback": "swordsman with three swords wrapped in black lightning"
-   }
-  },
-  {
-   "text": "But in this version, that memory never comes back.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Zoro Mihawk",
-    "fallback": "swordsman alone, eyes closed"
-   }
-  },
-  {
-   "text": "[...the story continues: 100-260 lines in total, 5-8 chapters, a card about once a minute...]",
+   "text": "And if Zoro goes down like that, Elbaph doesn't just lose its strongest swordsman.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -115,30 +72,1193 @@
    }
   },
   {
-   "text": "So the strongest swordsman on the crew ends the arc still swinging at a man who can't die.",
+   "text": "It loses the only person built to slow down what Imu already sent to kill them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Controls Gunko",
+    "fallback": "shadowy figure controlling a girl with glowing eyes"
+   }
+  },
+  {
+   "text": "This is the version of chapter 1194 where Oda's safety net never opens...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers chapter 1194",
+    "fallback": "two swordsmen clash in a giant village"
+   },
+   "card": "CHAPTER 1194"
+  },
+  {
+   "text": "Zoro made a promise back in chapter 55, right after Luffy saved his life on the Baratie.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro promise Luffy Baratie",
+    "fallback": "young swordsman swearing an oath"
+   }
+  },
+  {
+   "text": "I will never lose again, he said. Not a boast. A rule he built his whole fighting style around.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
+    "search": "Zoro oath never lose",
+    "fallback": "swordsman standing resolute"
+   }
+  },
+  {
+   "text": "But to see why one fight against Sommers threatens that whole rule, we have to start one chapter earlier.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers steel heart",
+    "fallback": "swordsman bracing against a knight"
+   }
+  },
+  {
+   "text": "Chapter 1193 opens with Zoro already three minutes into a fight he should have won.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers steel heart",
+    "fallback": "swordsman mid swing against an armored knight"
+   }
+  },
+  {
+   "text": "Shepherd Sommers is a Knight of God, and Knights of God don't die the way normal fighters do.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Knights of God Elbaph",
+    "fallback": "four knights in white cloaks"
+   }
+  },
+  {
+   "text": "Every wound Zoro opens closes in seconds, like the blade never touched him at all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers Regeneration",
+    "fallback": "flesh knitting back together"
+   }
+  },
+  {
+   "text": "Oda drew this exact problem once before, with Kaido's scales shrugging off Luffy's early hits.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kaido scales durability",
+    "fallback": "dragon shrugging off an attack"
+   }
+  },
+  {
+   "text": "That fight only turned when Luffy found a wound Kaido's scales couldn't cover.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Kaido Gear 4",
+    "fallback": "monkey warrior striking a dragon"
+   }
+  },
+  {
+   "text": "So the real question for Zoro is the same one: where is the crack in this armor?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers armor",
+    "fallback": "swordsman studying an armored opponent"
+   }
+  },
+  {
+   "text": "In the canon chapter, Zoro finds it through memory, not through a new technique.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Using Supreme King Haki",
+    "fallback": "swordsman with three swords wrapped in black lightning"
+   }
+  },
+  {
+   "text": "He remembers Mihawk, two years earlier, forcing him to fight at full speed while blindfolded.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk Zoro training blindfold",
+    "fallback": "two swordsmen training on a misty island"
+   }
+  },
+  {
+   "text": "Mihawk wasn't teaching him to see less. He was teaching him to stop panicking when he couldn't.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dracule Mihawk training lesson",
+    "fallback": "hawk eyed swordsman observing a student"
+   }
+  },
+  {
+   "text": "That composure is what lets Zoro coat all three swords in Supreme King Haki cleanly, mid-swing, without hesitation.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Zoro three sword Supreme King Haki",
+    "fallback": "swordsman wrapped in dark conquering aura"
+   }
+  },
+  {
+   "text": "Clean enough to finally cut a wound Sommers' body can't knit back together.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
     "search": "Zoro Cuts Sommers Hand",
-    "fallback": "exhausted swordsman, broken blades"
+    "fallback": "swordsman severing an armored hand"
    }
   },
   {
-   "text": "Was Mihawk's lesson the only thing standing between Elbaph and Imu? Tell me which side you're on.",
+   "text": "Now take that memory away, and Zoro still has the same strength, the same three swords.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Dracule Mihawk",
-    "fallback": "hawk-eyed swordsman on a throne"
+    "search": "Zoro three swords Elbaph",
+    "fallback": "swordsman holding three blades"
    }
   },
   {
-   "text": "And if you want to see what happens if Sanji gets Supreme King Haki first, that's the next story.",
+   "text": "What he doesn't have is the one thing Mihawk actually built in him: control under pressure.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk lesson control",
+    "fallback": "swordsman closing his eyes to focus"
+   }
+  },
+  {
+   "text": "So instead of one clean Supreme King Haki cut, Zoro starts swinging on pure instinct.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Sanji Killingham",
-    "fallback": "blond cook kicking with fire"
+    "search": "Zoro berserk swinging",
+    "fallback": "swordsman attacking wildly"
+   }
+  },
+  {
+   "text": "Instinct is exactly what a regenerating opponent wants, because wild cuts are easy to out-heal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers Regeneration fight",
+    "fallback": "knight healing mid battle"
+   }
+  },
+  {
+   "text": "Chapter after chapter, Sommers keeps smiling, and Zoro keeps bleeding out his stamina for nothing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers smiling knight",
+    "fallback": "smiling armored knight unbothered"
+   }
+  },
+  {
+   "text": "This is where Oda's own pattern gets interesting: Zoro has run out of control before.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Thriller Bark asura",
+    "fallback": "three headed demon swordsman"
+   }
+  },
+  {
+   "text": "At Thriller Bark, his Asura form nearly killed him, and Luffy had to physically stop the fight.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Asura Thriller Bark",
+    "fallback": "swordsman with three ghostly faces"
+   }
+  },
+  {
+   "text": "Without Mihawk's lesson, I think Zoro drifts straight back toward that same breaking point.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Asura breaking point",
+    "fallback": "swordsman losing himself to power"
+   }
+  },
+  {
+   "text": "Except this time, there's no Luffy standing next to him to pull him back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro alone Elbaph",
+    "fallback": "lone swordsman on a giant battlefield"
+   }
+  },
+  {
+   "text": "Because by chapter 1194, the rest of the crew is scattered across three different fronts.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hat crew Elbaph scattered",
+    "fallback": "pirate crew split across a battlefield"
+   }
+  },
+  {
+   "text": "Nami is coordinating the retreat routes from the rear, with no clean view of Zoro's fight at all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami coordinating Elbaph rear",
+    "fallback": "navigator directing a battlefield from a distance"
+   }
+  },
+  {
+   "text": "Which means the first person who actually notices Zoro losing it is Shepherd Sommers himself.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers watching Zoro",
+    "fallback": "knight studying a struggling opponent"
+   }
+  },
+  {
+   "text": "And a Knight of God who can't be cut has all the time in the world to watch.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Knights of God patience",
+    "fallback": "armored knight standing still"
+   }
+  },
+  {
+   "text": "Sommers stops attacking. He just starts talking, the way Oda's villains do right before a turn.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers talking villain",
+    "fallback": "armored knight speaking calmly"
+   }
+  },
+  {
+   "text": "But what he says next is the part that drags Imu directly into this fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Sommers connection",
+    "fallback": "shadowy ruler watching from a distance"
+   }
+  },
+  {
+   "text": "Before that, it's worth asking why Oda even built a Haki technique that depends on composure.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Supreme King Haki mechanics",
+    "fallback": "swordsman channeling conquering aura"
+   }
+  },
+  {
+   "text": "Conqueror's Haki has always been about will, not muscle, since the very first time Luffy used it unconsciously.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy unconscious Conqueror's Haki",
+    "fallback": "young captain radiating unintended power"
+   }
+  },
+  {
+   "text": "Zoro's version is the opposite: fully conscious, fully aimed, which only works if the mind behind it stays steady.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro conscious Conqueror's Haki",
+    "fallback": "swordsman focused and steady"
+   }
+  },
+  {
+   "text": "Until Mihawk, nobody alive could test that steadiness without actually killing him first.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk testing Zoro",
+    "fallback": "hawk eyed swordsman sparring intensely"
+   }
+  },
+  {
+   "text": "Sommers tells Zoro exactly what every Knight of God was built for: finding the gap in control.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers reveals purpose",
+    "fallback": "knight explaining calmly to an opponent"
+   }
+  },
+  {
+   "text": "Not the gap in strength. Oda has made Conqueror's Haki users nearly impossible to out-muscle.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Supreme King Haki users",
+    "fallback": "warriors radiating dark aura"
+   }
+  },
+  {
+   "text": "So the Five Elders built Knights of God to out-last a user's discipline instead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Knights of God",
+    "fallback": "cloaked elders commanding knights"
+   }
+  },
+  {
+   "text": "That lines up with something fans have debated since the Gorosei first appeared at Egghead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gorosei Egghead appearance",
+    "fallback": "five elders standing ominously"
+   }
+  },
+  {
+   "text": "The theory that Imu doesn't fear strong fighters. Imu fears fighters who can't be provoked.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu throne Mary Geoise",
+    "fallback": "shadowy ruler on a throne"
+   }
+  },
+  {
+   "text": "A provoked Conqueror's Haki user burns out fast, and burned-out swordsmen are easy to replace.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro exhausted Haki",
+    "fallback": "exhausted swordsman kneeling"
+   }
+  },
+  {
+   "text": "Without Mihawk's lesson, Zoro walks straight into that exact trap chapter after chapter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro trapped Sommers",
+    "fallback": "swordsman cornered by a knight"
+   }
+  },
+  {
+   "text": "And once Sommers has him provoked, Elbaph's whole defensive line starts to buckle.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph defensive line falling",
+    "fallback": "giant warriors retreating"
+   }
+  },
+  {
+   "text": "Loki is still on the other side of this battlefield, waiting for exactly this kind of opening.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki Elbaph battlefield",
+    "fallback": "giant warrior scanning a battlefield"
+   }
+  },
+  {
+   "text": "Loki doesn't need Zoro dead. He just needs Zoro gone long enough to break the giants' line.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki giants battlefield strategy",
+    "fallback": "towering warrior commanding soldiers"
+   }
+  },
+  {
+   "text": "So the first real consequence isn't a death. It's a position the Straw Hats can't hold.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats losing position",
+    "fallback": "pirate crew retreating under pressure"
+   }
+  },
+  {
+   "text": "Usopp and Franky, covering the giants' flank, suddenly have nothing between them and Loki's army.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Usopp Franky Elbaph flank",
+    "fallback": "sniper and cyborg defending a flank"
+   }
+  },
+  {
+   "text": "Jinbe reads the shift from the water line before anyone radios it in, the way a tactician always does.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe reading battlefield shift",
+    "fallback": "fish-man warrior surveying a battlefield"
+   }
+  },
+  {
+   "text": "He can't reinforce the flank himself. He's holding back a second wave of Loki's ships alone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe holding ships alone",
+    "fallback": "fish-man warrior blocking ships"
+   }
+  },
+  {
+   "text": "That's the first ripple. Here's the second, and it's the one most people overlook entirely.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph battlefield ripple",
+    "fallback": "battlefield shifting under pressure"
+   }
+  },
+  {
+   "text": "Chopper has been tracking Zoro's condition since the fight started, the way he always does.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Chopper monitoring Zoro health",
+    "fallback": "reindeer doctor watching from a distance"
+   }
+  },
+  {
+   "text": "In the real chapter, Chopper never has to intervene, because Zoro's control never slips this far.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Chopper Zoro medical check",
+    "fallback": "reindeer doctor checking a swordsman"
+   }
+  },
+  {
+   "text": "Here, Chopper calls it: if nobody pulls Zoro out, his own Haki starts damaging his body.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Chopper warning Haki damage",
+    "fallback": "reindeer doctor alarmed"
+   }
+  },
+  {
+   "text": "That's not a guess. Oda already showed Conqueror's Haki overload with Ryokugyu against Luffy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ryokugyu Conqueror's Haki overload",
+    "fallback": "marine admiral straining under power"
+   }
+  },
+  {
+   "text": "An uncontrolled Conqueror's Haki wears down the user's own nerves before it ever touches an enemy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Haki overload nerves strain",
+    "fallback": "warrior straining from internal damage"
+   }
+  },
+  {
+   "text": "So somebody has to go in and physically break Zoro's focus before that damage becomes permanent.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rescue Zoro battlefield",
+    "fallback": "crewmate rushing toward a swordsman"
+   }
+  },
+  {
+   "text": "Which brings in the fan-favorite reaction nobody wanted to need: Sanji, three fronts away.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Elbaph battlefield",
+    "fallback": "blond cook rushing across a battlefield"
+   }
+  },
+  {
+   "text": "Robin, watching the pattern from the command tent, already has a name for what the Gorosei are doing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin analyzing Gorosei pattern",
+    "fallback": "archaeologist studying a battlefield map"
+   }
+  },
+  {
+   "text": "She calls it attrition by design: never the strongest hit, always the one that costs the most to answer.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin attrition theory",
+    "fallback": "archaeologist explaining a theory"
+   }
+  },
+  {
+   "text": "It's the same pattern she traced through the Void Century records on Ohara, decades before any of this.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Ohara records Void Century",
+    "fallback": "archaeologist reading ancient records"
+   }
+  },
+  {
+   "text": "Which means this isn't a new strategy from the Gorosei. It's the oldest one they have...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Gorosei old strategy",
+    "fallback": "five elders in shadow"
+   }
+  },
+  {
+   "text": "Sanji hears Chopper's warning over the Den Den Mushi and does the one thing he swore he wouldn't.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Den Den Mushi warning",
+    "fallback": "cook listening to a transponder snail"
+   }
+  },
+  {
+   "text": "He abandons his own fight against Killingham mid-exchange to reach Zoro in time.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Killingham abandon fight",
+    "fallback": "blond cook turning away mid battle"
+   }
+  },
+  {
+   "text": "Oda has built an entire rivalry out of Sanji never, ever bailing out his swordsman rival.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Zoro rivalry",
+    "fallback": "cook and swordsman standing back to back"
+   }
+  },
+  {
+   "text": "So the moment he does it anyway, it tells the reader how bad this has actually gotten.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji worried expression",
+    "fallback": "cook with a tense expression"
+   }
+  },
+  {
+   "text": "Killingham gets a full chapter of breathing room he was never supposed to have.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Killingham Elbaph breathing room",
+    "fallback": "armored opponent regrouping"
+   }
+  },
+  {
+   "text": "Sanji reaches the fight just as Zoro's Haki starts bleeding visibly off his own skin.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Haki bleeding skin",
+    "fallback": "swordsman with aura tearing at his body"
+   }
+  },
+  {
+   "text": "He doesn't try to fight Sommers. He does the one thing that can reach Zoro faster than words.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji intervening Zoro",
+    "fallback": "cook stepping between fighters"
+   }
+  },
+  {
+   "text": "A single, open-handed hit, the kind sworn enemies only trade when nothing else will land.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Sanji hits Zoro",
+    "fallback": "cook striking a swordsman to snap him awake"
+   }
+  },
+  {
+   "text": "It's not enough to win the fight. It's enough to shock Zoro back into his own body.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro snapping back control",
+    "fallback": "swordsman regaining focus"
+   }
+  },
+  {
+   "text": "For one second, Zoro remembers Mihawk's voice anyway, not as training, but as a single warning.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro remembering Mihawk voice",
+    "fallback": "swordsman recalling a mentor's words"
+   }
+  },
+  {
+   "text": "Control first. The cut comes after. That's the lesson landing three chapters late, through a punch.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk lesson late",
+    "fallback": "swordsman finally understanding"
+   }
+  },
+  {
+   "text": "It's enough to stop Zoro from destroying himself, but nowhere near enough to beat Sommers clean.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers stalemate",
+    "fallback": "exhausted swordsman facing an unbeaten knight"
+   }
+  },
+  {
+   "text": "So the fight ends in something One Piece almost never gives its strongest swordsman: a draw.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Sommers draw",
+    "fallback": "two exhausted fighters at a standoff"
+   }
+  },
+  {
+   "text": "Sanji drags Zoro out, and Sommers lets them go, because a Knight of God never needed to win fast.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers lets Zoro go",
+    "fallback": "knight watching calmly as fighters retreat"
+   }
+  },
+  {
+   "text": "He just needed Zoro out of position. And now, for the first time in the arc, he is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro removed from battlefield",
+    "fallback": "wounded swordsman carried from the front"
+   }
+  },
+  {
+   "text": "People will say Zoro's raw strength should have won eventually, Mihawk's lesson or not.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro raw strength argument",
+    "fallback": "swordsman standing defiant"
+   }
+  },
+  {
+   "text": "It's a fair point. Zoro has out-muscled durability monsters before, Kaido included, given enough time.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro durability monsters history",
+    "fallback": "swordsman overpowering a durable foe"
+   }
+  },
+  {
+   "text": "But regeneration doesn't care about eventually. Sommers only has to out-last Zoro's stamina once.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers endurance advantage",
+    "fallback": "knight outlasting an opponent"
+   }
+  },
+  {
+   "text": "And stamina is exactly the resource uncontrolled Conqueror's Haki burns fastest, by Chopper's own warning.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Haki stamina burn Chopper warning",
+    "fallback": "reindeer doctor pointing at a chart"
+   }
+  },
+  {
+   "text": "That's chapter 1195 done, and Elbaph just lost its best answer to anything that regenerates.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph without Zoro chapter 1195",
+    "fallback": "giant battlefield missing its swordsman"
+   },
+   "card": "CHAPTER 1195"
+  },
+  {
+   "text": "It's worth remembering this isn't the first time Sanji has quietly covered for Zoro's blind spots.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Zoro history support",
+    "fallback": "cook and swordsman standing together"
+   }
+  },
+  {
+   "text": "At Enies Lobby, he carried an unconscious Zoro off the battlefield without a word of complaint.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji carrying Zoro Enies Lobby",
+    "fallback": "cook carrying a wounded swordsman"
+   }
+  },
+  {
+   "text": "The difference now is that Zoro wasn't supposed to need carrying. Mihawk's lesson was the fix for that.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk fix missing",
+    "fallback": "swordsman standing unsteady"
+   }
+  },
+  {
+   "text": "Except now, that's exactly the opening the real threat on Elbaph was always waiting for.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu waiting Elbaph",
+    "fallback": "shadowy figure watching from afar"
+   }
+  },
+  {
+   "text": "Here's the part most theories about this arc get backwards.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Imu theory backwards",
+    "fallback": "shadowy ruler"
+   }
+  },
+  {
+   "text": "Imu was never going to fight Elbaph's strongest character directly. That's not how Imu has ever moved.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu indirect strategy",
+    "fallback": "shadowy ruler manipulating from a throne"
+   }
+  },
+  {
+   "text": "Every confirmed Imu action so far has removed a problem before it became a fight at all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu removing threats",
+    "fallback": "shadowy figure eliminating obstacles"
+   }
+  },
+  {
+   "text": "Vegapunk's own notes on the Void Century describe this exact method: isolate the one piece that resists, then act.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Void Century notes",
+    "fallback": "scientist reading ancient research"
+   }
+  },
+  {
+   "text": "Zoro, mid-recovery, is the one piece that just stopped resisting on its own.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro mid-recovery weak point",
+    "fallback": "wounded swordsman resting"
+   }
+  },
+  {
+   "text": "Ohara. The old kingdom before the Void Century. Entire futures erased before they could resist.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara buster call",
+    "fallback": "burning library island"
+   }
+  },
+  {
+   "text": "So the moment Zoro is off the board, Imu doesn't send a bigger monster after the giants.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu strategy Elbaph",
+    "fallback": "shadowy ruler planning"
+   }
+  },
+  {
+   "text": "Imu sends Gunko, already under total control, straight at the one target Zoro isn't there to guard.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Imu Controls Gunko attack",
+    "fallback": "controlled warrior moving toward a target"
+   }
+  },
+  {
+   "text": "That target is Harald, the giant king, standing exposed while his generals hold the outer line.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Harald king Elbaph exposed",
+    "fallback": "giant king standing alone"
+   }
+  },
+  {
+   "text": "In the real chapter, Zoro is close enough to intercept Gunko before she reaches the king.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro intercepts Gunko",
+    "fallback": "swordsman blocking an attacker"
+   }
+  },
+  {
+   "text": "Here, Zoro is a battlefield away, recovering from a fight he never should have needed Sanji to end.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro recovering distant battlefield",
+    "fallback": "wounded swordsman resting far from the front"
+   }
+  },
+  {
+   "text": "So the only thing standing between Gunko and the king is whoever happens to be closest.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph king defense gap",
+    "fallback": "giant soldiers scrambling to defend"
+   }
+  },
+  {
+   "text": "And the closest Straw Hat, by every map Oda has drawn of this battlefield, is Brook.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook Elbaph battlefield position",
+    "fallback": "skeleton swordsman standing ready"
+   }
+  },
+  {
+   "text": "Brook against a controlled, Supreme King Haki-capable warrior is not a fight Oda writes as even.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook outmatched fight",
+    "fallback": "skeleton swordsman facing a stronger opponent"
+   }
+  },
+  {
+   "text": "But Brook has one advantage nobody plans around: he's already died once, and it changed how he fights.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook Soul Solid resolve",
+    "fallback": "skeleton swordsman standing firm"
+   }
+  },
+  {
+   "text": "He doesn't need to win. He just needs to buy Harald ten seconds to reach cover.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook buying time king",
+    "fallback": "skeleton warrior holding a line"
+   }
+  },
+  {
+   "text": "Ten seconds, a dozen broken ribs, and one Soul Solid later, Harald makes it out alive.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Brook Soul Solid sacrifice",
+    "fallback": "skeleton warrior protecting a retreat"
+   }
+  },
+  {
+   "text": "Gunko is stopped. The king survives. But Elbaph just watched its weakest-looking fighter take the hit Zoro usually takes.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph king survives cost",
+    "fallback": "battlefield after a narrow escape"
+   }
+  },
+  {
+   "text": "It matters that it's Brook specifically, because his whole arc is built on refusing to let his crew down twice.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook Rumbar Pirates loyalty",
+    "fallback": "skeleton musician remembering his crew"
+   }
+  },
+  {
+   "text": "He already watched the Rumbar Pirates die around him once, powerless to stop it.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Brook Rumbar Pirates death",
+    "fallback": "ghost ship crew fading away"
+   }
+  },
+  {
+   "text": "So when Harald is the one exposed, Brook isn't improvising bravery. He's refusing to repeat his own history.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook refusing history repeat",
+    "fallback": "skeleton swordsman standing firm"
+   }
+  },
+  {
+   "text": "Some fans will argue Loki could have covered the king instead, since he's closer to Harald by blood.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki Harald family argument",
+    "fallback": "giant warrior near the king"
+   }
+  },
+  {
+   "text": "But Loki is still pinned on the opposite flank, exactly where losing Zoro's line put him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki pinned flank",
+    "fallback": "giant warrior blocked on a flank"
+   }
+  },
+  {
+   "text": "The gap Zoro leaves doesn't close on its own. It just moves to whoever is left standing closest.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Battlefield gap moving",
+    "fallback": "battlefield shifting exposure"
+   }
+  },
+  {
+   "text": "Afterward, Harald asks Brook why he stood in front of a fight he couldn't win.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Harald asking Brook question",
+    "fallback": "giant king questioning a skeleton"
+   }
+  },
+  {
+   "text": "Brook's answer is simple: a king who falls today is a crew that loses tomorrow, and he's done losing crews.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Brook answer crew loyalty",
+    "fallback": "skeleton swordsman answering solemnly"
+   }
+  },
+  {
+   "text": "That line lands harder once you remember it's the same reasoning Zoro built his entire promise on.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook Zoro parallel reasoning",
+    "fallback": "two swordsmen mirrored in resolve"
+   }
+  },
+  {
+   "text": "Two swordsmen, two crews, the exact same rule, and only one of them had Mihawk there to enforce it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook Zoro parallel swordsmen",
+    "fallback": "skeleton and swordsman standing apart"
+   }
+  },
+  {
+   "text": "Nobody on the crew says it out loud yet, but every one of them clocks the same uncomfortable fact.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats realizing cost",
+    "fallback": "pirate crew exchanging a worried look"
+   }
+  },
+  {
+   "text": "And that's the trade this whole What If was always building toward...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph trade cost",
+    "fallback": "battlefield in the aftermath"
+   }
+  },
+  {
+   "text": "Without Mihawk's lesson, Zoro doesn't lose Elbaph. He just stops being the answer to its hardest fight.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro no longer answer",
+    "fallback": "swordsman standing apart from the battle"
+   }
+  },
+  {
+   "text": "Somebody else has to become that answer instead, and this time it almost wasn't Brook.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook becomes answer",
+    "fallback": "skeleton swordsman standing tall"
+   }
+  },
+  {
+   "text": "That's the actual theory here: Mihawk's two years on Kuraigana weren't swordsmanship lessons at all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk Kuraigana real lesson",
+    "fallback": "hawk eyed swordsman teaching a student"
+   }
+  },
+  {
+   "text": "They were the only thing standing between Zoro and the exact trap the Gorosei built for him.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gorosei trap Zoro",
+    "fallback": "five elders watching from shadow"
+   }
+  },
+  {
+   "text": "Even the anime hints at this: watch Mihawk's eyes in episode 1 the moment Zoro swears his oath.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk eyes episode one",
+    "fallback": "hawk eyed swordsman watching intently"
+   }
+  },
+  {
+   "text": "He doesn't look impressed by the threat. He looks like a man clocking a problem he'll have to fix later.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk assessing Zoro",
+    "fallback": "swordsman studying a younger rival"
+   }
+  },
+  {
+   "text": "Take that fix away, and every fight after it costs the crew more than Zoro alone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats paying cost",
+    "fallback": "pirate crew battered but standing"
+   }
+  },
+  {
+   "text": "I think that's exactly why Oda gave Mihawk two full years with him instead of two chapters.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Mihawk Zoro two years",
+    "fallback": "mentor and student training together"
+   }
+  },
+  {
+   "text": "It was never about making Zoro stronger. It was about making sure strength never ran him over.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro strength control balance",
+    "fallback": "swordsman standing calm and controlled"
+   }
+  },
+  {
+   "text": "You can trace the same idea all the way back to Zoro's duel with Kuina, long before any of this.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Kuina duel childhood",
+    "fallback": "young swordsman dueling a friend"
+   }
+  },
+  {
+   "text": "Even then, Oda wrote him as someone who wins by outlasting pain, not by avoiding it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro outlasting pain theme",
+    "fallback": "swordsman enduring injury"
+   }
+  },
+  {
+   "text": "Kuina's death taught him to carry a promise. Mihawk's lesson taught him how to carry it without breaking.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuina Mihawk parallel lessons",
+    "fallback": "swordsman honoring two mentors"
+   }
+  },
+  {
+   "text": "Take either one away, and the sword he carries starts cutting against him instead of for him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro sword against him",
+    "fallback": "swordsman struggling with his own blade"
+   }
+  },
+  {
+   "text": "That's the real reason this version of chapter 1194 scares me more than any raw power loss would.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro chapter 1194 fear",
+    "fallback": "swordsman in a tense standoff"
+   }
+  },
+  {
+   "text": "Power you can train back. A missing piece of discipline just waits for the next Sommers to find it.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro discipline missing piece",
+    "fallback": "swordsman vulnerable without guidance"
+   }
+  },
+  {
+   "text": "So, does Mihawk's lesson matter more than Zoro's blades? Tell me which side of that you're on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Mihawk final verdict",
+    "fallback": "swordsman reflecting on his training"
+   }
+  },
+  {
+   "text": "And if you want to see what happens when Brook is the one who doesn't walk away, that's the next story.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook next story teaser",
+    "fallback": "skeleton swordsman walking into the distance"
    }
   }
  ],
@@ -148,15 +1268,23 @@
    "title": "The Question"
   },
   {
-   "line": 3,
+   "line": 9,
    "title": "The Fight That Never Ends"
   },
   {
-   "line": 8,
+   "line": 39,
    "title": "Elbaph Without Zoro"
   },
   {
-   "line": 9,
+   "line": 65,
+   "title": "The Crew Reacts"
+  },
+  {
+   "line": 89,
+   "title": "Imu Moves First"
+  },
+  {
+   "line": 119,
    "title": "The Verdict"
   }
  ],
@@ -168,11 +1296,12 @@
  },
  "sources": [
   "https://onepiece.fandom.com/wiki/Shepherd_Sommers",
-  "https://onepiece.fandom.com/wiki/Chapter_1194"
+  "https://onepiece.fandom.com/wiki/Chapter_1194",
+  "https://onepiece.fandom.com/wiki/Roronoa_Zoro"
  ],
  "self_check": {
-  "hook": "What If question + two escalating questions in the first 15 s",
-  "loop": "chapter endings leave an open question",
+  "hook": "What If question + two escalating stakes questions in the first 20 s",
+  "loop": "chapter endings leave an open question; payoff line ends the video, no outro",
   "facts_verified": true
  }
 }

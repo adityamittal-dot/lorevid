@@ -8,6 +8,7 @@ import sys
 VALID_MOODS = {"hype", "suspense", "emotional", "epic", "chill"}
 VALID_DELIVERY = {"normal", "punch", "reveal", "aside", "slow"}
 VALID_FX = {"none", "zoom", "shake", "flash"}
+VALID_THUMB_DEVICES = {"circle", "question", "blur", "split"}
 REQUIRED_KEYS = [
     "id", "format", "series", "wiki", "topic", "title", "description",
     "hashtags", "tags", "music_mood", "comment", "lines", "sources", "self_check"
@@ -31,8 +32,49 @@ BANNED_AI_PATTERNS = [
 
 DEFAULT_LIMITS = {
     "short": {"min_lines": 8, "max_lines": 22, "min_words": 95, "max_words": 165},
-    "long": {"min_lines": 100, "max_lines": 260, "min_words": 1800, "max_words": 3000},
+    "long": {"min_lines": 100, "max_lines": 260, "min_words": 2200, "max_words": 3000},
 }
+
+# Fallback if channel.json has no "banned_phrases" (it does by default; see channel.json). Long videos only:
+# these are stock narrator filler that reads as AI-generated and gets called out in comments.
+DEFAULT_BANNED_PHRASES = [
+    "to understand how we get there", "remember ", "let's dive in", "buckle up", "in this video",
+    "thanks for watching", "don't forget to subscribe", "smash that like", "without further ado",
+    "little did", "but here's the thing", "fast forward",
+]
+
+# The last line is the payoff, not a sign-off: these mark it as an outro instead.
+OUTRO_PATTERNS = [
+    ("subscribe", r"\bsubscribe\b"),
+    ("thanks", r"\bthanks\b"),
+    ("see you", r"\bsee you\b"),
+    ("comment below", r"\bcomment below\b"),
+]
+
+HOOK_START_WORDS = {"but", "until", "except"}
+SPOILER_CHAPTER_WORDS = re.compile(r"\b(revealed|explained|conclusion)\b", re.I)
+
+
+def _banned_phrase_pattern(phrase):
+    """Word-bounded, whitespace-flexible regex for one banned phrase. "remember " is handled separately
+    (sentence-initial only), so it never reaches here as a generic pattern."""
+    escaped = r"\s+".join(re.escape(w) for w in phrase.split())
+    return re.compile(r"\b" + escaped + r"\b", re.I)
+
+
+def _sentences(text):
+    """Split one line's narration into sentences (a line is usually one, but "aside" lines can hold two)."""
+    return [s.strip() for s in re.split(r"(?<=[.!?])\s+", text.strip()) if s.strip()]
+
+
+def _ends_hooky(text):
+    """True if a line ends on a cliffhanger ("?", "...", "…") or opens with a hook word (But/Until/Except) —
+    the shape that makes a viewer want the next chapter instead of leaving."""
+    t = text.strip()
+    if t.endswith("?") or t.endswith("...") or t.endswith("…"):
+        return True
+    first = re.match(r"[A-Za-z']+", t)
+    return bool(first and first.group(0).lower() in HOOK_START_WORDS)
 
 
 def load_channel_config(repo_dir):
@@ -92,6 +134,7 @@ def main():
 
     repo_dir = os.path.dirname(os.path.abspath(__file__))
     channel_cfg = load_channel_config(repo_dir)
+    banned_phrases = channel_cfg.get("banned_phrases") or DEFAULT_BANNED_PHRASES
 
     err = []
     warn = []
@@ -180,6 +223,15 @@ def main():
             if re.search(pattern, text, re.IGNORECASE):
                 err.append(f"line {i+1}: narration contains banned AI word/phrase '{name}'")
 
+        if fmt == "long":
+            for phrase in banned_phrases:
+                if phrase == "remember ":
+                    if any(re.match(r"^Remember\b", s) for s in _sentences(text)):
+                        err.append(f"line {i+1}: starts a sentence with 'Remember ' (stock recap phrase); "
+                                   f"cut it or rewrite the sentence without the word at the start")
+                elif _banned_phrase_pattern(phrase).search(text):
+                    err.append(f"line {i+1}: narration contains banned stock phrase '{phrase}'")
+
     # Format bounds
     if fmt in {"short", "long"}:
         limits = get_format_limits(channel_cfg, fmt)
@@ -254,17 +306,56 @@ def main():
                     err.append(f"chapter {ci+1}: line {ch_line} must be strictly greater than previous chapter line {prev_line}")
                 if not ch_title or not str(ch_title).strip():
                     err.append(f"chapter {ci+1}: missing title")
+                else:
+                    ch_title_s = str(ch_title).strip()
+                    if len(ch_title_s.split()) > 6:
+                        err.append(f"chapter {ci+1} title '{ch_title_s}' is more than 6 words; "
+                                   f"chapter titles are teasers on screen, not sentences")
+                    if SPOILER_CHAPTER_WORDS.search(ch_title_s):
+                        warn.append(f"chapter {ci+1} title '{ch_title_s}' reads like a spoiler label "
+                                    f"(contains 'revealed'/'explained'/'conclusion'); tease the question, not the answer")
                 if isinstance(ch_line, int):
                     prev_line = ch_line
+
+            # The line right before every chapter 2..n (the last beat of the chapter before it) is the re-hook:
+            # it has to make the viewer want the next chapter, not just stop. Same bar for the cold-open's own
+            # last line, found by the ~30s mark (long narration runs ~3 words/second, see `rate` below).
+            hook_line_idxs = {}
+            for ci in range(1, len(chapters)):
+                ch_line = chapters[ci].get("line")
+                ch_title = chapters[ci].get("title")
+                if isinstance(ch_line, int) and 0 < ch_line <= n_lines:
+                    hook_line_idxs[ch_line - 1] = f"before chapter {ci+1} ('{ch_title}')"
+            cum_words, cold_open_idx = 0, None
+            for i, line in enumerate(lines):
+                if not isinstance(line, dict):
+                    continue
+                cum_words += len(str(line.get("text", "")).split())
+                if cum_words / 3.0 >= 30.0:
+                    cold_open_idx = max(0, i - 1)
+                    break
+            if cold_open_idx is not None:
+                hook_line_idxs.setdefault(cold_open_idx, "the cold open's last line (~30s mark)")
+            for idx, where in sorted(hook_line_idxs.items()):
+                if idx >= len(lines) or not isinstance(lines[idx], dict):
+                    continue
+                line_text = str(lines[idx].get("text", ""))
+                if line_text.strip() and not _ends_hooky(line_text):
+                    err.append(f"line {idx+1} ({where}) must end with '?' or '...'/'…', or open with "
+                               f"'But'/'Until'/'Except' — it's a re-hook, so it has to leave something "
+                               f"unresolved instead of just finishing a thought")
 
         thumb = p.get("thumbnail")
         if not isinstance(thumb, dict):
             err.append("long video requires 'thumbnail' object")
         else:
-            if len(str(thumb.get("text") or "").split()) > 4:
-                err.append("thumbnail 'text' must be 0-4 words (none is fine for What If videos)")
+            if len(str(thumb.get("text") or "").split()) > 3:
+                err.append("thumbnail 'text' must be 0-3 words (none is fine for What If videos)")
             if not (thumb.get("search") or thumb.get("image")):
                 err.append("thumbnail needs 'search' (character + emotion/event) or an exact 'image'")
+            device = thumb.get("device")
+            if device is not None and device not in VALID_THUMB_DEVICES:
+                err.append(f"thumbnail 'device' must be one of {sorted(VALID_THUMB_DEVICES)} or omitted (got '{device}')")
 
         cards = [ln.get("card") for ln in lines if isinstance(ln, dict) and ln.get("card")]
         for c in cards:
@@ -273,6 +364,21 @@ def main():
         per_min = len(cards) / max(1.0, total_words / 180)
         if per_min > 1.5:
             warn.append(f"{len(cards)} cards is a lot ({per_min:.1f} a minute); keep them for key names and numbers")
+
+        # Open question or stakes within the first 3 lines: a long video has to earn the next 12 minutes fast.
+        first3 = " ".join(str(ln.get("text", "")) for ln in lines[:3] if isinstance(ln, dict))
+        if "?" not in first3:
+            err.append("no '?' in the first 3 lines; open on the core question or stakes "
+                       "(WRITER.md, cold open) so the viewer knows what's being decided")
+
+        # The last line is the payoff, never a sign-off.
+        if lines and isinstance(lines[-1], dict):
+            last_text = str(lines[-1].get("text", ""))
+            for name, pattern in OUTRO_PATTERNS:
+                if re.search(pattern, last_text, re.IGNORECASE):
+                    err.append(f"last line reads like an outro (contains '{name}'); end on the payoff line "
+                               f"instead, then let the description/end screen point to the related video")
+                    break
 
     # 7. notes/<id>.md check
     notes_candidates = [
@@ -299,6 +405,13 @@ def main():
 
             if not re.search(r"^##\s*Self-review\b", notes_content, re.M | re.I):
                 err.append(f"notes/{script_id}.md missing '## Self-review' section")
+
+            # Long videos and the Shorts cut from them (-Ls1, -Ls2, ...) must pass a fact-check subagent pass
+            # (WRITER.md, Fact check step) before push; its findings and fixes are recorded here.
+            needs_fact_check = fmt == "long" or bool(re.search(r"-Ls\d+$", script_id))
+            if needs_fact_check and not re.search(r"^##\s*Fact check\b", notes_content, re.M | re.I):
+                err.append(f"notes/{script_id}.md missing '## Fact check' section (required for long videos "
+                           f"and their -Ls Shorts; run the fact-check subagent before pushing, see WRITER.md)")
         except Exception as e:
             err.append(f"failed reading notes/{script_id}.md: {e}")
 
@@ -326,6 +439,37 @@ def main():
                         pass
             if any("duplicate title" in e for e in err):
                 break
+
+    # 9. Variety check (long only): opening on the same first 8 words as a recent long reads as a template.
+    if fmt == "long" and lines and isinstance(lines[0], dict):
+        curr_open = " ".join(str(lines[0].get("text", "")).split()[:8]).strip().lower()
+        if curr_open:
+            seen_paths = set()
+            search_dirs = [repo_dir, os.getcwd(), "."]
+            for base in search_dirs:
+                for sub in ["queue", "done", "backlog"]:
+                    for other_fp in glob.glob(os.path.join(base, "scripts", sub, "*.json")):
+                        real_fp = os.path.realpath(os.path.abspath(other_fp))
+                        if real_fp == canonical_self or real_fp in seen_paths:
+                            continue
+                        seen_paths.add(real_fp)
+                        try:
+                            with open(real_fp, "r", encoding="utf-8") as f:
+                                other_data = json.load(f)
+                            if other_data.get("format") != "long":
+                                continue
+                            other_lines = other_data.get("lines") or []
+                            if not other_lines or not isinstance(other_lines[0], dict):
+                                continue
+                            other_open = " ".join(str(other_lines[0].get("text", "")).split()[:8]).strip().lower()
+                            if other_open and other_open == curr_open:
+                                err.append(f"line 1's first 8 words match {os.path.basename(real_fp)}'s line 1 "
+                                           f"('{curr_open}'); open on a different archetype (WRITER.md)")
+                                break
+                        except Exception:
+                            pass
+                if any("line 1's first 8 words match" in e for e in err):
+                    break
 
     # One-line summary first
     rate = 2.7 if fmt == "short" else 3.0      # long: speed 1.18 with tighter pauses, ~180 words a minute
