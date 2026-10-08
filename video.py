@@ -503,33 +503,13 @@ SUBJECT_FRAC = 0.62   # the subject fills 55-70% of the frame width; the rest is
 
 
 def _compose_offcenter(im):
-    """Place a full-frame crop off-centre: crisp on whichever side holds more picture detail (the subject),
-    a blurred/darkened atmospheric extension on the other (the empty third where text goes). Returns
-    (canvas, text_side) with text_side "left" or "right"."""
+    """Pick the text side: the half with less picture detail, so the words never cover the character.
+    The picture itself stays whole and sharp (an earlier version blurred the "empty" side and blurred the
+    character away on real wiki art). Returns (picture, text_side) with text_side "left" or "right"."""
     import framing
-    tw, th = im.size
     e, s = framing._energy(im)
     half = e.shape[1] // 2
-    subject_side = "left" if e[:, :half].sum() >= e[:, half:].sum() else "right"
-    text_side = "right" if subject_side == "left" else "left"
-
-    subj_w = int(tw * SUBJECT_FRAC)
-    x0 = 0 if subject_side == "left" else tw - subj_w
-    crop = im.crop((x0, 0, x0 + subj_w, th))
-
-    backdrop = ImageEnhance.Brightness(im.filter(ImageFilter.GaussianBlur(30))).enhance(0.55)
-    canvas = backdrop.copy()
-    feather = max(24, subj_w // 10)
-    mask = Image.new("L", (subj_w, th), 255)
-    md = ImageDraw.Draw(mask)
-    for i in range(feather):                              # feather only the inner edge (toward the empty side)
-        a = int(255 * (i / feather))
-        if subject_side == "left":
-            md.line([(subj_w - feather + i, 0), (subj_w - feather + i, th)], fill=255 - a)
-        else:
-            md.line([(i, 0), (i, th)], fill=a)
-    canvas.paste(crop, (x0, 0), mask)
-    return canvas, text_side
+    return im, ("right" if e[:, :half].sum() >= e[:, half:].sum() else "left")
 
 
 def _detail_peak(im):

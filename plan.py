@@ -61,15 +61,6 @@ def existing_ids(repo_dir=REPO_DIR):
     return out
 
 
-def existing_long_count_before(existing, before_date_str):
-    """How many long-video ids ("<date>-L") already exist with a date strictly before `before_date_str`,
-    used to pick up the "every 4th long" count across sessions."""
-    return sum(
-        1 for sid in existing
-        if sid.endswith("-L") and sid[:10] < before_date_str and _is_date(sid[:10])
-    )
-
-
 def _is_date(s):
     try:
         datetime.date.fromisoformat(s)
@@ -87,7 +78,11 @@ def plan_items(n, repo_dir=REPO_DIR):
     existing = existing_ids(repo_dir)
 
     start = ist_today() + datetime.timedelta(days=1)
-    long_index = existing_long_count_before(existing, start.isoformat())
+    # Rotation counts long days from the schedule's first date, so a date's series never shifts between sessions.
+    first = datetime.date.fromisoformat(schedule[0]["from"]) if schedule else start
+    long_index = sum(1 for k in range((start - first).days)
+                     if WEEKDAYS[(first + datetime.timedelta(days=k)).weekday()]
+                     in long_days_for(schedule, first + datetime.timedelta(days=k)))
 
     items = []
     day = start
@@ -133,7 +128,11 @@ def cmd_status(repo_dir=REPO_DIR):
     existing = existing_ids(repo_dir)
 
     start = ist_today() + datetime.timedelta(days=1)
-    long_index = existing_long_count_before(existing, start.isoformat())
+    # Rotation counts long days from the schedule's first date, so a date's series never shifts between sessions.
+    first = datetime.date.fromisoformat(schedule[0]["from"]) if schedule else start
+    long_index = sum(1 for k in range((start - first).days)
+                     if WEEKDAYS[(first + datetime.timedelta(days=k)).weekday()]
+                     in long_days_for(schedule, first + datetime.timedelta(days=k)))
 
     covered_days = 0
     missing_60d = 0
