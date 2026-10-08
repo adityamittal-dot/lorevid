@@ -123,14 +123,14 @@
     },
     "long": {
       "words": [
-        2600,
-        3300
+        2450,
+        3000
       ],
       "lines": [
         110,
         300
       ],
-      "note": "13-16 min (the pipeline reads ~200 wpm, so 2600+ words): What If story or theory breakdown; payoff teased in 5 s, re-hook every 2-3 min"
+      "note": "12-15 min (the pipeline reads ~200 wpm, so 2450-3000 words): What If story or theory breakdown; payoff teased in 5 s, re-hook every 2-3 min"
     }
   },
   "voice_blend": {
