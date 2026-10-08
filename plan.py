@@ -34,20 +34,6 @@ def ist_today():
     return datetime.datetime.now(ist).date()
 
 
-def long_days_for(schedule, day):
-    """The weekday-name list in effect for `day`: the entry with the latest "from" date <= day, or [] if
-    the schedule hasn't started yet."""
-    best, best_from = None, None
-    for entry in schedule or []:
-        try:
-            efrom = datetime.date.fromisoformat(entry["from"])
-        except (KeyError, ValueError):
-            continue
-        if efrom <= day and (best_from is None or efrom > best_from):
-            best, best_from = entry.get("days", []), efrom
-    return best or []
-
-
 def existing_ids(repo_dir=REPO_DIR):
     """{id: path} for every script already written anywhere in the pipeline (backlog/queue/done/failed)."""
     out = {}
@@ -69,49 +55,74 @@ def _is_date(s):
         return False
 
 
-def plan_items(n, repo_dir=REPO_DIR):
-    """The next n missing script items (dicts: id, format, series, publish_date), earliest first,
-    skipping anything already written."""
+def longs_per_day(schedule, day):
+    """How many long videos `day` gets: the matching schedule entry's "per_day" (default 1) on its days, else 0."""
+    best, best_from = None, None
+    for entry in schedule or []:
+        try:
+            efrom = datetime.date.fromisoformat(entry["from"])
+        except (KeyError, ValueError):
+            continue
+        if efrom <= day and (best_from is None or efrom > best_from):
+            best, best_from = entry, efrom
+    if not best or WEEKDAYS[day.weekday()] not in best.get("days", []):
+        return 0
+    return int(best.get("per_day", 1))
+
+
+def long_id(date_str, k):
+    """The k-th long of a day (1-based): "<date>-L", "<date>-L2", ... Its Shorts are "<id>s1", "<id>s2"."""
+    return f"{date_str}-L" if k == 1 else f"{date_str}-L{k}"
+
+
+def day_items(schedule, shorts_per_day, day, long_index):
+    """Every script a day needs, as (items, new long_index). Every 4th long breaks from One Piece; each
+    long's Shorts are cut from it. A day with no long gets plain Shorts by weekday series."""
+    date_str, items = day.isoformat(), []
+    n_long = longs_per_day(schedule, day)
+    for k in range(1, n_long + 1):
+        long_index += 1
+        series = LONG_OFF_SERIES[(long_index // 4 - 1) % 2] if long_index % 4 == 0 else "onepiece"
+        lid = long_id(date_str, k)
+        items.append({"id": lid, "format": "long", "series": series, "publish_date": date_str})
+        items += [{"id": f"{lid}s{s}", "format": "short", "series": series, "publish_date": date_str}
+                  for s in range(1, shorts_per_day + 1)]
+    if not n_long:
+        series = SHORT_SERIES_BY_WEEKDAY.get(WEEKDAYS[day.weekday()], "onepiece")
+        items += [{"id": f"{date_str}-m{s}", "format": "short", "series": series, "publish_date": date_str}
+                  for s in range(1, shorts_per_day + 1)]
+    return items, long_index
+
+
+def _walk(repo_dir, days):
+    """(day, items) for `days` days from tomorrow (IST), with long rotation counted from the schedule start
+    so a date's series never shifts between sessions."""
     cfg = load_channel(repo_dir)
     schedule = cfg.get("long_schedule", [])
     shorts_per_day = int(cfg.get("shorts_per_day", 1))
-    existing = existing_ids(repo_dir)
-
     start = ist_today() + datetime.timedelta(days=1)
-    # Rotation counts long days from the schedule's first date, so a date's series never shifts between sessions.
     first = datetime.date.fromisoformat(schedule[0]["from"]) if schedule else start
-    long_index = sum(1 for k in range((start - first).days)
-                     if WEEKDAYS[(first + datetime.timedelta(days=k)).weekday()]
-                     in long_days_for(schedule, first + datetime.timedelta(days=k)))
-
-    items = []
-    day = start
-    for _ in range(730):            # hard stop so a broken schedule can't loop forever
-        if len(items) >= n:
-            break
-        wd = WEEKDAYS[day.weekday()]
-        date_str = day.isoformat()
-        is_long_day = wd in long_days_for(schedule, day)
-
-        if is_long_day:
-            long_index += 1
-            series = LONG_OFF_SERIES[(long_index // 4 - 1) % 2] if long_index % 4 == 0 else "onepiece"
-            long_id = f"{date_str}-L"
-            if long_id not in existing:
-                items.append({"id": long_id, "format": "long", "series": series, "publish_date": date_str})
-            for s in range(1, shorts_per_day + 1):
-                sid = f"{date_str}-Ls{s}"
-                if sid not in existing:
-                    items.append({"id": sid, "format": "short", "series": series, "publish_date": date_str})
-        else:
-            series = SHORT_SERIES_BY_WEEKDAY.get(wd, "onepiece")
-            for s in range(1, shorts_per_day + 1):
-                sid = f"{date_str}-m{s}"
-                if sid not in existing:
-                    items.append({"id": sid, "format": "short", "series": series, "publish_date": date_str})
+    long_index = 0
+    day = min(first, start)
+    while day < start:
+        long_index += longs_per_day(schedule, day)
+        day += datetime.timedelta(days=1)
+    for _ in range(days):
+        items, long_index = day_items(schedule, shorts_per_day, day, long_index)
+        yield day, items
         day += datetime.timedelta(days=1)
 
-    return items[:n]
+
+def plan_items(n, repo_dir=REPO_DIR):
+    """The next n missing script items (dicts: id, format, series, publish_date), earliest first,
+    skipping anything already written."""
+    existing = existing_ids(repo_dir)
+    out = []
+    for _, items in _walk(repo_dir, 730):
+        out += [it for it in items if it["id"] not in existing]
+        if len(out) >= n:
+            break
+    return out[:n]
 
 
 def cmd_next(n):
@@ -122,40 +133,16 @@ def cmd_next(n):
 def cmd_status(repo_dir=REPO_DIR):
     """How many consecutive days from tomorrow already have every id they need (a "covered" streak),
     plus the total count still missing in the next 60 days."""
-    cfg = load_channel(repo_dir)
-    schedule = cfg.get("long_schedule", [])
-    shorts_per_day = int(cfg.get("shorts_per_day", 1))
     existing = existing_ids(repo_dir)
-
     start = ist_today() + datetime.timedelta(days=1)
-    # Rotation counts long days from the schedule's first date, so a date's series never shifts between sessions.
-    first = datetime.date.fromisoformat(schedule[0]["from"]) if schedule else start
-    long_index = sum(1 for k in range((start - first).days)
-                     if WEEKDAYS[(first + datetime.timedelta(days=k)).weekday()]
-                     in long_days_for(schedule, first + datetime.timedelta(days=k)))
-
-    covered_days = 0
-    missing_60d = 0
-    day = start
-    streak_broken = False
-    for i in range(60):
-        wd = WEEKDAYS[day.weekday()]
-        date_str = day.isoformat()
-        is_long_day = wd in long_days_for(schedule, day)
-        needed = []
-        if is_long_day:
-            long_index += 1
-            needed.append(f"{date_str}-L")
-            needed += [f"{date_str}-Ls{s}" for s in range(1, shorts_per_day + 1)]
-        else:
-            needed += [f"{date_str}-m{s}" for s in range(1, shorts_per_day + 1)]
-        day_missing = [sid for sid in needed if sid not in existing]
+    covered_days, missing_60d, streak_broken = 0, 0, False
+    for _, items in _walk(repo_dir, 60):
+        day_missing = [it for it in items if it["id"] not in existing]
         missing_60d += len(day_missing)
         if not day_missing and not streak_broken:
             covered_days += 1
         else:
             streak_broken = True
-        day += datetime.timedelta(days=1)
 
     print(f"Fully covered from tomorrow ({start.isoformat()}): {covered_days} day(s) in a row.")
     print(f"Missing scripts in the next 60 days: {missing_60d}.")

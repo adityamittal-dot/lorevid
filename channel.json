@@ -81,11 +81,16 @@
   "long_schedule": [
     {
       "from": "2026-10-09",
-      "days": ["Mon", "Wed", "Fri"]
-    },
-    {
-      "from": "2026-11-02",
-      "days": ["Mon", "Tue", "Wed", "Thu", "Fri"]
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "per_day": 2
     }
   ],
   "shorts_per_day": 1,
@@ -118,14 +123,14 @@
     },
     "long": {
       "words": [
-        2200,
-        3000
+        2600,
+        3300
       ],
       "lines": [
-        100,
-        260
+        110,
+        300
       ],
-      "note": "12-16 min at ~180 wpm: a What If story (best faceless format) or a theory breakdown; cold open in 15 s, open loop every 60-90 s"
+      "note": "13-16 min (the pipeline reads ~200 wpm, so 2600+ words): What If story or theory breakdown; payoff teased in 5 s, re-hook every 2-3 min"
     }
   },
   "voice_blend": {
@@ -143,7 +148,8 @@
       "17:00"
     ],
     "long_slots_utc": [
-      "15:00"
+      "15:00",
+      "23:00"
     ],
     "min_lead_hours": 3
   },

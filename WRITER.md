@@ -14,13 +14,13 @@ backlog further ahead of the publish schedule.
 
 Date is today in IST (`YYYY-MM-DD`). Each session:
 
-1. Run `python plan.py next 6`. It prints the next 6 missing script IDs in schedule order — format, series, and
-   intended publish date — computed from `channel.json`'s `long_schedule` (3 long videos a week, Mon/Wed/Fri, from
-   2026-10-09; 5 a week, Mon-Fri, from 2026-11-02) and `shorts_per_day` (1), skipping anything already sitting in
-   `scripts/backlog/`, `scripts/queue/`, or `scripts/done/`.
-2. Write **exactly 1 long video plus its `Ls1` Short**, plus **up to 2 more Shorts** — whichever `plan.py` lists
-   first — so a session writes at most 4 scripts. On a run of consecutive non-long days, that's just the Shorts;
-   don't force a long video that isn't next in the plan.
+1. Run `python plan.py next 4`. It prints the next 4 missing script IDs in schedule order — format, series, and
+   intended publish date — computed from `channel.json`'s `long_schedule` (2 long videos every day: `<date>-L` and
+   `<date>-L2`) and `shorts_per_day` (1 Short cut from each long: `<date>-Ls1` and `<date>-L2s1`), skipping anything
+   already sitting in `scripts/backlog/`, `scripts/queue/`, `scripts/done/` or `scripts/failed/`.
+2. Write **exactly the 4 scripts it lists: 2 long videos, each with its Short**. The two long videos must differ in
+   character, arc and format (e.g. one What If + one theory breakdown), and must not repeat a topic from the last 60
+   titles. Quality beats count: if you run short of budget, push 1 finished long + its Short rather than 2 rushed ones.
 3. **Chapter-reaction override**: if a new One Piece chapter released in the last 4 days and no long video yet
    reacts to it, the *next* long video `plan.py` lists becomes a chapter reaction to it (title, cold open, and
    spine built around that chapter) instead of whatever the default rotation implied — same ID, same slot, same
@@ -170,7 +170,8 @@ Every script must match this schema exactly. `examples/short.json` is a complete
 ## 6. Writing Rules & Retention Engineering
 
 ### Shorts Rules (35-60 s, 95-165 words total, 8-22 lines)
-One Short publishes a day: on a long day it's `Ls1`, cut from that day's long video; otherwise it's a standalone `m1`.
+Two Shorts publish a day, one cut from each long video (`<date>-Ls1` from `<date>-L`, `<date>-L2s1` from `<date>-L2`;
+set `related_long` to the long's ID). Each is that long's single strongest moment as a standalone Short.
 - **Hook patterns that win in this niche** (pick one, never reuse the same one twice in a row):
   contrarian claim ("Luffy isn't the real Joy Boy."), hidden detail ("Nobody noticed what Mihawk said in chapter 1194."),
   confirmed-now ("Oda just confirmed Zoro's bloodline."), impossible question ("How did Itachi know Sasuke would win?"),
@@ -232,7 +233,7 @@ Our voice is synthetic, and fans scroll straight past AI-voice slop. The only wa
 
 **Before pushing, ask for each Short**: would a fan who has read every chapter learn something, or want to argue? If neither, rewrite it.
 
-### Long Video Rules (12-16 min, 2200-2800 words, 100-260 lines)
+### Long Video Rules (13-16 min, 2600-3200 words, 110-300 lines)
 What wins in long form right now (studied 2026-10-02): Facadify, "What If Luffy Was Raised By Joy Boy?" (233k views in
 6 days, 17 min); Strawhatists, "What If Luffy, Ace & Sabo Were Reborn With Their Memories" (140k, 15 min);
 GrandLineReview, "The Rules Just Changed... (1194)" (538k) and "Imu is a PARROT!" (443k, 17 min). The two What If

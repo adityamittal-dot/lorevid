@@ -32,7 +32,7 @@ BANNED_AI_PATTERNS = [
 
 DEFAULT_LIMITS = {
     "short": {"min_lines": 8, "max_lines": 22, "min_words": 95, "max_words": 165},
-    "long": {"min_lines": 100, "max_lines": 260, "min_words": 2200, "max_words": 3000},
+    "long": {"min_lines": 110, "max_lines": 300, "min_words": 2600, "max_words": 3300},
 }
 
 # Fallback if channel.json has no "banned_phrases" (it does by default; see channel.json). Long videos only:
@@ -408,7 +408,7 @@ def main():
 
             # Long videos and the Shorts cut from them (-Ls1, -Ls2, ...) must pass a fact-check subagent pass
             # (WRITER.md, Fact check step) before push; its findings and fixes are recorded here.
-            needs_fact_check = fmt == "long" or bool(re.search(r"-Ls\d+$", script_id))
+            needs_fact_check = fmt == "long" or bool(re.search(r"-L\d*s\d+$", script_id))
             if needs_fact_check and not re.search(r"^##\s*Fact check\b", notes_content, re.M | re.I):
                 err.append(f"notes/{script_id}.md missing '## Fact check' section (required for long videos "
                            f"and their -Ls Shorts; run the fact-check subagent before pushing, see WRITER.md)")
@@ -472,7 +472,7 @@ def main():
                     break
 
     # One-line summary first
-    rate = 2.7 if fmt == "short" else 3.0      # long: speed 1.18 with tighter pauses, ~180 words a minute
+    rate = 2.7 if fmt == "short" else 3.35      # long: speed 1.18 with tighter pauses, measured ~200 words a minute (2026-10-09-L: 2217 words, 11:03)
     est_s = round(total_words / rate) if rate > 0 else 0
     print(f"{script_id} {fmt} {n_lines} lines, {total_words} words ~{est_s} s")
 
