@@ -33,7 +33,9 @@ def get_credentials(interactive=False, secret=None, token=None):
     """Load or refresh credentials; interactive OAuth login if interactive=True."""
     s = secret or SECRET
     t = token or TOKEN
-    creds = Credentials.from_authorized_user_file(t, SCOPES) if os.path.exists(t) else None
+    # The token's own granted scopes, not SCOPES: refreshing with a scope the token was never granted (the
+    # analytics one, before a re-auth) fails with invalid_scope and blocks every upload.
+    creds = Credentials.from_authorized_user_file(t) if os.path.exists(t) else None
     if creds and creds.valid:
         return creds
     if creds and creds.refresh_token:
