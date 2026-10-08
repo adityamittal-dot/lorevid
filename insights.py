@@ -91,8 +91,80 @@ def load_search_terms(cfg_path: Path, cap: int = 9) -> list[str]:
     return out[:cap]
 
 
-def update_performance(client, now_utc: datetime, data_dir: Path) -> None:
-    """Fetch channel stats and last 50 uploads, writing data/performance.md."""
+ANALYTICS_LOOKBACK_DAYS = 90
+WATCH_HOURS_LOOKBACK_DAYS = 365
+YPP_WATCH_HOURS_GOAL = 4000
+
+
+def fetch_video_analytics(analytics, now_utc: datetime) -> dict:
+    """{"video_id": {"avd": seconds, "avp": percent}} for every video with traffic in the last 90 days
+    (youtubeAnalytics v2, dimensions=video). Used to add AVD/AV% columns to performance.md."""
+    start = (now_utc - timedelta(days=ANALYTICS_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
+    end = now_utc.strftime("%Y-%m-%d")
+    try:
+        resp = analytics.reports().query(
+            ids="channel==MINE", startDate=start, endDate=end,
+            metrics="views,estimatedMinutesWatched,averageViewDuration,averageViewPercentage",
+            dimensions="video", sort="-views", maxResults=200,
+        ).execute()
+    except Exception as e:
+        print(f"Warning: YouTube Analytics per-video query failed: {e}")
+        return {}
+    headers = [h["name"] for h in resp.get("columnHeaders", [])]
+    out = {}
+    for row in resp.get("rows", []):
+        d = dict(zip(headers, row))
+        vid = d.get("video")
+        if vid:
+            out[vid] = {"avd": d.get("averageViewDuration", 0) or 0, "avp": d.get("averageViewPercentage", 0) or 0}
+    return out
+
+
+def fetch_watch_hours(analytics, now_utc: datetime, video_ids: list[str]) -> float | None:
+    """Total watch hours over the last 365 days for the given (long-form, public) video ids: one channel-level
+    query with no "video" dimension, restricted to those ids via `filters` — the metric YPP counts toward the
+    4,000-hour threshold. None if there are no ids yet or the query fails."""
+    if not video_ids:
+        return None
+    start = (now_utc - timedelta(days=WATCH_HOURS_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
+    end = now_utc.strftime("%Y-%m-%d")
+    try:
+        resp = analytics.reports().query(
+            ids="channel==MINE", startDate=start, endDate=end,
+            metrics="estimatedMinutesWatched",
+            filters=f"video=={','.join(video_ids)}",
+        ).execute()
+    except Exception as e:
+        print(f"Warning: YouTube Analytics watch-hours query failed: {e}")
+        return None
+    rows = resp.get("rows") or []
+    minutes = rows[0][0] if rows and rows[0] else 0
+    return minutes / 60.0
+
+
+def published_long_video_ids(repo_root: Path) -> list[str]:
+    """Video ids of every long script that has published, from scripts/done, scripts/queue and scripts/backlog."""
+    ids = []
+    for sub in ("done", "queue", "backlog"):
+        for path in (repo_root / "scripts" / sub).glob("*.json"):
+            try:
+                with open(path, encoding="utf-8") as f:
+                    d = json.load(f)
+            except Exception:
+                continue
+            if d.get("format") == "long":
+                vid = (d.get("published") or {}).get("video_id")
+                if vid:
+                    ids.append(vid)
+    return ids
+
+
+def update_performance(client, now_utc: datetime, data_dir: Path, analytics_map: dict | None = None,
+                       watch_hours_line: str | None = None) -> None:
+    """Fetch channel stats and last 50 uploads, writing data/performance.md. `analytics_map` (video_id -> AVD/AV%,
+    from the YouTube Analytics API) adds two columns when available; `watch_hours_line` is prepended as a header
+    when the watch-hours-toward-YPP query succeeded."""
+    analytics_map = analytics_map or {}
     ch_stats = {"subs": 0, "views": 0, "videos": 0}
     uploads_id = None
 
@@ -179,6 +251,9 @@ def update_performance(client, now_utc: datetime, data_dir: Path) -> None:
         if fmt == "short" and age_days <= 90.0:
             shorts_90d_views += views
 
+        vid = v.get("id", "")
+        av = analytics_map.get(vid, {})
+
         parsed_videos.append({
             "pub_date": pub_date,
             "fmt": fmt,
@@ -188,6 +263,8 @@ def update_performance(client, now_utc: datetime, data_dir: Path) -> None:
             "likes": likes,
             "comments": comments,
             "like_rate": like_rate,
+            "avd": av.get("avd"),
+            "avp": av.get("avp"),
         })
 
     parsed_videos.sort(key=lambda x: x["views_per_day"], reverse=True)
@@ -204,19 +281,26 @@ def update_performance(client, now_utc: datetime, data_dir: Path) -> None:
         "",
         f"**Channel Summary:** {subs:,} subscribers | {total_views:,} views | {total_videos:,} videos",
         f"**YPP Progress:** {subs_prog} subs | Shorts views in last 90 days (approximate): {shorts_prog}",
+    ]
+    if watch_hours_line:
+        lines.append(watch_hours_line)
+    lines += [
         "",
-        "| Published | Format | Title | Views | Views/Day | Likes | Comments | Like Rate |",
-        "|---|---|---|---|---|---|---|---|",
+        "| Published | Format | Title | Views | Views/Day | Likes | Comments | Like Rate | AVD | AV% |",
+        "|---|---|---|---|---|---|---|---|---|---|",
     ]
 
     for item in parsed_videos:
         clean_title = item["title"].replace("|", "-").replace("\n", " ").strip()
+        avd_str = format_duration(item["avd"]) if item["avd"] is not None else "-"
+        avp_str = f"{item['avp']:.1f}%" if item["avp"] is not None else "-"
         lines.append(
-            f"| {item['pub_date']} | {item['fmt']} | {clean_title} | {item['views']:,} | {item['views_per_day']:.1f} | {item['likes']:,} | {item['comments']:,} | {item['like_rate']:.1f}% |"
+            f"| {item['pub_date']} | {item['fmt']} | {clean_title} | {item['views']:,} | {item['views_per_day']:.1f} | "
+            f"{item['likes']:,} | {item['comments']:,} | {item['like_rate']:.1f}% | {avd_str} | {avp_str} |"
         )
 
     if not parsed_videos:
-        lines.append("| - | - | *No uploads found* | 0 | 0.0 | 0 | 0 | 0.0% |")
+        lines.append("| - | - | *No uploads found* | 0 | 0.0 | 0 | 0 | 0.0% | - | - |")
 
     data_dir.mkdir(parents=True, exist_ok=True)
     (data_dir / "performance.md").write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
@@ -357,7 +441,26 @@ def main() -> None:
     now_utc = datetime.now(timezone.utc)
     data_dir = repo_root / "data"
 
-    update_performance(client, now_utc, data_dir)
+    analytics_map, watch_hours_line = {}, None
+    try:
+        analytics = upload.analytics_client()
+    except Exception as e:
+        analytics = None
+        print(f"Note: failed to initialize YouTube Analytics client ({e}); skipping AVD/AV%/watch hours.")
+    if analytics:
+        analytics_map = fetch_video_analytics(analytics, now_utc)
+        long_ids = published_long_video_ids(repo_root)
+        watch_hours = fetch_watch_hours(analytics, now_utc, long_ids)
+        if watch_hours is not None:
+            pct = min(100.0, watch_hours / YPP_WATCH_HOURS_GOAL * 100)
+            watch_hours_line = (f"**Watch hours (last 365 days, long-form public):** {watch_hours:,.1f} / "
+                                f"{YPP_WATCH_HOURS_GOAL:,} ({pct:.1f}%)")
+    else:
+        print("Note: no credential set has the yt-analytics.readonly scope; skipping AVD/AV%/watch hours "
+             "(re-auth locally with `python auth.py` once the scope is added, then update the YT_TOKEN secret; "
+             "see SETUP.md).")
+
+    update_performance(client, now_utc, data_dir, analytics_map=analytics_map, watch_hours_line=watch_hours_line)
 
     search_terms = load_search_terms(repo_root / "channel.json")
     update_trends(client, search_terms, now_utc, data_dir)

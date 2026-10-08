@@ -78,3 +78,22 @@ Open [YouTube Studio](https://studio.youtube.com/) and make the following channe
 2. Leave the **upload** checkbox unchecked.
 3. Run the workflow to test-render pending scripts in `scripts/queue/`.
 4. Once finished, download the workflow artifact to view and verify the generated `final.mp4` video files.
+
+---
+
+### 7. Enable Watch-Hour & Retention Analytics (AVD/AV%, YPP watch hours)
+
+`insights.py` can add Average View Duration, Average View Percentage, and a watch-hours-toward-YPP header to
+`data/performance.md` via the YouTube Analytics API (`yt-analytics.readonly`), but only once your stored token
+has been granted that scope. If `YT_TOKEN`/`YT_RESERVE_TOKEN` predate this feature, re-authorize once:
+
+1. On your laptop (not in CI): `python auth.py` (or `python auth.py reserve` for the reserve project). A
+   browser opens; sign in with the channel's Google account. The scope list now includes
+   `https://www.googleapis.com/auth/yt-analytics.readonly` automatically (`upload.py`'s `SCOPES`), so this
+   single re-auth covers upload, comments and analytics together.
+2. Copy the full token JSON it prints.
+3. In GitHub **Settings > Secrets and variables > Actions**, update the `YT_TOKEN` secret (or
+   `YT_RESERVE_TOKEN`) with that value, overwriting the old one.
+4. The next `insights.yml` run picks it up automatically. If no stored token has the scope yet,
+   `insights.py` logs a note and skips the AVD/AV%/watch-hours section — everything else in
+   `data/performance.md` still updates normally.

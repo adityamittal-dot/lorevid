@@ -10,9 +10,11 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 from googleapiclient.http import MediaFileUpload
 
+ANALYTICS_SCOPE = "https://www.googleapis.com/auth/yt-analytics.readonly"
 SCOPES = [
     "https://www.googleapis.com/auth/youtube.upload",
     "https://www.googleapis.com/auth/youtube.force-ssl",
+    ANALYTICS_SCOPE,
 ]
 SECRET = "yt_client_secret.json"
 TOKEN = "yt_token.json"
@@ -77,6 +79,20 @@ def channel_client():
             creds = get_credentials(interactive=False, secret=sec, token=tok)
             if creds and creds.valid:
                 return build("youtube", "v3", credentials=creds)
+        except (Exception, SystemExit):
+            continue
+    return None
+
+
+def analytics_client():
+    """Authorized youtubeAnalytics v2 client using the first credential set that was granted
+    ANALYTICS_SCOPE, or None if no token has it yet (older tokens predate the scope; re-auth to add it —
+    see SETUP.md). insights.py uses this for AVD/AV%/watch-hours and skips that section without it."""
+    for sec, tok in get_available_credential_sets():
+        try:
+            creds = get_credentials(interactive=False, secret=sec, token=tok)
+            if creds and creds.valid and ANALYTICS_SCOPE in (creds.scopes or []):
+                return build("youtubeAnalytics", "v2", credentials=creds)
         except (Exception, SystemExit):
             continue
     return None
