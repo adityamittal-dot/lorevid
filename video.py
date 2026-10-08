@@ -238,7 +238,7 @@ def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
         lines.append("Style: Default,Anton,116,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,8,3,2,40,40,730,1")
         lines.append("Style: Hook,Anton,112,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,3,10,0,8,40,40,300,1")
     else:
-        lines.append("Style: Default,Anton,66,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,5,2,2,80,80,70,1")
+        lines.append("Style: Default,Anton,92,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,7,3,2,120,120,80,1")
 
     lines.extend(["", "[Events]", "Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text"])
 

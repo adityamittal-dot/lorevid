@@ -342,7 +342,12 @@ So your job is the words:
 6. **Long Thumbnail** (built like the niche's top thumbnails: the subject off-centre, filling 55-70% of the frame,
    punchy colour, 0-3 words):
    - `search`: main character + power or emotion, subject first (`"Zoro Supreme King Haki"`). The renderer picks the
-     most colourful close-up match, placed off-centre with the rest of the frame darkened/blurred for the text.
+     most colourful close-up match; the text goes on the side with less detail, the picture stays sharp.
+   - **`search` and `search2` must name two different characters** — the two sides of the video's conflict
+     ("What If Zoro Died Against Mihawk?" → `"Zoro Baratie wounded"` + `"Mihawk Yoru"`). The same character on both
+     sides wastes the thumbnail (2026-10-09-L showed Mihawk twice and no Zoro).
+   - Pick an emotion in `search` (shocked, crying, angry, smirk) — faces with strong expressions win the click.
+   - `circle` and `blur` aim at the busiest pixel, which is often background clutter; prefer `split` or `question`.
    - `search2` (optional): a second character for a split thumbnail with a slanted divider. Use it for every rival,
      "X vs Y" or two-character What If (`"Sommers Excited"`).
    - `device` (optional): `"circle"` (a red ring + arrow on the picture's busiest detail), `"question"` (a big
