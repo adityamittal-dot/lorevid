@@ -1,0 +1,183 @@
+{
+  "id": "2026-10-08-m3",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Hidden detail: Wado Ichimonji, Shusui and Enma all come from Wano, and Oda tied Zoro's village to Wano hundreds of chapters before the arc",
+  "title": "Zoro's Swords All Trace Back To Wano's Samurai",
+  "description": "Zoro's three most important swords all came from Wano, including the one he carried out of the East Blue. Here's my read on how Oda tied Shimotsuki Village to Wano long before the arc arrived. Coincidence or plan?",
+  "hashtags": [
+    "#zoro",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "zoro swords",
+    "wado ichimonji",
+    "shusui",
+    "enma zoro",
+    "shimotsuki ryuma",
+    "one piece foreshadowing",
+    "zoro wano",
+    "one piece theory",
+    "zoro kuina"
+  ],
+  "hook_text": "WANO WAS ALWAYS HIS",
+  "music_mood": "hype",
+  "comment": "Is Zoro's Wano connection planned from chapter 1, or just Oda recycling a sword country? Pick one.",
+  "related_long": null,
+  "pages": [
+    "Roronoa Zoro",
+    "Wado Ichimonji",
+    "Shusui",
+    "Shimotsuki Ryuma",
+    "Enma"
+  ],
+  "lines": [
+    {
+      "text": "Zoro's three most important swords all came from Wano.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Zoro Wado Ichimonji Shusui Enma",
+        "fallback": "green haired swordsman with three swords"
+      }
+    },
+    {
+      "text": "Even the one he carried out of the East Blue.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Wado Ichimonji Kuina",
+        "fallback": "swordsman holding a white scabbard sword"
+      }
+    },
+    {
+      "text": "Start with Wado Ichimonji, Kuina's sword, the one Zoro promised to carry to the top.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Kuina Wado Ichimonji promise",
+        "fallback": "young swordsman girl and boy with wooden swords"
+      }
+    },
+    {
+      "text": "It was Shimotsuki Kozaburo who brought it from Wano and founded Shimotsuki Village.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shimotsuki Kozaburo Wado Ichimonji",
+        "fallback": "old swordsmith with a katana in a dojo"
+      }
+    },
+    {
+      "text": "Then in Wano, Zoro fights the samurai Ryuma and walks away with Shusui.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Zoro Ryuma Shusui",
+        "fallback": "swordsman fighting a samurai skeleton"
+      }
+    },
+    {
+      "text": "Here's what most people missed. Ryuma's full name is Shimotsuki Ryuma.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Shimotsuki Ryuma samurai",
+        "fallback": "legendary samurai with a long black sword"
+      }
+    },
+    {
+      "text": "Same family name as Zoro's hometown.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Shimotsuki Village Zoro dojo",
+        "fallback": "seaside village with a sword dojo"
+      }
+    },
+    {
+      "text": "Finally, Enma, Oden's old blade, which Hiyori hands Zoro to replace Shusui.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Enma Hiyori Oden",
+        "fallback": "princess handing a legendary sword to a swordsman"
+      }
+    },
+    {
+      "text": "Three swords, one country, and Zoro never planned any of it.",
+      "delivery": "slow",
+      "fx": "zoom",
+      "shot": {
+        "search": "Zoro Wano three swords",
+        "fallback": "swordsman standing before cherry blossoms and a castle"
+      }
+    },
+    {
+      "text": "People say Wano is just where great swords come from.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Wano swords samurai blades",
+        "fallback": "samurai country with towering castle and blades"
+      }
+    },
+    {
+      "text": "Maybe. But Zoro's village got its name hundreds of chapters before Wano arrived.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shimotsuki Village Zoro East Blue",
+        "fallback": "small seaside village with a dojo"
+      }
+    },
+    {
+      "text": "So my read is Oda planted Wano in Zoro from the very start.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Oda Wano foreshadowing",
+        "fallback": "swordsman looking at a distant island"
+      }
+    },
+    {
+      "text": "Zoro isn't collecting Wano's swords. He's inheriting its swordsmanship.",
+      "delivery": "reveal",
+      "fx": "shake",
+      "shot": {
+        "search": "Zoro Three Sword Style Wano",
+        "fallback": "swordsman using three sword style with black lightning"
+      }
+    },
+    {
+      "text": "And that's why I think Zoro's three most important swords all came from Wano...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Wado Ichimonji Shusui Enma",
+        "fallback": "green haired swordsman with three swords"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Wado_Ichimonji",
+    "https://onepiece.fandom.com/wiki/Shusui",
+    "https://onepiece.fandom.com/wiki/Shimotsuki_Kouzaburou"
+  ],
+  "self_check": {
+    "hook": "hidden-detail claim in line 1",
+    "loop": "last line repeats the opening sentence's first words so line 1 completes it",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "6nQUnuZMcE4",
+    "publish_at": "2026-10-08T17:00:00Z",
+    "url": "https://youtu.be/6nQUnuZMcE4",
+    "comment": "Is Zoro's Wano connection planned from chapter 1, or just Oda recycling a sword country? Pick one.",
+    "comment_posted": false
+  }
+}
