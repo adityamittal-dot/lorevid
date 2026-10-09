@@ -32,22 +32,9 @@ The pipeline automatically falls back to these reserve credentials if the primar
 
 ---
 
-### 3. Update Writer Routine Prompts
+### 3. Script Writing
 
-Already done for you when this version shipped. For reference, the three scheduled writer routines use these prompts:
-
-- **Daily Writer**:
-  ```text
-  Follow WRITER.md exactly and push today's scripts.
-  ```
-- **Slot A Writer**:
-  ```text
-  Slot a. Follow WRITER.md exactly and push the scripts.
-  ```
-- **Slot B Writer**:
-  ```text
-  Slot b. Follow WRITER.md exactly and push the scripts.
-  ```
+Automated Claude writer routines have been disconnected. You can author scripts following `WRITER.md` and place them directly into `scripts/backlog/<YYYY-MM-DD-id>.json` or `scripts/queue/<id>.json`.
 
 ---
 

@@ -1,14 +1,9 @@
 name: render-and-publish
-# The writer pushes scripts/backlog/<id>.json (id starts with its intended publish date) on claude/* branches
-# (claude/script-<id> preferred). This merges them into main, releases any backlog script whose date has
-# arrived into scripts/queue, renders every queued script (oldest first, so it renders just-in-time with the
-# latest code), uploads it as a scheduled video, and moves it to scripts/done/.
+# Renders queued scripts in scripts/queue, uploads as scheduled videos, and moves them to scripts/done/.
+# Releases backlog scripts whose date has arrived into scripts/queue just-in-time.
 # The 3-hourly schedule retries anything left in the queue, releases backlog that has come due, and posts
 # first comments on videos that just went public.
 on:
-  push:
-    branches: ["claude/**"]
-    paths: ["scripts/queue/**", "scripts/backlog/**"]
   schedule:
     - cron: "15 */3 * * *"
   workflow_dispatch:
@@ -30,20 +25,12 @@ jobs:
       - uses: actions/checkout@v7
         with: {ref: main, fetch-depth: 0}
 
-      - name: Collect new scripts
-        id: collect
+      - name: Validate scripts
+        id: validate
         run: |
           git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
-          merged=""; before=$(git rev-parse HEAD)
-          # Any claude/* branch that adds queue OR backlog files counts, whatever the session named it.
-          for b in $(git branch -r --list 'origin/claude/*'); do
-            git diff --quiet main..."$b" -- scripts/queue scripts/backlog && continue
-            if git merge -q --no-edit "$b" -m "merge ${b#origin/}"; then merged="$merged ${b#origin/}"
-            else git merge --abort; echo "::warning::could not merge $b automatically (conflict) - merge it by hand"; fi
-          done
-          # Quality gate: every newly merged script must pass validate_script.py (stdlib only), or it is moved to
-          # scripts/rejected/ with its errors so it never publishes.
-          for f in $(git diff --name-only --diff-filter=A "$before" HEAD -- scripts/backlog scripts/queue | grep '\.json$'); do
+          rejected=0
+          for f in scripts/queue/*.json scripts/backlog/*.json; do
             [ -f "$f" ] || continue
             if ! out=$(python3 validate_script.py "$f" 2>&1); then
               id=$(basename "$f" .json); mkdir -p scripts/rejected
@@ -51,11 +38,11 @@ jobs:
               git commit -qm "rejected $id (failed validation)"
               echo "::warning::rejected $id: $out"
               [ -n "$NTFY_TOPIC" ] && curl -s -d "lorevid rejected $id (failed validation)" "ntfy.sh/$NTFY_TOPIC" > /dev/null || true
+              rejected=1
             fi
           done
-          if [ -n "$merged" ]; then
+          if [ "$rejected" = 1 ]; then
             for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
-            for b in $merged; do git push -q origin --delete "$b" || true; done
           fi
 
       - name: Release backlog
