@@ -18,6 +18,9 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
 - Editor: one `model: "sonnet"` pass per long video, reading only the finished script (no research).
 
 ## Steps
+0. **Rescue first.** For every `scripts/rejected/<id>.json` whose `.log` only fails the editor gate ("editor review
+   scored"), `git mv` it back to `scripts/backlog/` and give it to a Sonnet editor (step 3). That's far cheaper than
+   writing it again, and its Shorts are already written. Then count it as done and skip its ID below.
 1. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
    sorted(glob.glob('scripts/*/*.json'))[-60:]))"` (recent titles). Don't read WRITER.md yourself.
 2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Haiku
@@ -33,7 +36,9 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    > Read WRITER.md section 6 (Long Video Rules) and scripts/backlog/<id>.json. Rewrite only the weak lines
    > (flat hooks, written-not-spoken sentences, slow chapters) in one Edit pass, without adding new facts. Then add
    > `## Editor review` to notes/<id>.md with honest scores written like `hook: 8/10`, rewriting until every score
-   > is 8+. Run `python validate_script.py scripts/backlog/<id>.json` until it passes. Reply only "ok" or the errors.
-4. Commit once: `git add scripts/backlog notes && git commit -m "script: <ids>"`, then push to the branch this
+   > is 8+. If a chapter scores under 8, rewrite that whole chapter (you may restructure it), don't just tweak lines.
+   > Never lower the bar to pass. Run `python validate_script.py scripts/backlog/<id>.json` until it passes. Reply only "ok" or the errors.
+4. Only commit scripts that pass `python validate_script.py`. A script that still fails after its editor pass: leave
+   it out of the commit and list it in your reply. Never push a "WIP" commit. Commit once: `git add scripts/backlog notes && git commit -m "script: <ids>"`, then push to the branch this
    session is set up to use.
 5. Reply with `python plan.py status` and the pushed IDs. Nothing else.
