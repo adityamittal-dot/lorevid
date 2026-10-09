@@ -4,6 +4,9 @@ name: render-and-publish
 # The 3-hourly schedule retries anything left in the queue, releases backlog that has come due, and posts
 # first comments on videos that just went public.
 on:
+  push:
+    branches: ["claude/**"]      # cloud sessions push to their own claude/* branch; merged below (no Claude cost)
+    paths: ["scripts/backlog/**", "notes/**"]
   schedule:
     - cron: "15 */3 * * *"
   workflow_dispatch:
@@ -30,6 +33,13 @@ jobs:
         run: |
           git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
           rejected=0
+          # Merge every claude/* branch (cloud writer sessions), then delete it. The validation below still
+          # gates every script, so a bad one goes to scripts/rejected/ instead of publishing.
+          for b in $(git branch -r --list 'origin/claude/*'); do
+            if git merge -q --no-edit "$b" -m "merge ${b#origin/}"; then
+              git push -q origin main && git push -q origin --delete "${b#origin/}" || true
+            else git merge --abort; echo "::warning::could not merge $b automatically (conflict) - merge it by hand"; fi
+          done
           for f in scripts/queue/*.json scripts/backlog/*.json; do
             [ -f "$f" ] || continue
             if ! out=$(python3 validate_script.py "$f" 2>&1); then
