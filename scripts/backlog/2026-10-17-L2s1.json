@@ -1,0 +1,38 @@
+{
+  "id": "2026-10-17-L2s1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Zoro's Conqueror's Haki came from a cursed blade demanding everything, not from a Haki lesson like Luffy's",
+  "title": "Zoro's Haki Came From A Sword, Not A Teacher",
+  "description": "Luffy got a Haki course on Rusukaina, but Zoro's Conqueror's Haki came out under pressure from Enma, Oden's sword. One fan analysis says Mihawk never taught Haki directly, and chapter 1193 shows Zoro still working on control. Full breakdown in the long video linked above.",
+  "hashtags": ["#zoro", "#onepiece", "#haki"],
+  "tags": ["zoro haki", "zoro conqueror's haki", "why zoro never learned haki", "zoro vs luffy haki", "enma zoro", "zoro mihawk training", "one piece haki", "one piece 1193", "zoro shorts"],
+  "hook_text": "ZORO'S HAKI WAS FORCED",
+  "music_mood": "suspense",
+  "comment": "Did Zoro get his Conqueror's Haki from Mihawk's training, or was it always his own to find? Pick a side.",
+  "related_long": "2026-10-17-L2",
+  "pages": ["Roronoa Zoro", "Enma", "Dracule Mihawk"],
+  "lines": [
+    {"text": "Zoro never learned Haki the way Luffy did, and that's the whole point.", "delivery": "normal", "fx": "none", "shot": {"search": "Zoro Enma Haki sword", "fallback": "anime style, swordsman with a glowing black sword"}},
+    {"text": "Luffy spent two years on Rusukaina with Rayleigh drilling all three types.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Luffy Rayleigh Rusukaina Haki", "fallback": "anime style, young pirate training on a rough island"}},
+    {"text": "Zoro spent two years with Mihawk, learning the blade first.", "delivery": "normal", "fx": "none", "shot": {"search": "Zoro Mihawk training sword", "fallback": "anime style, swordsman practicing at dawn"}},
+    {"text": "Armament Haki came from that training, but one fan analysis says Mihawk never taught Haki directly.", "delivery": "reveal", "fx": "none", "shot": {"search": "Zoro Armament Haki sword", "fallback": "anime style, sword glowing with armored energy"}},
+    {"text": "His Conqueror's Haki didn't come from a lesson at all.", "delivery": "punch", "fx": "flash", "shot": {"search": "Zoro Conqueror's Haki aura", "fallback": "anime style, swordsman with aura bursting out"}},
+    {"text": "It came from Enma, Oden's sword, which drains the Haki of whoever holds it.", "delivery": "normal", "fx": "shake", "shot": {"search": "Zoro Enma Oden sword", "fallback": "anime style, cursed black katana with dark energy"}},
+    {"text": "It demanded that Zoro stop holding back, so he let it all out.", "delivery": "slow", "fx": "none", "shot": {"search": "Zoro Enma unleash Haki", "fallback": "anime style, swordsman with aura pouring off a blade"}},
+    {"text": "Then chapter 1193 showed the cost: Sommers noticed his Haki wasn't always on the blade.", "delivery": "normal", "fx": "none", "shot": {"search": "Zoro Sommers Haki attack", "fallback": "anime style, armored knight watching a swordsman"}},
+    {"text": "Luffy got a map. Zoro got a fight he had to learn from mid-swing.", "delivery": "reveal", "fx": "zoom", "shot": {"search": "Zoro Sommers fight swing", "fallback": "anime style, swordsman mid-swing against a knight"}},
+    {"text": "My read: Zoro's Haki isn't weaker, it's harder to hold.", "delivery": "normal", "fx": "none", "shot": {"search": "Zoro Haki control blade", "fallback": "anime style, swordsman focused on a glowing sword"}},
+    {"text": "Luffy got the teacher, and Zoro got a blade that wanted everything, which is why", "delivery": "slow", "fx": "none", "shot": {"search": "Zoro Enma demand Haki", "fallback": "anime style, black blade glowing in the dark"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://www.sportskeeda.com/anime/one-piece-zoro-s-conqueror-s-haki-explained",
+    "https://cyberpost.co/who-taught-haki-to-zoro/",
+    "https://fandomwire.com/one-piece-chapter-1194-zoro-left-eye-open-mihawk-flashback/",
+    "https://comicbook.com/anime/list/every-teacher-who-trained-luffy-in-one-piece/"
+  ],
+  "self_check": {"hook": "Line 1 names Zoro and sets up the Luffy contrast within two seconds.", "loop": "The last line ends on 'which is why' and flows straight back into line 1's 'Zoro never learned Haki the way Luffy did'.", "facts_verified": true}
+}

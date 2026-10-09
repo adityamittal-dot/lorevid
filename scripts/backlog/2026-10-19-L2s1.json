@@ -1,0 +1,41 @@
+{
+  "id": "2026-10-19-L2s1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Smoker walked away from his Loguetown post to chase Luffy, and the chase kept going",
+  "title": "Smoker Abandoned His Post For One Pirate",
+  "description": "Smoker was supposed to guard Loguetown, and instead he sailed after Luffy with his subordinate Tashigi. Here's the detail that makes his chase look personal. Do you think it was duty or something else?",
+  "hashtags": ["#smoker", "#onepiece", "#anime"],
+  "tags": ["smoker one piece", "smoker vs luffy", "one piece marines", "smoker tashigi", "smoker vice admiral", "smoker loguetown", "one piece theory marines", "why smoker chases luffy"],
+  "hook_text": "HE LEFT HIS POST",
+  "music_mood": "suspense",
+  "comment": "Duty or grudge: why did Smoker chase Luffy across the Grand Line? Pick one.",
+  "related_long": "2026-10-19-L2",
+  "pages": ["Smoker", "Tashigi", "Monkey D. Luffy"],
+  "lines": [
+    {"text": "Smoker abandoned his post in Loguetown to chase one pirate.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker Loguetown Marine captain", "fallback": "stern Marine captain on a harbor dock"}},
+    {"text": "A fellow Marine reminded him of his duties.", "delivery": "normal", "fx": "none", "shot": {"search": "Marine soldier Loguetown harbor", "fallback": "Marine soldier on a harbor pier"}},
+    {"text": "Smoker's reply? They could not order him around.", "delivery": "reveal", "fx": "zoom", "shot": {"search": "Smoker Marine officer glare", "fallback": "Marine captain with a sharp glare"}},
+    {"text": "Then he sailed for the Grand Line with Tashigi.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker ship sailing Grand Line", "fallback": "Marine warship sailing on open sea"}},
+    {"text": "That's not a Marine following orders. That's a Marine following Luffy.", "delivery": "punch", "fx": "shake", "shot": {"search": "Smoker Luffy Marine face", "fallback": "Marine captain staring at a pirate"}},
+    {"text": "Look at Alabasta. He and Tashigi captured Mr. 11.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker Tashigi Mr. 11", "fallback": "Marine officers capturing a masked man"}},
+    {"text": "Then he intercepted a call between Mr. 0 and Sanji.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker black Den Den Mushi", "fallback": "black snail phone on a desk"}},
+    {"text": "One name stood out to him: Princess Vivi.", "delivery": "normal", "fx": "flash", "shot": {"search": "Princess Vivi Alabasta Smoker", "fallback": "princess in a desert palace"}},
+    {"text": "Then he handed off his forces and left on a private mission.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker Tashigi command", "fallback": "Marine captain passing command to his subordinate"}},
+    {"text": "The Navy credited him with beating Crocodile.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker Crocodile Alabasta", "fallback": "Marine officer beside a desert battlefield"}},
+    {"text": "He refused that promotion, then accepted it anyway.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker Vice Admiral", "fallback": "Marine officer receiving a new rank"}},
+    {"text": "Why? A higher rank meant more freedom to chase Luffy.", "delivery": "reveal", "fx": "zoom", "shot": {"search": "Smoker Vice Admiral Luffy", "fallback": "Marine captain looking toward the sea"}},
+    {"text": "So who's really hunting whom?", "delivery": "slow", "fx": "none", "shot": {"search": "Smoker Luffy eye contact", "fallback": "Marine captain staring down a pirate"}},
+    {"text": "Because a Marine who abandons his post for one pirate has already picked his answer.", "delivery": "normal", "fx": "none", "shot": {"search": "Smoker serious Marine coat", "fallback": "Marine captain facing the sea"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Smoker/History",
+    "https://breezewiki.discard.no/onepiece/wiki/Smoker",
+    "https://breezewiki.discard.no/onepiece/wiki/Tashigi",
+    "https://daddyjim.ai/one-piece/manga-chapter/Chapter-594"
+  ],
+  "self_check": {"hook": "Names Smoker and his abandoned post in the first two seconds.", "loop": "Last line says a Marine who abandons his post for one pirate has already picked his answer, which leads back into line 1.", "facts_verified": true}
+}

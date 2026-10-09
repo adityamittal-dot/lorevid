@@ -1,0 +1,40 @@
+{
+  "id": "2026-10-16-L2s1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Sukuna stepped in to save Megumi in Shibuya because the body was the prize, not out of kindness",
+  "title": "Sukuna Saved Megumi Because He Wanted His Body",
+  "description": "Sukuna stepped into the Shibuya fight to keep Megumi alive, and the reason was never kindness. Here is the Mahoraga fight and the Culling Game takeover in under a minute.",
+  "hashtags": ["#sukuna", "#megumi", "#jujutsukaisen"],
+  "tags": ["sukuna megumi", "megumi fushiguro", "sukuna mahoraga", "jujutsu kaisen shibuya", "sukuna body takeover", "jujutsu kaisen theory", "ten shadows technique", "sukuna malevolent shrine"],
+  "hook_text": "THE BODY WAS THE PRIZE",
+  "music_mood": "suspense",
+  "comment": "Was Sukuna saving Megumi's life, or was he protecting the vessel he always wanted?",
+  "related_long": "2026-10-16-L2",
+  "pages": ["Megumi Fushiguro", "Sukuna vs. Mahoraga"],
+  "lines": [
+    {"text": "Sukuna saved Megumi in Shibuya, and the reason was never kindness.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Ryomen Sukuna smirk Shibuya", "fallback": "anime style, a smirking king with tattoos looking down at a sorcerer"}},
+    {"text": "Megumi summoned Mahoraga as a last resort, and it nearly cost him everything.", "delivery": "normal", "fx": "none", "shot": {"search": "Megumi Fushiguro Mahoraga summon Shibuya", "fallback": "anime style, a young sorcerer summoning a giant divine general"}},
+    {"text": "Then Sukuna arrived just as Shigemo was about to finish the job.", "delivery": "normal", "fx": "shake", "shot": {"search": "Sukuna arrives Shibuya Shigemo", "fallback": "anime style, a king appearing above a crowded plaza"}},
+    {"text": "Why would he stop a fight he could win? Because Megumi was the vessel he wanted.", "delivery": "reveal", "fx": "none", "shot": {"search": "Ryomen Sukuna Megumi vessel", "fallback": "anime style, a king's eye glowing as he looks at a sorcerer"}},
+    {"text": "Mahoraga adapts, so Sukuna's Dismantle stopped working.", "delivery": "normal", "fx": "none", "shot": {"search": "Mahoraga adapts Sukuna Dismantle", "fallback": "anime style, a divine general standing firm under a glowing cut"}},
+    {"text": "Then its wheel mended every gash, and Sukuna switched tactics.", "delivery": "normal", "fx": "flash", "shot": {"search": "Mahoraga wheel heals Shibuya", "fallback": "anime style, a spinning golden wheel above a divine general"}},
+    {"text": "He opened Malevolent Shrine, with a range reportedly kept near 140 meters.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Sukuna Malevolent Shrine Shibuya", "fallback": "anime style, a glowing domain over a city street"}},
+    {"text": "Then came a fire arrow that destroyed Mahoraga and a huge part of Shibuya.", "delivery": "punch", "fx": "shake", "shot": {"search": "Sukuna fire arrow Shibuya destruction", "fallback": "anime style, a blazing arrow over a ruined city skyline"}},
+    {"text": "Later, in the Culling Game, he took the body for real.", "delivery": "slow", "fx": "none", "shot": {"search": "Sukuna takes Megumi body Culling Game", "fallback": "anime style, a king's shadow falling over a sorcerer"}},
+    {"text": "He forced a finger into Megumi, and Megumi was trapped inside his own head.", "delivery": "normal", "fx": "shake", "shot": {"search": "Sukuna finger Megumi trapped", "fallback": "anime style, a glowing finger above a sorcerer trapped in a dark void"}},
+    {"text": "Here is the verdict: Megumi was never outmatched in skill. He was outmatched in control.", "delivery": "reveal", "fx": "none", "shot": {"search": "Megumi Fushiguro control Sukuna", "fallback": "anime style, a young sorcerer with a hand outstretched, shadows slipping away"}},
+    {"text": "The Ten Shadows answers to whoever holds the body, and Sukuna held it.", "delivery": "slow", "fx": "zoom", "shot": {"search": "Ten Shadows Sukuna holds body Megumi", "fallback": "anime style, a king's hand gripping a sorcerer's shoulder over a glowing seal"}},
+    {"text": "The body was the prize all along, so the rescue in Shibuya was never really a rescue.", "delivery": "normal", "fx": "none", "shot": {"search": "Sukuna Shibuya rescue Megumi prize", "fallback": "anime style, a king lifting a sorcerer from rubble with a grin"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://jujutsu-kaisen.fandom.com/wiki/Sukuna_vs._Mahoraga",
+    "https://sportskeeda.com/anime/jujutsu-kaisen-how-sukuna-able-defeat-mahoraga-shibuya-explained",
+    "https://www.themarysue.com/jujutsu-kaisen-how-did-sukuna-take-over-megumi/",
+    "https://deltiasgaming.com/?p=100900"
+  ],
+  "self_check": {"hook": "Opens on the claim that Sukuna's rescue was never kindness, which names Sukuna and Megumi in the first line.", "loop": "The final line sets up the rescue as a prize, which leads straight back into the claim in line 1.", "facts_verified": true}
+}

@@ -1,0 +1,42 @@
+{
+  "id": "2026-10-19-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Bartolomeo bows to Luffy's ship because of one Loguetown lightning moment",
+  "title": "Why Bartolomeo Bows Before Luffy's Ship Itself",
+  "description": "Bartolomeo's ship-bowing scene looks like a gag, but it starts with one Loguetown moment. Here is the square where his loyalty began. Is his devotion sincere, or is it a joke the story keeps milking?",
+  "hashtags": ["#bartolomeo", "#onepiece", "#luffy"],
+  "tags": ["bartolomeo luffy", "bartolomeo one piece", "bartolomeo loguetown", "why bartolomeo idolizes luffy", "bartolomeo fanboy", "one piece party bartolomeo", "bartolomeo thousand sunny", "mera mera no mi bartolomeo"],
+  "hook_text": "HE BOWED TO A SHIP",
+  "music_mood": "emotional",
+  "comment": "Is Bartolomeo's devotion sincere loyalty, or is the fanboy act a joke the story keeps milking? Pick a side in the replies.",
+  "related_long": "2026-10-19-L",
+  "pages": ["Bartolomeo", "Monkey D. Luffy", "Buggy"],
+  "lines": [
+    {"text": "Bartolomeo bowed to Luffy's ship, and it started in Loguetown.", "delivery": "normal", "fx": "flash", "shot": {"search": "Bartolomeo bows Thousand Sunny", "fallback": "anime style, a green-haired pirate bowing before a wooden ship"}},
+    {"text": "He was a feared crime boss, the most dangerous man in his town.", "delivery": "normal", "fx": "none", "shot": {"search": "Bartolomeo crime boss town", "fallback": "anime style, a menacing crime boss in a dim street"}},
+    {"text": "Then Buggy moved in on Luffy, with hundreds watching from the square.", "delivery": "normal", "fx": "none", "shot": {"search": "Buggy Luffy Loguetown platform", "fallback": "anime style, a clown pirate looming over a captive on a platform"}},
+    {"text": "Lightning struck Buggy at that exact moment.", "delivery": "normal", "fx": "shake", "shot": {"search": "lightning strikes Buggy Loguetown", "fallback": "anime style, lightning bolt hitting a clown pirate on a platform"}},
+    {"text": "Luffy never flinched. He grinned at the edge of ruin.", "delivery": "reveal", "fx": "none", "shot": {"search": "Luffy grin Loguetown platform", "fallback": "anime style, a straw hat pirate grinning defiantly on a platform"}},
+    {"text": "Here's my read: that grin became the spark for everything after.", "delivery": "normal", "fx": "none", "shot": {"search": "Bartolomeo watching Luffy grin", "fallback": "anime style, a tough man staring at a grinning young pirate"}},
+    {"text": "He chased his own dream after that, the way Luffy does.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Bartolomeo sails dream Luffy", "fallback": "anime style, a green-haired pirate looking out over the open sea"}},
+    {"text": "Years later, he kneels before the Thousand Sunny and weeps.", "delivery": "normal", "fx": "none", "shot": {"search": "Bartolomeo kneels Thousand Sunny weeps", "fallback": "anime style, a pirate kneeling in tears before a ship"}},
+    {"text": "Nobody sensible does that. He meant every tear.", "delivery": "normal", "fx": "none", "shot": {"search": "Bartolomeo tears Sunny Straw Hats", "fallback": "anime style, a tearful pirate looking up at a crew on deck"}},
+    {"text": "At Dressrosa, he entered the Colosseum for one reason.", "delivery": "normal", "fx": "none", "shot": {"search": "Bartolomeo Corrida Colosseum entry", "fallback": "anime style, a fighter entering a huge colosseum"}},
+    {"text": "To win Ace's old Mera Mera no Mi and give it to Luffy.", "delivery": "normal", "fx": "flash", "shot": {"search": "Mera Mera no Mi Bartolomeo Luffy", "fallback": "anime style, a glowing flame-themed devil fruit on a pedestal"}},
+    {"text": "Think about that gift. He wasn't chasing power for himself.", "delivery": "reveal", "fx": "none", "shot": {"search": "Bartolomeo gift Luffy power", "fallback": "anime style, a fighter holding a glowing fruit with resolve"}},
+    {"text": "His whole loyalty was built on one boy's refusal to look afraid.", "delivery": "normal", "fx": "none", "shot": {"search": "Bartolomeo loyalty Luffy refuses fear", "fallback": "anime style, a loyal pirate beside a defiant captain"}},
+    {"text": "A feared boss bowed to a ship because a boy refused to look afraid.", "delivery": "normal", "fx": "none", "shot": {"search": "Bartolomeo bowed ship Luffy", "fallback": "anime style, a pirate bowing before a ship at sunset"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://www.sportskeeda.com/anime/one-piece-why-bartolomeo-obsessed-monkey-d-luffy-explained",
+    "https://onepiece.fandom.com/wiki/Smoker/History",
+    "https://onepiece.fandom.com/wiki/Chapter_9_(One_Piece_Party)",
+    "https://daddyjim.ai/one-piece/episode/Episode-650",
+    "https://designbeep.com/2026/09/06/bartolomeo-one-piece/"
+  ],
+  "self_check": {"hook": "Line 1 names Bartolomeo and the ship bow, with a Loguetown hook", "loop": "Last line leads back into line 1 about the bow and Loguetown", "facts_verified": true}
+}

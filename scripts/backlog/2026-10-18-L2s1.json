@@ -1,0 +1,59 @@
+{
+  "id": "2026-10-18-L2s1",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "Naruto never got Tsukuyomi, and the reason is the eye-contact rule plus Kabuto steering the Contact fight",
+  "title": "Itachi Never Put Naruto In Tsukuyomi. Here's Why",
+  "description": "Itachi had the Mangekyo eyes for Tsukuyomi, and he never cast it on Naruto. The reason fans keep circling back to is the eye-contact rule and the Contact fight where Kabuto was pulling the strings. Was Naruto never the target, or was Itachi holding back?",
+  "hashtags": ["#naruto", "#itachi", "#anime"],
+  "tags": [
+    "itachi tsukuyomi",
+    "itachi vs naruto",
+    "naruto tsukuyomi",
+    "itachi uchiha",
+    "itachi sharingan",
+    "naruto contact episode",
+    "edo tensei itachi",
+    "naruto shippuden theory",
+    "itachi naruto theory",
+    "why itachi never used tsukuyomi"
+  ],
+  "hook_text": "THE EYES STAYED CLOSED",
+  "music_mood": "suspense",
+  "comment": "Was Naruto never the target, or was Itachi holding back? Pick one.",
+  "related_long": "2026-10-18-L2",
+  "pages": [
+    "Itachi Uchiha",
+    "Naruto Uzumaki",
+    "Tsukuyomi"
+  ],
+  "sources": [
+    "https://narutoprofile.fandom.com/wiki/Tsukuyomi",
+    "https://www.tvmaze.com/episodes/44237/naruto-shippuden-2013-01-31-contact-naruto-vs-itachi",
+    "https://fandomwire.com/because-itachi-didnt-want-to-tsukuyomi-him-jirayas-most-chad-moment-in-naruto-may-only-be-because-masashi-kishimoto-gave-itachi-a-handicap/"
+  ],
+  "lines": [
+    {"text": "Naruto never got Tsukuyomi, even though Itachi had the eyes to cast it.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Naruto Uzumaki Itachi Uchiha Sharingan", "fallback": "Naruto facing a Sharingan user under a dark sky"}},
+    {"text": "Tsukuyomi needs eye contact, and only a Mangekyo Sharingan user can cast it.", "delivery": "normal", "fx": "none", "shot": {"search": "Itachi Uchiha Mangekyo Sharingan eyes", "fallback": "close up of a Mangekyo Sharingan"}},
+    {"text": "Itachi said only a Sharingan user from his clan could break it.", "delivery": "normal", "fx": "none", "shot": {"search": "Itachi Uchiha clan Sharingan", "fallback": "Uchiha clan members with glowing red eyes"}},
+    {"text": "Sasuke later broke it, which proves the rule was real.", "delivery": "normal", "fx": "none", "shot": {"search": "Sasuke Uchiha Tsukuyomi Itachi battle", "fallback": "two Uchiha brothers facing off"}},
+    {"text": "But the bigger clue is Itachi's health.", "delivery": "normal", "fx": "shake", "shot": {"search": "Itachi Uchiha weary face", "fallback": "pale ninja leaning against a wall"}},
+    {"text": "Fans say every jutsu drained his life force, and he was already sick.", "delivery": "normal", "fx": "none", "shot": {"search": "Itachi Uchiha illness tired", "fallback": "tired ninja catching his breath"}},
+    {"text": "Even against Jiraiya, he ran instead of casting it.", "delivery": "reveal", "fx": "none", "shot": {"search": "Itachi Jiraiya Sannin confrontation", "fallback": "two ninja facing off on a rooftop"}},
+    {"text": "Then came the Contact fight, the one time they actually shared a battlefield.", "delivery": "normal", "fx": "none", "shot": {"search": "Naruto vs Itachi Contact", "fallback": "Naruto facing Itachi in a clash"}},
+    {"text": "Kabuto had Itachi back through Edo Tensei, and Itachi attacked on command.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Edo Tensei Itachi Kabuto", "fallback": "reanimated ninja with blank eyes"}},
+    {"text": "They talked, and the eyes never became the story.", "delivery": "normal", "fx": "none", "shot": {"search": "Naruto Itachi talk fight", "fallback": "two ninja talking during a fight"}},
+    {"text": "The real choice wasn't Naruto's. It was the one pulling the strings.", "delivery": "punch", "fx": "none", "shot": {"search": "Kabuto Naruto Uzumaki battle", "fallback": "Kabuto smirking in the background"}},
+    {"text": "So was Itachi holding back for Naruto, or was Naruto never the target?", "delivery": "reveal", "fx": "flash", "shot": {"search": "Itachi Uchiha Naruto Uzumaki", "fallback": "Itachi and Naruto in a tense standoff"}},
+    {"text": "My read: Naruto was never the person Itachi needed inside his head.", "delivery": "normal", "fx": "none", "shot": {"search": "Itachi Uchiha Sharingan glow", "fallback": "Sharingan eyes glowing in the dark"}},
+    {"text": "Tsukuyomi needed a target, and Itachi never saw Naruto as one.", "delivery": "normal", "fx": "none", "shot": {"search": "Naruto Uzumaki determined face", "fallback": "Naruto standing firm with blue eyes"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "self_check": {
+    "hook": "Line 1 names Naruto and Tsukuyomi in the first two seconds",
+    "loop": "Last line sets up Tsukuyomi needing a target, which flows back into the Naruto opener",
+    "facts_verified": true
+  }
+}

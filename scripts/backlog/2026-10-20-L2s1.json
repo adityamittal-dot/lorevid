@@ -1,0 +1,56 @@
+{
+  "id": "2026-10-20-L2s1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Choso felt Yuji's impending end in Shibuya, then stepped in front of Sukuna's flame in Shinjuku and was thanked before the end",
+  "title": "Choso Felt Yuji's Ending Coming Before Yuji Did",
+  "description": "Choso's cursed technique lets him sense his brothers changing from any distance, so he saw Yuji's end coming before anyone. In Shinjuku, he stepped in front of Sukuna's flame to shield Yuji. Is Choso Yuji's brother for real, or just Kenjaku's experiment?",
+  "hashtags": ["#choso", "#jujutsukaisen", "#anime"],
+  "tags": [
+    "choso jujutsu kaisen",
+    "choso yuji",
+    "choso shinjuku",
+    "jujutsu kaisen theory",
+    "choso cursed technique",
+    "yuji itadori brother",
+    "jujutsu kaisen chapter 259",
+    "choso kenjaku",
+    "jujutsu kaisen shorts"
+  ],
+  "hook_text": "CHOSO FELT IT",
+  "music_mood": "emotional",
+  "comment": "Was Choso Yuji's real brother, or only Kenjaku's experiment in a family costume? Pick a side.",
+  "related_long": "2026-10-20-L2",
+  "pages": ["Choso", "Yuji Itadori", "Shinjuku Showdown"],
+  "lines": [
+    {"text": "Choso could feel Yuji's ending coming before Yuji ever did.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Choso Yuji Itadori confrontation", "fallback": "dark haired sorcerer staring at a younger boy, anime style"}},
+    {"text": "His cursed technique lets him sense his brothers changing, from any distance.", "delivery": "normal", "fx": "none", "shot": {"search": "Choso cursed technique sense", "fallback": "pale sorcerer with dark cursed energy, anime style"}},
+    {"text": "So when Sukuna lined up his flame in Shinjuku, Choso didn't hesitate.", "delivery": "normal", "fx": "none", "shot": {"search": "Sukuna flame Shinjuku Choso", "fallback": "king of curses raising a blazing attack, anime style"}},
+    {"text": "He stepped in front of Yuji and took the hit himself.", "delivery": "punch", "fx": "shake", "shot": {"search": "Choso shield Yuji flame", "fallback": "sorcerer stepping in front of a blazing attack, anime style"}},
+    {"text": "Think about that for a second.", "delivery": "reveal", "fx": "none", "shot": {"search": "Choso Yuji Shinjuku moment", "fallback": "sorcerer frozen in firelight, anime style"}},
+    {"text": "The enemy who swore revenge is now the one shielding him.", "delivery": "normal", "fx": "none", "shot": {"search": "Choso shielding Yuji Itadori", "fallback": "former enemy shielding a young fighter, anime style"}},
+    {"text": "Before the end, they thanked each other for being brothers.", "delivery": "slow", "fx": "none", "shot": {"search": "Choso Yuji thank brothers", "fallback": "two sorcerers sharing a final look, anime style"}},
+    {"text": "Most fans call that a plot twist. I think it's the real answer.", "delivery": "normal", "fx": "none", "shot": {"search": "Choso Yuji Itadori bond", "fallback": "two brothers in a dark courtyard, anime style"}},
+    {"text": "Choso didn't need the family tie to be real.", "delivery": "punch", "fx": "none", "shot": {"search": "Choso family tie Yuji", "fallback": "sorcerer standing tall in soft light, anime style"}},
+    {"text": "He made it real by choosing it, one move at a time.", "delivery": "normal", "fx": "none", "shot": {"search": "Choso chooses Yuji", "fallback": "sorcerer choosing a path in the dark, anime style"}},
+    {"text": "Yuji was the brother Choso always sensed, and the one who never got to answer.", "delivery": "reveal", "fx": "none", "shot": {"search": "Yuji Itadori never answered Choso", "fallback": "young fighter reaching out in the dark, anime style"}},
+    {"text": "And that's the gap fans keep arguing about.", "delivery": "normal", "fx": "flash", "shot": {"search": "Choso Yuji fans debate", "fallback": "two sorcerers facing a dark horizon, anime style"}},
+    {"text": "So why did Choso step in, if he could feel the ending coming?", "delivery": "slow", "fx": "none", "shot": {"search": "Choso Yuji ending Shinjuku", "fallback": "sorcerer in a glowing storm, anime style"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://www.soapcentral.com/anime/how-yuji-choso-linked-kenjaku-jujutsu-kaisen-the-brothers-relationship-explained",
+    "https://fables.gg/worlds/jujutsu-kaisen-cursed-bghxwlhml6ni/lore/choso",
+    "https://www.sportskeeda.com/anime/who-killed-choso-jujutsu-kaisen-his-death-explained",
+    "https://beebom.com/does-choso-die-jujutsu-kaisen",
+    "https://www.sportskeeda.com/anime/is-yuji-truly-choso-s-brother-jujutsu-kaisen-season-2-s-latest-mystery-explained",
+    "https://www.dexerto.com/anime/jujutsu-kaisen-are-choso-and-yuji-really-brothers-2344828/"
+  ],
+  "self_check": {
+    "hook": "Opens on Choso feeling Yuji's ending coming, then names the Shinjuku flame in the second line.",
+    "loop": "The last line asks why Choso stepped in if he could feel the ending, which leads straight back into the first line.",
+    "facts_verified": true
+  }
+}
