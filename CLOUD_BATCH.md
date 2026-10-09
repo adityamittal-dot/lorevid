@@ -14,17 +14,17 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
 
 ## Models
 - You (main session, Haiku 5.5): plan, hand out IDs, push. Never write or review scripts yourself.
-- Writers: `model: "haiku"`. One writer per long video; it also writes that long's Short.
+- Writers: `model: "haiku"`. One writer per long video; it also writes the Shorts cut from it.
 - Editor: one `model: "sonnet"` pass per long video, reading only the finished script (no research).
 
 ## Steps
 1. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
    sorted(glob.glob('scripts/*/*.json'))[-60:]))"` (recent titles). Don't read WRITER.md yourself.
 2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Haiku
-   writer per long ID **in parallel** with: its IDs (long + `<long-id>s1`), its topic, the full topic list, and this
+   writer per long ID **in parallel** with: its IDs (the long + its Shorts as plan.py lists them: `<long-id>s1`, and `s2` from Nov 1), its topic, the full topic list, and this
    brief:
    > Read WRITER.md once. Research with **at most 6 WebSearch calls** and no WebFetch (the sentences you use must
-   > come from search results). Write the long JSON and notes with **one Write call each**, then the Short the same
+   > come from search results). Write the long JSON and notes with **one Write call each**, then each Short the same
    > way, reusing the same research. Notes need Sources (3+ URLs from your searches), Angle, Self-review, and Fact
    > check (list each claim and the search result that supports it; drop any claim you couldn't support). Run
    > `python validate_script.py` on both and fix all errors in a single Edit per file. Don't touch pronounce.json or

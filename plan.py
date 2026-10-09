@@ -70,6 +70,19 @@ def longs_per_day(schedule, day):
     return int(best.get("per_day", 1))
 
 
+def shorts_for(schedule, default, day):
+    """Shorts cut from each long on `day`: the matching schedule entry's "shorts_per_day", else the global one."""
+    best, best_from = None, None
+    for entry in schedule or []:
+        try:
+            efrom = datetime.date.fromisoformat(entry["from"])
+        except (KeyError, ValueError):
+            continue
+        if efrom <= day and (best_from is None or efrom > best_from):
+            best, best_from = entry, efrom
+    return int((best or {}).get("shorts_per_day", default))
+
+
 def long_id(date_str, k):
     """The k-th long of a day (1-based): "<date>-L", "<date>-L2", ... Its Shorts are "<id>s1", "<id>s2"."""
     return f"{date_str}-L" if k == 1 else f"{date_str}-L{k}"
@@ -80,6 +93,7 @@ def day_items(schedule, shorts_per_day, day, long_index):
     long's Shorts are cut from it. A day with no long gets plain Shorts by weekday series."""
     date_str, items = day.isoformat(), []
     n_long = longs_per_day(schedule, day)
+    shorts_per_day = shorts_for(schedule, shorts_per_day, day)
     for k in range(1, n_long + 1):
         long_index += 1
         series = LONG_OFF_SERIES[(long_index // 4 - 1) % 2] if long_index % 4 == 0 else "onepiece"
