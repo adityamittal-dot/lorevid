@@ -1,0 +1,155 @@
+{
+  "id": "2026-10-11-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Mihawk's undefeated record and his Marineford walk-away are evidence he secretly has Conqueror's (Supreme King) Haki",
+  "title": "Mihawk Never Lost. That Isn't Just Skill",
+  "description": "Mihawk has never lost a sword fight, and he walked away from Marineford as calmly as Blackbeard did. Here's why I think that's Supreme King Haki, not just swordsmanship. Confirmed, or just the longest telegraph in the story?",
+  "hashtags": [
+    "#mihawk",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "mihawk one piece",
+    "conqueror's haki",
+    "supreme king haki",
+    "zoro mihawk",
+    "one piece 1194",
+    "dracule mihawk",
+    "one piece marineford"
+  ],
+  "hook_text": "SECRET HAKI",
+  "music_mood": "suspense",
+  "comment": "Does Mihawk secretly have Conqueror's Haki, or is World's Strongest Swordsman pure blade skill? Pick a side.",
+  "related_long": "2026-10-11-L",
+  "pages": [
+    "Dracule Mihawk",
+    "Shanks",
+    "Marshall D. Teach"
+  ],
+  "lines": [
+    {
+      "text": "Mihawk has never lost a sword fight in this entire story.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Mihawk undefeated swordsman claim",
+        "fallback": "hawk-eyed swordsman standing undefeated"
+      }
+    },
+    {
+      "text": "I don't think that's just skill. I think it's Supreme King Haki.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk Supreme King Haki theory",
+        "fallback": "swordsman radiating a hidden, commanding presence"
+      }
+    },
+    {
+      "text": "At Marineford, Blackbeard backs off from Shanks without one single blow.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard withdraws Shanks Marineford",
+        "fallback": "dark pirate captain withdrawing from a confrontation"
+      }
+    },
+    {
+      "text": "Mihawk does the exact same thing, same breath, same calm.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk withdraws Shanks Marineford",
+        "fallback": "hawk-eyed swordsman calmly leaving a battlefield"
+      }
+    },
+    {
+      "text": "Pure skill doesn't walk through that kind of danger unshaken.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk calm exit tracks theory",
+        "fallback": "swordsman unbothered by overwhelming forces nearby"
+      }
+    },
+    {
+      "text": "Then in chapter 1194, Mihawk teaches Zoro something stranger than swordsmanship.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk lesson Zoro chapter 1194",
+        "fallback": "hawk-eyed swordsman teaching a kneeling student"
+      }
+    },
+    {
+      "text": "He teaches him how willpower itself holds steady under pressure.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk teaches willpower not technique",
+        "fallback": "swordsman imparting a lesson about inner resolve"
+      }
+    },
+    {
+      "text": "That's not a sword lesson. That's how Conqueror's Haki actually works.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Mihawk lesson Conqueror's Haki description",
+        "fallback": "swordsman channeling a commanding, unshakable will"
+      }
+    },
+    {
+      "text": "No databook has ever confirmed this. I know that.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk no official confirmation Haki",
+        "fallback": "swordsman surrounded by unanswered questions"
+      }
+    },
+    {
+      "text": "But an undefeated record, a calm walk from war, and this exact lesson stop looking like coincidence.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Three pieces evidence converge theory",
+        "fallback": "three threads weaving into one conclusion"
+      }
+    },
+    {
+      "text": "So maybe Mihawk never agreed to oppose anyone, for one simple reason...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk never needed agree anyone",
+        "fallback": "swordsman standing entirely on his own terms"
+      }
+    },
+    {
+      "text": "Which is exactly why I don't think it was ever just a sword fight to begin with...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mihawk undefeated swordsman claim",
+        "fallback": "swordsman standing undefeated at the edge of a cliff"
+      }
+    }
+  ],
+  "sources": [
+    "https://fandomwire.com/one-piece-reveals-mihawk-greatest-lesson-to-zoro/",
+    "https://daddyjim.ai/one-piece/manga-chapter/Chapter-580",
+    "https://fandomwire.com/one-piece-confirming-a-major-theory-about-shanks-explains-his-crucial-role-in-war-of-marineford/"
+  ],
+  "self_check": {
+    "hook": "claim in line 1, names Mihawk immediately",
+    "loop": "last line leads back into reconsidering line 1's claim rather than repeating it verbatim",
+    "facts_verified": true
+  },
+  "chapters": [],
+  "thumbnail": null
+}
