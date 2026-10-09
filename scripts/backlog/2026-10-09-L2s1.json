@@ -1,0 +1,154 @@
+{
+ "id": "2026-10-09-L2s1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Loki killed his own father Harald to stop Imu's plan to turn Elbaph into a weapon",
+ "title": "Loki Killed His Own King To Save Elbaph",
+ "description": "Elbaph still calls Loki the Accursed Prince. Here's why I think that's backwards, and what chapter 1170 actually shows him stopping. Hero or traitor?",
+ "hashtags": [
+  "#onepiece",
+  "#loki",
+  "#elbaph",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "loki one piece",
+  "elbaph",
+  "imu theory",
+  "one piece 1194",
+  "loki harald",
+  "accursed prince",
+  "one piece elbaph arc"
+ ],
+ "hook_text": "NOT A TRAITOR",
+ "music_mood": "suspense",
+ "comment": "Hero or traitor: does Loki killing his own father make him Elbaph's best defense, or just a kinslayer who got lucky?",
+ "related_long": "2026-10-09-L2",
+ "pages": [
+  "Loki",
+  "Harald",
+  "Imu"
+ ],
+ "lines": [
+  {
+   "text": "Loki killed his own king. Elbaph still calls him a traitor.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Loki Harald king Elbaph",
+    "fallback": "giant prince standing over a fallen king"
+   }
+  },
+  {
+   "text": "But I don't think that's betrayal. I think it's the opposite.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki Elbaph theory claim",
+    "fallback": "giant warrior facing a difficult truth"
+   }
+  },
+  {
+   "text": "Elbaph's king, Harald, was secretly taking orders from Imu himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Harald Imu secret orders",
+    "fallback": "giant king kneeling before a shadowy ruler"
+   }
+  },
+  {
+   "text": "Imu wanted every giant in Elbaph turned into a weapon for the World Government.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Elbaph giants weaponized",
+    "fallback": "giant soldiers forged into weapons"
+   }
+  },
+  {
+   "text": "Harald tried to resist that order. Loki says it never stopped. It just moved.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Harald resists Imu order",
+    "fallback": "giant king refusing a command"
+   }
+  },
+  {
+   "text": "So Loki made the one choice nobody else in Elbaph was willing to make.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki impossible choice Elbaph",
+    "fallback": "giant prince facing an impossible decision"
+   }
+  },
+  {
+   "text": "He killed his own father, before that weapon could ever finish forming.",
+   "delivery": "slow",
+   "fx": "shake",
+   "shot": {
+    "search": "Loki kills Harald patricide",
+    "fallback": "giant prince striking down a transformed king"
+   }
+  },
+  {
+   "text": "That's chapter 1170, the one fans remember for the fruit, not the reason behind it.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Loki eats fruit chapter 1170",
+    "fallback": "giant prince eating a glowing fruit"
+   }
+  },
+  {
+   "text": "Years later, his hybrid dragon form is still fighting Imu, right beside Luffy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki hybrid dragon form Imu",
+    "fallback": "giant warrior with dragon wings facing a shadowy ruler"
+   }
+  },
+  {
+   "text": "He never needed Luffy's crew to give him a reason. He's had one since chapter 1170.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki motive before Luffy",
+    "fallback": "giant warrior standing ready for battle"
+   }
+  },
+  {
+   "text": "So no, Loki isn't the villain Elbaph still thinks he is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki not villain verdict",
+    "fallback": "giant warrior standing vindicated"
+   }
+  },
+  {
+   "text": "Loki killed his own king, not out of hate, but because somebody finally had to...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loki Harald king Elbaph reason",
+    "fallback": "giant prince standing over a fallen king, resolute"
+   }
+  }
+ ],
+ "sources": [
+  "https://usa.soapcentral.com/anime/one-piece-finally-reveals-loki-s-true-motivation-behind-killing-harald-and-it-s-as-noble-as-fans-thought",
+  "https://sportskeeda.com/anime/one-piece-loki-s-patricide-last-resort-imu-reason",
+  "https://www.soapcentral.com/anime/one-piece-chapter-1170-raw-scans-loki-eats-legendary-devil-fruit-forced-kill-father-future-elbaf"
+ ],
+ "self_check": {
+  "hook": "claim + character name in line 1",
+  "loop": "last line loops back into line 1's 'Loki killed his own king' with the reason attached",
+  "facts_verified": true
+ }
+}
