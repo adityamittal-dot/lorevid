@@ -1,7 +1,7 @@
 # Cloud batch session (paid from the Claude cloud-session credit)
 
 All lorevid writing happens here. Start it **by hand** at claude.ai/code on this repo, never as a scheduled routine
-(routines billed the Pro plan on 2026-10-09). Check the credit balance before and after each session. Paste:
+(routines billed the Pro plan on 2026-10-09). Pick **Haiku 5.5** as the session model. Paste:
 
 ```text
 Follow CLOUD_BATCH.md exactly.
@@ -9,26 +9,31 @@ Follow CLOUD_BATCH.md exactly.
 
 ---
 
-**Models (token budget):** pick **Haiku 5.5** as the session model in the claude.ai/code model picker; this main
-session only plans, delegates and pushes. Subagents use the cheapest model that does each job well:
-- long video script + its Short: `model: "sonnet"` (quality of the long is what earns watch time)
-- fact-check pass and validation fixes: `model: "haiku"`
+**Budget: about $5 for 20 scripts.** The first batch cost $15. Most of that was long agent loops that re-sent big
+contexts every turn, plus a separate fact-check round. Every rule below is there to cut turns and context.
 
-Keep context small: pass each subagent only WRITER.md, its IDs and the topic list, never whole other scripts.
+## Models
+- You (main session, Haiku 5.5): plan, hand out IDs, push. Never write or review scripts yourself.
+- Writers: `model: "haiku"`. One writer per long video; it also writes that long's Short.
+- Editor: one `model: "sonnet"` pass per long video, reading only the finished script (no research).
 
-One session writes **5 days of content: the next 20 missing scripts**, so the clone/setup cost is paid once per 20
-scripts instead of once per script.
-
-1. Don't read WRITER.md yourself (the subagents do); just skim its section headings.
-2. Run `python plan.py next 20`.
-3. Give each **long** ID to its own Sonnet subagent (run them in parallel), together with the Short IDs cut from it
-   (`<long-id>s1`). Each subagent: reads WRITER.md, researches, writes the long video and then its Short in the same
-   context (no second research pass for the Short), does the editor review itself, and writes
-   `scripts/backlog/<id>.json` + `notes/<id>.md` for both. Tell every subagent the other subagents' topics so no two scripts in
-   the batch share a topic, and none repeats the last 60 titles.
-4. When the writers finish, start one Haiku subagent per long ID: it fact-checks the long and its Short against
-   their `## Sources` (WebFetch), fixes wrong lines, writes the `## Fact check` section, and runs
-   `python validate_script.py scripts/backlog/<id>.json` on both until they pass.
-5. Push to main once at the end: `git add scripts/backlog notes && git commit -m "script: <ids>" && git pull --rebase
-   origin main && git push origin main`.
-6. Finish with `python plan.py status` and list the IDs you pushed.
+## Steps
+1. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
+   sorted(glob.glob('scripts/*/*.json'))[-60:]))"` (recent titles). Don't read WRITER.md yourself.
+2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Haiku
+   writer per long ID **in parallel** with: its IDs (long + `<long-id>s1`), its topic, the full topic list, and this
+   brief:
+   > Read WRITER.md once. Research with **at most 6 WebSearch calls** and no WebFetch (the sentences you use must
+   > come from search results). Write the long JSON and notes with **one Write call each**, then the Short the same
+   > way, reusing the same research. Notes need Sources (3+ URLs from your searches), Angle, Self-review, and Fact
+   > check (list each claim and the search result that supports it; drop any claim you couldn't support). Run
+   > `python validate_script.py` on both and fix all errors in a single Edit per file. Don't touch pronounce.json or
+   > any other file. Don't commit. Reply only with the IDs and "ok" or the remaining errors.
+3. When a writer finishes, start one Sonnet editor for that long with this brief:
+   > Read WRITER.md section 6 (Long Video Rules) and scripts/backlog/<id>.json. Rewrite only the weak lines
+   > (flat hooks, written-not-spoken sentences, slow chapters) in one Edit pass, without adding new facts. Then add
+   > `## Editor review` to notes/<id>.md with honest scores written like `hook: 8/10`, rewriting until every score
+   > is 8+. Run `python validate_script.py scripts/backlog/<id>.json` until it passes. Reply only "ok" or the errors.
+4. Commit once: `git add scripts/backlog notes && git commit -m "script: <ids>"`, then push to the branch this
+   session is set up to use.
+5. Reply with `python plan.py status` and the pushed IDs. Nothing else.
