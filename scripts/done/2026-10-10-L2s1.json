@@ -1,0 +1,152 @@
+{
+  "id": "2026-10-10-L2s1",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "Shisui secretly stops the Uchiha massacre with Kotoamatsukami and vanishes, uncredited",
+  "title": "Shisui Saved The Uchiha Clan And Vanished",
+  "description": "What if Danzo's ambush on Shisui failed? This is the theory that he stops the Uchiha massacre with Kotoamatsukami, pays for it with his own eyesight, and vanishes without anyone ever knowing. Watch the full story on the channel.",
+  "hashtags": [
+    "#naruto",
+    "#shisui",
+    "#anime"
+  ],
+  "tags": [
+    "naruto theory",
+    "shisui uchiha",
+    "itachi uchiha",
+    "uchiha massacre",
+    "danzo shimura",
+    "kotoamatsukami",
+    "naruto what if",
+    "obito uchiha",
+    "naruto theory 2026"
+  ],
+  "hook_text": "NOBODY THANKED HIM",
+  "music_mood": "suspense",
+  "comment": "Do you think Shisui actually won that night, or just traded one tragedy for a quieter one? Pick one.",
+  "related_long": "2026-10-10-L2",
+  "pages": [
+    "Shisui Uchiha",
+    "Itachi Uchiha",
+    "Danzō Shimura"
+  ],
+  "lines": [
+    {
+      "text": "Shisui saved the entire Uchiha clan. Nobody ever thanked him for it.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Shisui Uchiha Mangekyo Sharingan",
+        "fallback": "lone ninja standing in shadow, unrecognized"
+      }
+    },
+    {
+      "text": "Here's the theory: Danzo's ambush was supposed to kill him by the Naka River.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Danzo ambushes Shisui Naka River",
+        "fallback": "shadowy ninja ambushing a rival by a river at night"
+      }
+    },
+    {
+      "text": "I think it fails instead, and that one failure stops the massacre before it starts.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shisui survives ambush",
+        "fallback": "ninja standing unharmed after an ambush"
+      }
+    },
+    {
+      "text": "Shisui uses Kotoamatsukami, a mind control technique so clean the victim never even notices.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shisui Kotoamatsukami technique",
+        "fallback": "eye technique casting an invisible, absolute command"
+      }
+    },
+    {
+      "text": "One use on Danzo. One more on Fugaku. The whole coup folds without a single kunai thrown.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Fugaku Kotoamatsukami controlled",
+        "fallback": "stern leader's resolve suddenly dissolving"
+      }
+    },
+    {
+      "text": "But that technique burns through its own user, and a third forced use finally costs Shisui his eyesight.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Shisui loses eyesight final use",
+        "fallback": "ninja paying the ultimate price for his power"
+      }
+    },
+    {
+      "text": "So he vanishes anyway, blind and exiled, officially dead to protect the secret.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Shisui leaves blind alone",
+        "fallback": "ninja walking away into exile, blind"
+      }
+    },
+    {
+      "text": "Even Itachi still believes his best friend killed himself by that river.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Itachi grieves living friend",
+        "fallback": "ninja mourning someone secretly still alive"
+      }
+    },
+    {
+      "text": "The clan survives. Nobody ever finds out who actually saved them.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Clan saved secretly theory",
+        "fallback": "a rescue nobody is allowed to acknowledge"
+      }
+    },
+    {
+      "text": "That's the real theory here: saving everyone doesn't mean anyone finds out you did it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Real theory Shisui plan",
+        "fallback": "the core theory illustrated through its aftermath"
+      }
+    },
+    {
+      "text": "Which is exactly why Shisui saved the entire Uchiha clan, and nobody ever thanked him for it...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Shisui calls it a win",
+        "fallback": "a quiet hero content without recognition"
+      }
+    }
+  ],
+  "sources": [
+    "https://fictionhorizon.com/shisui-uchihas-death-explained-could-he-be-alive/",
+    "https://techgenyz.com/naruto-why-did-shisui-uchihas-kotoamatsukami-scare-everyone/",
+    "https://narutofanon.fandom.com/wiki/Uchiha_Clan%E2%80%99s_Downfall"
+  ],
+  "self_check": {
+    "hook": "contrarian claim naming Shisui immediately",
+    "loop": "last line restates and loops back into line 1's claim",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "D6c7NcHb0ic",
+    "publish_at": "2026-10-10T14:30:00Z",
+    "url": "https://youtu.be/D6c7NcHb0ic",
+    "comment": "Do you think Shisui actually won that night, or just traded one tragedy for a quieter one? Pick one.\nhttps://youtu.be/_d8IoeIuaC4",
+    "comment_posted": false
+  }
+}
