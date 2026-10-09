@@ -9,7 +9,7 @@ Follow CLOUD_BATCH.md exactly.
 
 ---
 
-**Models (token budget):** pick **Haiku 4.5** as the session model in the claude.ai/code model picker; this main
+**Models (token budget):** pick **Haiku 5.5** as the session model in the claude.ai/code model picker; this main
 session only plans, delegates and pushes. Subagents use the cheapest model that does each job well:
 - long video script + its Short: `model: "sonnet"` (quality of the long is what earns watch time)
 - fact-check pass and validation fixes: `model: "haiku"`
