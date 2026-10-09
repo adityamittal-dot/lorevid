@@ -52,6 +52,15 @@ OUTRO_PATTERNS = [
 ]
 
 HOOK_START_WORDS = {"but", "until", "except"}
+
+# Advertiser-friendly gate (YouTube limited 2026-10-09-L "What If Zoro Died Against Mihawk?" for violence: a bloody
+# chest-slash cold open, the same scene as thumbnail, "Died" in the title). GRAPHIC words are never allowed;
+# DEATH words are fine in the story body but not in metadata, shot searches, or the first ~30 seconds.
+AD_GRAPHIC = re.compile(r"\b(blood\w*|bleed\w*|gor(e|y)|corpses?|decapitat\w*|behead\w*|dismember\w*|impal\w*|"
+                        r"disembowel\w*|mutilat\w*|tortur\w*|suicid\w*|massacr\w*|slaughter\w*|genocid\w*|"
+                        r"murder\w*|gruesome|severed|guts)\b", re.I)
+AD_DEATH = re.compile(r"\b(die[ds]?|dying|dead|death\w*|kill(s|ed|er|ers|ing)?|wound\w*|stab\w*|slash\w*|execut\w*|"
+                      r"shot dead|sacrific\w*)\b", re.I)
 SPOILER_CHAPTER_WORDS = re.compile(r"\b(revealed|explained|conclusion)\b", re.I)
 
 
@@ -479,6 +488,37 @@ def main():
                             pass
                 if any("line 1's first 8 words match" in e for e in err):
                     break
+
+    # 11. Advertiser-friendly gate (see AD_GRAPHIC / AD_DEATH above).
+    meta = {"title": p.get("title", ""), "hook_text": p.get("hook_text", ""), "description": p.get("description", ""),
+            "tags": " | ".join(map(str, p.get("tags") or [])), "hashtags": " ".join(map(str, p.get("hashtags") or []))}
+    th = p.get("thumbnail") if isinstance(p.get("thumbnail"), dict) else {}
+    for k in ("text", "search", "search2", "image"):
+        meta[f"thumbnail.{k}"] = th.get(k, "")
+    for k, v in meta.items():
+        m = AD_GRAPHIC.search(str(v)) or AD_DEATH.search(str(v))
+        if m:
+            err.append(f"ad-safety: {k} contains '{m.group(0)}' (limits ads); use defeat/fall/lose/end instead")
+    early_words = 0
+    for i, line in enumerate(lines or []):
+        if not isinstance(line, dict):
+            continue
+        text = str(line.get("text", ""))
+        shot = line.get("shot") if isinstance(line.get("shot"), dict) else {}
+        for k in ("search", "fallback", "image"):
+            m = AD_GRAPHIC.search(str(shot.get(k, ""))) or AD_DEATH.search(str(shot.get(k, "")))
+            if m:
+                err.append(f"ad-safety: line {i+1} shot.{k} contains '{m.group(0)}' (pulls violent frames); "
+                           f"search the calm before/after moment instead")
+        m = AD_GRAPHIC.search(text)
+        if m:
+            err.append(f"ad-safety: line {i+1} contains graphic word '{m.group(0)}'")
+        elif early_words < 90:  # ~30 s of narration at ~3 words/s
+            m = AD_DEATH.search(text)
+            if m:
+                err.append(f"ad-safety: line {i+1} (first 30 s) contains '{m.group(0)}'; keep the cold open free of "
+                           f"death/violence words")
+        early_words += len(text.split())
 
     # 10. Near-duplicate topic: a title sharing most of its key words with another script's title is the same
     # video twice (the backlog runs months ahead, so this compares against everything ever written).

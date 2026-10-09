@@ -57,11 +57,17 @@ def search(wiki, words, limit=30):
     return [h["title"] for h in hits]
 
 
+# Violent/graphic frames get videos ad-limited (2026-10-09-L used the bloody Baratie chest slash): never use files
+# whose name points at blood, wounds, deaths or executions, whatever the shot search asked for.
+GORE = re.compile(r"blood|bleed|wound|injur|corpse|dead\b|death|dies\b|died|dying|killed|kills\b|murder|execut|"
+                  r"stab|impale|sever|decapitat|behead|gore\b|torture|massacre|slaughter|suicide|funeral|grave\b|"
+                  r"cut down|struck down|slashe[sd]|pierc|skewer|scar\b|scarred|vomit|carnage", re.I)
 MERCH = re.compile(r"^(File:|Image:)?[^ ]+-[^ ]+\.\w+$")    # "DXGLM9-Zoro.png", "POPSailingAgain-Zoro.png": product shots
 
 
 def acceptable(title, i):
-    return (title.lower().endswith(EXTS) and not BAD.search(title) and not MERCH.match(title)
+    return (title.lower().endswith(EXTS) and not BAD.search(title) and not GORE.search(title)
+            and not MERCH.match(title)
             and i.get("width", 0) >= 400 and i.get("height", 0) >= 400)
 
 

@@ -21,7 +21,7 @@
     "zoro promise",
     "zoro backstory"
   ],
-  "hook_text": "A DEAD GIRL'S SWORD",
+  "hook_text": "KUINA'S SWORD",
   "music_mood": "emotional",
   "comment": "Does Zoro's strength come from Mihawk's lesson or from Kuina's promise? Pick one.",
   "related_long": null,
@@ -33,7 +33,7 @@
   ],
   "lines": [
     {
-      "text": "The sword that hurt a Knight of God belonged to a dead girl.",
+      "text": "The sword that hurt a Knight of God belonged to a girl Zoro lost as a kid.",
       "delivery": "punch",
       "fx": "zoom",
       "shot": {
@@ -78,7 +78,7 @@
       }
     },
     {
-      "text": "When she died, her father gave Zoro her sword.",
+      "text": "After she was gone, her father gave Zoro her sword.",
       "delivery": "slow",
       "fx": "none",
       "shot": {
@@ -123,12 +123,12 @@
       }
     },
     {
-      "text": "So the cut Elbaph needed carried a promise from a dead girl.",
+      "text": "So the cut Elbaph needed carried a promise to a girl he never stopped fighting for.",
       "delivery": "reveal",
       "fx": "flash",
       "shot": {
         "search": "Zoro Sommers Supreme King Haki cut",
-        "fallback": "glowing slash across an armored knight"
+        "fallback": "glowing sword strike against an armored knight"
       }
     },
     {

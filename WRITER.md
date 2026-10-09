@@ -326,6 +326,23 @@ that video; push the others and say so in the summary. Record the final scores i
 - **Hashtags**: 3-5 tags, most specific first (`["#zoro", "#onepiece", "#anime"]`).
 - **Tags**: 8-15 realistic search phrases (e.g. `"one piece theory"`, `"zoro conqueror's haki"`, `"one piece 1194"`).
 
+### Advertiser-Friendly Rules (monetization)
+
+YouTube limited ads on "What If Zoro Died Against Mihawk?" (2026-10-09-L) for violence: the cold open narrated a
+bloody chest slash over that exact scene, the thumbnail was the same scene, and "Died" was in the title and tags.
+`validate_script.py` now rejects these, so follow them from the first draft:
+- **Never** use graphic words anywhere: blood, bleeding, gore, corpse, beheaded, impaled, tortured, massacre,
+  slaughter, genocide, murder, suicide, gruesome, severed.
+- **No death or violence words** (die/died/dead/death/kill/killed/wound/stab/slash/execute/sacrifice) in the title,
+  hook_text, thumbnail text or searches, description, tags, hashtags, any `shot` search or fallback, or the first
+  ~90 words of narration. Later in the body they're fine in story context, sparingly.
+- Say it the advertiser-safe way: *defeated, fell, lost, taken down, gone, ended, didn't make it, never came back,
+  cut down → beaten*. "What If Zoro Lost to Mihawk?" carries the same hook as "Died".
+- Cold open and thumbnail: pick the tense moment **before** or the reaction **after** a hit, never the impact,
+  injury or aftermath. Faces and stand-offs beat wounds.
+- Don't build an angle around a death, war crime or atrocity as the selling point (e.g. "The Massacre That…").
+  Frame it around the character, the choice, or the mystery.
+
 ### Visual Sourcing (how the pictures get chosen)
 Top theory Shorts in this niche (Akagami Decode, Peak Anime: 100k-500k views each) fill the whole vertical frame and
 cut to a new, on-topic picture every ~1 second: the exact character, technique or manga panel the voice is naming.
