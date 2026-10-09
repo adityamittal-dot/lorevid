@@ -14,7 +14,7 @@ backlog further ahead of the publish schedule.
 
 Date is today in IST (`YYYY-MM-DD`). Each session:
 
-1. Run `python plan.py next 4`. It prints the next 4 missing script IDs in schedule order — format, series, and
+1. Run `python plan.py next 4` (a CLOUD_BATCH.md session uses its own count instead). It prints the next 4 missing script IDs in schedule order — format, series, and
    intended publish date — computed from `channel.json`'s `long_schedule` (2 long videos every day: `<date>-L` and
    `<date>-L2`) and `shorts_per_day` (1 Short cut from each long: `<date>-Ls1` and `<date>-L2s1`), skipping anything
    already sitting in `scripts/backlog/`, `scripts/queue/`, `scripts/done/` or `scripts/failed/`.
@@ -28,7 +28,7 @@ Date is today in IST (`YYYY-MM-DD`). Each session:
 4. Write every script to **`scripts/backlog/<id>.json`** (not `scripts/queue/`). `render.yml` moves a backlog
    file into the queue automatically once its date has arrived, so every video renders just-in-time with
    whatever pipeline code is on `main` that day, not with today's code days in advance.
-5. Push on a fresh branch named after the first script ID, same as before (section 9).
+5. Push to main (section 9).
 6. Finish with `python plan.py status` and report the coverage (days fully covered from tomorrow) in your summary.
 
 `plan.py` already assigns series for you (One Piece mostly; Naruto/Boruto on Tuesday Shorts, JJK on Saturday
