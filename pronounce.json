@@ -23,6 +23,10 @@
     "Ah-mah-doh",
     "ɑmˈɑdO"
   ],
+  "Amiudake": [
+    "Ah-mee-oo-dah-keh",
+    "ɑmiudˈɑkɛ"
+  ],
   "Aokiji": [
     "Ah-oh-kee-jee",
     "ˌɑOkˈiʤi"
@@ -38,6 +42,10 @@
   "Bartolomeo": [
     "Bar-toh-loh-MAY-oh",
     "bɑrtˌOlomˈAO"
+  ],
+  "Bepo": [
+    "Beh-poh",
+    "bˈɛpO"
   ],
   "Boruto": [
     "Boh-roo-toh",
@@ -71,6 +79,10 @@
     "Choo-nin",
     "ʧˈunin"
   ],
+  "Cocoyasi": [
+    "Koh-koh-yah-see",
+    "kOkOjˈɑsi"
+  ],
   "Colubo": [
     "Koh-loo-boh",
     "kOlˈubO"
@@ -78,6 +90,10 @@
   "Corazon": [
     "Koh-rah-sohn",
     "kˌOɹəsˈOn"
+  ],
+  "Crocus": [
+    "Kroh-kus",
+    "kɹˈOkəs"
   ],
   "Cutty": [
     "Kut-ee",
@@ -151,6 +167,10 @@
     "Foo-shah",
     "fˈuʃə"
   ],
+  "Franky": [
+    "Frank-ee",
+    "fɹˈæŋki"
+  ],
   "Fugaku": [
     "Foo-gah-koo",
     "fuɡˈɑku"
@@ -175,6 +195,10 @@
     "Gah-bahn",
     "ɡˈɑbɑn"
   ],
+  "Galley-La": [
+    "Gal-ee-lah",
+    "ɡˈæliˌlɑ"
+  ],
   "Garp": [
     "Garp",
     "ɡˈɑɹp"
@@ -182,6 +206,14 @@
   "Gege": [
     "Geh-geh",
     "ɡˈɛɡɛ"
+  ],
+  "Genzo": [
+    "Jen-zoh",
+    "ʤˈɛnzO"
+  ],
+  "Germa": [
+    "Jer-mah",
+    "ʤˈɜɹmə"
   ],
   "Geto": [
     "Geh-toh",
@@ -275,6 +307,10 @@
     "Hee-nah-tah",
     "hinˈɑtə"
   ],
+  "Hiriluk": [
+    "Hee-ree-look",
+    "hˈiɹilˌuk"
+  ],
   "Hiruzen": [
     "Hee-roo-zen",
     "hiɹˈuzɛn"
@@ -287,6 +323,10 @@
     "Hee-yoh-ree",
     "hijˈOɹi"
   ],
+  "Hody": [
+    "Hoh-dee",
+    "hˈOdi"
+  ],
   "Hokage": [
     "Hoh-kah-gay",
     "hOkˈɑɡA"
@@ -294,6 +334,14 @@
   "Homies": [
     "Hoh-meez",
     "hˈOmiz"
+  ],
+  "Iceburg": [
+    "Eye-sburg",
+    "ˈIsbɜɹɡ"
+  ],
+  "Ichiji": [
+    "Ee-chee-jee",
+    "ˈiʧiʤi"
   ],
   "Ichimonji": [
     "Ee-chee-mohn-jee",
@@ -339,6 +387,10 @@
     "Ee-zah-nah-gee",
     "izɑnˈɑɡi"
   ],
+  "Izanami": [
+    "Ee-zah-nah-mee",
+    "ˌizɑnˈɑmi"
+  ],
   "Jinbe": [
     "Jin-bay",
     "ʤˈinbA"
@@ -362,6 +414,10 @@
   "Jyabura": [
     "Jah-boo-rah",
     "ʤˈɑbuɹɑ"
+  ],
+  "Kabuto": [
+    "Kah-boo-toh",
+    "kɑbˈutO"
   ],
   "Kaguya": [
     "Kah-goo-yah",
@@ -398,6 +454,14 @@
   "Kara": [
     "Kah-rah",
     "kˈɑɹə"
+  ],
+  "Karasu": [
+    "Kah-rah-soo",
+    "kɑɹˈɑsu"
+  ],
+  "Kashii": [
+    "Kah-shee",
+    "kˈɑʃi"
   ],
   "Kashimo": [
     "Kah-shee-moh",
@@ -479,6 +543,10 @@
     "Koo-mah",
     "kˈumə"
   ],
+  "Kumadori": [
+    "Koo-mah-doh-ree",
+    "kumɑdˈOɹi"
+  ],
   "Kuraigana": [
     "Koo-rye-gah-nah",
     "kˌuɹIɡˈɑnə"
@@ -486,6 +554,10 @@
   "Kurama": [
     "Koo-rah-mah",
     "kuɹˈɑmə"
+  ],
+  "Kureha": [
+    "Koo-reh-hah",
+    "kˈuɹɛhɑ"
   ],
   "Kuroobi": [
     "Koo-roh-oh-bee",
@@ -499,6 +571,10 @@
     "Koo-zahn",
     "kˈuzɑn"
   ],
+  "Laboon": [
+    "Lah-boon",
+    "lɑbˈun"
+  ],
   "Larue": [
     "La-roo",
     "lɑrˈu"
@@ -506,6 +582,10 @@
   "Loguetown": [
     "Loag-town",
     "lˈOɡtWn"
+  ],
+  "Loki": [
+    "Loh-kee",
+    "lˈOki"
   ],
   "Lucci": [
     "Loo-chee",
@@ -587,6 +667,10 @@
     "Moh-moh-noh-skay",
     "mˌOmOnˈOskA"
   ],
+  "Momoo": [
+    "Moh-moh-oo",
+    "mˈOmOu"
+  ],
   "Momoshiki": [
     "Moh-moh-shee-kee",
     "mˌOmOʃˈiki"
@@ -606,6 +690,10 @@
   "Naka": [
     "Nah-kah",
     "nˈɑkɑ"
+  ],
+  "Nako": [
+    "Nah-koh",
+    "nˈɑkO"
   ],
   "Nami": [
     "Nah-mee",
@@ -627,13 +715,29 @@
     "Neh-jee",
     "nˈɛʤi"
   ],
+  "Nezumi": [
+    "Neh-zoo-mee",
+    "nˈɛzumi"
+  ],
+  "Niji": [
+    "Nee-jee",
+    "nˈiʤi"
+  ],
   "Nika": [
     "Nee-kah",
     "nˈikə"
   ],
+  "Noah": [
+    "Noh-ah",
+    "nˈOɑ"
+  ],
   "Nobara": [
     "Noh-bah-rah",
     "nObˈɑɹə"
+  ],
+  "Nojiko": [
+    "Noh-jee-koh",
+    "nOʤˈikO"
   ],
   "Obito": [
     "Oh-bee-toh",
@@ -671,6 +775,10 @@
     "Oh-roh-chee-mah-roo",
     "ˌOɹOʧimˈɑɹu"
   ],
+  "Otohime": [
+    "Oh-toh-hee-may",
+    "OtOhˈimA"
+  ],
   "Otsutsuki": [
     "Oh-tsoo-tsoo-kee",
     "ˌOtsutsˈuki"
@@ -678,6 +786,10 @@
   "Perona": [
     "Peh-roh-nah",
     "pɛɹˈOnə"
+  ],
+  "Perospero": [
+    "Pe-roh-speh-roh",
+    "pˈɛɹOspˈɛɹO"
   ],
   "Pika": [
     "Pee-kah",
@@ -694,6 +806,10 @@
   "Poneglyphs": [
     "Pone-glifs",
     "pˈOnɡlɪfs"
+  ],
+  "Poseidon": [
+    "Poh-sy-dun",
+    "pOsˈIdən"
   ],
   "Raftel": [
     "Raff-tel",
@@ -715,6 +831,10 @@
     "Ray-lee",
     "ɹˈAli"
   ],
+  "Reiju": [
+    "Ray-joo",
+    "ɹˈAʤu"
+  ],
   "Reports": [
     "Ree-ports",
     "ɹipˈɔɹts"
@@ -730,6 +850,18 @@
   "Rinnegan": [
     "Ree-neh-gahn",
     "ɹˈinəɡˌɑn"
+  ],
+  "Rosinante": [
+    "Roh-zee-nan-tay",
+    "ɹOsinˈɑntA"
+  ],
+  "Rumbar": [
+    "Rum-bar",
+    "ɹˈʌmbɑɹ"
+  ],
+  "Rusukaina": [
+    "Roo-soo-kai-nah",
+    "ɹusukˈIna"
   ],
   "Ryokugyu": [
     "Ryoh-koo-gyoo",
@@ -778,6 +910,10 @@
   "Sengoku": [
     "Sen-goh-koo",
     "sɛŋɡˈOku"
+  ],
+  "Shachi": [
+    "Shah-chee",
+    "ʃˈɑʧi"
   ],
   "Sharingan": [
     "Shah-reen-gahn",
@@ -871,6 +1007,18 @@
     "Toh-neh-ree",
     "tOnˈɛɹi"
   ],
+  "Tontatta": [
+    "Ton-tah-tah",
+    "tˈɑntɑtə"
+  ],
+  "Torino": [
+    "Toh-ree-noh",
+    "tɔɹˈinO"
+  ],
+  "Totto": [
+    "Tot-toh",
+    "tˈɑtO"
+  ],
   "Tsukuyomi": [
     "Tsoo-koo-yoh-mee",
     "tsukujˈOmi"
@@ -903,6 +1051,10 @@
     "Ver-goh",
     "vˈɜɹɡO"
   ],
+  "Vinsmoke": [
+    "Vin-smoke",
+    "vˈɪnsmOk"
+  ],
   "Vivi": [
     "Vee-vee",
     "vˈivi"
@@ -914,6 +1066,10 @@
   "Wano": [
     "Wah-noh",
     "wˈɑnO"
+  ],
+  "Wapol": [
+    "Wah-pol",
+    "wˈɑpɔl"
   ],
   "Whitebeard": [
     "White-beerd",
@@ -934,6 +1090,14 @@
   "Yomi": [
     "Yoh-mee",
     "jˈOmi"
+  ],
+  "Yonji": [
+    "Yon-jee",
+    "jˈɑnʤi"
+  ],
+  "Yorki": [
+    "York-ee",
+    "jˈɔɹki"
   ],
   "Yoru": [
     "Yoh-roo",

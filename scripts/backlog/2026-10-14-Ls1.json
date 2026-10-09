@@ -1,0 +1,177 @@
+{
+  "id": "2026-10-14-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Luffy made Brook's promise to Laboon in chapter 105; Brook's dream is the circle back to Reverse Mountain",
+  "title": "Luffy Made Brook's Promise Before Brook Existed",
+  "description": "Luffy promised Laboon a rematch in chapter 105, 337 chapters before Brook appeared. Here is why Brook's promise to the whale may be how One Piece really ends. Do you buy it?",
+  "hashtags": [
+    "#brook",
+    "#onepiece",
+    "#laboon",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "brook one piece",
+    "brook laboon",
+    "laboon",
+    "soul king brook",
+    "rumbar pirates",
+    "one piece ending theory",
+    "one piece 105",
+    "reverse mountain"
+  ],
+  "hook_text": "BROOK'S SECRET",
+  "music_mood": "emotional",
+  "comment": "Does One Piece end at Laugh Tale, or back at Reverse Mountain with Brook and Laboon? Pick one.",
+  "related_long": "2026-10-14-L",
+  "pages": [
+    "Brook",
+    "Laboon",
+    "Rumbar Pirates",
+    "Gol D. Roger"
+  ],
+  "lines": [
+    {
+      "text": "Luffy made Brook's promise 337 chapters before Brook even showed up.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy Laboon Jolly Roger Reverse Mountain",
+        "fallback": "boy painting a pirate flag on a giant whale's forehead"
+      }
+    },
+    {
+      "text": "Chapter 105. Luffy fights Laboon to a draw.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Luffy Laboon fight Reverse Mountain",
+        "fallback": "boy dodging a giant whale at a red cliff"
+      }
+    },
+    {
+      "text": "Then he paints his Jolly Roger on the whale's forehead and promises a rematch.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy paints Jolly Roger Laboon head",
+        "fallback": "boy painting a pirate emblem on a whale"
+      }
+    },
+    {
+      "text": "Chapter 442 introduces Brook. Nobody connects the two.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Brook Thriller Bark Chapter 442",
+        "fallback": "skeleton musician rising in a foggy forest"
+      }
+    },
+    {
+      "text": "Chapters 487 to 489 explain it. Brook's crew left Laboon there fifty years ago.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Brook Rumbar Pirates Laboon flashback",
+        "fallback": "pirates waving goodbye to a baby whale"
+      }
+    },
+    {
+      "text": "They swore to return. Only Brook came back, as a skeleton.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Brook Yomi Yomi no Mi skeleton",
+        "fallback": "skeleton with an afro in a foggy ship"
+      }
+    },
+    {
+      "text": "He still carries their last song, recorded for one listener. A whale.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Brook Tone Dial Binks' Sake",
+        "fallback": "skeleton holding a spiral shell recorder"
+      }
+    },
+    {
+      "text": "Nami wants a map. Zoro wants a title. Luffy wants a crown.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Straw Hat Pirates dreams Nami Zoro Luffy",
+        "fallback": "crew standing on a ship at sunrise"
+      }
+    },
+    {
+      "text": "Brook's dream is back at the start of the sea.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Brook Reverse Mountain dream Sunny",
+        "fallback": "skeleton looking back at a distant red cliff"
+      }
+    },
+    {
+      "text": "Roger did the same. He finished the Grand Line, then went home to Loguetown.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gol D. Roger Loguetown",
+        "fallback": "pirate king standing in a town square"
+      }
+    },
+    {
+      "text": "People say the ending is Laugh Tale. Here's my read: that's the middle.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Straw Hats Laugh Tale Imu",
+        "fallback": "crew approaching a bright island"
+      }
+    },
+    {
+      "text": "I think the last scene is Brook playing that song to a whale wearing Luffy's flag.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Brook Laboon reunion Jolly Roger",
+        "fallback": "skeleton playing violin to a whale at sunrise"
+      }
+    },
+    {
+      "text": "Joy Boy broke his promise. This crew keeps theirs.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Joy Boy Poneglyph apology Robin",
+        "fallback": "ancient tablet with glowing message"
+      }
+    },
+    {
+      "text": "Oda planted that ending long before anyone met the skeleton, because",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eiichiro Oda One Piece Laboon",
+        "fallback": "manga pages of a whale and a boy"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Laboon",
+    "https://onepiece.fandom.com/wiki/Rumbar_Pirates",
+    "https://onepiece.fandom.com/wiki/Brook/History",
+    "https://onepiece.fandom.com/wiki/Chapter_103"
+  ],
+  "self_check": {
+    "hook": "Contrarian-detail hook: Luffy made Brook's promise 337 chapters early",
+    "loop": "Last line ends on 'because' and flows into line 1",
+    "facts_verified": true
+  }
+}

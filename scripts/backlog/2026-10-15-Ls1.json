@@ -1,0 +1,166 @@
+{
+  "id": "2026-10-15-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Franky burned the Pluton blueprints and so kept them away from Treasure Tree Adam on Elbaf",
+  "title": "Franky's Fire Kept Pluton Away From Elbaf's Tree",
+  "description": "Franky's Enies Lobby fire may have been about more than Robin. Between Tom's Oro Jackson, the Thousand Sunny, and Treasure Tree Adam on Elbaf, here is a theory about what he really kept apart. Do you buy it?",
+  "hashtags": [
+    "#franky",
+    "#onepiece",
+    "#pluton",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "franky pluton blueprints",
+    "treasure tree adam",
+    "one piece 1131",
+    "franky enies lobby",
+    "thousand sunny adam wood",
+    "oro jackson",
+    "one piece elbaf"
+  ],
+  "hook_text": "FRANKY'S REAL REASON",
+  "music_mood": "suspense",
+  "comment": "Did Franky burn the Pluton plans for Robin, or to keep them away from Adam Wood? Pick one.",
+  "related_long": "2026-10-15-L",
+  "pages": [
+    "Franky",
+    "Pluton",
+    "Treasure Tree Adam",
+    "Tom"
+  ],
+  "lines": [
+    {
+      "text": "Franky's Enies Lobby fire was never only about Robin.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Franky Pluton blueprints burn Enies Lobby",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "He burned the Pluton blueprints in front of Spandam, and everyone read it as loyalty.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Franky Spandam Pluton blueprints",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "But Tom's shipwrights kept those plans for a reason: to build a second Pluton.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Tom shipwright Oro Jackson Water 7",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "Tom built Roger's Oro Jackson from Treasure Tree Adam.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Treasure Tree Adam Oro Jackson",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "Franky built the Thousand Sunny from the same wood, bought with Usopp's stolen money.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Thousand Sunny Adam Wood Franky",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "Then chapter 1131 shows that tree growing on Elbaf, with Loki chained to it.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Elbaf Treasure Tree Adam Loki chained",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "And Imu's Knights of God are already standing on that island.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shepherd Sommers Knights of God Elbaf",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "I can't prove Pluton was Adam Wood. It's a theory.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Pluton warship Water 7",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "But picture Franky walking up to that tree with the plans still in his chest.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Franky blueprints Elbaf Adam tree",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "A shipwright, the plans, and the best wood in the world, in one place.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Franky Knights of God Elbaf Imu",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "I think the fire at Enies Lobby kept the plans and the tree apart forever.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Franky burns Pluton blueprints Spandam",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "My theory, not canon, but it fits Tom's lesson: be proud of what you build.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Franky Tom Straw Hats Thousand Sunny",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    },
+    {
+      "text": "So watch that fire again, because",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Franky Enies Lobby fire Thousand Sunny",
+        "fallback": "anime style cyborg shipwright holding glowing blueprints in front of a giant ancient tree"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Pluton",
+    "https://onepiece.fandom.com/wiki/Tom",
+    "https://sportskeeda.com/anime/one-piece-reveals-true-nature-treasure-tree-adam-chapter-1131"
+  ],
+  "self_check": {
+    "hook": "contrarian claim in line 1",
+    "loop": "last line 'watch that fire again, because' leads into line 1",
+    "facts_verified": true
+  }
+}

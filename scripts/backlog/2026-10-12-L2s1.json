@@ -1,0 +1,166 @@
+{
+ "id": "2026-10-12-L2s1",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Gojo's choice not to cremate Geto's body is what let Kenjaku use Geto's face to seal him in Shibuya",
+ "title": "Gojo's One Choice Gave Kenjaku Geto's Face",
+ "description": "Gojo didn't lose Shibuya to power. Gojo left Geto's body unburned, and Kenjaku is the one who took it. Do you think Gojo was sealed because of grief?",
+ "hashtags": [
+  "#gojo",
+  "#jujutsukaisen",
+  "#anime"
+ ],
+ "tags": [
+  "gojo geto",
+  "kenjaku geto body",
+  "gojo prison realm",
+  "shibuya incident",
+  "jjk theory",
+  "gojo satoru",
+  "jujutsu kaisen 0",
+  "jjk fanbook",
+  "what if gojo"
+ ],
+ "hook_text": "GOJO'S ONE CHOICE",
+ "music_mood": "emotional",
+ "comment": "Was Gojo sealed because he kept Geto's body, or would Kenjaku have found another lure anyway? Pick one.",
+ "related_long": "2026-10-12-L2",
+ "pages": [
+  "Satoru Gojo",
+  "Suguru Geto",
+  "Kenjaku",
+  "Shibuya Incident"
+ ],
+ "lines": [
+  {
+   "text": "Gojo didn't lose to Kenjaku. He lost to a body he refused to burn.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Gojo Satoru Geto Prison Realm",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "At the end of Jujutsu Kaisen 0, Gojo finishes his best friend. Chapter 90 confirms it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Geto Night Parade",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "Then one choice. He doesn't send the body to Jujutsu High to be cremated.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo carries Geto Jujutsu High",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "Gojo left that body unburned, and that's why Kenjaku could take it.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Geto body fanbook",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "Kenjaku puts his brain in that skull and gets Geto's memories, face, and Cursed Spirit Manipulation.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Kenjaku brain Geto Cursed Spirit Manipulation",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "He already held the sealing cube, but he can't take Gojo's body. Gojo is unbeatable.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Prison Realm Gojo",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "So he doesn't need power. He needs a face.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Geto face smile",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "In Shibuya, Gojo turns around, sees Geto, and three years of memories hit him at once.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Gojo shocked Geto Shibuya",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "That's the one minute the cube needed.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Prison Realm gate Gojo Shibuya",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "People say he'd find another lure. But nobody else could make Gojo stop.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Gojo lure Shibuya",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "I don't think Gojo lost to power. I think he lost to grief.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Satoru grief Geto",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "And that grief started the night he couldn't bring himself to burn his friend.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Geto goodbye Jujutsu High",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  },
+  {
+   "text": "Because Gojo didn't lose to Kenjaku...",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Gojo Kenjaku Geto Prison Realm",
+    "fallback": "anime style two young sorcerers in dark school uniforms at dusk"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Kenjaku",
+  "https://jujutsu-kaisen.fandom.com/wiki/Suguru_Geto/Synopsis",
+  "https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident"
+ ],
+ "self_check": {
+  "hook": "flat claim in line 1, detail reveal in line 2",
+  "loop": "last line leads into line 1 ('Gojo didn't lose to Kenjaku...')",
+  "facts_verified": true
+ }
+}

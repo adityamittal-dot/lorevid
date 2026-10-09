@@ -1,0 +1,159 @@
+{
+ "id": "2026-10-13-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Corazon took the Ope Ope Fruit's price onto himself so Law never had to pay it",
+ "title": "Corazon Didn't Save Law, He Paid Law's Price",
+ "description": "The Ope Ope Fruit grants eternal life, but its surgeon pays with his own. Corazon forced it on Law in chapter 766 and hid him in chapter 767, and here's why I think he paid Law's price. Do you buy it?",
+ "hashtags": [
+  "#trafalgarlaw",
+  "#corazon",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "trafalgar law",
+  "corazon one piece",
+  "ope ope no mi",
+  "law and corazon",
+  "one piece theory",
+  "one piece 766",
+  "one piece 767",
+  "law backstory",
+  "rosinante"
+ ],
+ "hook_text": "HE PAID THE BILL",
+ "music_mood": "emotional",
+ "comment": "Was Corazon's gift a rescue or a trade? Pick one, and tell me which chapter proves it.",
+ "related_long": "2026-10-13-L",
+ "pages": [
+  "Trafalgar D. Water Law",
+  "Donquixote Rosinante",
+  "Ope Ope no Mi",
+  "Donquixote Doflamingo"
+ ],
+ "lines": [
+  {
+   "text": "Corazon didn't save Law. He paid Law's bill.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Corazon Law Ope Ope no Mi",
+    "fallback": "a clown-painted man in a feathered coat holding a boy"
+   }
+  },
+  {
+   "text": "Its strongest power is the Perennial Youth Operation: eternal life.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Law Perennial Youth Operation",
+    "fallback": "surgeon inside a glowing blue dome"
+   }
+  },
+  {
+   "text": "But the surgeon who performs it spends his own life doing it.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Law Room operating Ope Ope no Mi",
+    "fallback": "surgeon exhausted inside a glowing dome"
+   }
+  },
+  {
+   "text": "Doflamingo knew that. It's the whole reason he wanted the fruit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Doflamingo Ope Ope no Mi plan",
+    "fallback": "pirate in pink feathers grinning"
+   }
+  },
+  {
+   "text": "And as I read it, he planned to make Law the one holding the scalpel.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Doflamingo Law young Donquixote Pirates",
+    "fallback": "laughing pirate looking at a sick boy"
+   }
+  },
+  {
+   "text": "Then chapter 766 hits. Corazon steals that fruit for a thirteen-year-old.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Rosinante forces Law eat Ope Ope no Mi",
+    "fallback": "tall man pressing a fruit into a boy's hands"
+   }
+  },
+  {
+   "text": "Chapter 767: he hides Law in a chest and uses his silence to cover the escape.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Rosinante Law treasure chest Nagi Nagi no Mi",
+    "fallback": "boy hidden in a treasure chest, snowy port"
+   }
+  },
+  {
+   "text": "People say he only wanted a sick kid cured. Half right, but look at who ends up holding the price.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Corazon Doflamingo confrontation",
+    "fallback": "two brothers facing each other in snow"
+   }
+  },
+  {
+   "text": "Here's my read: Corazon took that price onto himself, so Law never had to pay it.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Corazon Law final goodbye",
+    "fallback": "man smiling at a boy, snow falling"
+   }
+  },
+  {
+   "text": "Law builds his life on it: the Heart Pirates, the smiling flag, even his Silent technique.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Heart Pirates Jolly Roger Corazon smile",
+    "fallback": "pirate flag with a smiling heart"
+   }
+  },
+  {
+   "text": "He didn't inherit a power. He inherited a bill that someone else had already paid.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Law Corazon memory Ope Ope no Mi",
+    "fallback": "pirate surgeon remembering a smiling man"
+   }
+  },
+  {
+   "text": "That's the part everyone misses, because the truth is...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Trafalgar Law Heart Pirates Polar Tang",
+    "fallback": "pirate surgeon with spotted hat looking back"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Ope_Ope_no_Mi",
+  "https://onepiece.fandom.com/wiki/Donquixote_Rosinante",
+  "https://onepiece.fandom.com/wiki/Chapter_766",
+  "https://onepiece.fandom.com/wiki/Chapter_767"
+ ],
+ "self_check": {
+  "hook": "Contrarian claim naming Corazon and Law in the first sentence.",
+  "loop": "Last line trails into line 1: the truth is... Corazon didn't save Law. He paid Law's bill.",
+  "facts_verified": true
+ }
+}

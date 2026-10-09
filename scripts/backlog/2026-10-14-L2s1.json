@@ -1,0 +1,174 @@
+{
+ "id": "2026-10-14-L2s1",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Itachi's crow was a safety net for Sasuke that paid off by freeing Itachi to speak",
+ "title": "Itachi's Crow Was Never Meant To Save Itachi",
+ "description": "Itachi's crow carried Shisui's Kotoamatsukami, and it was built for Sasuke, not Itachi. Here's how the crow scene, chapter 549 and chapter 550 turn it into the reason Itachi could talk to his brother. Was the plan a success or a miss?",
+ "hashtags": [
+  "#itachi",
+  "#naruto",
+  "#anime"
+ ],
+ "tags": [
+  "itachi crow",
+  "itachi uchiha",
+  "kotoamatsukami",
+  "naruto theory",
+  "naruto chapter 550",
+  "shisui eye",
+  "itachi edo tensei",
+  "naruto shippuden"
+ ],
+ "hook_text": "THE CROW'S TARGET",
+ "music_mood": "suspense",
+ "comment": "Was Itachi's crow a failed safety net for Sasuke, or the best plan he ever made? Pick one.",
+ "related_long": "2026-10-14-L2",
+ "pages": [
+  "Itachi Uchiha",
+  "Kotoamatsukami",
+  "Shisui Uchiha",
+  "Sasuke Uchiha"
+ ],
+ "lines": [
+  {
+   "text": "Itachi's crow was never meant for Itachi.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Itachi crow Shisui eye",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "In the crow scene, an Itachi clone slips a crow down Naruto's throat.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Crow Genjutsu Naruto",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "Inside it is Shisui's eye, loaded with Kotoamatsukami.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shisui Kotoamatsukami Itachi crow",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "Here's what people forgot. It targets whoever holds Itachi's Mangekyo.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Mangekyo Sharingan Sasuke",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "That means Sasuke. If he marched on Konoha, the crow would stop him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sasuke Mangekyo Konoha",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "One shot, about once in ten years.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Shisui eye crow",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "Then chapter 549. Kabuto takes full control of Itachi.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Kabuto Itachi Edo Tensei",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "Nothing can reach his will. Nothing except Shisui's eye.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Edo Tensei Mangekyo",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "Chapter 550: the crow flies out of Naruto and uses Kotoamatsukami on Itachi.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Itachi crow Kotoamatsukami Naruto",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "People say the net caught the wrong person.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi crow Naruto",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "But a free Itachi can stand beside Sasuke and trap Kabuto with Izanami.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Sasuke Izanami Kabuto",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "And he can talk. I think his words turned Sasuke from Konoha.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Sasuke talk Edo Tensei",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "So the crow saved Konoha by freeing the brother, not by controlling the other one.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Itachi Konoha crow",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  },
+  {
+   "text": "Which is why the whole time, that crow was never meant for...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi crow Shisui eye",
+    "fallback": "dark haired ninja with red eyes and a black crow, night sky"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Kotoamatsukami_(chapter)",
+  "https://naruto.fandom.com/wiki/Itachi's_Crow",
+  "https://whatculture.com/comics/comics-review-naruto-chapter-550-koto-amatsukami"
+ ],
+ "self_check": {
+  "hook": "contrarian claim naming Itachi in line 1",
+  "loop": "last line ends mid-sentence into 'Itachi's crow was never meant for Itachi'",
+  "facts_verified": true
+ }
+}

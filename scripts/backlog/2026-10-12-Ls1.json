@@ -1,0 +1,158 @@
+{
+ "id": "2026-10-12-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Vegapunk's Egghead ending was a planned backup: recording, Punk Records and a twenty-year-old clone",
+ "title": "Vegapunk's Egghead Ending Was Planned (One Piece)",
+ "description": "Everyone says Vegapunk lost at Egghead. But the recording, Punk Records and Lilith's box all point to a backup he built on purpose. Which Vegapunk wakes up in Elbaph?",
+ "hashtags": [
+  "#vegapunk",
+  "#onepiece",
+  "#egghead",
+  "#anime"
+ ],
+ "tags": [
+  "vegapunk theory",
+  "one piece vegapunk",
+  "egghead arc",
+  "punk records",
+  "vegapunk clone",
+  "one piece 1134",
+  "one piece 1108",
+  "lilith vegapunk"
+ ],
+ "hook_text": "HE PLANNED THIS",
+ "music_mood": "suspense",
+ "comment": "Is the Vegapunk who wakes up in Elbaph the clone in Lilith's box, or the mind in Punk Records? Pick one.",
+ "related_long": "2026-10-12-L",
+ "pages": [
+  "Vegapunk",
+  "Vegapunk/Lilith",
+  "Punk Records",
+  "Egghead Incident"
+ ],
+ "lines": [
+  {
+   "text": "Vegapunk didn't lose at Egghead. He backed himself up.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Vegapunk Stella Punk Records",
+    "fallback": "scientist with an apple shaped head in a futuristic lab"
+   }
+  },
+  {
+   "text": "Look at what happens right after Kizaru's blow in chapter 1108.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Vegapunk chapter 1108",
+    "fallback": "admiral and scientist standing close"
+   }
+  },
+  {
+   "text": "A recording starts playing in his lab all by itself, and it speaks to the whole world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk broadcast world message",
+    "fallback": "giant scientist projection over the sea"
+   }
+  },
+  {
+   "text": "He recorded it earlier. A cornered man doesn't have time to build that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Egghead Kizaru arrives",
+    "fallback": "scientist looking at an approaching fleet"
+   }
+  },
+  {
+   "text": "Then Mars and York trace the signal to Punk Records, the library where his real mind lives.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Mars York Punk Records broadcast",
+    "fallback": "officials staring at a signal screen"
+   }
+  },
+  {
+   "text": "Because he took his brain out of that body years ago.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk apple head brain Punk Records",
+    "fallback": "glowing brain inside a giant machine"
+   }
+  },
+  {
+   "text": "And in chapter 1134, Lilith reveals a box taken from Egghead.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Lilith Jinbe box Elbaph",
+    "fallback": "pink haired girl opening a metal box"
+   }
+  },
+  {
+   "text": "Inside is a perfect clone of Vegapunk, made twenty years ago so the Government would not notice his departure.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Lilith Vegapunk clone box",
+    "fallback": "scientist body asleep in a glowing capsule"
+   }
+  },
+  {
+   "text": "The clone and the recording are canon. That he planned it is my theory.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Lilith Edison Elbaph",
+    "fallback": "scientist drawing a chart on a board"
+   }
+  },
+  {
+   "text": "So the real question is which Vegapunk wakes up in Elbaph.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Lilith Elbaph laboratory Vegapunk",
+    "fallback": "girl building a laboratory among giants"
+   }
+  },
+  {
+   "text": "The clone with no memory of Egghead, or the mind in the clouds?",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Edison Punk Records clouds Vegapunk",
+    "fallback": "glowing library floating in clouds"
+   }
+  },
+  {
+   "text": "Either way, the Government only got the body he expected it to chase, because Vegapunk didn't lose at Egghead...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Egghead Government Marines",
+    "fallback": "scientist smiling in front of ships"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Vegapunk",
+  "https://onepiece.fandom.com/wiki/Vegapunk/Lilith",
+  "https://onepiece.fandom.com/wiki/Egghead_Incident",
+  "https://onepiece.fandom.com/wiki/Punk_Records"
+ ],
+ "self_check": {
+  "hook": "Contrarian claim naming Vegapunk and Egghead in the first line",
+  "loop": "last line ends mid-sentence into line 1: 'because Vegapunk didn't lose at Egghead. He backed himself up.'",
+  "facts_verified": true
+ }
+}

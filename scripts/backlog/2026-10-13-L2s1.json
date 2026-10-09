@@ -1,0 +1,167 @@
+{
+ "id": "2026-10-13-L2s1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Nami was never seven million beli from freedom: Arlong's own words in chapter 81 show the 100 million deal could never buy her exit",
+ "title": "Nami Was Never 7 Million Beli From Freedom",
+ "description": "Everyone says Nami was seven million beli short in chapter 80. Arlong's own words in chapter 81 suggest the number never mattered. Do you think Arlong would ever have let her go?",
+ "hashtags": [
+  "#nami",
+  "#onepiece",
+  "#arlong"
+ ],
+ "tags": [
+  "one piece nami",
+  "nami arlong",
+  "arlong park arc",
+  "one piece 81",
+  "one piece theory",
+  "nami backstory",
+  "nezumi one piece",
+  "cocoyasi village",
+  "what if nami paid arlong"
+ ],
+ "hook_text": "THE 7 MILLION LIE",
+ "music_mood": "suspense",
+ "comment": "Would Arlong ever have freed Nami if she paid in full, or was the deal always a trap?",
+ "related_long": "2026-10-13-L2",
+ "pages": [
+  "Nami",
+  "Arlong",
+  "Nezumi",
+  "Cocoyasi Village"
+ ],
+ "lines": [
+  {
+   "text": "Nami was never seven million beli from freedom.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nami Arlong Pirates tattoo",
+    "fallback": "anime style navigator girl with orange hair in front of a fish-man tower"
+   }
+  },
+  {
+   "text": "Everyone repeats that number from chapter 80. I think it hides Arlong's real plan.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami Arlong chapter 80",
+    "fallback": "orange haired girl facing a shark fish-man"
+   }
+  },
+  {
+   "text": "Nami hides 93 million beli for Cocoyasi, and needs 100 million.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami mikan grove Cocoyasi Village",
+    "fallback": "girl burying money under tangerine trees"
+   }
+  },
+  {
+   "text": "Then Nezumi takes every coin, and Arlong claims he never broke the deal.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Nezumi Marines Nami money",
+    "fallback": "mouse-like marine captain grabbing bags of money"
+   }
+  },
+  {
+   "text": "Now imagine she pays every last coin.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Nami carrying money Arlong Park",
+    "fallback": "girl carrying money bags toward a tower"
+   }
+  },
+  {
+   "text": "Chapter 81 answers it. Arlong tells Chew he won't let a navigator like Nami slip away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Arlong Chew Arlong Park",
+    "fallback": "shark fish-man talking to a fish-man crewmate"
+   }
+  },
+  {
+   "text": "He'll free her eventually, but only after she has mapped the entire world.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Arlong grinning world map",
+    "fallback": "shark fish-man grinning over a huge world map"
+   }
+  },
+  {
+   "text": "And the leash is still there. If Nami runs, Cocoyasi Village pays for it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Arlong threatens Nami Cocoyasi Village",
+    "fallback": "fish-man captain looming over a young woman"
+   }
+  },
+  {
+   "text": "Here's what people forget. Arlong himself told Nezumi where the treasure was.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Arlong Nezumi Arlong Park bribe",
+    "fallback": "fish-man captain whispering to a marine captain"
+   }
+  },
+  {
+   "text": "So that money was never a payment. It was bait, and the deal was a leash.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Arlong Nami money deal",
+    "fallback": "fish-man holding a leash made of gold coins"
+   }
+  },
+  {
+   "text": "Maybe he keeps his word if she pays. Chapter 81 says no.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Arlong Nami promise chapter 81",
+    "fallback": "fish-man captain smirking at a hopeful girl"
+   }
+  },
+  {
+   "text": "What freed Nami wasn't a price. It was asking Luffy for help.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Nami asks Luffy help straw hat",
+    "fallback": "crying girl with a straw hat placed on her head"
+   }
+  },
+  {
+   "text": "Which means the truth, with or without the Marines, is that...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami Luffy straw hat Cocoyasi",
+    "fallback": "girl wearing a straw hat in a village street"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Chapter_81",
+  "https://onepiece.fandom.com/wiki/Chapter_80",
+  "https://onepiece.fandom.com/wiki/Nezumi",
+  "https://onepiece.fandom.com/wiki/Cocoyasi_Village"
+ ],
+ "self_check": {
+  "hook": "flat contrarian claim in line 1 naming Nami",
+  "loop": "last line 'the truth ... is that...' flows into line 1 'Nami was never seven million beli from freedom'",
+  "facts_verified": true
+ }
+}
