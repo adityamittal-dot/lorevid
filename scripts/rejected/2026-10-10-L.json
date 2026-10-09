@@ -4,7 +4,7 @@
  "series": "onepiece",
  "wiki": "onepiece.fandom.com",
  "topic": "What if Crocodile's poisoned hook had landed clean in the Tomb of the Kings and he'd won at Alabasta",
- "title": "What If Crocodile Won At Alabasta?",
+ "title": "What If Crocodile's Hook Never Missed?",
  "description": "Crocodile's poisoned hook nearly connects in the Tomb of the Kings. What if it actually had? This traces Operation Utopia all the way through: Alubarna falling for real, Nico Robin with no crew left to run to, and the World Government learning a Warlord just found Pluton's location.\n\nTurns out winning might be the worst thing that could happen to Crocodile. One change, one kingdom, and a twist ending that costs him more than losing ever did.",
  "hashtags": [
   "#onepiece",
@@ -147,8 +147,8 @@
    }
   },
   {
-   "text": "A Warlord's word outweighs a king's suspicion in the eyes of the World Government, every single time.",
-   "delivery": "normal",
+   "text": "Why does a Warlord's word outweigh a king's own suspicion in the eyes of the World Government?",
+   "delivery": "reveal",
    "fx": "none",
    "shot": {
     "search": "Warlord word outweighs king",
@@ -210,8 +210,8 @@
    }
   },
   {
-   "text": "She fed Cobra everything she could without blowing her cover, for months, completely alone.",
-   "delivery": "normal",
+   "text": "She fed Cobra everything she could without blowing her cover, for months, utterly alone, one mistake from losing everything...",
+   "delivery": "slow",
    "fx": "none",
    "shot": {
     "search": "Vivi feeding intel alone months",
@@ -444,8 +444,8 @@
    }
   },
   {
-   "text": "Baroque Works has to spend more resources holding the kingdom down than it ever spent conquering it.",
-   "delivery": "normal",
+   "text": "Baroque Works ends up spending more resources holding the kingdom down than it ever spent conquering it, and that bill keeps coming due...",
+   "delivery": "slow",
    "fx": "none",
    "shot": {
     "search": "Baroque Works resources holding down",
@@ -616,8 +616,8 @@
    "card": "OHARA"
   },
   {
-   "text": "She watched her mother Olvia die there, then spent twenty years as the world's most wanted woman for a crime she didn't choose.",
-   "delivery": "normal",
+   "text": "She watched her mother Olvia die there, then spent twenty years as the world's most wanted, for a crime she never chose...",
+   "delivery": "slow",
    "fx": "none",
    "shot": {
     "search": "Robin Olvia death wanted woman",
@@ -969,8 +969,8 @@
    }
   },
   {
-   "text": "It becomes a government-only file, locked away exactly where Vegapunk-era secrets always end up in this story.",
-   "delivery": "normal",
+   "text": "It becomes a government-only file, locked away exactly where Vegapunk-era secrets always end up in this story, buried but never actually gone...",
+   "delivery": "slow",
    "fx": "none",
    "shot": {
     "search": "Pluton government file Vegapunk era",
@@ -1114,8 +1114,8 @@
    }
   },
   {
-   "text": "Smoker walks away clean too, in canon, with his conscience intact and a pirate he respects still free.",
-   "delivery": "normal",
+   "text": "Smoker walks away clean too, in canon, with his conscience intact and a pirate he respects still free...",
+   "delivery": "slow",
    "fx": "none",
    "shot": {
     "search": "Smoker clean conscience canon",
@@ -1262,8 +1262,8 @@
   }
  ],
  "thumbnail": {
-  "text": "",
-  "highlight": "",
+  "text": "HE WINS",
+  "highlight": "WINS",
   "search": "Crocodile hook smirk desert",
   "search2": "Luffy determined Alabasta",
   "device": "split"
