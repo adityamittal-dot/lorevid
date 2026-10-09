@@ -322,16 +322,16 @@
    "delivery": "punch",
    "fx": "none",
    "shot": {
-    "search": "clock tower cannon Alubarna threat",
-    "fallback": "cannon aimed over a desert capital"
+    "search": "clock tower bomb Alubarna threat",
+    "fallback": "giant bomb hidden in a clock tower"
    }
   },
   {
-   "text": "In canon, Vivi reaches that bomb in time. Here, she's still fighting her own battles across the city.",
+   "text": "In canon, Vivi reaches that bomb in time, with Chopper's help. Here, she's still fighting her own battles across the city.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Vivi crew racing cannon canon",
+    "search": "Vivi Chopper racing bomb",
     "fallback": "pirate crew racing through a city"
    }
   },
@@ -367,8 +367,8 @@
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "cannon fires rain never comes",
-    "fallback": "cannon firing over a desert city under a dry sky"
+    "search": "bomb explosion Alubarna rain never comes",
+    "fallback": "explosion over a desert city under a dry sky"
    }
   },
   {
@@ -498,7 +498,7 @@
    }
   },
   {
-   "text": "Here, Mr. 2 never gets close to the crew, so his loyalty never gets tested at all.",
+   "text": "Here, Mr. 2 never gets close to the crew, so his loyalty never gets tested at all, and nobody learns where it would land.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -507,7 +507,7 @@
    }
   },
   {
-   "text": "That defection shows that even Crocodile's own people could stop following him.",
+   "text": "That defection shows that even Crocodile's own people could stop following him once the Straw Hats earn their trust.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -579,7 +579,7 @@
    }
   },
   {
-   "text": "Here, with Luffy already down, nobody stops him from following through.",
+   "text": "Here, with Luffy already down, nobody stops him from following through on it.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -1023,7 +1023,7 @@
    }
   },
   {
-   "text": "Fair point. In canon, he escapes in the mass Impel Down breakout shortly before Marineford.",
+   "text": "Fair point. In canon, he escapes in the mass Impel Down breakout shortly before the Marineford war.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
