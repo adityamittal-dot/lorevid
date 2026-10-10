@@ -11,3 +11,5 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Dracule (2026-10-11-L)
 - Reflexes (2026-10-11-L)
 - Yonko (2026-10-11-L)
+- Diable (2026-10-11-L2)
+- Vinsmokes (2026-10-11-L2)
