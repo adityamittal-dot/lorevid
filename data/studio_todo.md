@@ -8,3 +8,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Dragon Baited The Knights Of God Out Of Mary Geoise (https://youtu.be/taDxciq5VlQ) -> thumbnail B saved at output/2026-10-10-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Mihawk Has Had Conqueror's Haki This Whole Time (https://youtu.be/INFRkMI6Vcg) -> thumbnail B saved at output/2026-10-11-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sanji Lost To Judge, Then Won Where It Mattered (https://youtu.be/L6NoYSaba7k) -> thumbnail B saved at output/2026-10-11-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Sanji Beat Judge Without Winning A Fight (https://youtu.be/K8_AkHqTspE) -> related video: Sanji Lost To Judge, Then Won Where It Mattered (https://youtu.be/L6NoYSaba7k)

@@ -1,0 +1,190 @@
+{
+  "id": "2026-10-11-L2s1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Sanji lost to Judge in the duel but won by freeing him at the wedding table",
+  "title": "Sanji Beat Judge Without Winning A Fight",
+  "description": "Sanji lost the duel to Judge Vinsmoke in chapter 833, yet the real win came at the candy table. Do you think freeing Judge counts as beating him?",
+  "hashtags": [
+    "#sanji",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "sanji judge",
+    "one piece sanji",
+    "sanji vs judge",
+    "whole cake island",
+    "vinsmoke judge",
+    "one piece 833",
+    "one piece theory",
+    "germa 66"
+  ],
+  "hook_text": "HE LOST. HE WON.",
+  "music_mood": "emotional",
+  "comment": "Did Sanji really beat Judge by freeing him, or was that all Luffy's rescue? Pick one.",
+  "related_long": "2026-10-11-L2",
+  "pages": [
+    "Vinsmoke Sanji",
+    "Vinsmoke Judge",
+    "Whole Cake Island Arc"
+  ],
+  "lines": [
+    {
+      "text": "Sanji beat Judge without winning a single fight.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sanji Judge Whole Cake Island",
+        "fallback": "anime style blond cook facing a tall armored king"
+      }
+    },
+    {
+      "text": "In chapter 833, Judge wins the duel with soldiers and technology.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Judge Sanji fight courtyard chapter 833",
+        "fallback": "anime style blond cook facing a tall armored king"
+      }
+    },
+    {
+      "text": "Sanji even refuses the sword his father offers him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Judge offers Sanji sword",
+        "fallback": "anime style blond cook facing a tall armored king"
+      }
+    },
+    {
+      "text": "So how is that a win? Look at the wedding table.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Vinsmoke family wedding table Whole Cake Chateau",
+        "fallback": "family seated at a long banquet table"
+      }
+    },
+    {
+      "text": "Big Mom turns on the Vinsmokes, and Perospero ties them down with candy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Perospero candy Vinsmoke family table",
+        "fallback": "family bound to chairs by hardened candy"
+      }
+    },
+    {
+      "text": "Their raid suits are gone, so even Judge can't move.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Judge trapped candy Whole Cake Chateau",
+        "fallback": "tall king stuck in hardened candy"
+      }
+    },
+    {
+      "text": "Then the guards around them start falling.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Luffy Big Mom scream Whole Cake Chateau",
+        "fallback": "giant woman screaming, guards falling"
+      }
+    },
+    {
+      "text": "Judge is still awake when Sanji walks in.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Judge conscious Sanji arrives",
+        "fallback": "king looking up at a blond cook in a doorway"
+      }
+    },
+    {
+      "text": "The son he locked in an iron mask shatters the candy around him.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Sanji frees Judge candy",
+        "fallback": "blond cook shattering candy with a kick"
+      }
+    },
+    {
+      "text": "Chapters 840 and 841 matter here: a fake funeral, and six months in a cell.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji iron mask cell chapter 841",
+        "fallback": "boy in an iron mask in a stone cell"
+      }
+    },
+    {
+      "text": "Judge's rule is that kindness is weakness. His own rescue is that kindness.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Judge Vinsmoke Sanji face",
+        "fallback": "stern king staring at his son"
+      }
+    },
+    {
+      "text": "People say Luffy did the work. But freeing Judge was Sanji's choice.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Judge Reiju family free",
+        "fallback": "cook helping a family stand up"
+      }
+    },
+    {
+      "text": "Afterward, Sanji orders him never to appear before him again.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Zeff Judge promise",
+        "fallback": "cook standing over a king, older chef behind"
+      }
+    },
+    {
+      "text": "So Judge won the fight, and Sanji won the argument.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Judge father son",
+        "fallback": "cook and king facing each other"
+      }
+    },
+    {
+      "text": "Because that's the only way a son beats a father like Judge...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Judge standoff Whole Cake",
+        "fallback": "cook walking away from a king"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Vinsmoke_Judge",
+    "https://onepiece.fandom.com/wiki/Chapter_833",
+    "https://onepiece.fandom.com/wiki/Chapter_841",
+    "https://onepiece.fandom.com/wiki/Germa_66"
+  ],
+  "self_check": {
+    "hook": "Contrarian claim naming Sanji and Judge in line 1",
+    "loop": "Last line leads into line 1: Because that's the only way a son beats a father like Judge... Sanji beat Judge without winning a single fight",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "K8_AkHqTspE",
+    "publish_at": "2026-10-11T17:00:00Z",
+    "url": "https://youtu.be/K8_AkHqTspE",
+    "comment": "Did Sanji really beat Judge by freeing him, or was that all Luffy's rescue? Pick one.\nhttps://youtu.be/L6NoYSaba7k",
+    "comment_posted": false
+  }
+}
