@@ -12,3 +12,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Mihawk Never Lost. That Isn't Just Skill (https://youtu.be/TdjigPyM0GU) -> related video: Mihawk Has Had Conqueror's Haki This Whole Time (https://youtu.be/INFRkMI6Vcg)
 - [ ] Vegapunk Didn't Lose At Egghead. He Backed Up. (https://youtu.be/Zm0tzuD6WD8) -> thumbnail B saved at output/2026-10-12-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Gojo Cremated Geto's Body? (https://youtu.be/WDJC6tcFpc4) -> thumbnail B saved at output/2026-10-12-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Gojo's One Choice Gave Kenjaku Geto's Face (https://youtu.be/_bWpB_B68jM) -> related video: What If Gojo Cremated Geto's Body? (https://youtu.be/WDJC6tcFpc4)
