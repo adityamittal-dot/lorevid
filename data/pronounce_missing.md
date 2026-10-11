@@ -19,3 +19,8 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Pacifista (2026-10-12-L)
 - Stussy (2026-10-12-L)
 - Vegatank (2026-10-12-L)
+- Akutami (2026-10-12-L2)
+- Ifs (2026-10-12-L2)
+- Jujutsu (2026-10-12-L2)
+- Kaisen (2026-10-12-L2)
+- Suguru (2026-10-12-L2)
