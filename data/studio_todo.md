@@ -16,3 +16,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Vegapunk's Egghead Ending Was Planned (One Piece) (https://youtu.be/gwd9lkb-fU4) -> related video: Vegapunk Didn't Lose At Egghead. He Backed Up. (https://youtu.be/Zm0tzuD6WD8)
 - [ ] What If Corazon Never Gave Law The Ope Ope Fruit? (https://youtu.be/b6zW12O5Fjc) -> thumbnail B saved at output/2026-10-13-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Nami Paid Arlong The Full 100 Million? (https://youtu.be/2pKNEDascuk) -> thumbnail B saved at output/2026-10-13-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Nami Was Never 7 Million Beli From Freedom (https://youtu.be/2f5WsqqKGXg) -> related video: What If Nami Paid Arlong The Full 100 Million? (https://youtu.be/2pKNEDascuk)
