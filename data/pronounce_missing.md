@@ -24,3 +24,8 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Jujutsu (2026-10-12-L2)
 - Kaisen (2026-10-12-L2)
 - Suguru (2026-10-12-L2)
+- DNA (2026-10-13-L)
+- Hancock (2026-10-13-L)
+- Nagi (2026-10-13-L)
+- Trafalgar (2026-10-13-L)
+- Willie (2026-10-13-L)
