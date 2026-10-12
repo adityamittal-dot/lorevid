@@ -29,3 +29,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Nagi (2026-10-13-L)
 - Trafalgar (2026-10-13-L)
 - Willie (2026-10-13-L)
+- Gosa (2026-10-13-L2)
