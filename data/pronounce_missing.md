@@ -33,3 +33,7 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Arabasta (2026-10-14-L)
 - Binks (2026-10-14-L)
 - Yohohoho (2026-10-14-L)
+- Shinobi (2026-10-14-L2)
+- Shippuden (2026-10-14-L2)
+- Tensei (2026-10-14-L2)
+- Yakushi (2026-10-14-L2)
