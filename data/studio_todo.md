@@ -20,3 +20,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Corazon Didn't Save Law, He Paid Law's Price (https://youtu.be/iuGAbPqE2IE) -> related video: What If Corazon Never Gave Law The Ope Ope Fruit? (https://youtu.be/b6zW12O5Fjc)
 - [ ] One Piece Ends With Brook's Promise, Not The Treasure (https://youtu.be/flNMFeEZdzA) -> thumbnail B saved at output/2026-10-14-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I) -> thumbnail B saved at output/2026-10-14-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Itachi's Crow Was Never Meant To Save Itachi (https://youtu.be/lX60sXg7NtE) -> related video: What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I)
