@@ -21,3 +21,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] One Piece Ends With Brook's Promise, Not The Treasure (https://youtu.be/flNMFeEZdzA) -> thumbnail B saved at output/2026-10-14-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I) -> thumbnail B saved at output/2026-10-14-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Itachi's Crow Was Never Meant To Save Itachi (https://youtu.be/lX60sXg7NtE) -> related video: What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I)
+- [ ] Luffy Made Brook's Promise Before Brook Existed (https://youtu.be/t7_7U0NadSI) -> related video: One Piece Ends With Brook's Promise, Not The Treasure (https://youtu.be/flNMFeEZdzA)
