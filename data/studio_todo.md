@@ -18,3 +18,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] What If Nami Paid Arlong The Full 100 Million? (https://youtu.be/2pKNEDascuk) -> thumbnail B saved at output/2026-10-13-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Nami Was Never 7 Million Beli From Freedom (https://youtu.be/2f5WsqqKGXg) -> related video: What If Nami Paid Arlong The Full 100 Million? (https://youtu.be/2pKNEDascuk)
 - [ ] Corazon Didn't Save Law, He Paid Law's Price (https://youtu.be/iuGAbPqE2IE) -> related video: What If Corazon Never Gave Law The Ope Ope Fruit? (https://youtu.be/b6zW12O5Fjc)
+- [ ] One Piece Ends With Brook's Promise, Not The Treasure (https://youtu.be/flNMFeEZdzA) -> thumbnail B saved at output/2026-10-14-L/thumbnail_b.jpg; run YouTube Studio Test & Compare

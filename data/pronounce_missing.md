@@ -30,3 +30,6 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Trafalgar (2026-10-13-L)
 - Willie (2026-10-13-L)
 - Gosa (2026-10-13-L2)
+- Arabasta (2026-10-14-L)
+- Binks (2026-10-14-L)
+- Yohohoho (2026-10-14-L)
