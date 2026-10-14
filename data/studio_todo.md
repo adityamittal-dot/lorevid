@@ -25,3 +25,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] What If Franky Kept The Pluton Blueprints? (https://youtu.be/C2YICegGl7Q) -> thumbnail B saved at output/2026-10-15-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Shirahoshi And Jinbe Finish Joy Boy's Broken Promise (https://youtu.be/PqOo_uBGDDQ) -> thumbnail B saved at output/2026-10-15-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Jinbe Gave Luffy What Fisher Tiger Refused (https://youtu.be/kj-1uJhki8g) -> related video: Shirahoshi And Jinbe Finish Joy Boy's Broken Promise (https://youtu.be/PqOo_uBGDDQ)
+- [ ] Franky's Fire Kept Pluton Away From Elbaf's Tree (https://youtu.be/PufMzlFWEyI) -> related video: What If Franky Kept The Pluton Blueprints? (https://youtu.be/C2YICegGl7Q)
