@@ -45,3 +45,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Karakuri (2026-10-15-L)
 - Nico (2026-10-15-L)
 - Oro (2026-10-15-L)
+- Warlords (2026-10-15-L2)
