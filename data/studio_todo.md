@@ -29,3 +29,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Blackbeard Raided Drum Island For Chopper (1177) (https://youtu.be/dHwTU31_KnM) -> thumbnail B saved at output/2026-10-16-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Megumi Was Always Going to Lose Sukuna's Shikigami Trap (https://youtu.be/JnktEyahN8A) -> thumbnail B saved at output/2026-10-16-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sukuna Saved Megumi Because He Wanted His Body (https://youtu.be/UBJ9chCl83o) -> related video: Why Megumi Was Always Going to Lose Sukuna's Shikigami Trap (https://youtu.be/JnktEyahN8A)
+- [ ] Blackbeard Raided Drum For Chopper's Fruit (https://youtu.be/XlHyah3AN2k) -> related video: Blackbeard Raided Drum Island For Chopper (1177) (https://youtu.be/dHwTU31_KnM)
