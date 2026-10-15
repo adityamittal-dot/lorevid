@@ -51,3 +51,8 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Eiichiro (2026-10-16-L)
 - Fu (2026-10-16-L)
 - Gyasta (2026-10-16-L)
+- Haruta (2026-10-16-L2)
+- Predictions (2026-10-16-L2)
+- Shigemo (2026-10-16-L2)
+- Tsumiki (2026-10-16-L2)
+- Yorozu (2026-10-16-L2)
