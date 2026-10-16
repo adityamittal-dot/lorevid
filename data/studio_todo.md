@@ -33,3 +33,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E) -> thumbnail B saved at output/2026-10-17-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI) -> thumbnail B saved at output/2026-10-17-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Zoro's Haki Came From A Sword, Not A Teacher (https://youtu.be/TlbN6-gSdzc) -> related video: Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI)
+- [ ] Kaido's Dragon Form Was His Trap, Not His Peak (https://youtu.be/2WcRnIGM2jc) -> related video: Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E)
