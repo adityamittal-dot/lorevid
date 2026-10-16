@@ -93,7 +93,7 @@
       "per_day": 2
     },
     {
-      "from": "2026-11-01",
+      "from": "2026-10-21",
       "days": [
         "Mon",
         "Tue",
@@ -104,7 +104,10 @@
         "Sun"
       ],
       "per_day": 1,
-      "shorts_per_day": 2
+      "shorts_per_day": 2,
+      "deep_days": [
+        "Sun"
+      ]
     }
   ],
   "shorts_per_day": 1,
@@ -121,7 +124,15 @@
     "without further ado",
     "little did",
     "but here's the thing",
-    "fast forward"
+    "fast forward",
+    "but first",
+    "before we get there",
+    "let's start",
+    "let's begin",
+    "to understand this",
+    "we'll follow",
+    "stay until the end",
+    "stick around"
   ],
   "formats": {
     "short": {
@@ -144,7 +155,18 @@
         110,
         300
       ],
-      "note": "12-15 min (the pipeline reads ~200 wpm, so 2450-3000 words): What If story or theory breakdown; payoff teased in 5 s, re-hook every 2-3 min"
+      "note": "12-15 min (~200 wpm, 2450-3000 words): analysis/theory breakdown by default, What If at most 1 in 3; deliver the title's promise in the first 10 s"
+    },
+    "deep": {
+      "words": [
+        5200,
+        7200
+      ],
+      "lines": [
+        230,
+        700
+      ],
+      "note": "Sunday deep dive, 26-36 min: one big evergreen search topic explained end to end (e.g. 'Imu Explained'), 8-12 chapters"
     }
   },
   "voice_blend": {
@@ -162,7 +184,7 @@
       "17:00"
     ],
     "long_slots_utc": [
-      "15:00",
+      "13:00",
       "23:00"
     ],
     "min_lead_hours": 3

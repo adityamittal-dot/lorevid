@@ -94,6 +94,8 @@ def load_search_terms(cfg_path: Path, cap: int = 9) -> list[str]:
 ANALYTICS_LOOKBACK_DAYS = 90
 WATCH_HOURS_LOOKBACK_DAYS = 365
 YPP_WATCH_HOURS_GOAL = 4000
+YPP_TARGET_DATE = datetime(2027, 2, 1, tzinfo=timezone.utc)
+RETENTION_START_DATE = "2026-09-01"  # anime pivot start; retention/traffic queries for long videos begin here
 
 
 def fetch_video_analytics(analytics, now_utc: datetime) -> dict:
@@ -120,13 +122,15 @@ def fetch_video_analytics(analytics, now_utc: datetime) -> dict:
     return out
 
 
-def fetch_watch_hours(analytics, now_utc: datetime, video_ids: list[str]) -> float | None:
-    """Total watch hours over the last 365 days for the given (long-form, public) video ids: one channel-level
-    query with no "video" dimension, restricted to those ids via `filters` — the metric YPP counts toward the
-    4,000-hour threshold. None if there are no ids yet or the query fails."""
+def fetch_watch_hours(analytics, now_utc: datetime, video_ids: list[str],
+                       lookback_days: int = WATCH_HOURS_LOOKBACK_DAYS) -> float | None:
+    """Total watch hours over the last `lookback_days` for the given (long-form, public) video ids: one
+    channel-level query with no "video" dimension, restricted to those ids via `filters` — the metric YPP
+    counts toward the 4,000-hour threshold. `lookback_days` defaults to the full YPP window; callers pass a
+    smaller value (e.g. 7) to get a recent-pace figure instead. None if there are no ids yet or the query fails."""
     if not video_ids:
         return None
-    start = (now_utc - timedelta(days=WATCH_HOURS_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
+    start = (now_utc - timedelta(days=lookback_days)).strftime("%Y-%m-%d")
     end = now_utc.strftime("%Y-%m-%d")
     try:
         resp = analytics.reports().query(
@@ -140,6 +144,79 @@ def fetch_watch_hours(analytics, now_utc: datetime, video_ids: list[str]) -> flo
     rows = resp.get("rows") or []
     minutes = rows[0][0] if rows and rows[0] else 0
     return minutes / 60.0
+
+
+def fetch_long_retention(analytics, now_utc: datetime, long_ids: list[str], durations: dict) -> dict:
+    """{"video_id": {"kept_30": pct, "kept_60": pct, "kept_25": pct, "kept_50": pct}} for each long video id
+    that has retention rows, from youtubeAnalytics v2 (dimensions=elapsedVideoTimeRatio, metrics=
+    audienceWatchRatio, filters=video==<id>). Each row is [elapsed ratio 0.01..1.0, audienceWatchRatio]; we
+    read off the row nearest the ratio corresponding to 30s/60s (via `durations`, seconds) and 25%/50%.
+    Videos with no retention rows yet (too new, or not in `durations`) are skipped. One query per video,
+    each wrapped so a single failure never breaks the run."""
+    start = RETENTION_START_DATE
+    end = now_utc.strftime("%Y-%m-%d")
+    out = {}
+    for vid in long_ids:
+        dur = durations.get(vid)
+        if not dur or dur <= 0:
+            continue
+        try:
+            resp = analytics.reports().query(
+                ids="channel==MINE", startDate=start, endDate=end,
+                metrics="audienceWatchRatio", dimensions="elapsedVideoTimeRatio",
+                filters=f"video=={vid}",
+            ).execute()
+        except Exception as e:
+            print(f"Warning: YouTube Analytics retention query failed for {vid}: {e}")
+            continue
+        rows = resp.get("rows") or []
+        if not rows:
+            continue
+
+        def nearest(target_ratio: float) -> float:
+            target_ratio = min(max(target_ratio, 0.0), 1.0)
+            return min(rows, key=lambda r: abs(r[0] - target_ratio))[1]
+
+        out[vid] = {
+            "kept_30": nearest(30.0 / dur) * 100.0,
+            "kept_60": nearest(60.0 / dur) * 100.0,
+            "kept_25": nearest(0.25) * 100.0,
+            "kept_50": nearest(0.5) * 100.0,
+        }
+    return out
+
+
+def fetch_long_traffic(analytics, now_utc: datetime, long_ids: list[str]) -> list[tuple[str, int, float]]:
+    """[(source, views, minutes), ...] summed across all long video ids over the last ANALYTICS_LOOKBACK_DAYS,
+    from youtubeAnalytics v2 (dimensions=insightTrafficSourceType). Chunks ids into groups of 200 (filters
+    length limit) and sums matching sources across chunks; sorted by views descending. [] if no ids or the
+    query fails."""
+    if not long_ids:
+        return []
+    start = (now_utc - timedelta(days=ANALYTICS_LOOKBACK_DAYS)).strftime("%Y-%m-%d")
+    end = now_utc.strftime("%Y-%m-%d")
+    totals: dict[str, list] = {}
+    for i in range(0, len(long_ids), 200):
+        chunk = long_ids[i:i + 200]
+        try:
+            resp = analytics.reports().query(
+                ids="channel==MINE", startDate=start, endDate=end,
+                metrics="views,estimatedMinutesWatched",
+                dimensions="insightTrafficSourceType",
+                filters="video==" + ",".join(chunk),
+                sort="-views",
+            ).execute()
+        except Exception as e:
+            print(f"Warning: YouTube Analytics traffic-source query failed: {e}")
+            continue
+        for row in resp.get("rows") or []:
+            source, views, minutes = row[0], row[1] or 0, row[2] or 0
+            agg = totals.setdefault(source, [0, 0.0])
+            agg[0] += views
+            agg[1] += minutes
+    out = [(source, v[0], v[1]) for source, v in totals.items()]
+    out.sort(key=lambda x: x[1], reverse=True)
+    return out
 
 
 def published_long_video_ids(repo_root: Path) -> list[str]:
@@ -160,11 +237,15 @@ def published_long_video_ids(repo_root: Path) -> list[str]:
 
 
 def update_performance(client, now_utc: datetime, data_dir: Path, analytics_map: dict | None = None,
-                       watch_hours_line: str | None = None) -> None:
+                       watch_hours_line: str | None = None, analytics=None,
+                       long_ids: list[str] | None = None) -> None:
     """Fetch channel stats and last 50 uploads, writing data/performance.md. `analytics_map` (video_id -> AVD/AV%,
     from the YouTube Analytics API) adds two columns when available; `watch_hours_line` is prepended as a header
-    when the watch-hours-toward-YPP query succeeded."""
+    when the watch-hours-toward-YPP query succeeded. `analytics` + `long_ids` (optional) add a per-long-video
+    retention table and a traffic-source table after the main table, reusing the durations already parsed here
+    from the last-50-uploads video details; both sections are skipped silently when `analytics` is None."""
     analytics_map = analytics_map or {}
+    long_ids = long_ids or []
     ch_stats = {"subs": 0, "views": 0, "videos": 0}
     uploads_id = None
 
@@ -211,6 +292,7 @@ def update_performance(client, now_utc: datetime, data_dir: Path, analytics_map:
         except Exception as e:
             print(f"Error searching uploads fallback: {e}")
 
+    video_ids = list(dict.fromkeys(video_ids))   # the uploads playlist can list one video twice
     video_items = []
     if video_ids:
         try:
@@ -226,6 +308,7 @@ def update_performance(client, now_utc: datetime, data_dir: Path, analytics_map:
 
     parsed_videos = []
     shorts_90d_views = 0
+    durations: dict[str, int] = {}
 
     for v in video_items:
         sn = v.get("snippet", {})
@@ -253,8 +336,10 @@ def update_performance(client, now_utc: datetime, data_dir: Path, analytics_map:
 
         vid = v.get("id", "")
         av = analytics_map.get(vid, {})
+        durations[vid] = dur_sec
 
         parsed_videos.append({
+            "vid": vid,
             "pub_date": pub_date,
             "fmt": fmt,
             "title": title,
@@ -301,6 +386,51 @@ def update_performance(client, now_utc: datetime, data_dir: Path, analytics_map:
 
     if not parsed_videos:
         lines.append("| - | - | *No uploads found* | 0 | 0.0 | 0 | 0 | 0.0% | - | - |")
+
+    if analytics and long_ids:
+        long_retention = fetch_long_retention(analytics, now_utc, long_ids, durations)
+        long_traffic = fetch_long_traffic(analytics, now_utc, long_ids)
+    else:
+        long_retention, long_traffic = {}, []
+
+    if long_retention:
+        retention_rows = []
+        for item in parsed_videos:
+            ret = long_retention.get(item["vid"])
+            if ret:
+                retention_rows.append({**item, **ret})
+        retention_rows.sort(key=lambda x: x["kept_30"], reverse=True)
+
+        lines += [
+            "",
+            "## Long video retention (what openings hold viewers)",
+            "",
+            "| Published | Title | Views | Kept @30s | Kept @60s | Kept @25% | Kept @50% | AVD |",
+            "|---|---|---|---|---|---|---|---|",
+        ]
+        for r in retention_rows:
+            clean_title = r["title"].replace("|", "-").replace("\n", " ").strip()
+            avd_str = format_duration(r["avd"]) if r["avd"] is not None else "-"
+            lines.append(
+                f"| {r['pub_date']} | {clean_title} | {r['views']:,} | {r['kept_30']:.1f}% | {r['kept_60']:.1f}% | "
+                f"{r['kept_25']:.1f}% | {r['kept_50']:.1f}% | {avd_str} |"
+            )
+        lines += [
+            "",
+            "Target: 50%+ still watching at 30 s. Study the top rows' first 10 lines in scripts/done/ "
+            "before writing a cold open.",
+        ]
+
+    if long_traffic:
+        lines += [
+            "",
+            "## Long video traffic sources",
+            "",
+            "| Source | Views | Watch minutes |",
+            "|---|---|---|",
+        ]
+        for source, views, minutes in long_traffic:
+            lines.append(f"| {source} | {views:,} | {minutes:,.0f} |")
 
     data_dir.mkdir(parents=True, exist_ok=True)
     (data_dir / "performance.md").write_text("\n".join(lines).strip() + "\n", encoding="utf-8")
@@ -441,7 +571,7 @@ def main() -> None:
     now_utc = datetime.now(timezone.utc)
     data_dir = repo_root / "data"
 
-    analytics_map, watch_hours_line = {}, None
+    analytics_map, watch_hours_line, long_ids = {}, None, []
     try:
         analytics = upload.analytics_client()
     except Exception as e:
@@ -455,12 +585,21 @@ def main() -> None:
             pct = min(100.0, watch_hours / YPP_WATCH_HOURS_GOAL * 100)
             watch_hours_line = (f"**Watch hours (last 365 days, long-form public):** {watch_hours:,.1f} / "
                                 f"{YPP_WATCH_HOURS_GOAL:,} ({pct:.1f}%)")
+
+            days_remaining = max((YPP_TARGET_DATE - now_utc).total_seconds() / 86400.0, 0.01)
+            needed_per_day = max((YPP_WATCH_HOURS_GOAL - watch_hours) / days_remaining, 0.0)
+            pace_7d = fetch_watch_hours(analytics, now_utc, long_ids, lookback_days=7)
+            pace_per_day = (pace_7d / 7.0) if pace_7d is not None else None
+            pace_str = f"{pace_per_day:.2f}" if pace_per_day is not None else "unknown"
+            watch_hours_line += (f"\n**Watch hours/day needed for 4,000 by 2027-02-01:** {needed_per_day:.2f} "
+                                 f"(current pace over last 7 days: {pace_str})")
     else:
         print("Note: no credential set has the yt-analytics.readonly scope; skipping AVD/AV%/watch hours "
              "(re-auth locally with `python auth.py` once the scope is added, then update the YT_TOKEN secret; "
              "see SETUP.md).")
 
-    update_performance(client, now_utc, data_dir, analytics_map=analytics_map, watch_hours_line=watch_hours_line)
+    update_performance(client, now_utc, data_dir, analytics_map=analytics_map, watch_hours_line=watch_hours_line,
+                       analytics=analytics, long_ids=long_ids)
 
     search_terms = load_search_terms(repo_root / "channel.json")
     update_trends(client, search_terms, now_utc, data_dir)

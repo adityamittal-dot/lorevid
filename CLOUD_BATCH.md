@@ -21,10 +21,11 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
 0. **Rescue first.** For every `scripts/rejected/<id>.json` whose `.log` only fails the editor gate ("editor review
    scored"), `git mv` it back to `scripts/backlog/` and give it to a Sonnet editor (step 3). That's far cheaper than
    writing it again, and its Shorts are already written. Then count it as done and skip its ID below.
-1. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
+1. Pick topics with `data/performance.md`'s "Long video retention" table open: copy what the top rows did, avoid
+   what the bottom rows did. At most 1 What If in any 3 longs. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
    sorted(glob.glob('scripts/*/*.json'))[-60:]))"` (recent titles). Don't read WRITER.md yourself.
 2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Haiku
-   writer per long ID **in parallel** with: its IDs (the long + its Shorts as plan.py lists them: `<long-id>s1`, and `s2` from Nov 1), its topic, the full topic list, and this
+   writer per long ID **in parallel** with: its IDs (the long + its Shorts as plan.py lists them: `<long-id>s1` and `<long-id>s2`; a `DEEP-DIVE` id gets WRITER.md's Sunday Deep Dive rules and `"deep": true`), its topic, the full topic list, and this
    brief:
    > Read WRITER.md once. Research with **at most 6 WebSearch calls** and no WebFetch (the sentences you use must
    > come from search results). Write the long JSON and notes with **one Write call each**, then each Short the same
@@ -33,7 +34,8 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    > `python validate_script.py` on both and fix all errors in a single Edit per file. Don't touch pronounce.json or
    > any other file. Don't commit. Reply only with the IDs and "ok" or the remaining errors.
 3. When a writer finishes, start one Sonnet editor for that long with this brief:
-   > Read WRITER.md section 6 (Long Video Rules) and scripts/backlog/<id>.json. Rewrite only the weak lines
+   > Read WRITER.md section 6 (Long Video Rules) and scripts/backlog/<id>.json. First fix the opening: line 1 says
+   > the title's subject and claim, and chapter 1 (the cold open) is at most 110 words. Then rewrite only the weak lines
    > (flat hooks, written-not-spoken sentences, slow chapters) in one Edit pass, without adding new facts. Then add
    > `## Editor review` to notes/<id>.md with honest scores written like `hook: 8/10`, rewriting until every score
    > is 8+. If a chapter scores under 8, rewrite that whole chapter (you may restructure it), don't just tweak lines.

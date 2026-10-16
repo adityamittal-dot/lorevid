@@ -15,12 +15,13 @@ backlog further ahead of the publish schedule.
 Date is today in IST (`YYYY-MM-DD`). Each session:
 
 1. Run `python plan.py next 4` (a CLOUD_BATCH.md session uses its own count instead). It prints the next 4 missing script IDs in schedule order — format, series, and
-   intended publish date — computed from `channel.json`'s `long_schedule` (2 long videos every day: `<date>-L` and
-   `<date>-L2`) and `shorts_per_day` (1 Short cut from each long: `<date>-Ls1` and `<date>-L2s1`), skipping anything
+   intended publish date — computed from `channel.json`'s `long_schedule` (from 2026-10-21: **1 long video a day**, `<date>-L`, with **2
+   Shorts cut from it**, `<date>-Ls1` and `<date>-Ls2`; every **Sunday's long is a deep dive**, flagged `DEEP-DIVE`
+   by plan.py, see "Sunday Deep Dive" in section 6), skipping anything
    already sitting in `scripts/backlog/`, `scripts/queue/`, `scripts/done/` or `scripts/failed/`.
-2. Write **exactly the 4 scripts it lists: 2 long videos, each with its Short**. The two long videos must differ in
-   character, arc and format (e.g. one What If + one theory breakdown), and must not repeat a topic from the last 60
-   titles. Quality beats count: if you run short of budget, push 1 finished long + its Short rather than 2 rushed ones.
+2. Write **exactly the scripts it lists** (each long video with its Shorts). Consecutive long videos must differ in
+   character, arc and format, at most 1 in any 3 longs may be a What If (`validate_script.py` enforces it), and none
+   may repeat a topic from the last 60 titles. Quality beats count: if you run short of budget, push 1 finished long + its Short rather than 2 rushed ones.
 3. **Chapter-reaction override**: if a new One Piece chapter released in the last 4 days and no long video yet
    reacts to it, the *next* long video `plan.py` lists becomes a chapter reaction to it (title, cold open, and
    spine built around that chapter) instead of whatever the default rotation implied — same ID, same slot, same
@@ -32,7 +33,7 @@ Date is today in IST (`YYYY-MM-DD`). Each session:
 6. Finish with `python plan.py status` and report the coverage (days fully covered from tomorrow) in your summary.
 
 `plan.py` already assigns series for you (One Piece mostly; Naruto/Boruto on Tuesday Shorts, JJK on Saturday
-Shorts; every 4th long video may break from One Piece into a Naruto or JJK What If) — follow what it prints.
+Shorts; every 4th long video may break from One Piece into a Naruto or JJK long) — follow what it prints.
 
 ---
 
@@ -74,7 +75,7 @@ Focus on proven winning formats and fan-favourite characters:
 - **Winning Formats**:
   1. *Sharp Theory Claim*: bold claim focused on one character ("Zoro Was Trained To Kill Imu") — best performer.
   2. *Chapter Reaction*: breakdown with ONE sharp angle ("Zoro Is OUT OF CONTROL (1194)").
-  3. *What If Story*: alternative timeline with strict cause-and-effect ("What If Luffy Was Reborn With His Memories") — massive on all three series, the default long-video format.
+  3. *What If Story*: alternative timeline with strict cause-and-effect ("What If Luffy Was Reborn With His Memories") — **our own data (2026-10-16): What If longs kept 5-14% of the video watched; analysis longs ("Why Imu Never Leaves That Throne", "Mihawk Has Had Conqueror's Haki This Whole Time") kept 33-39%.** At most 1 in 3 longs.
   4. *Hidden Foreshadowing*: retrospective discovery ("Oda Planned Zoro's Lineage Since Chapter 100").
   5. *Power Scaling*: definitive matchup with a firm, unambiguous verdict.
 - **Fan-Favourite Characters (Drive Clicks)**:
@@ -239,11 +240,25 @@ What wins in long form right now (studied 2026-10-02): Facadify, "What If Luffy 
 GrandLineReview, "The Rules Just Changed... (1194)" (538k) and "Imu is a PARROT!" (443k, 17 min). The two What If
 channels are faceless narrated stories like ours and grew past 100k subscribers on that format alone.
 
-- **Pick the format.** Default to a **What If story**. Write a **theory breakdown** when a new chapter came out in
-  the last 4 days with no reaction long yet (section 1's override), or a single sharp claim is worth 12 minutes
-  ("Imu is a PARROT!").
-- **Cold open: show or tease the payoff within 5 seconds.** No greeting, no channel name, no "in this video". Open
-  on the moment, the claim, or the image the whole video is building to (an archetype below) — not a wind-up.
+- **Why this section changed (2026-10-16 retention data).** On our long videos 50-70% of viewers were gone by ~40 s
+  and 70-80% by the 10% mark. Cold opens ran 140-465 words of wind-up ("Why do I think...", "We'll follow it from
+  Enies Lobby to Wano", "But first...") before the video started delivering. Viewers who clicked the thumbnail
+  wanted the title's answer and didn't get it. Every rule below exists to fix that one number:
+  **% still watching at 30 s (target 50%+)**, which `data/performance.md` now reports per video. Read the
+  "Long video retention" table every session and copy what the top rows did in their first 10 lines.
+- **Pick the format.** Default to an **analysis / theory breakdown with one sharp, searchable claim** ("Why Imu
+  Never Leaves That Throne", "Mihawk Has Had Conqueror's Haki This Whole Time"). A **What If** is allowed at most
+  1 in 3 longs. Write a **chapter reaction** when section 1's override applies.
+- **First 10 seconds: deliver the title.** Line 1 names the title's subject and states the claim or shows the
+  exact moment from the thumbnail; the validator rejects a script whose first 2 lines never say the title's
+  subject. No greeting, no channel name, no "in this video", no scene-setting before the claim.
+- **Cold open (chapter 1) is at most 110 words (~33 s)** (`validate_script.py` enforces it): claim, then why it
+  matters (stakes), then one specific promise of what the viewer will see, then a cliffhanger into chapter 2.
+  Chapter 2 starts on evidence, not background.
+- **Background is earned, never front-loaded.** Explain who Tom or the Death Painting Wombs are only at the
+  moment the argument needs them, in one or two lines. Long recap stretches are where the curve falls off.
+- **Pay something off every 60-90 s.** A new piece of evidence, a chapter number, a "most people missed this"
+  detail. Never two minutes of pure narration without a payoff.
 - **State the core question by line 3**, with real stakes ("How powerful would Luffy become? And how differently
   would the story unfold?"). `validate_script.py` requires a `?` somewhere in the first 3 lines; make it the
   actual question the video answers, not a throwaway.
@@ -281,8 +296,25 @@ channels are faceless narrated stories like ours and grew past 100k subscribers 
   see what happens if Ace survives Marineford, that's the next story."). No "thanks for watching", no "subscribe",
   no "see you next time" — `validate_script.py` rejects an outro as the last line; the end screen covers the
   last 15-18 s, so you don't need to talk through it.
-- **Shorts cut from it (`Ls1`).** The long's strongest single moment, self-contained (own hook, payoff, loop),
-  pointing viewers to the full breakdown (section 6, Shorts Rules).
+- **Shorts cut from it (`Ls1`, `Ls2`).** Two different moments of the long, each self-contained (own hook,
+  payoff, loop). Each Short gets a **Related Video link to the long** in Studio, so write it as the bridge: it pays
+  off one piece of evidence and leaves the long's bigger question visibly open, so the viewer has a reason to tap
+  through. The long's line 1 must deliver what the Short promised (YouTube's Shorts-to-long guide: reward the click
+  in the first 5-10 s).
+
+### Sunday Deep Dive (`DEEP-DIVE` in plan.py; set `"deep": true` in the script)
+Watch hours come from long sessions. Once a week the long is a **26-36 minute deep dive** (`channel.json`
+`formats.deep`: 5200-7200 words, 230-700 lines, at least 8 chapters) on one big **evergreen search topic**: the
+thing people type into YouTube ("Imu Explained", "Every Gear Of Luffy Explained", "The Will Of D Explained", "The
+Uchiha Clan's Full History", "Sukuna's Full Power Explained"). Pick it from `data/community.md`'s "Evergreen search
+topics" list. Rules:
+- All the long-video rules apply, including the 110-word cold open and the title subject in line 1.
+- Write it fresh. Never stitch together or re-read earlier lorevid scripts: compilations of our own videos are
+  exactly what YouTube's inauthentic-content review flags.
+- Structure it as a ranked or chronological journey (8-12 chapters) so a viewer can drop into any chapter from
+  search; every chapter opens on its own mini-hook and ends on a re-hook.
+- Title: the plain search phrase first, then the hook (`Imu Explained: The Ruler Who Can't Leave His Throne`),
+  <= 70 characters. Tags: the search phrase variants.
 
 **Opening archetypes** (pick one; don't reuse the same archetype as the previous long — record which one you used
 in `notes/<id>.md` so the next session can check):
@@ -306,7 +338,8 @@ flag anything wrong, unverifiable, or contradicted by its own WebSearch. Fix wha
 
 **Editor review (mandatory, every long video, after the fact check).** Spawn a second subagent (`model: "sonnet"`)
 as a ruthless YouTube editor who has studied GrandLineReview and Facadify. Give it the script and ask for a 1-10
-score (written as `hook: 9/10`) on each of: hook (first 15 s), retention (a fresh open question every 30-45 s, no slow stretch), originality
+score (written as `hook: 9/10`) on each of: hook (first 15 s: does line 1 deliver the title?), first 30 s (would
+50% of viewers still be watching? a wind-up scores under 5), retention (a fresh open question every 30-45 s, no slow stretch), originality
 (an argument fans haven't heard, not a recap), specificity (named chapters, episodes, quotes), and title + thumbnail
 curiosity. Any score under 8: rewrite those parts and re-score, at most twice. If it still scores under 8, do not push
 that video; push the others and say so in the summary. Record the final scores in `notes/<id>.md` under
@@ -319,6 +352,9 @@ that video; push the others and say so in the summary. Record the final scores i
 ### Titles & Metadata
 - **Short Titles**: 40-60 characters. Character or series keyword within first 3 words. Clear claim or question. At most one ALL-CAPS word. No hashtags, no emoji spam.
   - *Examples*: `Zoro Was Trained To Kill Imu`, `Why Shanks Fears Blackbeard's Third Fruit`, `Gojo Would Beat Sukuna If He Did This`.
+- **Search first (long videos).** Our long videos get almost no search or home-page traffic (2026-10-16: 89 search
+  views of 5.5k). Put the phrase a fan would type in the first 3-4 words (`Imu`, `Mihawk's Haki`, `Gear 5`,
+  `Uchiha Massacre`), then the curiosity. Tags and the description's first sentence repeat that phrase.
 - **Long Titles**: <= 70 characters. What If: copy the proven pattern exactly, `What If <Character> <One Change>?`
   (`What If Zoro Was Executed?`, `What If Luffy Was Raised By Joy Boy?`). Theory: 2-6 punchy words, a statement, optional
   chapter tag (`Imu is a PARROT!`, `The Rules Just Changed... (1194)`). At most one ALL-CAPS word.

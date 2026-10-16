@@ -62,6 +62,12 @@ AD_GRAPHIC = re.compile(r"\b(blood\w*|bleed\w*|gor(e|y)|corpses?|decapitat\w*|be
 AD_DEATH = re.compile(r"\b(die[ds]?|dying|dead|death\w*|kill(s|ed|er|ers|ing)?|wound\w*|stab\w*|slash\w*|execut\w*|"
                       r"shot dead|sacrific\w*)\b", re.I)
 SPOILER_CHAPTER_WORDS = re.compile(r"\b(revealed|explained|conclusion)\b", re.I)
+# Long-video opening gate (2026-10-16 retention study: 50-70% of viewers were gone by ~40 s on cold opens of
+# 140-465 words). The cold open must name the title's subject immediately and hand over to chapter 2 by ~33 s.
+COLD_OPEN_MAX_WORDS = 110
+TITLE_STOPWORDS = {"what", "why", "how", "the", "and", "was", "were", "never", "just", "this", "that", "with",
+                   "from", "into", "his", "her", "their", "one", "piece", "naruto", "jjk", "jujutsu", "kaisen",
+                   "boruto", "isn't", "wasn't", "didn't", "doesn't", "explained", "every", "really", "always"}
 
 
 def _banned_phrase_pattern(phrase):
@@ -243,7 +249,7 @@ def main():
 
     # Format bounds
     if fmt in {"short", "long"}:
-        limits = get_format_limits(channel_cfg, fmt)
+        limits = get_format_limits(channel_cfg, "deep" if fmt == "long" and p.get("deep") else fmt)
         if not (limits["min_lines"] <= n_lines <= limits["max_lines"]):
             err.append(f"{fmt} lines count {n_lines} outside allowed range [{limits['min_lines']}, {limits['max_lines']}]")
         if not (limits["min_words"] <= total_words <= limits["max_words"]):
@@ -380,6 +386,27 @@ def main():
             err.append("no '?' in the first 3 lines; open on the core question or stakes "
                        "(WRITER.md, cold open) so the viewer knows what's being decided")
 
+        # The title's subject (a name or key noun from the title) must be said in the first 2 lines, so a viewer
+        # who clicked the thumbnail hears they're in the right video before they can swipe away.
+        title_keys = {w.strip("?!.,:'\"()").lower() for w in str(p.get("title", "")).split()}
+        title_keys = {w.removesuffix("'s") for w in title_keys if len(w) >= 3 and w not in TITLE_STOPWORDS}
+        first2 = " ".join(str(ln.get("text", "")) for ln in lines[:2] if isinstance(ln, dict)).lower()
+        first2_words = {w.strip("?!.,:'\"()…").removesuffix("'s") for w in first2.split()}
+        if title_keys and not (title_keys & first2_words):
+            err.append(f"the first 2 lines never say the title's subject ({', '.join(sorted(title_keys))}); "
+                       f"line 1 must deliver the title's promise (WRITER.md, Long Video Rules: first 10 seconds)")
+
+        # Cold open (chapter 1) hands over to chapter 2 within ~33 s; deep dives get the same budget.
+        chapters_l = p.get("chapters") if isinstance(p.get("chapters"), list) else []
+        if len(chapters_l) >= 2 and isinstance(chapters_l[1], dict) and isinstance(chapters_l[1].get("line"), int):
+            co_words = sum(len(str(ln.get("text", "")).split()) for ln in lines[:chapters_l[1]["line"]]
+                           if isinstance(ln, dict))
+            if co_words > COLD_OPEN_MAX_WORDS:
+                err.append(f"cold open is {co_words} words (~{co_words / 3.35:.0f} s); keep chapter 1 to "
+                           f"{COLD_OPEN_MAX_WORDS} words (~33 s) and start the real content by then")
+        if p.get("deep") and len(chapters_l) < 8:
+            err.append(f"deep dive needs at least 8 chapters (got {len(chapters_l)})")
+
         # The last line is the payoff, never a sign-off.
         if lines and isinstance(lines[-1], dict):
             last_text = str(lines[-1].get("text", ""))
@@ -488,6 +515,24 @@ def main():
                             pass
                 if any("line 1's first 8 words match" in e for e in err):
                     break
+
+    # 10. Format mix (long only): What If longs held 5-14% of viewers vs 33-39% for analysis titles
+    # (2026-10-16), so at most 1 of any 3 consecutive longs is a What If.
+    if fmt == "long" and re.match(r"\s*what if\b", title, re.I) and re.match(r"\d{4}-\d{2}-\d{2}-L", script_id):
+        prior = []
+        for other_fp in glob.glob(os.path.join(repo_dir, "scripts", "*", "*.json")):
+            oid = os.path.basename(other_fp)[:-5]
+            if oid >= script_id or not re.match(r"\d{4}-\d{2}-\d{2}-L\d*$", oid) or "/rejected/" in other_fp:
+                continue
+            try:
+                with open(other_fp, encoding="utf-8") as f:
+                    prior.append((oid, str(json.load(f).get("title", ""))))
+            except Exception:
+                pass
+        recent = [t for _, t in sorted(prior)[-2:]]
+        if any(re.match(r"\s*what if\b", t, re.I) for t in recent):
+            err.append(f"'What If' again: one of the previous 2 longs ({'; '.join(recent)}) is already a What If; "
+                       f"write an analysis/theory breakdown instead (at most 1 What If in any 3 longs)")
 
     # 11. Advertiser-friendly gate (see AD_GRAPHIC / AD_DEATH above).
     meta = {"title": p.get("title", ""), "hook_text": p.get("hook_text", ""), "description": p.get("description", ""),

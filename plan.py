@@ -83,6 +83,19 @@ def shorts_for(schedule, default, day):
     return int((best or {}).get("shorts_per_day", default))
 
 
+def is_deep_day(schedule, day):
+    """True when `day`'s first long is the weekly deep dive (the matching schedule entry's "deep_days")."""
+    best, best_from = None, None
+    for entry in schedule or []:
+        try:
+            efrom = datetime.date.fromisoformat(entry["from"])
+        except (KeyError, ValueError):
+            continue
+        if efrom <= day and (best_from is None or efrom > best_from):
+            best, best_from = entry, efrom
+    return WEEKDAYS[day.weekday()] in (best or {}).get("deep_days", [])
+
+
 def long_id(date_str, k):
     """The k-th long of a day (1-based): "<date>-L", "<date>-L2", ... Its Shorts are "<id>s1", "<id>s2"."""
     return f"{date_str}-L" if k == 1 else f"{date_str}-L{k}"
@@ -98,7 +111,10 @@ def day_items(schedule, shorts_per_day, day, long_index):
         long_index += 1
         series = LONG_OFF_SERIES[(long_index // 4 - 1) % 2] if long_index % 4 == 0 else "onepiece"
         lid = long_id(date_str, k)
-        items.append({"id": lid, "format": "long", "series": series, "publish_date": date_str})
+        item = {"id": lid, "format": "long", "series": series, "publish_date": date_str}
+        if k == 1 and is_deep_day(schedule, day):
+            item["deep"] = True     # 26-36 min deep dive on an evergreen search topic; script sets "deep": true
+        items.append(item)
         items += [{"id": f"{lid}s{s}", "format": "short", "series": series, "publish_date": date_str}
                   for s in range(1, shorts_per_day + 1)]
     if not n_long:
@@ -141,7 +157,8 @@ def plan_items(n, repo_dir=REPO_DIR):
 
 def cmd_next(n):
     for item in plan_items(n):
-        print(f"{item['id']}  format={item['format']}  series={item['series']}  publish={item['publish_date']}")
+        deep = "  DEEP-DIVE (\"deep\": true, formats.deep)" if item.get("deep") else ""
+        print(f"{item['id']}  format={item['format']}  series={item['series']}  publish={item['publish_date']}{deep}")
 
 
 def cmd_status(repo_dir=REPO_DIR):
