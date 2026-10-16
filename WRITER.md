@@ -97,7 +97,18 @@ Focus on proven winning formats and fan-favourite characters:
 
 ## 4. Research & Fandom Verification
 
-Every factual claim (chapter numbers, names, events, powers) must be fact-checked using web search:
+**Start from the wiki research packs in `data/wiki/` (read `data/wiki/INDEX.md` first).** The cloud sandbox can't
+open the wikis, so the insights workflow copies ~110 key wiki pages into the repo every day as plain text with the
+wiki's own citations inline, e.g. `...keeps a portrait of Lili inside Pangaea Castle. [Ch. 1116, Ep. 1149]`.
+- Every chapter or episode number in a script must come from a bracketed citation in a pack (or a search result
+  for chapters newer than the pack). Use `grep -n "Lili" data/wiki/onepiece/*.md` to find the evidence; don't read
+  whole packs.
+- Pick topics the packs can support. A long video needs 15+ cited facts, a deep dive 40+. If the pages you need
+  aren't packed, add them to channel.json `research_pages` and pick a different topic for this session.
+- Notes `## Sources`: list the pack files you used plus their `Source:` URL (the wiki page). These count as sources.
+- Packs are the wiki's text: paraphrase, never copy sentences into narration.
+
+Then fact-check with web search only for what the packs can't cover (this week's chapter, news, community debate):
 - Check latest official chapter/episode summaries on the fandom wiki (`onepiece.fandom.com`, `naruto.fandom.com`, `jujutsu-kaisen.fandom.com`).
 - Check top weekly threads on r/OnePiece, r/Boruto, and r/JuJutsuKaisen for debates, community consensus, and sharp talking points.
 - Check winning YouTube theory titles in the niche this week.

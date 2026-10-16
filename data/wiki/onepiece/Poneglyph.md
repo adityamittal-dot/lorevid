@@ -1,0 +1,103 @@
+# Poneglyph
+
+Source: https://onepiece.fandom.com/wiki/Poneglyph (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+
+The Poneglyphs are large, mysterious, and apparently indestructible Stele inscribed with historical knowledge in an ancient script. They are scattered across many different islands on the Blue Planet.
+As the World Government has spent centuries violently suppressing it, in present day the Poneglyph language is lost to all but a few: Nico Robin, the sole surviving scholar of Ohara; [Ch. 398, Ep. 278] members of the Kouzuki Family, the descendants of the Poneglyphs' creators; [Ch. 818, Ep. 770] [Ch. 1056, Ep. 1083] and Vegapunk, who deciphered it based on materials from Ohara. [Ch. 1114, Ep. 1148]
+
+### Appearance
+Poneglyphs are massive, cubic steles made of a currently unidentified, indestructible type of stone. [Ch. 395, Ep. 277] They have text written in an ancient script carved into them, usually on one of their six sides. There are a total of three types of Poneglyphs scattered across the world; Historical Poneglyphs, Instructional Poneglyphs, and Road Poneglyphs:
+Both Historical and Instructional Poneglyphs are a dark blue color, while the Road Poneglyphs are a deep red color.
+
+### Overview and Types
+According to Tamago, there are a total of thirty Poneglyphs in the world. [Ch. 846, Ep. 812]
+*"Historical Poneglyphs": each of the nine holds a piece of history long forgotten, as well as messages written by ancient people. [Ch. 301, Ep. 194] [Ch. 395, Ep. 277] This history includes the three Ancient Weapons (Pluton, [Ch. 218, Ep. 130] Poseidon and Uranus. [Ch. 650, Ep. 570]) and the events of the Void Century.
+*"Instructional Poneglyphs": each of the seventeen contains instructions and/or clues about the locations of Historical Poneglyphs.
+*Road Poneglyphs: each of the four marks a location on the map that, when combined with the other three, allows one to locate the final island in the Grand Line, Laugh Tale. [Ch. 818, Ep. 769] They are sought by several organizations interested in the treasure located on Laugh Tale: two of the former Four Emperors, Charlotte Linlin and Kaidou, have each claimed possession of a Road Poneglyph. [Ch. 818, Ep. 769]
+Being the pinnacle of Wano's supreme craftsmanship by ancient Kouzuki stonemasons, the steles are impervious to any damage, even from explosions.
+The Rio Poneglyph is, according to Robin, the message carried by all the Historical Poneglyphs scattered around the world. It is rumored that after deciphering all of them, one will come to know the true history of the world (including everything about the Void Century and Ancient Weapons, whose research is forbidden). In order to find it, one must take passages from the Instructional Poneglyphs with them on their travels. Gol D. Roger seemed to have accomplished this task, according to Rayleigh. [Ch. 507, Ep. 400] According to Tamago, the Rio Poneglyph is in fact composed of only nine Poneglyphs.
+In the eyes of the World Government, they are dangerous artifacts; however, despite the World Government declaring the Poneglyphs dangerous because of the weapons, the reality is that the ideals of the fallen Kingdom written on some of the stones are far more dangerous than any of the weapons. Gol D. Roger managed to follow the passage of the Poneglyphs because he could hear "the voice of all things" and thus uncovered the truth of the Void Century with his crew, but Silvers Rayleigh notes that what they learned may be interpreted differently depending on one's point of view.
+
+#### Cultural Significance
+After they were completed, the stones were left in the care of various ancient civilizations and protected by their descendants for many generations, as seen in both Arabasta and Shandora.
+The Shandoran Poneglyph was a fiercely guarded treasure of the Shandia people, and they felt a deep connection to it, particularly the Golden Bell built around it. [Ch. 290, Ep. 188] Even centuries later, and after the loss of much knowledge - including of the Poneglyph itself, as its existence had been long forgotten - they continued to fight and die to reclaim it and their homeland. [Ch. 249, Ep. 163] They still cherish what it represents a great deal. The shaman of their people openly wept upon hearing that they had fulfilled the wishes of their ancestors by passing their information on to Nico Robin, thus relieving them of their centuries-long duty.
+Unlike its Shandoran counterpart, which was guarded by its people to protect the information it contained, the Arabasta Poneglyph was hidden away and concealed from the kingdom's own people and even from the World Government. The King of Arabasta, Nefertari Cobra, claims to Robin that the country's kings have long passed down a hereditary duty to protect the stone, but Robin scoffs at this, as Arabasta was a founding kingdom of the World Government centuries ago, while the Poneglyphs are artifacts of that same World Government's most ancient and hated foes. In truth, Cobra was being honest about his royal charge to protect the Poneglyph but was unaware of the true motives behind its concealment, something that occurred long before his time. [Ch. 202, Ep. 123]
+Due to its ties with the Kouzuki Family, the Mokomo Dukedom is somewhat knowledgeable about Poneglyphs despite being unable to read them. They are aware of the existence of the Road Poneglyphs, and Nekomamushi reveals that it is possible to print a Poneglyph's text onto paper in a similar manner to woodblock printing, simultaneously proving that it is possible to copy the text written on a Poneglyph and record it on a rubbing of a different material that lacks a Poneglyph's indestructibility. [Ch. 818, Ep. 770]
+
+#### Ancient Script
+The text on the Poneglyphs is written in an ancient script. This writing system was apparently unique to the civilization that carved their history onto the Poneglyphs. However, the ancient script was not exclusively used for Poneglyphs, as some ruins in Shandora contained writing in the same script.
+Attempting to research this script is deemed a crime by the World Government, [Ch. 392, Ep. 275] but the archaeologists of Ohara, led by Professor Clou D. Clover, were able to decipher the ancient script after years of research in secrecy. However, they were subsequently discovered by the government and erased by a Buster Call. The sole survivor of this purge was Nico Robin, who had managed to learn the script at the age of eight by spying on the team of archaeologists. [Ch. 397, Ep. 278]
+The Kouzuki Family were master philologists who created the Poneglyphs and inscribed its language. They passed down the knowledge of how to read Poneglyphs, including the skill to write its ancient language, within their family up to Kouzuki Oden's generation. Also, a member of Roger's crew, Oden journeyed to Laugh Tale with him and, like Roger, could decipher the Road Poneglyphs. Oden was executed by Kaidou and the Shogun of Wano Country Kurozumi Orochi after he refused to tell them a secret he knew (presumably either the location of Laugh Tale, One Piece, knowledge of what was written on the Rio Poneglyph, or how to read Poneglyphs), preventing Oden from passing on the literacy of the Poneglyphs to his children, [Ch. 818, Ep. 770] Oden's father, Kouzuki Sukiyaki, was thought to have been killed by Orochi but had actually been imprisoned in the basement of Orochi's Castle, from which he eventually escaped. However, he has kept his survival a secret and lived under a false identity out of shame. After Orochi was overthrown, he revealed himself to Robin but did not intend to do so to anyone else. [Ch. 1053, Ep. 1080] However, he later revealed himself to his grandchildren and their retainers. He intends to return to seclusion after passing down his knowledge to them, likely including Poneglyph literacy.
+
+#### List of Known Poneglyphs
+Poneglyphs can be divided into three types that deal with the knowledge they contain: Historical, Instructional, and Road.
+
+### History
+
+#### Past
+
+##### Record of the Void Century
+800 years ago, in the Wano Country, a clan of master stonemasons known as the Kouzuki Family invented indestructible block-shaped steles for the purpose of recording important history on them while preventing it from being destroyed. Those steles would become the Poneglyphs.
+The steles were written to preserve the events of the Void Century. According to Imu, an incident took place after the Void Century involving Nefertari D. Lili that caused the Poneglyphs to be scattered across the world. [Ch. 1085, Ep. 1119] The stones were then left in the guardianship of the descendants of ancient civilizations, who guarded them from people seeking to destroy or claim them. The World Government, in an attempt to cover up the events of the Void Century, made researching and deciphering Poneglyphs a crime punishable by death. However, this did not stop others from gaining possession of Poneglyph knowledge, transferring the cryptic language on the Poneglyphs to paper in hopes of finding someone who can read it, or keeping the stones themselves in their own possession in order to gain superiority over those looking for them.
+
+##### Gol D. Roger's Attempt
+39 years ago, Roger and his crew reached Lodestar Island at the end of the Grand Line and learned about the existence of the Poneglyphs, prompting them to look for the steles across the world. 13 years later, after encountering the Whitebeard Pirates, Roger met Kouzuki Oden and learned about his knowledge regarding reading the writing on the stones. Roger then begged Whitebeard to allow Oden to join him, and Oden agreed. [Ch. 966, Ep. 966]
+At some point, either before or after recruiting Oden, Roger managed to copy Big Mom's Road Poneglyph. [Ch. 853, Ep. 820]
+Shortly after Oden joined the crew, the Roger Pirates traveled to Skypiea and found the Shandorian Golden Belfry Bell. Oden deciphered the message on the Poneglyph and wrote Roger's own message beside it. [Ch. 966, Ep. 966]
+After leaving Skypiea, the crew traveled to Water 7, and Roger learned en route about the Road Poneglyphs at Wano Country and Zou, now having information about all of them, including the copy he had from Big Mom and a hunch that the Sea Forest near Fish-Man Island held another one. The crew then continued sailing across the world and eventually reached Fish-Man Island, proving Roger's guess correct as they found the Road Poneglyph and learned the truth about Poseidon.
+Returning to the New World, the crew reached Wano Country and read the Road Poneglyph there. Around the same time, Oden's wife, Toki, became ill and decided to stay in Wano with their children, Momonosuke and Hiyori, and Oden's retainers, allowing Oden to finish his quest.
+Arriving at Zou, Roger used a recommendation from Nekomamushi in order to gain access to the Road Poneglyph in the Whale Tree.
+Following the directions, the Roger Pirates drew a course towards the final island, and according to Oden's log, they learned the truth about the Void Century, the Will of D., and the Ancient Weapons. They also found the treasure left there by Joy Boy. Upon reaching their destination, the Roger Pirates burst into laughter, causing Roger to name the island Laugh Tale, as news of his achievement spread throughout the world, earning him the title of the "Pirate King."
+
+##### The Demons of Ohara
+The researchers on Ohara decided to study their island's Poneglyph in an attempt to discover the missing history of the Blue Planet. However, they were limited by lack of access to and knowledge of the other Poneglyphs and thus sent out researchers to find more information on them, knowing the study of the Poneglyphs was illegal.
+Nico Olvia, along with thirty-three other archaeologists, set out to sea. Sadly, their attempt failed, and they were intercepted by the Marines, leaving Olvia as the sole survivor. The Marines found information among the belongings of the dead researchers that allowed them to trace the team back to Ohara, and a CP9 unit was sent to investigate. The World Government had always been wary of the archaeologists because of their knowledge, but researching the Poneglyphs meant they had an excuse to act against them. [Ch. 393, Ep. 276]
+Olvia escaped the Marines with the help of Jaguar D. Saul [Ch. 396, Ep. 277] and managed to return to Ohara in time to warn her comrades about the Marines heading their way. However, CP9 had already arrived on the island and a Buster Call attack commenced after Clou D. Clover revealed that he had discovered the knowledge held by the Poneglyph in the Tree of Knowledge. [Ch. 395, Ep. 277] Ohara was destroyed, wiping out the entire island and all of its inhabitants with the exception of Nico Robin, who managed to flee in the process, leaving the fate of the Ohara Poneglyph a mystery.
+During her time on the run, Robin deciphered at least one Poneglyph and constantly strove to find others.
+Vegapunk, a friend of Clover, secretly learned to read Poneglyphs by studying the documents and copies salvaged from Ohara's destruction.
+
+##### Nox Expedition Party/Pirate Mission
+Thirteen years ago, the Nox Expedition Party set sail from Zou as explorers in search of Poneglyphs for their master, Nekomamushi. However, as the research of Poneglyphs is considered a crime by the World Government, the party was labeled as criminals and became the Nox Pirates, with Pedro gaining a bounty. At some point, the crew suffered wounds and loss of morale, causing all members apart from the captain, Pedro, and crewmate Zepo to retire. Pekoms led those who could no longer continue on the journey, and their group ended up arriving in the territory of the Emperor Big Mom. Their lives were saved, and they were taken under her protection.
+Eight years later, Pedro and Zepo set their sights on Big Mom's Poneglyph and entered Totto Land, where they discovered Pekoms had joined her crew. Pedro and Zepo suffered a massive defeat. [Ch. 830, Ep. 790] Zepo spun Big Mom's roulette wheel and landed on a punishment of losing 100 years of life; however, he only had 30 left, so after killing him with her powers, Big Mom turned to Pedro to take the remaining 70. Pekoms convinced Big Mom to reduce the price, but she only went down a decade because she was mad at Pedro for taking Tamago's left eye, so Pedro removed his own left eye and claimed that he had to return to Zou in order to witness the "dawn of this world"; impressed by this, Big Mom took only 50 years off his lifespan. [Ch. 850, Ep. 816]
+
+#### Arabasta Saga
+
+##### Arabasta Arc
+Crocodile targeted the Arabasta Kingdom because of its Poneglyph, which contained information on the whereabouts of Pluton, and created the Baroque Works syndicate in an attempt to bring down the Arabasta Kingdom and claim Pluton, [Ch. 193, Ep. 117] employing Robin to read the Poneglyph. When Robin finally got the chance to read this Poneglyph, however, she lied about its contents, which caused Crocodile to turn against her because he no longer needed her. Due to the ferocious battle between Monkey D. Luffy and Crocodile, compounded by an attempt from King Nefertari Cobra to crush Crocodile underneath the rubble by displacing a pillar, [Ch. 203, Ep. 123] the Tomb of the Kings where the Poneglyph was held became unstable and began collapsing around them. [Ch. 210, Ep. 126] Luffy saved Robin and Cobra, but the Poneglyph was buried in the collapse.
+
+#### Sky Island Saga
+
+##### Skypiea Arc
+Robin joined the Straw Hat Pirates, claiming Luffy was responsible for her continued existence, and traveled with them to Skypiea where another Poneglyph was held. There was a wall in the Shandorian ruins cryptically describing the location of the Poneglyph in the same runes that the Poneglyphs themselves were inscribed with. The Poneglyph itself, located at the base of the Golden Belfry, contained details about Poseidon and a message written by Roger, telling further researchers to keep going forward. According to Gan Fall, he had no idea when or how Roger managed to reach the Poneglyph on top of Giant Jack. Robin informed the Shandia that their duty to protect the stone was over, freeing them from their ancestors' burden.
+
+#### Summit War Saga
+
+##### Sabaody Archipelago Arc
+At the Sabaody Archipelago, Roger's first mate, Silvers Rayleigh, mentioned to Robin during the Straw Hats' meeting with him that he knows what the Void Century is and that Roger solved the mysteries of the Poneglyphs; however, he also admitted that saying what it was would take away the impact or any further interpretations of the lost history, due to his crew not being proper historians like the Ohara archaeologists, before telling Robin to search out the Poneglyphs and draw her own conclusions regarding the lost history. Despite this, Rayleigh offered Robin the chance to hear the information from him, but she declined his offer and chose to continue to pursue the Poneglyphs herself.
+
+#### Fish-Man Island Saga
+
+##### Fish-Man Island Arc
+By the time the Straw Hat Pirates arrived at Fish-Man Island, its Road Poneglyph had been removed. After arriving at the Sea Forest, Robin read the lone Poneglyph there and discovered that it was engraved with an apology letter from a man known as Joy Boy to Poseidon. Upon Neptune learning she was a survivor of the Ohara Incident and could read Poneglyphs, he told Robin the story handed down through the Ryugu Kingdom royal family regarding Joy Boy.
+
+#### Whole Cake Island Saga
+
+##### Zou Arc
+When Jack and the Beasts Pirates invaded Zou to look for Raizo of Wano Country, the Mink Tribe chained him to the Road Poneglyph within the Whale Tree to keep him from showing himself. Seventeen days later, the Straw Hats, Trafalgar Law, and Raizo's samurai comrades freed him from the Poneglyph. When Robin noted its red color, Duke Inuarashi explained that it had a different purpose than the normal blue Poneglyphs did and gave her permission to read it.
+After Robin deciphered the Road Poneglyph, Inuarashi explained its purpose of revealing the location of Laugh Tale when its information was combined with that of the other three Road Poneglyphs.
+Cobra and his daughter Nefertari Vivi left Arabasta to attend Levely. [Ch. 822, Ep. 776] Despite his ill health, Cobra wished to attend because he planned to ask the World Government about Poneglyphs, a desire he has held ever since his encounter with Robin. [Ch. 823, Ep. 777]
+
+##### Whole Cake Island Arc
+Charlotte Linlin's Road Poneglyph became a target of interest for the Straw Hat Pirates when they invaded her country in order to retrieve Sanji from her clutches. Brook and Pedro underwent their own side operation to create a copy of the Poneglyph while the rest of the crew focused on Sanji, [Ch. 831, Ep. 791] and eventually, Brook was able to break into her Poneglyph storehouse and defeat her guards. [Ch. 849, Ep. 815] Linlin subdued him personally for this. After Brook was defeated, the Chess Soldiers did not find any copies in his clothes or items. Linlin recounted how she had failed to stop Roger from breaking into the very same room over twenty years ago to interpret the Poneglyph.
+Linlin also revealed that members of the Three-Eye Tribe have the potential to awaken the ability to "hear the Voice of All Things" just as Roger did, and currently, she is waiting for her daughter Charlotte Pudding (who is a human and three-eye hybrid) to awaken this ability and lead her to Laugh Tale.
+Despite having been defeated, Brook later revealed that he had successfully created copies of Linlin's three Poneglyphs and hidden them in his skull, so the Straw Hats then had access to the information of two of the Road Poneglyphs.
+
+#### Wano Country Saga
+
+##### Wano Country Arc
+After the infiltration at Orochi Castle, Brook informed Robin about the Poneglyph he found in the basement, and told her about its ordinary color, leading her to theorize that the Road Poneglyph was on Onigashima. During the Fire Festival at Onigashima, Law found a Poneglyph at level two below the base, but it was not a Road Poneglyph. When inspecting the Poneglyph in Orochi's castle, Robin told Kouzuki Sukiyaki that the Poneglyph in Arabasta revealed the location of Pluton to be in Wano Country.
+
+#### Final Saga
+
+##### Egghead Arc
+Following information leaking to the World Government of Vegapunk's research into the Poneglyphs, the Marines tasked over one hundred ships to go to Egghead. [Ch. 1076, Ep. 1108] At the same time, Blackbeard challenged Law for his Poneglyph copies [Ch. 1063, Ep. 1093] and Shanks defeated Eustass Kid, leading to him being handed Kid's Road Poneglyph copies.

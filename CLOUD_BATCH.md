@@ -9,12 +9,13 @@ Follow CLOUD_BATCH.md exactly.
 
 ---
 
-**Budget: about $5 for 20 scripts.** The first batch cost $15. Most of that was long agent loops that re-sent big
+**Budget: about $8-10 for 20 scripts** (Sonnet long writers since 2026-10-16). The first batch cost $15. Most of that was long agent loops that re-sent big
 contexts every turn, plus a separate fact-check round. Every rule below is there to cut turns and context.
 
 ## Models
 - You (main session, Haiku 5.5): plan, hand out IDs, push. Never write or review scripts yourself.
-- Writers: `model: "haiku"`. One writer per long video; it also writes the Shorts cut from it.
+- Writers: `model: "sonnet"` for every long video and deep dive (Haiku longs failed the editor gate 6 of 6 on
+  2026-10-16), `model: "haiku"` for Shorts. One writer per long video; it also writes the Shorts cut from it.
 - Editor: one `model: "sonnet"` pass per long video, reading only the finished script (no research).
 
 ## Steps
@@ -27,8 +28,9 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
 2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Haiku
    writer per long ID **in parallel** with: its IDs (the long + its Shorts as plan.py lists them: `<long-id>s1` and `<long-id>s2`; a `DEEP-DIVE` id gets WRITER.md's Sunday Deep Dive rules and `"deep": true`), its topic, the full topic list, and this
    brief:
-   > Read WRITER.md once. Research with **at most 6 WebSearch calls** and no WebFetch (the sentences you use must
-   > come from search results). Write the long JSON and notes with **one Write call each**, then each Short the same
+   > Read WRITER.md once. Research from the wiki packs: `data/wiki/INDEX.md`, then `grep -n` the packs for the
+   > facts and their [Ch. N] citations (WRITER.md section 4). Use **at most 4 WebSearch calls**, only for things newer
+   > than the packs, and no WebFetch. Write the long JSON and notes with **one Write call each**, then each Short the same
    > way, reusing the same research. Notes need Sources (3+ URLs from your searches), Angle, Self-review, and Fact
    > check (list each claim and the search result that supports it; drop any claim you couldn't support). Run
    > `python validate_script.py` on both and fix all errors in a single Edit per file. Don't touch pronounce.json or
