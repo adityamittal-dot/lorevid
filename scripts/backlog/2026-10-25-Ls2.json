@@ -1,0 +1,35 @@
+{
+  "id": "2026-10-25-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Hyogoro taught Luffy to send Armament Haki into an enemy's body",
+  "title": "Hyogoro Taught Luffy The Sharper Haki",
+  "description": "Hyogoro gave Luffy a sharper form of Armament Haki in Wano, and it changed how his defense became an attack. The full Haki teacher breakdown is linked above.",
+  "hashtags": ["#hyogoro", "#luffy", "#onepiece"],
+  "tags": ["hyogoro luffy haki", "luffy armament haki", "hyogoro wano", "who taught luffy haki", "haki explained", "one piece wano haki", "armament haki wano", "hyogoro haki technique"],
+  "hook_text": "THE SHARPER HAKI",
+  "music_mood": "hype",
+  "comment": "Was Hyogoro the real second teacher, or was he only finishing a lesson Rayleigh started?",
+  "related_long": "2026-10-25-L",
+  "pages": ["Hyogoro", "Monkey D. Luffy"],
+  "lines": [
+    {"text": "Luffy's Armament Haki used to just cover his fists. Then Hyogoro changed that.", "delivery": "normal", "fx": "none", "shot": {"search": "Hyogoro Luffy Armament Haki", "fallback": "anime style, samurai beside a young pirate in a Wano village"}},
+    {"text": "Sources say Hyogoro taught Luffy to send Armament Haki into an enemy's body.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Hyogoro Armament Haki technique", "fallback": "anime style, samurai focusing energy into his palm"}},
+    {"text": "That turns a defense into an attack, which is why this lesson matters.", "delivery": "punch", "fx": "shake", "shot": {"search": "Luffy Haki attack impact", "fallback": "anime style, fist sending a shockwave through a foe"}},
+    {"text": "Beebom links that internal technique to Ryuo, Hyogoro's move in Wano.", "delivery": "normal", "fx": "none", "shot": {"search": "Hyogoro Ryuo Wano", "fallback": "anime style, samurai in a sunlit Wano courtyard"}},
+    {"text": "The lesson came while Luffy was a prisoner in Udon, during the Wano arc.", "delivery": "normal", "fx": "none", "shot": {"search": "Hyogoro Udon Luffy", "fallback": "anime style, samurai speaking to a prisoner in a dark cell"}},
+    {"text": "Rayleigh gave Luffy the foundation, but Hyogoro gave him the sharper tool.", "delivery": "normal", "fx": "none", "shot": {"search": "Rayleigh Hyogoro Luffy", "fallback": "anime style, two mentors side by side with a young pirate"}},
+    {"text": "Here's my read: the sharpest Haki upgrade came from a teacher people forget.", "delivery": "normal", "fx": "none", "shot": {"search": "Hyogoro Luffy Haki", "fallback": "anime style, calm samurai with a knowing look"}},
+    {"text": "But was Hyogoro really the second teacher, or just the one who finished the lesson?", "delivery": "reveal", "fx": "none", "shot": {"search": "Hyogoro Luffy Wano", "fallback": "anime style, samurai turning to face a young pirate"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://comicbook.com/anime/list/every-teacher-who-trained-luffy-in-one-piece/",
+    "https://beebom.com/one-piece-haki-types-and-subforms-explained/amp/",
+    "https://fandomwire.com/best-one-piece-teachers-who-trained-luffy-ranked/",
+    "https://breezewiki.discard.no/onepiece/wiki/Haki"
+  ],
+  "self_check": {"hook": "Line 1 names Luffy and Armament Haki with the twist that Hyogoro changed it.", "loop": "The last line asks whether Hyogoro was the real second teacher, which leads back into the opening change.", "facts_verified": true}
+}
