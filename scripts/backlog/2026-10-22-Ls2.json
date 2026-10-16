@@ -1,0 +1,145 @@
+{
+ "id": "2026-10-22-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Franky's bet and Sogeking's keys freed Robin's Seastone cuffs at Enies Lobby",
+ "title": "Robin's Cuffs Were Real, But She Wasn't Alone",
+ "description": "Robin's Seastone cuffs were real, and Spandam had her. But Franky burned the Pluton blueprints, Sogeking stopped Spandam, and the keys came off. Here's why that rescue says more about Robin than the Navy's cage does.",
+ "hashtags": [
+  "#nicorobin",
+  "#onepiece",
+  "#franky"
+ ],
+ "tags": [
+  "nico robin enies lobby",
+  "franky pluton blueprints",
+  "sogeking kabuto spandam",
+  "robin seastone cuffs",
+  "one piece theory",
+  "enies lobby franky", "franky coup de boo", "robin rescue enies lobby", "sogeking keys", "one piece cp9"
+ ],
+ "hook_text": "THE KEYS MATTERED",
+ "music_mood": "epic",
+ "comment": "Was the Enies Lobby rescue the crew's win, or proof Robin was never really stuck? Pick one.",
+ "related_long": "2026-10-22-L",
+ "pages": [
+  "Nico Robin",
+  "Franky",
+  "Spandam",
+  "Sogeking"
+ ],
+ "lines": [
+  {
+   "text": "Robin's Seastone cuffs were real, and that's the part everyone forgets.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nico Robin Seastone cuffs",
+    "fallback": "woman in heavy cuffs on a tower"
+   }
+  },
+  {
+   "text": "Franky burned the Pluton blueprints in front of Spandam.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Franky Pluton blueprints",
+    "fallback": "cyborg with papers in flames"
+   }
+  },
+  {
+   "text": "Enraged, Spandam threw Franky off the balcony.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Spandam Franky balcony",
+    "fallback": "official shoving a cyborg off a tower"
+   }
+  },
+  {
+   "text": "That's when Sogeking stepped in.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sogeking Kabuto Spandam",
+    "fallback": "masked fighter in a tower"
+   }
+  },
+  {
+   "text": "He stopped Spandam with his Kabuto and saved Robin.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Sogeking Kabuto Spandam",
+    "fallback": "masked fighter swinging a blade"
+   }
+  },
+  {
+   "text": "The keys Sogeking threw freed her from those cuffs.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sogeking keys Robin cuffs",
+    "fallback": "masked fighter tossing keys"
+   }
+  },
+  {
+   "text": "Spandam had her, and he still lost the cage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Spandam Nico Robin tower",
+    "fallback": "official facing a woman on a tower"
+   }
+  },
+  {
+   "text": "Franky bet the world on the Straw Hats getting her out.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Franky Straw Hats Nico Robin rescue",
+    "fallback": "cyborg standing firm on a tower"
+   }
+  },
+  {
+   "text": "Robin wasn't the demon the rumors painted her as, and Franky knew it.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Franky tower",
+    "fallback": "woman and cyborg standing together"
+   }
+  },
+  {
+   "text": "So Robin wasn't saved from a cage. She was already walking out of it.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nico Robin walking out",
+    "fallback": "woman stepping away from a cell"
+   }
+  },
+  {
+   "text": "Everyone forgets the cuffs were real, so the crew had to come get her.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats Nico Robin Enies Lobby",
+    "fallback": "pirate crew arriving on a tower"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://animeandmangauniverse.fandom.com/wiki/File:Franky_vs._PX-4.png",
+  "https://www.fernsehserien.de/one-piece/episodenguide/staffel-8/10912/2",
+  "https://criticalhits.com.br/anime/one-piece-resumo-do-arco-de-enies-lobby/"
+ ],
+ "self_check": {
+  "hook": "line 1 names Robin's cuffs and sets up the rescue",
+  "loop": "last line leads back into the cuffs line that opens the Short",
+  "facts_verified": true
+}
+}
