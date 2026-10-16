@@ -62,6 +62,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Egghead_Arc.md` | 60k | 48 |
 | onepiece | `data/wiki/onepiece/Elbaph.md` | 32k | 105 |
 | onepiece | `data/wiki/onepiece/Elbaph_Arc.md` | 60k | 77 |
+| onepiece | `data/wiki/onepiece/Enel.md` | 39k | 108 |
 | onepiece | `data/wiki/onepiece/Enies_Lobby_Arc.md` | 44k | 128 |
 | onepiece | `data/wiki/onepiece/Eustass_Kid.md` | 60k | 178 |
 | onepiece | `data/wiki/onepiece/Figarland_Garling.md` | 21k | 34 |
@@ -71,7 +72,9 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/God_Valley_Incident.md` | 17k | 33 |
 | onepiece | `data/wiki/onepiece/Gol_D._Roger.md` | 54k | 160 |
 | onepiece | `data/wiki/onepiece/Gomu_Gomu_no_Mi.md` | 21k | 58 |
+| onepiece | `data/wiki/onepiece/Goro_Goro_no_Mi.md` | 26k | 84 |
 | onepiece | `data/wiki/onepiece/Haki.md` | 9k | 67 |
+| onepiece | `data/wiki/onepiece/Hyougoro.md` | 24k | 126 |
 | onepiece | `data/wiki/onepiece/Impel_Down_Arc.md` | 60k | 40 |
 | onepiece | `data/wiki/onepiece/Jinbe.md` | 6k | 10 |
 | onepiece | `data/wiki/onepiece/Joy_Boy.md` | 10k | 56 |
@@ -103,6 +106,8 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Shanks.md` | 53k | 214 |
 | onepiece | `data/wiki/onepiece/Shepherd_Sommers.md` | 24k | 48 |
 | onepiece | `data/wiki/onepiece/Shirahoshi.md` | 37k | 131 |
+| onepiece | `data/wiki/onepiece/Skypiea_Arc.md` | 30k | 147 |
+| onepiece | `data/wiki/onepiece/Smoker.md` | 37k | 116 |
 | onepiece | `data/wiki/onepiece/Thriller_Bark_Arc.md` | 55k | 148 |
 | onepiece | `data/wiki/onepiece/Tony_Tony_Chopper.md` | 7k | 5 |
 | onepiece | `data/wiki/onepiece/Trafalgar_D._Water_Law.md` | 7k | 26 |
