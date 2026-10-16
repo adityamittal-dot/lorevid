@@ -31,3 +31,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Sukuna Saved Megumi Because He Wanted His Body (https://youtu.be/UBJ9chCl83o) -> related video: Why Megumi Was Always Going to Lose Sukuna's Shikigami Trap (https://youtu.be/JnktEyahN8A)
 - [ ] Blackbeard Raided Drum For Chopper's Fruit (https://youtu.be/XlHyah3AN2k) -> related video: Blackbeard Raided Drum Island For Chopper (1177) (https://youtu.be/dHwTU31_KnM)
 - [ ] Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E) -> thumbnail B saved at output/2026-10-17-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI) -> thumbnail B saved at output/2026-10-17-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare

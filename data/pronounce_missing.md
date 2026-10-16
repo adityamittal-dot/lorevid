@@ -59,3 +59,5 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Bagua (2026-10-17-L)
 - Seiryu (2026-10-17-L)
 - Uo (2026-10-17-L)
+- Humandrills (2026-10-17-L2)
+- Kozuki (2026-10-17-L2)
