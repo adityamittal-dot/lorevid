@@ -3,143 +3,163 @@
  "format": "short",
  "series": "onepiece",
  "wiki": "onepiece.fandom.com",
- "topic": "Franky's bet and Sogeking's keys freed Robin's Seastone cuffs at Enies Lobby",
- "title": "Robin's Cuffs Were Real, But She Wasn't Alone",
- "description": "Robin's Seastone cuffs were real, and Spandam had her. But Franky burned the Pluton blueprints, Sogeking stopped Spandam, and the keys came off. Here's why that rescue says more about Robin than the Navy's cage does.",
+ "topic": "Luffy burned the World Government flag to make Robin say she wants to live, the answer to her fear of being a burden",
+ "title": "Luffy Burned That Flag For One Sentence",
+ "description": "At Enies Lobby, Sogeking burned the World Government flag so Robin would say one sentence. Here's why that scene answers the fear that made her walk through Blueno's door.",
  "hashtags": [
   "#nicorobin",
-  "#onepiece",
-  "#franky"
+  "#luffy",
+  "#onepiece"
  ],
  "tags": [
-  "nico robin enies lobby",
-  "franky pluton blueprints",
-  "sogeking kabuto spandam",
-  "robin seastone cuffs",
+  "luffy enies lobby",
+  "nico robin i want to live",
+  "sogeking flag",
+  "one piece declaration of war",
   "one piece theory",
-  "enies lobby franky", "franky coup de boo", "robin rescue enies lobby", "sogeking keys", "one piece cp9"
+  "nico robin theory",
+  "enies lobby flag",
+  "one piece robin"
  ],
- "hook_text": "THE KEYS MATTERED",
- "music_mood": "epic",
- "comment": "Was the Enies Lobby rescue the crew's win, or proof Robin was never really stuck? Pick one.",
+ "hook_text": "ONE SENTENCE",
+ "music_mood": "emotional",
+ "comment": "Was burning the flag Luffy's smartest move or just his loudest? Pick one.",
  "related_long": "2026-10-22-L",
  "pages": [
   "Nico Robin",
-  "Franky",
-  "Spandam",
-  "Sogeking"
+  "Monkey D. Luffy",
+  "Sogeking",
+  "Spandam"
  ],
  "lines": [
   {
-   "text": "Robin's Seastone cuffs were real, and that's the part everyone forgets.",
+   "text": "Luffy had Sogeking burn the World Government flag to get one sentence out of Robin.",
    "delivery": "punch",
    "fx": "zoom",
    "shot": {
-    "search": "Nico Robin Seastone cuffs",
-    "fallback": "woman in heavy cuffs on a tower"
+    "search": "Luffy Sogeking flag Enies Lobby",
+    "fallback": "boy pointing at a flag on a tower"
    }
   },
   {
-   "text": "Franky burned the Pluton blueprints in front of Spandam.",
-   "delivery": "normal",
-   "fx": "flash",
-   "shot": {
-    "search": "Franky Pluton blueprints",
-    "fallback": "cyborg with papers in flames"
-   }
-  },
-  {
-   "text": "Enraged, Spandam threw Franky off the balcony.",
-   "delivery": "normal",
-   "fx": "shake",
-   "shot": {
-    "search": "Spandam Franky balcony",
-    "fallback": "official shoving a cyborg off a tower"
-   }
-  },
-  {
-   "text": "That's when Sogeking stepped in.",
+   "text": "Robin has just told everyone she's a burden.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Sogeking Kabuto Spandam",
-    "fallback": "masked fighter in a tower"
+    "search": "Nico Robin burden Enies Lobby",
+    "fallback": "woman crying on a bridge"
    }
   },
   {
-   "text": "He stopped Spandam with his Kabuto and saved Robin.",
+   "text": "She's been betrayed so many times that she expects the Straw Hats to be next.",
    "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Straw Hats betrayed",
+    "fallback": "woman afraid of her crew"
+   }
+  },
+  {
+   "text": "He points at the flag and says over 170 nations are after her.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Spandam Tower of Justice flag",
+    "fallback": "official pointing at a flag"
+   }
+  },
+  {
+   "text": "Luffy doesn't argue. He tells Sogeking to shoot it.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy tells Sogeking shoot flag",
+    "fallback": "boy pointing at a flag"
+   }
+  },
+  {
+   "text": "The flag burns, and the Straw Hats have just declared war on the World Government.",
+   "delivery": "reveal",
    "fx": "shake",
    "shot": {
-    "search": "Sogeking Kabuto Spandam",
-    "fallback": "masked fighter swinging a blade"
+    "search": "Enies Lobby flag burns declaration of war",
+    "fallback": "flag on fire above a tower"
    }
   },
   {
-   "text": "The keys Sogeking threw freed her from those cuffs.",
+   "text": "Luffy says he can take it, then tells her to admit she wants to live.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Robin I want to live",
+    "fallback": "boy shouting at a woman"
+   }
+  },
+  {
+   "text": "Here's my read: he isn't rescuing her. He's making her enemy theirs.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats Nico Robin war government",
+    "fallback": "pirate crew standing together"
+   }
+  },
+  {
+   "text": "Only then does she cry and ask them to take her out to sea.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin I want to live",
+    "fallback": "woman crying and reaching out"
+   }
+  },
+  {
+   "text": "People say it was just a loud stunt.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Enies Lobby declaration",
+    "fallback": "boy yelling at a tower"
+   }
+  },
+  {
+   "text": "But it's the one thing that answers a fear of being a burden.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Sogeking keys Robin cuffs",
-    "fallback": "masked fighter tossing keys"
+    "search": "Nico Robin burden answer",
+    "fallback": "woman watching her crew"
    }
   },
   {
-   "text": "Spandam had her, and he still lost the cage.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Spandam Nico Robin tower",
-    "fallback": "official facing a woman on a tower"
-   }
-  },
-  {
-   "text": "Franky bet the world on the Straw Hats getting her out.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Franky Straw Hats Nico Robin rescue",
-    "fallback": "cyborg standing firm on a tower"
-   }
-  },
-  {
-   "text": "Robin wasn't the demon the rumors painted her as, and Franky knew it.",
+   "text": "Because to Robin, a burden is someone nobody would burn a flag for.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Nico Robin Franky tower",
-    "fallback": "woman and cyborg standing together"
+    "search": "Nico Robin tears Straw Hats",
+    "fallback": "woman crying beside her crew"
    }
   },
   {
-   "text": "So Robin wasn't saved from a cage. She was already walking out of it.",
-   "delivery": "punch",
-   "fx": "zoom",
-   "shot": {
-    "search": "Nico Robin walking out",
-    "fallback": "woman stepping away from a cell"
-   }
-  },
-  {
-   "text": "Everyone forgets the cuffs were real, so the crew had to come get her.",
+   "text": "That's why Luffy burned that flag to get one sentence out of Robin.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Straw Hats Nico Robin Enies Lobby",
-    "fallback": "pirate crew arriving on a tower"
+    "search": "Sogeking flag burning Robin",
+    "fallback": "flag burning above a crying woman"
    }
   }
  ],
  "chapters": [],
  "thumbnail": null,
  "sources": [
-  "https://animeandmangauniverse.fandom.com/wiki/File:Franky_vs._PX-4.png",
-  "https://www.fernsehserien.de/one-piece/episodenguide/staffel-8/10912/2",
-  "https://criticalhits.com.br/anime/one-piece-resumo-do-arco-de-enies-lobby/"
+  "https://onepiece.fandom.com/wiki/Enies_Lobby_Arc",
+  "https://onepiece.fandom.com/wiki/Nico_Robin",
+  "https://onepiece.fandom.com/wiki/CP9"
  ],
  "self_check": {
-  "hook": "line 1 names Robin's cuffs and sets up the rescue",
-  "loop": "last line leads back into the cuffs line that opens the Short",
+  "hook": "line 1 names Luffy and the flag payoff",
+  "loop": "last line restates line 1 as a conclusion that leads into it",
   "facts_verified": true
-}
+ }
 }

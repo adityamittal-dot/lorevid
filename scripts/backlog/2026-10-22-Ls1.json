@@ -4,133 +4,180 @@
  "series": "onepiece",
  "wiki": "onepiece.fandom.com",
  "topic": "Robin walked through Blueno's door on purpose because of the Buster Call that erased her homeland",
- "title": "Robin Walked Into That Cage On Purpose",
- "description": "Nico Robin didn't simply get dragged away at Enies Lobby. Blueno offered her a door, and the Buster Call that erased her homeland when she was eight is why she took it. Here's my theory on why that choice matters.",
+ "title": "Robin Walked Through Blueno's Door On Purpose",
+ "description": "Nico Robin was never dragged through Blueno's door in chapter 374. I think the Buster Call that erased Ohara when she was eight is why she stepped in herself. Here's the evidence.",
  "hashtags": [
   "#nicorobin",
   "#onepiece",
   "#anime"
  ],
  "tags": [
-  "nico robin enies lobby",
+  "nico robin",
   "robin blueno door",
-  "robin buster call",
+  "robin ohara buster call",
+  "one piece enies lobby",
   "one piece theory",
-  "cp9 robin fear",
-  "one piece enies lobby", "robin ohara", "robin walked into cage", "blueno one piece", "nico robin theory"
+  "nico robin theory",
+  "robin chapter 374",
+  "cp9 robin"
  ],
- "hook_text": "SHE WALKED IN",
+ "hook_text": "SHE CHOSE IT",
  "music_mood": "suspense",
- "comment": "Was Robin forced through Blueno's door, or did she choose it to protect her crew? Pick one.",
+ "comment": "Did Robin step through Blueno's door to protect her crew, or because Ohara taught her to leave first? Pick one.",
  "related_long": "2026-10-22-L",
  "pages": [
   "Nico Robin",
   "Blueno",
-  "CP9"
+  "CP9",
+  "Ohara"
  ],
  "lines": [
   {
-   "text": "Nico Robin walked into CP9's door on purpose.",
+   "text": "Nico Robin walked through Blueno's door on purpose.",
    "delivery": "punch",
    "fx": "zoom",
    "shot": {
     "search": "Nico Robin Blueno door",
-    "fallback": "woman stepping through a train door"
+    "fallback": "woman stepping through a glowing door"
    }
   },
   {
-   "text": "Sanji and Sogeking were begging her to come back.",
+   "text": "In chapter 374, the escape falls apart and Robin gives herself up.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Sanji Sogeking Robin come back",
-    "fallback": "two pirates pleading with a woman"
+    "search": "Nico Robin Water 7 train",
+    "fallback": "woman at a train edge"
    }
   },
   {
-   "text": "Blueno didn't drag her. He reminded her of Ohara.",
+   "text": "Blueno's Door Door Fruit turns anything he touches into a door.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Blueno Nico Robin past",
-    "fallback": "agent speaking to a frightened woman"
+    "search": "Blueno Door Door Fruit",
+    "fallback": "agent making a door in a wall"
    }
   },
   {
-   "text": "The Buster Call erased her homeland when she was eight.",
-   "delivery": "reveal",
-   "fx": "flash",
+   "text": "But he never has to force a woman who walks in by herself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blueno Nico Robin door",
+    "fallback": "agent holding a door open"
+   }
+  },
+  {
+   "text": "In the anime, episode 263, Blueno brings up her past.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blueno Robin past",
+    "fallback": "agent speaking to a woman"
+   }
+  },
+  {
+   "text": "He talks about the Buster Call that wiped an island off the map.",
+   "delivery": "normal",
+   "fx": "shake",
    "shot": {
     "search": "Buster Call Ohara destroyed",
     "fallback": "warships bombarding an island"
    }
   },
   {
-   "text": "Twenty years later, CP9 agents from that invasion stood right in front of her.",
-   "delivery": "normal",
-   "fx": "zoom",
+   "text": "That island was Ohara, and Robin was eight years old.",
+   "delivery": "reveal",
+   "fx": "flash",
    "shot": {
-    "search": "CP9 Ohara invasion agents",
-    "fallback": "shadowy agents in suits on a ship"
+    "search": "Nico Robin Ohara child",
+    "fallback": "young girl on a shore"
    }
   },
   {
-   "text": "That's the part most fans skip over.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Nico Robin fear",
-    "fallback": "woman with a scared expression"
-   }
-  },
-  {
-   "text": "Fear is a chain, but it's also a choice she made.",
-   "delivery": "slow",
-   "fx": "none",
-   "shot": {
-    "search": "Nico Robin doorway",
-    "fallback": "woman silhouetted in a doorway"
-   }
-  },
-  {
-   "text": "Her crew didn't lose her to a cage.",
+   "text": "Here's my read: that wasn't a threat. It was a memory.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Straw Hats Nico Robin train",
-    "fallback": "pirate crew watching a train leave"
+    "search": "Nico Robin memory Ohara",
+    "fallback": "woman remembering a burning island"
    }
   },
   {
-   "text": "They lost her to a memory she couldn't outrun.",
+   "text": "People say she was only protecting the crew.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats Nico Robin Water 7",
+    "fallback": "pirate crew looking worried"
+   }
+  },
+  {
+   "text": "But at Enies Lobby, in chapter 389, she tells Luffy she doesn't want to be saved.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin refuses Luffy",
+    "fallback": "woman turning away from a boy"
+   }
+  },
+  {
+   "text": "Chapters 391 and 392 give the real reason: she's terrified of being a burden.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin burden betrayed",
+    "fallback": "woman afraid of rejection"
+   }
+  },
+  {
+   "text": "That isn't a plan. That's fear.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Nico Robin memory flashback",
-    "fallback": "young girl on a burning shore"
+    "search": "Nico Robin tears Enies Lobby",
+    "fallback": "woman crying on a tower"
    }
   },
   {
-   "text": "Which is why Nico Robin walked through that door without ever being truly caught.",
+   "text": "Ohara taught her to leave before anyone could take things from her.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
+    "search": "Nico Robin leaving",
+    "fallback": "woman leaving a crew"
+   }
+  },
+  {
+   "text": "A door felt like the one choice she controlled.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
     "search": "Nico Robin walking door",
-    "fallback": "woman walking through a doorway"
+    "fallback": "woman walking toward a door"
+   }
+  },
+  {
+   "text": "And that's why Nico Robin walked through Blueno's door on purpose.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Blueno door",
+    "fallback": "woman stepping through a door at dusk"
    }
   }
  ],
  "chapters": [],
  "thumbnail": null,
  "sources": [
-  "https://daddyjim.ai/es/one-piece/manga-chapter/Chapter-374",
-  "https://www.thetvdb.com/series/one-piece/episodes/362180",
-  "https://thetvdb.com/series/one-piece/episodes/362181",
-  "https://www.fernsehserien.de/one-piece/episodenguide/staffel-8/10912/2"
+  "https://onepiece.fandom.com/wiki/CP9",
+  "https://daddyjim.ai/one-piece/manga-chapter/Chapter-374",
+  "https://onepiece.fandom.com/wiki/Nico_Robin"
  ],
  "self_check": {
-  "hook": "line 1 names Robin and claims she walked through the door on purpose",
-  "loop": "last line leads back into line 1 about walking through the door",
+  "hook": "line 1 names Robin and the claim in under 2 seconds",
+  "loop": "last line completes the sentence that line 1 opens",
   "facts_verified": true
  }
 }
