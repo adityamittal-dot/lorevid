@@ -1,0 +1,39 @@
+{
+  "id": "2026-10-24-Ls2",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "Naruto beats Pain by refusing to keep the hate going, not by out-hurting him",
+  "title": "Naruto Beat Pain Without Out-Hurting Him",
+  "description": "Pain's whole argument was that hurt is the teacher, so a fair fight would have been Naruto matching that hurt. He didn't. He looked at Nagato, saw the same pain behind the plan, and refused to keep the hate going. Which memory would you build a world on?",
+  "hashtags": ["#naruto", "#pain", "#nagato"],
+  "tags": ["naruto vs pain", "pain naruto peace", "naruto nagato", "naruto pain theory", "naruto shippuden pain arc", "jiraiya naruto", "naruto pain fight", "naruto peace theory", "naruto nagato talk"],
+  "hook_text": "NOT BY HURTING HIM",
+  "music_mood": "emotional",
+  "comment": "Was Naruto's answer to Pain the stronger peace, or just a slower route to the same violence? Pick one.",
+  "related_long": "2026-10-24-L",
+  "pages": ["Nagato", "Naruto Uzumaki", "Jiraiya"],
+  "lines": [
+    {"text": "Naruto never beat Pain by out-hurting him.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Naruto Uzumaki Pain battle", "fallback": "two ninja clashing in a rainy battlefield"}},
+    {"text": "That's the detail most fans skip past.", "delivery": "normal", "fx": "none", "shot": {"search": "Naruto Uzumaki Pain close", "fallback": "two ninja standing close in dim light"}},
+    {"text": "Pain's whole argument is that hurt is the teacher.", "delivery": "normal", "fx": "none", "shot": {"search": "Pain Nagato Six Paths", "fallback": "six pale figures standing in formation"}},
+    {"text": "So a fair fight would have been Naruto matching that hurt, blow for blow.", "delivery": "normal", "fx": "none", "shot": {"search": "Naruto Uzumaki Rasengan Pain", "fallback": "young ninja charging a glowing chakra sphere"}},
+    {"text": "He doesn't stoop to that, and the story lets him win without it.", "delivery": "reveal", "fx": "none", "shot": {"search": "Naruto Uzumaki Nagato face", "fallback": "young ninja looking steadily at a grieving figure"}},
+    {"text": "He looks at Nagato and sees the same pain that drove the whole plan.", "delivery": "slow", "fx": "none", "shot": {"search": "Naruto Uzumaki Nagato talk", "fallback": "two ninja talking quietly in the rain"}},
+    {"text": "That's the move that breaks Pain's logic.", "delivery": "normal", "fx": "none", "shot": {"search": "Naruto Uzumaki Pain Konoha", "fallback": "two ninja silhouettes against a village"}},
+    {"text": "Naruto refuses to keep the hate going, and that's a choice, not a power level.", "delivery": "normal", "fx": "none", "shot": {"search": "Naruto Uzumaki serious face", "fallback": "young ninja with a steady gaze"}},
+    {"text": "Jiraiya's teaching is the foundation of that choice.", "delivery": "normal", "fx": "none", "shot": {"search": "Jiraiya Naruto training", "fallback": "old ninja teacher with a young student"}},
+    {"text": "Pain was right that people remember costs.", "delivery": "normal", "fx": "none", "shot": {"search": "Pain Nagato Konoha ruins", "fallback": "ruined village with smoke rising"}},
+    {"text": "Naruto's answer is that people remember kindness too.", "delivery": "normal", "fx": "none", "shot": {"search": "Konoha villagers Naruto Uzumaki", "fallback": "villagers gathered with a young ninja"}},
+    {"text": "Which memory would you build a world on?", "delivery": "slow", "fx": "none", "shot": {"search": "Naruto Uzumaki Konoha village", "fallback": "young ninja overlooking a village"}},
+    {"text": "That's why Naruto never needed to hurt Pain to beat him.", "delivery": "reveal", "fx": "none", "shot": {"search": "Naruto Uzumaki Sage Mode", "fallback": "young ninja in orange jacket walking forward"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://www.flicks.com.au/tv/naruto-shippden-season-8/",
+    "https://www.sportskeeda.com/anime/naruto-why-pain-s-philosophy-does-not-work",
+    "https://myanimelist.net/character/3180"
+  ],
+  "self_check": {"hook": "Line 1 states the Naruto-did-not-out-hurt-Pain claim.", "loop": "The last line leads back into the first line's claim.", "facts_verified": true}
+}
