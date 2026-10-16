@@ -32,3 +32,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Blackbeard Raided Drum For Chopper's Fruit (https://youtu.be/XlHyah3AN2k) -> related video: Blackbeard Raided Drum Island For Chopper (1177) (https://youtu.be/dHwTU31_KnM)
 - [ ] Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E) -> thumbnail B saved at output/2026-10-17-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI) -> thumbnail B saved at output/2026-10-17-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Zoro's Haki Came From A Sword, Not A Teacher (https://youtu.be/TlbN6-gSdzc) -> related video: Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI)
