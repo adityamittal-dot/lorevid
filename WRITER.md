@@ -245,7 +245,7 @@ Our voice is synthetic, and fans scroll straight past AI-voice slop. The only wa
 
 **Before pushing, ask for each Short**: would a fan who has read every chapter learn something, or want to argue? If neither, rewrite it.
 
-### Long Video Rules (12-15 min, 2450-3000 words, 110-300 lines)
+### Long Video Rules (12-15 min, 2300-3000 words, 110-300 lines)
 What wins in long form right now (studied 2026-10-02): Facadify, "What If Luffy Was Raised By Joy Boy?" (233k views in
 6 days, 17 min); Strawhatists, "What If Luffy, Ace & Sabo Were Reborn With Their Memories" (140k, 15 min);
 GrandLineReview, "The Rules Just Changed... (1194)" (538k) and "Imu is a PARROT!" (443k, 17 min). The two What If
@@ -314,8 +314,8 @@ channels are faceless narrated stories like ours and grew past 100k subscribers 
   in the first 5-10 s).
 
 ### Sunday Deep Dive (`DEEP-DIVE` in plan.py; set `"deep": true` in the script)
-Watch hours come from long sessions. Once a week the long is a **26-36 minute deep dive** (`channel.json`
-`formats.deep`: 5200-7200 words, 230-700 lines, at least 8 chapters) on one big **evergreen search topic**: the
+Watch hours come from long sessions. Once a week the long is a **25-36 minute deep dive** (`channel.json`
+`formats.deep`: 5000-7200 words, 230-700 lines, at least 8 chapters) on one big **evergreen search topic**: the
 thing people type into YouTube ("Imu Explained", "Every Gear Of Luffy Explained", "The Will Of D Explained", "The
 Uchiha Clan's Full History", "Sukuna's Full Power Explained"). Pick it from `data/community.md`'s "Evergreen search
 topics" list. Rules:
@@ -326,6 +326,8 @@ topics" list. Rules:
   search; every chapter opens on its own mini-hook and ends on a re-hook.
 - Title: the plain search phrase first, then the hook (`Imu Explained: The Ruler Who Can't Leave His Throne`),
   <= 70 characters. Tags: the search phrase variants.
+- **Never pad to the word floor.** A repeated or restated line is rejected by the validator (first 8 words
+  matching an earlier line). If you're short, add a new piece of cited evidence from the packs.
 
 **Opening archetypes** (pick one; don't reuse the same archetype as the previous long — record which one you used
 in `notes/<id>.md` so the next session can check):

@@ -407,6 +407,17 @@ def main():
         if p.get("deep") and len(chapters_l) < 8:
             err.append(f"deep dive needs at least 8 chapters (got {len(chapters_l)})")
 
+        # Padding check (2026-10-16 audit: a deep dive repeated 3 lines word for word to reach its word floor).
+        seen_open = {}
+        for i, ln in enumerate(lines):
+            if not isinstance(ln, dict):
+                continue
+            key = " ".join(str(ln.get("text", "")).lower().split()[:8])
+            if len(key.split()) >= 6 and key in seen_open:
+                err.append(f"line {i+1} repeats line {seen_open[key]+1} ('{key}...'); cut it or replace it with new "
+                           f"evidence. Never pad to the word floor")
+            seen_open.setdefault(key, i)
+
         # The last line is the payoff, never a sign-off.
         if lines and isinstance(lines[-1], dict):
             last_text = str(lines[-1].get("text", ""))

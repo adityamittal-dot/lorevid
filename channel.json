@@ -148,25 +148,25 @@
     },
     "long": {
       "words": [
-        2450,
+        2300,
         3000
       ],
       "lines": [
         110,
         300
       ],
-      "note": "12-15 min (~200 wpm, 2450-3000 words): analysis/theory breakdown by default, What If at most 1 in 3; deliver the title's promise in the first 10 s"
+      "note": "11.5-15 min (~200 wpm, 2300-3000 words): analysis/theory breakdown by default, What If at most 1 in 3; deliver the title's promise in the first 10 s"
     },
     "deep": {
       "words": [
-        5200,
+        5000,
         7200
       ],
       "lines": [
         230,
         700
       ],
-      "note": "Sunday deep dive, 26-36 min: one big evergreen search topic explained end to end (e.g. 'Imu Explained'), 8-12 chapters"
+      "note": "Sunday deep dive, 25-36 min: one big evergreen search topic explained end to end (e.g. 'Imu Explained'), 8-12 chapters"
     }
   },
   "voice_blend": {

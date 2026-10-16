@@ -1,2595 +1,2559 @@
 {
- "id": "2026-10-25-L",
- "format": "long",
- "deep": true,
- "series": "onepiece",
- "wiki": "onepiece.fandom.com",
- "topic": "Garp trained Luffy's body years before Rayleigh taught him Haki",
- "title": "Who Taught Luffy Haki? Garp Built The Body First",
- "description": "Who taught Luffy Haki? Most fans say Rayleigh, some say Hyogoro, and almost nobody counts Garp. This deep dive follows every teacher in order, from Foosha Village to Rusukaina to the Wano prison mine, and argues that Garp's brutal childhood training is the reason the rest of it worked.\n\n0:00 Who Taught Luffy Haki\n0:30 The Teacher Nobody Counts\n2:48 A Word Nobody Said\n6:30 The Marine Pipeline\n8:45 Shanks Lit The Fuse\n11:02 The Auction House Stranger\n12:38 Two Years On Rusukaina\n14:55 The Lesson Under The Lesson\n17:31 The Student Who Left\n19:17 The Surprise Teacher\n21:39 The Hole In My Theory\n24:02 The Verdict\n\nWho do you think deserves the most credit for Luffy's Haki: Garp, Rayleigh or Hyogoro?",
- "hashtags": [
-  "#luffy",
-  "#garp",
-  "#onepiece",
-  "#haki"
- ],
- "tags": [
-  "who taught luffy haki",
-  "luffy haki explained",
-  "garp trained luffy",
-  "rayleigh luffy training",
-  "luffy haki teachers",
-  "one piece haki explained",
-  "garp luffy childhood",
-  "hyogoro luffy haki",
-  "monkey d garp haki",
-  "luffy rusukaina training",
-  "one piece theory",
-  "one piece deep dive"
- ],
- "hook_text": "WHO TAUGHT HIM?",
- "music_mood": "epic",
- "comment": "Who deserves more credit for Luffy's Haki: Garp, who built the body and the stubbornness first, or Rayleigh, who actually unlocked it?",
- "related_long": null,
- "pages": [
-  "Monkey D. Luffy",
-  "Monkey D. Garp",
-  "Silvers Rayleigh",
-  "Haki",
-  "Hyogoro"
- ],
- "lines": [
-  {
-   "text": "Who taught Luffy Haki? Rayleigh did, but the first teacher was Garp, and he never said the word.",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy young",
-    "fallback": "anime style, old marine looming over a small boy"
-   }
-  },
-  {
-   "text": "Garp dropped him in a pit, abandoned him in a jungle at night, and tied him to balloons.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy training",
-    "fallback": "anime style, boy tied to a balloon over a forest"
-   }
-  },
-  {
-   "text": "None of that is Haki. But I think it's the only reason Rayleigh's training didn't break him.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Luffy Haki Rayleigh",
-    "fallback": "anime style, pirate captain with glowing aura"
-   }
-  },
-  {
-   "text": "So how much of Luffy's Haki is Rayleigh's, and how much was already waiting from childhood?",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Rusukaina Rayleigh",
-    "fallback": "anime style, mentor and pupil on a wild island"
-   }
-  },
-  {
-   "text": "Stay for four teachers, a hidden Marine pipeline, and one lesson in Wano that Rayleigh never taught...",
-   "delivery": "reveal",
-   "fx": "zoom",
-   "shot": {
-    "search": "Monkey D. Garp Fist of Love Luffy",
-    "fallback": "anime style, big fist coming down on a boy"
-   }
-  },
-  {
-   "text": "But the strangest thing Garp ever did to him wasn't a lesson. It was a drop...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy balloon",
-    "fallback": "anime style, boy tied to a balloon high above the sea"
-   }
-  },
-  {
-   "text": "Garp is Luffy's grandfather, chapter 431, and Luffy says he almost ended him several times, always as an excuse to make him tough.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Dragon Luffy family",
-    "fallback": "anime style, three generations of one family"
-   },
-   "card": "CHAPTER 431"
-  },
-  {
-   "text": "Garp believes throwing children into harsh conditions is what makes them strong. That is his whole philosophy.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Roger Hero of the Marines",
-    "fallback": "anime style, marine hero facing a pirate king"
-   }
-  },
-  {
-   "text": "The methods are on record. First, a bottomless pit. Then the jungle, alone, in the middle of the night.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy Foosha Village",
-    "fallback": "anime style, old marine and a boy on a village path"
-   }
-  },
-  {
-   "text": "And he ties him to balloons and sends him flying through the sky.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp personality children",
-    "fallback": "anime style, stern old marine"
-   }
-  },
-  {
-   "text": "None of that is Haki, and I won't pretend it is. This video is an argument, not a rumor.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp serious",
-    "fallback": "anime style, narrator pointing at a chalkboard"
-   }
-  },
-  {
-   "text": "It is the thing the wiki says Garp believes in: build the person first, and everything else follows.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy toughness",
-    "fallback": "anime style, boy standing back up after a fall"
-   }
-  },
-  {
-   "text": "And it wasn't a one-off. Garp trained Ace and Sabo too, and nobody asked them either.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy Ace Sabo",
-    "fallback": "anime style, three boys with an old marine"
-   }
-  },
-  {
-   "text": "Sabo even noted that Garp tried to keep the three brothers on a short leash, chapter 794. That's a program, not a punishment.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Sabo Ace Luffy brothers",
-    "fallback": "anime style, three brothers sharing a drink"
-   },
-   "card": "CHAPTER 794"
-  },
-  {
-   "text": "The wiki's own summary says Garp trained Luffy and Ace to be strong enough to set sail on their own.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy sets sail Dawn Island",
-    "fallback": "anime style, boy leaving in a tiny boat"
-   }
-  },
-  {
-   "text": "Think about that. A boy who ate a rubber fruit leaves home at seventeen and survives the sea.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy leaves Foosha Village boat",
-    "fallback": "anime style, boy in a tiny boat on open sea"
-   }
-  },
-  {
-   "text": "That is not luck. Somebody spent years making sure the boy could take a beating and keep walking.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Dadan Mountain Bandits training",
-    "fallback": "anime style, boy fighting bandits in a forest"
-   }
-  },
-  {
-   "text": "And notice the kind of kid it was: one who would not stay down, no matter who dropped him.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Dadan Mountain Bandits training",
-    "fallback": "anime style, boy fighting bandits in a forest"
-   }
-  },
-  {
-   "text": "Garp also parked Luffy with Curly Dadan, and he basically blackmailed her into being a foster mother.",
-   "delivery": "aside",
-   "fx": "none",
-   "shot": {
-    "search": "Curly Dadan Garp Luffy Ace",
-    "fallback": "anime style, big bandit woman holding two boys"
-   }
-  },
-  {
-   "text": "In exchange, he looked away from her gang's crimes. So the jungle training had a ready-made home base.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Dadan Family Mt. Colubo Luffy",
-    "fallback": "anime style, bandit hideout on a mountain"
-   }
-  },
-  {
-   "text": "And the jungle matters for a Devil Fruit user. Young Luffy had trouble aiming his rubber attacks.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Gomu Gomu no Mi young recoil",
-    "fallback": "anime style, boy spinning from a stretched punch"
-   }
-  },
-  {
-   "text": "He misjudged timing and was sent spinning by the recoil. But his continuous jungle training fixed that by the time he left.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy jungle training Gomu Gomu",
-    "fallback": "anime style, boy punching a giant beast"
-   }
-  },
-  {
-   "text": "So here is claim number one. Garp is not a Haki teacher, but he is why Luffy had a body ready for one.",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy",
-    "fallback": "anime style, proud old marine"
-   }
-  },
-  {
-   "text": "Garp was seventy-six at Marineford and still struck down Marco, something Kizaru and Akainu seemed unable to do.",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy",
-    "fallback": "anime style, proud old marine"
-   }
-  },
-  {
-   "text": "A man like that doesn't raise a child gently. He raises one the way he trained himself, and that's why the pit makes sense.",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy",
-    "fallback": "anime style, proud old marine"
-   }
-  },
-  {
-   "text": "The jungle part matters more than people think. It put Luffy where every single day was a small version of the same test.",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy",
-    "fallback": "anime style, proud old marine"
-   }
-  },
-  {
-   "text": "Garp was seventy-six at Marineford and still struck down Marco, which Kizaru and Akainu seemed unable to do.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Marco Marineford punch",
-    "fallback": "anime style, garp marco marineford punch"
-   }
-  },
-  {
-   "text": "The wiki even notes Garp visited in sandals and a red tropical shirt. The terror arrived in holiday clothes.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp tropical shirt Dadan visit",
-    "fallback": "anime style, garp tropical shirt dadan visit"
-   }
-  },
-  {
-   "text": "And there is a soft spot. When Ace asked whether he should have been born, Garp said he would find the answer by living.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Ace should have been born",
-    "fallback": "anime style, garp ace should have been born"
-   }
-  },
-  {
-   "text": "Now the awkward question. If Garp is a Haki master, why didn't he just teach his own grandson?",
-   "delivery": "reveal",
-   "fx": "zoom",
-   "shot": {
-    "search": "Monkey D. Garp Haki Armament",
-    "fallback": "anime style, black-coated fist glowing"
-   }
-  },
-  {
-   "text": "Start with where Luffy grew up. Haki is almost nonexistent in the four Blues.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "East Blue Haki none Luffy",
-    "fallback": "anime style, quiet seaside town"
-   }
-  },
-  {
-   "text": "It's rare in Paradise and common only in the New World, so Luffy grew up where almost nobody had seen it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "East Blue Haki none Luffy",
-    "fallback": "anime style, quiet seaside town"
-   }
-  },
-  {
-   "text": "And the word itself shows up late. It first appears when Blackbeard comments on Luffy's bounty at Jaya, chapter 234.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Blackbeard Luffy Jaya Haki",
-    "fallback": "anime style, big pirate laughing at a bounty poster"
-   },
-   "card": "CHAPTER 234"
-  },
-  {
-   "text": "So for over two hundred chapters, readers watched Haki happen without anyone naming it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki first use Jaya",
-    "fallback": "anime style, mysterious aura around a fighter"
-   }
-  },
-  {
-   "text": "The first use is in chapter 1. Shanks drives off the Lord of the Coast with it and saves young Luffy's life.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Lord of the Coast Luffy",
-    "fallback": "anime style, red haired pirate staring down a sea monster"
-   },
-   "card": "CHAPTER 1"
-  },
-  {
-   "text": "Here's the detail I think people forget. Luffy's first experience of Haki wasn't training. It was being protected by it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Haki sea king Luffy Foosha",
-    "fallback": "anime style, small boy watching a pirate glare"
-   }
-  },
-  {
-   "text": "The concept properly arrives at Sabaody, chapter 503, and Amazon Lily, chapter 516, long after Luffy left home.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Sabaody Archipelago Haki Luffy Camie",
-    "fallback": "anime style, crowded island of bubbles"
-   },
-   "card": "CHAPTER 516"
-  },
-  {
-   "text": "And Rayleigh is the one who explains it, right at the start of the training on Rusukaina.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh explains Haki Luffy Rusukaina",
-    "fallback": "anime style, old swordsman lecturing a boy on a cliff"
-   }
-  },
-  {
-   "text": "So Rayleigh gave Luffy the vocabulary and the method. That part isn't in dispute.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Silvers Rayleigh Luffy",
-    "fallback": "anime style, mentor with glasses and a sword"
-   }
-  },
-  {
-   "text": "But there is something strange about Luffy's Haki that has nothing to do with Rayleigh.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Impel Down Blackbeard Haki",
-    "fallback": "anime style, rookie pirate in a prison corridor"
-   }
-  },
-  {
-   "text": "And this is where it gets uncomfortable for the Rayleigh-only crowd.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Impel Down Blackbeard Haki",
-    "fallback": "anime style, rookie pirate in a prison corridor"
-   }
-  },
-  {
-   "text": "Blackbeard noted Luffy's Haki had grown stronger by the Impel Down breakout, compared to Jaya. That's chapter 544.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Blackbeard Luffy Impel Down Haki stronger",
-    "fallback": "anime style, big pirate sizing up a rookie"
-   },
-   "card": "CHAPTER 544"
-  },
-  {
-   "text": "A person's Haki can grow before they even learn it exists. Luffy was doing it with no teacher at all.",
-   "delivery": "reveal",
-   "fx": "zoom",
-   "shot": {
-    "search": "Luffy untrained Haki growth",
-    "fallback": "anime style, boy glowing with raw energy"
-   }
-  },
-  {
-   "text": "So how does anyone get it? Haki is spiritual energy that comes from willpower.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki willpower spiritual energy",
-    "fallback": "anime style, glowing silhouette"
-   }
-  },
-  {
-   "text": "It's dormant in all living things, and there are three ways to wake it: years of training, shock in battle, or natural talent.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki awakening training battle talent",
-    "fallback": "anime style, three paths glowing"
-   }
-  },
-  {
-   "text": "Hold that three-way split in your head, because it is the key to the whole argument.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki Overview acquisition",
-    "fallback": "anime style, a fork in a path"
-   }
-  },
-  {
-   "text": "Keep score as we go, because by the end I will tell you which path Luffy actually took.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki Overview acquisition",
-    "fallback": "anime style, a fork in a path"
-   }
-  },
-  {
-   "text": "The first path is training. Chapter 594 says people usually awaken Haki through instruction and intense training over several years.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki training years instruction",
-    "fallback": "anime style, student training with a master"
-   },
-   "card": "CHAPTER 594"
-  },
-  {
-   "text": "Several years. Not a weekend. Rayleigh himself says two years is not enough to learn even the basics, chapter 597.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh two years Haki basics",
-    "fallback": "anime style, mentor warning a student"
-   },
-   "card": "CHAPTER 597"
-  },
-  {
-   "text": "And yet Luffy, Zoro, Sanji and a few others managed it inside the timeskip, according to the same page.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Straw Hats Haki timeskip Zoro Sanji Luffy",
-    "fallback": "anime style, crew reunited after two years"
-   }
-  },
-  {
-   "text": "So either the Straw Hats are freaks, or something earlier prepared them. For Luffy, I think that something is a grandfather.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Garp grandfather",
-    "fallback": "anime style, boy looking up at an old marine"
-   }
-  },
-  {
-   "text": "Notice how the Haki page words it: the energy is theoretically available to every living creature, but most people never learn it exists.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki dormant all creatures",
-    "fallback": "anime style, haki dormant all creatures"
-   }
-  },
-  {
-   "text": "That is the real barrier in the Blues. It is not talent, it is that nobody even knows what to ask for.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki unknown four Blues",
-    "fallback": "anime style, haki unknown four blues"
-   }
-  },
-  {
-   "text": "My read: a master who never named the thing would leave no visible trace in the story, which is exactly what we see.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki unknown four Blues",
-    "fallback": "anime style, haki unknown four blues"
-   }
-  },
-  {
-   "text": "The third path is natural talent. The wiki names Aisa and Otohime as born with awakened Observation Haki, chapters 265 and 621.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Aisa Otohime Observation Haki",
-    "fallback": "anime style, aisa otohime observation haki"
-   }
-  },
-  {
-   "text": "But there is a bigger puzzle on the Marine side of the family, one that explains why Garp stayed quiet...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Marine Vice Admiral Haki",
-    "fallback": "anime style, marine cape in the wind"
-   }
-  },
-  {
-   "text": "Garp is a Vice Admiral, and every Marine at that rank or above can use Haki.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Marine Vice Admiral Haki Garp",
-    "fallback": "anime style, rows of marine officers"
-   }
-  },
-  {
-   "text": "He's one of the very few people who use all three types, and he can infuse Supreme King Haki into his fist.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp three types of Haki",
-    "fallback": "anime style, three colored auras around a fist"
-   }
-  },
-  {
-   "text": "That is the advanced use that only a small handful of people in the entire series can pull off.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp three types of Haki",
-    "fallback": "anime style, three colored auras around a fist"
-   }
-  },
-  {
-   "text": "So Garp absolutely could have taught his grandson Haki. The question is why we never see it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy Haki lesson",
-    "fallback": "anime style, old marine watching a boy"
-   }
-  },
-  {
-   "text": "I have three possible reasons, and I will label them as my read, not canon.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp thinking Luffy",
-    "fallback": "anime style, old marine deep in thought"
-   }
-  },
-  {
-   "text": "Reason one: Garp wanted Luffy in the Marines. He claims Shanks poisoned Luffy with the idea of piracy.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Shanks grudge Luffy pirate",
-    "fallback": "anime style, angry marine pointing at a pirate"
-   }
-  },
-  {
-   "text": "That scene is chapter 432, and Luffy answers that he wanted to be a pirate even as a child.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy tells Garp he wants to be a pirate",
-    "fallback": "anime style, boy refusing his grandfather"
-   },
-   "card": "CHAPTER 432"
-  },
-  {
-   "text": "Teaching a future pirate the strongest tool in the world is a strange move for a Marine hero. So he held back.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy Marine dream",
-    "fallback": "anime style, marine uniform offered to a boy"
-   }
-  },
-  {
-   "text": "Reason two: Haki in the Blues was almost unknown, and Garp's own training was never about techniques.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp battleship punching training",
-    "fallback": "anime style, old man punching a battleship"
-   }
-  },
-  {
-   "text": "He trained himself since his youth by punching battleships. He destroyed eight mountains before fighting Chinjao.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Chinjao eight mountains",
-    "fallback": "anime style, mountains crumbling under fists"
-   }
-  },
-  {
-   "text": "That is a man who solves problems with the body first, and sorts out the energy part later.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Chinjao Armament Haki fist",
-    "fallback": "anime style, fist cracking a drill-shaped head"
-   }
-  },
-  {
-   "text": "Reason three: Haki still needs a person to believe in themselves and have real combat experience. A small kid has neither.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki requires combat experience belief",
-    "fallback": "anime style, boy hesitating before a fight"
-   }
-  },
-  {
-   "text": "So Garp may have treated childhood as the foundation stage. Body first, instruction later, by someone else.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp trains Luffy Ace",
-    "fallback": "anime style, old marine and two kids"
-   }
-  },
-  {
-   "text": "Does that pattern hold? That is where the story gets interesting, because Garp ran the same program on other people...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Kuzan Koby Helmeppo",
-    "fallback": "anime style, marine cadets lined up"
-   }
-  },
-  {
-   "text": "Now look at who Garp actually trained. First name on the list: Kuzan, the future Admiral Aokiji.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Kuzan Garp student",
-    "fallback": "anime style, tall relaxed marine admiral"
-   }
-  },
-  {
-   "text": "Kuzan was a cadet who had learned everything the official instructors could offer, so he asked Garp to take him on.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Kuzan asks Garp apprentice",
-    "fallback": "anime style, young marine bowing to an old hero"
-   }
-  },
-  {
-   "text": "Garp refused at first, then agreed, and they trained by punching a battleship.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Kuzan battleship punching Garp training",
-    "fallback": "anime style, two men punching a warship hull"
-   }
-  },
-  {
-   "text": "The detail I love is the rule. Kuzan wouldn't let himself use his Devil Fruit or his Haki. Pure body, no shortcuts.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Kuzan battleship bags no Devil Fruit no Haki",
-    "fallback": "anime style, man punching a hull with no powers"
-   }
-  },
-  {
-   "text": "Ask yourself who trains like that. Not someone looking for a shortcut.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Kuzan battleship bags no Devil Fruit no Haki",
-    "fallback": "anime style, man punching a hull with no powers"
-   }
-  },
-  {
-   "text": "Until he could cave in the hull of a retired battleship with his bare fists.",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Kuzan punch battleship hull",
-    "fallback": "anime style, huge hull dented by a fist"
-   }
-  },
-  {
-   "text": "That is the method the wiki credits to Garp himself, and the Hachinosu fight confirms it, chapter 1087.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Kuzan Garp Hachinosu fight",
-    "fallback": "anime style, old marine facing his former student"
-   },
-   "card": "CHAPTER 1087"
-  },
-  {
-   "text": "Next, Koby and Helmeppo. They were chore boys in Shells Town, and Garp took them over because his rank outranked their captain.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Helmeppo Garp Shells Town",
-    "fallback": "anime style, two young marines scrubbing a deck"
-   }
-  },
-  {
-   "text": "Garp's rank gives him room to do this. As a Vice Admiral he took them from another officer, episode 68.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Helmeppo Garp Shells Town",
-    "fallback": "anime style, two young marines scrubbing a deck"
-   }
-  },
-  {
-   "text": "In a short time he made them capable fighters. Koby even picked up Soru from that regimen.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Soru Garp training",
-    "fallback": "anime style, marine cadet vanishing in a blur"
-   }
-  },
-  {
-   "text": "Chapters 432 and 569 show Koby using Soru against Luffy. Luffy could not even react in time.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Soru kick Luffy Water 7",
-    "fallback": "anime style, marine vanishing and kicking a pirate"
-   },
-   "card": "SORU"
-  },
-  {
-   "text": "So the pipeline produces speed, strength and nerve first. Nothing supernatural at the start.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby cross scar Garp training",
-    "fallback": "anime style, scarred young marine"
-   }
-  },
-  {
-   "text": "Here is the detail that matters for Luffy. Koby awakened Observation Haki at Marineford, chapter 579, in the middle of a crisis.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Observation Haki Marineford",
-    "fallback": "anime style, small marine standing up between armies"
-   },
-   "card": "CHAPTER 579"
-  },
-  {
-   "text": "That is the second path from earlier: awakening in battle. Even then, you still need training to control it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Haki awakening Marineford",
-    "fallback": "anime style, boy glowing with sudden power"
-   }
-  },
-  {
-   "text": "And when Koby needed to master it, a doctor named Fishbonen told him to ask Garp, which suggests Garp has real Observation expertise.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Fishbonen Observation Haki Garp",
-    "fallback": "anime style, bandaged marine hearing advice"
-   }
-  },
-  {
-   "text": "So here's the pattern. Body first, Haki second, and only for a student who has survived the body program.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp teaches Koby Haki",
-    "fallback": "anime style, old marine coaching a marine"
-   }
-  },
-  {
-   "text": "That, to me, is the first big piece of the theory: Garp's pipeline is body first, Haki second.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp instructor Marines",
-    "fallback": "anime style, instructor surrounded by recruits"
-   }
-  },
-  {
-   "text": "Now apply that to Luffy. The body program ran for years in Foosha. The Haki stage never came from Garp.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy Foosha Village",
-    "fallback": "anime style, quiet village and a training field"
-   }
-  },
-  {
-   "text": "Because Luffy left home at seventeen, long before Garp's second stage. Someone else would have to deliver it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy leaves home seventeen",
-    "fallback": "anime style, teen pirate waving goodbye"
-   }
-  },
-  {
-   "text": "Koby also kept up the battleship punching on his own. Only powerful Marines like Garp and Kuzan can do that drill.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby punching battleship",
-    "fallback": "anime style, koby punching battleship"
-   }
-  },
-  {
-   "text": "That is the pipeline's output: a chore boy turns into someone who can kick Luffy before Luffy reacts.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby punching battleship",
-    "fallback": "anime style, koby punching battleship"
-   }
-  },
-  {
-   "text": "And Kuzan shows the ceiling. Like Garp, he reached the point where he could cave in the armored hull of a retired battleship.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby punching battleship",
-    "fallback": "anime style, koby punching battleship"
-   }
-  },
-  {
-   "text": "Brannew's comment on Kuzan is the line I would frame: his strength wasn't gifted at birth, it was built, the same as Garp's.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Brannew Kuzan built strength",
-    "fallback": "anime style, brannew kuzan built strength"
-   }
-  },
-  {
-   "text": "So who did the world arrange for the next stage? The answer was set up by a man in a red coat...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Luffy Straw Hat",
-    "fallback": "anime style, red haired pirate giving a hat"
-   }
-  },
-  {
-   "text": "Shanks. Garp blames him for making Luffy a pirate, and he is angry about it again at Marineford.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Garp Marineford",
-    "fallback": "anime style, marine and pirate staring at each other"
-   },
-   "card": "CHAPTER 580"
-  },
-  {
-   "text": "That is chapter 580. Garp's grudge against Shanks is real, which is part of why he never wanted Luffy near the sea.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Shanks grudge",
-    "fallback": "anime style, angry old marine"
-   }
-  },
-  {
-   "text": "Here is the loop I find fascinating. Shanks gave Luffy the dream. Garp gave him the toughness to chase it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Luffy Garp three generations",
-    "fallback": "anime style, triangle of pirate, marine and boy"
-   }
-  },
-  {
-   "text": "And then Shanks connects to Rayleigh. Rayleigh punished Shanks and Buggy when the two boys fought, chapter 19.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Shanks Buggy Roger Pirates",
-    "fallback": "anime style, two bickering cabin boys"
-   },
-   "card": "CHAPTER 19"
-  },
-  {
-   "text": "As an adult, Shanks still knew Rayleigh. He told him about Luffy, and the retired pirate got eager to meet him. Chapter 506.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Rayleigh Sabaody Luffy",
-    "fallback": "anime style, two old friends talking"
-   },
-   "card": "CHAPTER 506"
-  },
-  {
-   "text": "So even Rayleigh's interest in Luffy comes through Shanks. The teachers are all linked to the boy through the same man.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Silvers Rayleigh Luffy meets",
-    "fallback": "anime style, old pirate studying a boy"
-   }
-  },
-  {
-   "text": "Now go back to Garp, because there is a line that I think proves how he saw himself.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp pride Luffy outrageous",
-    "fallback": "anime style, old marine laughing proudly"
-   }
-  },
-  {
-   "text": "It says Garp appears proud whenever Luffy commits outrageous acts, like breaking into Impel Down to rescue Ace.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy Impel Down proud",
-    "fallback": "anime style, old marine amused by a prison break"
-   }
-  },
-  {
-   "text": "That is not a man who thinks his training failed. That is a man who sees exactly what he built.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp watches Luffy Marineford",
-    "fallback": "anime style, grandfather watching from the crowd"
-   }
-  },
-  {
-   "text": "And Marineford has the scene that I think settles it. Luffy punches Garp in Gear Second at point blank range.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy punches Garp Gear Second Marineford",
-    "fallback": "anime style, boy landing a punch on an old hero"
-   }
-  },
-  {
-   "text": "Garp let him do it to save Ace, and Sengoku could tell he hesitated.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp lets Luffy punch Sengoku",
-    "fallback": "anime style, fleet admiral glaring at a hero"
-   }
-  },
-  {
-   "text": "That is the moment I keep replaying. Why would a Vice Admiral let a rookie punch him?",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp lets Luffy punch Sengoku",
-    "fallback": "anime style, fleet admiral glaring at a hero"
-   }
-  },
-  {
-   "text": "But even letting it land, Garp stayed conscious and kept fighting. That tells you how deep his own durability goes.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp durability Luffy Gear 2",
-    "fallback": "anime style, old man shrugging off a hit"
-   }
-  },
-  {
-   "text": "He has tremendous durability and pain tolerance, and once shrugged off a deep wound from Captain Morgan without noticing.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Morgan axe hand",
-    "fallback": "anime style, old marine unbothered by a hit"
-   }
-  },
-  {
-   "text": "That tolerance, the ability to take a hit and keep walking, is exactly the trait Luffy shows in every fight since.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy takes hit keeps standing",
-    "fallback": "anime style, battered pirate standing up smiling"
-   }
-  },
-  {
-   "text": "Look at it as inheritance plus training. Garp passed both down: the build and the habit of getting back up.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy resemblance",
-    "fallback": "anime style, grandfather and grandson side by side"
-   }
-  },
-  {
-   "text": "Luffy even looks like a young Garp, just less muscular.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp young appearance Luffy",
-    "fallback": "anime style, young marine and a boy with similar faces"
-   }
-  },
-  {
-   "text": "Go back to chapter 1:",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Lord of the Coast Haki",
-    "fallback": "anime style, shanks lord of the coast haki"
-   }
-  },
-  {
-   "text": "Shanks drives off the Lord of the Coast with Haki. Garp would later try to make that kid a Marine.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Lord of the Coast Haki",
-    "fallback": "anime style, shanks lord of the coast haki"
-   }
-  },
-  {
-   "text": "Luffy told his grandfather he wanted to be a pirate even as a child. The dream was set before either teacher spoke.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy child wants to be a pirate",
-    "fallback": "anime style, luffy child wants to be a pirate"
-   }
-  },
-  {
-   "text": "Luffy watched a pirate protect him with an invisible force. Two men, one kid, opposite goals.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy child wants to be a pirate",
-    "fallback": "anime style, luffy child wants to be a pirate"
-   }
-  },
-  {
-   "text": "That tells me the body program was never about direction. It was about durability, and the direction came free from Shanks.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy durability direction Shanks Garp",
-    "fallback": "anime style, luffy durability direction shanks garp"
-   }
-  },
-  {
-   "text": "Garp earned his hero title at God Valley, chapter 957, helping end the Rocks Pirates.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp God Valley Rocks Pirates",
-    "fallback": "anime style, garp god valley rocks pirates"
-   }
-  },
-  {
-   "text": "Now his own grandson aims for the Pirate King's crown. That irony is half of why he is so angry.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Roger Luffy Pirate King",
-    "fallback": "anime style, garp roger luffy pirate king"
-   }
-  },
-  {
-   "text": "So the stage is set. Body from Garp, spark from Shanks, and a missing piece the world had to supply...",
-   "delivery": "reveal",
-   "fx": "zoom",
-   "shot": {
-    "search": "Luffy Rayleigh Sabaody Archipelago",
-    "fallback": "anime style, old pirate stepping out of the shadows"
-   }
-  },
-  {
-   "text": "That missing piece arrives at Sabaody, and it starts with a mermaid girl named Camie and a slave auction.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Camie Sabaody auction",
-    "fallback": "anime style, old man in a chaotic auction house"
-   }
-  },
-  {
-   "text": "An old man in the audience, who turns out to be Silvers Rayleigh, makes a giant guard faint just by glaring. Chapter 500.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Supreme King Haki Disco",
-    "fallback": "anime style, old man releasing a pressure wave"
-   },
-   "card": "CHAPTER 500"
-  },
-  {
-   "text": "Later he removes Camie's collar without a key. That is advanced Armament Haki, confirmed in Wano, chapter 947.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh removes Camie collar Haki",
-    "fallback": "anime style, old man breaking a metal collar"
-   },
-   "card": "CHAPTER 947"
-  },
-  {
-   "text": "Rayleigh kicks Kizaru's leg to divert a light attack, and later even cuts his cheek, chapters 511 and onward.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh kicks Kizaru Sabaody",
-    "fallback": "anime style, old pirate fighting a light man"
-   }
-  },
-  {
-   "text": "That is Rayleigh telling the whole world he is the Pirate King's right hand without saying a word.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Dark King Kizaru",
-    "fallback": "anime style, old swordsman stopping an admiral"
-   }
-  },
-  {
-   "text": "Luffy, meanwhile, had just accidentally released Supreme King Haki against a bison named Motobaro, the first hint of his own power.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Supreme King Haki Duval bison Sabaody",
-    "fallback": "anime style, boy releasing a shock wave"
-   }
-  },
-  {
-   "text": "That was the first time he showed it, and he did not know what it was. Chapter 519 names it later.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Haoshoku first use Sabaody",
-    "fallback": "anime style, boy surprised by his own power"
-   },
-   "card": "CHAPTER 519"
-  },
-  {
-   "text": "So Luffy had Supreme King Haki before he had a teacher. The rare type. The one in a million type.",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Supreme King Haki",
-    "fallback": "anime style, straw hat boy with lightning aura"
-   }
-  },
-  {
-   "text": "That is the part no teacher gave him. Supreme King Haki cannot be learned, only born with.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Supreme King Haki born with one in million",
-    "fallback": "anime style, rare crown glowing"
-   }
-  },
-  {
-   "text": "So I want to pin this down. Garp gave him the body. Nature gave him the rare Haki. Rayleigh gave him control.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Garp Rayleigh three sources",
-    "fallback": "anime style, three glowing hands shaping a boy"
-   }
-  },
-  {
-   "text": "Rayleigh's job was not creating power. It was teaching Luffy how to aim what was already there.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh teaches Luffy control",
-    "fallback": "anime style, old master adjusting a student's stance"
-   }
-  },
-  {
-   "text": "Rayleigh's strength shows in how he handles the room: he faints a giant with a glare, then takes a collar apart without a key.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh teaches Luffy control",
-    "fallback": "anime style, old master adjusting a student's stance"
-   }
-  },
-  {
-   "text": "When Luffy asked about him, Shakky said Rayleigh would be fine because he was far stronger than the rookies, chapter 498.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh teaches Luffy control",
-    "fallback": "anime style, old master adjusting a student's stance"
-   }
-  },
-  {
-   "text": "In the same arc, Garp warns a Marine not to underestimate Rayleigh just because of his age. Two old men, one island, one boy.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Rayleigh Sabaody warning",
-    "fallback": "anime style, garp rayleigh sabaody warning"
-   }
-  },
-  {
-   "text": "It is the first time the two mentors share a stretch of story, and neither knows how much they will matter to one teenager.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Rayleigh Luffy Sabaody",
-    "fallback": "anime style, garp rayleigh luffy sabaody"
-   }
-  },
-  {
-   "text": "And then Marineford breaks Luffy in half, and the timeskip begins with a question...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Marineford aftermath Rusukaina",
-    "fallback": "anime style, bandaged pirate in the rain"
-   }
-  },
-  {
-   "text": "After Marineford, Luffy ends up on Rusukaina, a wild island on the Grand Line, wearing his original red vest.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy arrives Rusukaina",
-    "fallback": "anime style, boy washing up on a wild island"
-   }
-  },
-  {
-   "text": "Rayleigh meets him there with an offer: two years of training, including the lesson no one had ever given him.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Luffy Rusukaina training offer",
-    "fallback": "anime style, old pirate speaking to a bandaged boy"
-   }
-  },
-  {
-   "text": "The first thing he teaches is the vocabulary. The three types: Observation, Armament and Supreme King.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh three types of Haki Luffy",
-    "fallback": "anime style, three colored auras explained"
-   }
-  },
-  {
-   "text": "Observation senses people. Armament coats your own body as armor. Supreme King overpowers the will of others.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki types Observation Armament Supreme King",
-    "fallback": "anime style, three types of Haki illustrated"
-   }
-  },
-  {
-   "text": "Luffy already had the third without trying. So that left him two to learn, and he had to learn them against real monsters.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Rusukaina beasts training",
-    "fallback": "anime style, boy fighting jungle monsters"
-   }
-  },
-  {
-   "text": "Rayleigh says Haki blossoms only when the user pushes it to the limit against a much stronger opponent. Chapter 886.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Haki blossoms stronger opponent",
-    "fallback": "anime style, student stretched past his limit"
-   },
-   "card": "CHAPTER 886"
-  },
-  {
-   "text": "That line explains the island. Rusukaina is full of creatures far stronger than Luffy, and that is the teacher.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rusukaina giant beasts Luffy",
-    "fallback": "anime style, boy surrounded by huge animals"
-   }
-  },
-  {
-   "text": "Now compare that to Garp's methods. Throw a child into a jungle at night, and expect him to figure it out.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy jungle abandon",
-    "fallback": "anime style, boy alone in the dark woods"
-   }
-  },
-  {
-   "text": "Rayleigh's method is the same idea at a higher level. Put him where he cannot win, and let the energy wake up.",
-   "delivery": "reveal",
-   "fx": "zoom",
-   "shot": {
-    "search": "Rayleigh Luffy training beasts Haki",
-    "fallback": "anime style, boy facing a huge beast"
-   }
-  },
-  {
-   "text": "That is my first real parallel. Garp's pit and Rayleigh's island are the same lesson at different scales.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Rayleigh training comparison Luffy",
-    "fallback": "anime style, split screen of two mentors"
-   }
-  },
-  {
-   "text": "And it is why I think Luffy could survive Rayleigh at all. A boy who had never been dropped would not have lasted.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy survives Rusukaina training",
-    "fallback": "anime style, exhausted boy still standing"
-   }
-  },
-  {
-   "text": "By the end of the timeskip, Luffy looks significantly more muscular, with a thicker neck and bigger shoulders.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy after timeskip muscular",
-    "fallback": "anime style, older stronger straw hat boy"
-   },
-   "card": "CHAPTER 601"
-  },
-  {
-   "text": "Rayleigh rebuilt the fighting style, but who built the body he rebuilt it on?",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy after timeskip muscular",
-    "fallback": "anime style, older stronger straw hat boy"
-   }
-  },
-  {
-   "text": "Chapter 601 shows the new Luffy, scar and all. And his attacks changed with him.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy new world chapter 601 scar",
-    "fallback": "anime style, older pirate with a scar on his chest"
-   }
-  },
-  {
-   "text": "Gear Third was reworked after the training. The air now concentrates in the fist, usually hardened with Armament Haki.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Gear 3 Armament Haki hardened",
-    "fallback": "anime style, giant black fist"
-   }
-  },
-  {
-   "text": "And the new Gear Fourth always carries a layer of Armament over at least the arms and legs.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Gear 4 Boundman Armament Haki",
-    "fallback": "anime style, bouncing black armored giant"
-   }
-  },
-  {
-   "text": "So if you ask what Rayleigh actually changed, the answer is the entire fighting style. Haki became a layer in everything.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Armament Haki coating punch",
-    "fallback": "anime style, black fist hitting a mountain"
-   }
-  },
-  {
-   "text": "But the question I keep coming back to is what Rayleigh never had to teach him.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Luffy farewell Rusukaina",
-    "fallback": "anime style, boy leaving an island after training"
-   }
-  },
-  {
-   "text": "Luffy arrived on Rusukaina still wrapped in bandages from Marineford, and the part of him that wouldn't quit was already installed by Garp.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy bandages Rusukaina arrival",
-    "fallback": "anime style, luffy bandages rusukaina arrival"
-   }
-  },
-  {
-   "text": "Haki can be learned through training but still needs real combat experience, and Rusukaina supplied the combat.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rusukaina combat experience Luffy",
-    "fallback": "anime style, rusukaina combat experience luffy"
-   }
-  },
-  {
-   "text": "Zoro, Sanji, Tashigi, Smoker, Koby and Bellamy all reached Haki in the same two years. The timeskip was a Haki factory.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Zoro Sanji Koby Haki timeskip",
-    "fallback": "anime style, zoro sanji koby haki timeskip"
-   }
-  },
-  {
-   "text": "Koby's name there is the point. Garp's other pupil got there in the same window with no Rayleigh at all.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Koby Haki timeskip Garp",
-    "fallback": "anime style, koby haki timeskip garp"
-   }
-  },
-  {
-   "text": "Two Garp trainees, one deadline, both through. Compare the results and the pipeline starts to look like a pattern.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp students Haki results",
-    "fallback": "anime style, garp students haki results"
-   }
-  },
-  {
-   "text": "Because two years, by Rayleigh's own admission, is not enough for the basics, and Luffy left with only a start...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh two years not enough",
-    "fallback": "anime style, mentor shaking his head"
-   }
-  },
-  {
-   "text": "That is the most important sentence in the whole Haki page, in my opinion. Two years is not enough for the basics.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki mastery difficult two years",
-    "fallback": "anime style, hourglass over a training ground"
-   }
-  },
-  {
-   "text": "So how did Luffy get through the basics at all? I think the answer lives in the training that never gets a chapter title.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy childhood training Garp Ace",
-    "fallback": "anime style, kids in a forest training"
-   }
-  },
-  {
-   "text": "Think about what Haki asks of the user. It takes real combat experience and the power to believe in oneself.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki combat experience belief",
-    "fallback": "anime style, boy facing an opponent with certainty"
-   }
-  },
-  {
-   "text": "Belief is the part that scares me. Nobody can hand you that, and Garp's method forced it out of a child.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki combat experience belief",
-    "fallback": "anime style, boy facing an opponent with certainty"
-   }
-  },
-  {
-   "text": "Believing in yourself is a trait you can build, and I think Garp built it the only way he knew how, by forcing it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy discipline",
-    "fallback": "anime style, grandfather lecturing a boy"
-   }
-  },
-  {
-   "text": "So here is the test I would apply to every one of these teachers: did they build the person, or just the move?",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy discipline",
-    "fallback": "anime style, grandfather lecturing a boy"
-   }
-  },
-  {
-   "text": "Every time Luffy was dropped, left, or tied up, he had to decide to keep going. That is will, practiced thousands of times.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy determination childhood Garp",
-    "fallback": "anime style, determined boy gripping his fists"
-   }
-  },
-  {
-   "text": "Here is another angle. Garp's training was physical, but his Haki is a product of a lifetime of hard training and battles.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp lifetime of training strength",
-    "fallback": "anime style, old marine's scarred hands"
-   }
-  },
-  {
-   "text": "Even Garp's own Haki was built on the same mix: body, nerve and fights. He passed along the recipe, not the spell.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Haki recipe training battles",
-    "fallback": "anime style, cooking pot of fire and fists"
-   }
-  },
-  {
-   "text": "That is why I do not buy the line that Garp has nothing to do with Haki.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Haki recipe training battles",
-    "fallback": "anime style, cooking pot of fire and fists"
-   }
-  },
-  {
-   "text": "The wiki itself calls him a great teacher.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Haki recipe training battles",
-    "fallback": "anime style, cooking pot of fire and fists"
-   }
-  },
-  {
-   "text": "The wiki says he trained Luffy and Ace to be strong enough to set sail alone.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Haki recipe training battles",
-    "fallback": "anime style, cooking pot of fire and fists"
-   }
-  },
-  {
-   "text": "Strong enough for the sea is the first step.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Haki recipe training battles",
-    "fallback": "anime style, cooking pot of fire and fists"
-   }
-  },
-  {
-   "text": "Now think about Ace. He awakened Haki in a fight against Vice Admiral Draw.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Ace Haki Vice Admiral Draw",
-    "fallback": "anime style, fire fist facing a marine officer"
-   }
-  },
-  {
-   "text": "Ace had the same Garp body program, and the same lack of a Haki teacher. He still reached Haki by shock in battle.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Portgas D. Ace Haki Garp trained",
-    "fallback": "anime style, freckled pirate glowing with aura"
-   }
-  },
-  {
-   "text": "That is evidence for my theory. Two Garp-raised brothers, two different routes to Haki. Both needed the base first.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Ace Luffy Garp brothers training Haki",
-    "fallback": "anime style, two brothers side by side"
-   }
-  },
-  {
-   "text": "A skeptic would say Ace was Roger's son and Luffy is a D. Fair. It is a pattern, not proof.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Will of D. Luffy Ace",
-    "fallback": "anime style, mysterious D mark"
-   }
-  },
-  {
-   "text": "But Garp's program has an unusually high hit rate for people who end up with Haki.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp students Haki users",
-    "fallback": "anime style, class of strong students"
-   }
-  },
-  {
-   "text": "Kuzan used Haki. Koby awakened it. Ace awakened it. Luffy learned it. Four students, one coach.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Helmeppo Koby SWORD Garp",
-    "fallback": "anime style, SWORD members in a row"
-   }
-  },
-  {
-   "text": "The one common thread is a grandfather with a very odd definition of a bedtime story.",
-   "delivery": "aside",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Fist of Love",
-    "fallback": "anime style, big fist knocking a head"
-   }
-  },
-  {
-   "text": "Haki comes from the spirit and not the body, so a body program shouldn't matter on paper.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki originates spirit not body",
-    "fallback": "anime style, haki originates spirit not body"
-   }
-  },
-  {
-   "text": "If Haki lives in the spirit, then what Garp built was the container: the habit of getting up.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy spirit getting up",
-    "fallback": "anime style, luffy spirit getting up"
-   }
-  },
-  {
-   "text": "Even people whose minds swap bodies keep their Haki, the page says, chapters 672 and 1150. So the energy is separate from the muscle.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy spirit getting up",
-    "fallback": "anime style, luffy spirit getting up"
-   }
-  },
-  {
-   "text": "Even people whose minds swap bodies keep their Haki, the page says, chapters 672 and 1150. So the energy is separate from the muscle.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki mind transfer body",
-    "fallback": "anime style, haki mind transfer body"
-   }
-  },
-  {
-   "text": "So the muscle's job isn't to hold Haki. It's to survive the process of drawing it out.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy body survives Haki training",
-    "fallback": "anime style, luffy body survives haki training"
-   }
-  },
-  {
-   "text": "Training against stronger opponents means taking real hits. A body that never took hits would never get the second half of the lesson.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy takes hits stronger opponent",
-    "fallback": "anime style, luffy takes hits stronger opponent"
-   }
-  },
-  {
-   "text": "And one last scene shows exactly how Garp thinks. It comes from the Egghead era, and it changes how I read the old man...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Hachinosu Koby rescue",
-    "fallback": "anime style, old marine marching to an island"
-   }
-  },
-  {
-   "text": "In the Egghead era, Garp goes after Koby when the Blackbeard Pirates capture him. That rescue disregards protocol.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp rescue Koby Blackbeard Pirates",
-    "fallback": "anime style, old marine stepping onto an island"
-   }
-  },
-  {
-   "text": "He calls Koby his beloved pupil, and he expected Koby to be the future of the Marines.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Koby future of the Marines",
-    "fallback": "anime style, old marine looking at a young one"
-   }
-  },
-  {
-   "text": "On Hachinosu he faces his own student Kuzan, who now works for Blackbeard. Chapter 1081.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Kuzan Hachinosu",
-    "fallback": "anime style, two men trading blows on a battlefield"
-   },
-   "card": "CHAPTER 1081"
-  },
-  {
-   "text": "Kuzan went through the same battleship punching program, and still took very little damage from Garp's fists.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Kuzan punching battleship training",
-    "fallback": "anime style, two men with identical training"
-   }
-  },
-  {
-   "text": "Garp uses Blue Hole there, hardening his hand with Armament and infusing it with Supreme King Haki.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Blue Hole Kuzan",
-    "fallback": "anime style, man slamming another into a deep hole"
-   }
-  },
-  {
-   "text": "That is the technique that proves a teacher's lesson can outgrow the teacher. Kuzan took it and kept fighting.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Kuzan Blue Hole Hachinosu",
-    "fallback": "anime style, deep crater in the ground"
-   }
-  },
-  {
-   "text": "In the end, Garp holds off a large part of the Blackbeard crew so Koby and the rescued people can escape, chapter 1126.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp holds off Blackbeard Pirates Hachinosu",
-    "fallback": "anime style, old marine blocking a bridge"
-   },
-   "card": "CHAPTER 1126"
-  },
-  {
-   "text": "He was badly injured and imprisoned there, and officially declared missing in action, chapter 1088.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp missing in action Hachinosu",
-    "fallback": "anime style, empty marine coat on a hook"
-   },
-   "card": "CHAPTER 1088"
-  },
-  {
-   "text": "So the man who raised Luffy is now gone from the board. His lessons are what's left of him.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Garp missing reaction",
-    "fallback": "anime style, boy hearing bad news about his grandfather"
-   }
-  },
-  {
-   "text": "That gives Garp's training a weight it never had when he was around to scold.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Hachinosu imprisoned",
-    "fallback": "anime style, old hero behind bars"
-   }
-  },
-  {
-   "text": "The best part is how Garp's fights echo Luffy's style. Both punch with Armament, both pour Supreme King into the hit.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Armament Supreme King Haki punch",
-    "fallback": "anime style, black fist crackling with red lightning"
-   }
-  },
-  {
-   "text": "Garp has Galaxy Impact, a punch that infuses both. Look at Luffy's Wano punches and tell me the lineage isn't visible.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Galaxy Impact Luffy Wano punch",
-    "fallback": "anime style, two giant punches in parallel"
-   }
-  },
-  {
-   "text": "I am not saying Garp taught Luffy that technique. I am saying the body that can throw it had the same coach.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Gear 5 punch Kaido",
-    "fallback": "anime style, huge glowing punch"
-   }
-  },
-  {
-   "text": "Look at what Garp's students were when he found them. Koby was a chore boy, Kuzan a cadet who had outgrown his instructors.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Koby Kuzan before training",
-    "fallback": "anime style, garp koby kuzan before training"
-   }
-  },
-  {
-   "text": "Garp asks nothing about talent. He only asks whether you will keep showing up.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp pupil keep showing up",
-    "fallback": "anime style, garp pupil keep showing up"
-   }
-  },
-  {
-   "text": "After Marineford Garp became an instructor for new recruits, chapter 1080, and the public believes he retired.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp instructor new recruits",
-    "fallback": "anime style, garp instructor new recruits"
-   }
-  },
-  {
-   "text": "He went into teaching right after Ace was lost. I don't think that's a coincidence: a man who lost one boy builds the next.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp teaches after Marineford",
-    "fallback": "anime style, garp teaches after marineford"
-   }
-  },
-  {
-   "text": "So when Luffy shows his full strength, I read it as Garp's work finally visible.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy full strength Garp legacy",
-    "fallback": "anime style, luffy full strength garp legacy"
-   }
-  },
-  {
-   "text": "So there is a family line of punchers, and now we reach the surprise teacher I promised. His lesson changed the punch itself...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro Luffy Wano Prisoner Mine",
-    "fallback": "anime style, old yakuza boss and a pirate in a mine"
-   }
-  },
-  {
-   "text": "In Wano, the surprise teacher is Hyogoro of the Flower, an old yakuza boss chained next to Luffy in the Prisoner Mine.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro Luffy Prisoner Mine",
-    "fallback": "anime style, old yakuza and a pirate chained together"
-   }
-  },
-  {
-   "text": "Queen puts both of them in a sumo ring with collars on their necks, and the first lesson is survival.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Queen sumo inferno Luffy Hyogoro",
-    "fallback": "anime style, sumo ring with collars"
-   }
-  },
-  {
-   "text": "Luffy knocks out a whole wave of guards with Supreme King Haki, chapter 936. He already has the rare type.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy knocks out guards Supreme King Haki Wano",
-    "fallback": "anime style, wave of guards collapsing"
-   },
-   "card": "CHAPTER 936"
-  },
-  {
-   "text": "But the next lesson isn't about the rare type. It's about Armament Haki, and what it can do from the inside.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro teaches Luffy Armament Haki",
-    "fallback": "anime style, old man guiding a young pirate"
-   }
-  },
-  {
-   "text": "Hyogoro showed him how to go beyond projecting Haki and use it to destroy objects from the inside.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro Armament Haki destroy inside",
-    "fallback": "anime style, glowing palm breaking an object from within"
-   }
-  },
-  {
-   "text": "And Luffy recognizes it right away: it is what Rayleigh did to Camie's collar at Sabaody.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy recognizes Rayleigh Camie collar Haki",
-    "fallback": "anime style, boy remembering a mentor's trick"
-   }
-  },
-  {
-   "text": "That detail bridges the teachers. Rayleigh showed it, but never taught it. Hyogoro taught it, years later.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Hyogoro Rayleigh Haki lesson",
-    "fallback": "anime style, boy between two old masters"
-   }
-  },
-  {
-   "text": "So Rayleigh's two years were not the end of Luffy's Haki. They were a base, and Wano finished a chapter of it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Wano Haki training",
-    "fallback": "anime style, glowing training in a mine"
-   }
-  },
-  {
-   "text": "How did Hyogoro train him? He ordered Luffy to protect him from Big Mom, with his life on the line.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro Big Mom Luffy protect",
-    "fallback": "anime style, boy shielding an old man from a giant woman"
-   }
-  },
-  {
-   "text": "Luffy tries to project his Haki to block her attack, fails, and gets sent into a wall. Then she chases him through the mine.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Big Mom chases Luffy Prisoner Mine",
-    "fallback": "anime style, giant woman chasing a pirate"
-   }
-  },
-  {
-   "text": "That is a Garp-style lesson: force the situation, make it urgent, let the body figure it out. The balloon trick, with a Yonko.",
-   "delivery": "reveal",
-   "fx": "zoom",
-   "shot": {
-    "search": "Garp balloon Luffy Big Mom comparison",
-    "fallback": "anime style, boy chased by a giant"
-   }
-  },
-  {
-   "text": "It is also exactly the Rayleigh principle: Haki grows when you push against someone far stronger.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Big Mom Haki training",
-    "fallback": "anime style, small boy facing a giant"
-   }
-  },
-  {
-   "text": "And advanced Armament is a real tier. Emitting Armament without a medium is cited to chapter 937.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "advanced Armament Haki emit Wano",
-    "fallback": "anime style, black energy leaving a fist"
-   },
-   "card": "CHAPTER 937"
-  },
-  {
-   "text": "A higher grade makes that emitted Armament flow into a target's body and destroy it from the inside, per the Haki page.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Ryuo Luffy Armament Haki flow into body",
-    "fallback": "anime style, shockwave passing through an opponent"
-   }
-  },
-  {
-   "text": "That is the technique Luffy uses on Kaido, and it came from a chained yakuza, not from his famous mentor.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido Ryuo Haki",
-    "fallback": "anime style, dragon and a boy trading blows"
-   }
-  },
-  {
-   "text": "That's the part that scares me about Garp: every lesson he gave Luffy was a survival test.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido Ryuo Haki",
-    "fallback": "anime style, dragon and a boy trading blows"
-   }
-  },
-  {
-   "text": "Hyogoro is a yakuza boss, so on paper he has no business teaching Armament Haki to a Straw Hat captain.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido Ryuo Haki",
-    "fallback": "anime style, dragon and a boy trading blows"
-   }
-  },
-  {
-   "text": "But Luffy recognized the technique from Rayleigh, which means he already had the eye for it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido Ryuo Haki",
-    "fallback": "anime style, dragon and a boy trading blows"
-   }
-  },
-  {
-   "text": "So how did a student of Rayleigh pick that up so fast? Hold that thought, because I have a guess.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido Ryuo Haki",
-    "fallback": "anime style, dragon and a boy trading blows"
-   }
-  },
-  {
-   "text": "Hyogoro is a yakuza boss, so on paper he has no business teaching Armament Haki to a Straw Hat captain.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro yakuza boss Wano",
-    "fallback": "anime style, hyogoro yakuza boss wano"
-   }
-  },
-  {
-   "text": "I think that is the Garp effect again: the kid sees a thing once, decides he can do it, and does it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy copies technique Garp effect",
-    "fallback": "anime style, luffy copies technique garp effect"
-   }
-  },
-  {
-   "text": "Fans will say Hyogoro's lesson was brief. It was. But brief lessons work on students who've already finished the long ones.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro brief lesson Luffy",
-    "fallback": "anime style, hyogoro brief lesson luffy"
-   }
-  },
-  {
-   "text": "That is my whole thesis in one sentence: the last lesson was short because the long ones were already done.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro brief lesson Luffy",
-    "fallback": "anime style, hyogoro brief lesson luffy"
-   }
-  },
-  {
-   "text": "So here is the ranking I would put on the three teachers, and then I will argue against my own list...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Garp Rayleigh Hyogoro",
-    "fallback": "anime style, boy and three teachers"
-   }
-  },
-  {
-   "text": "First, Garp: body, nerve, and a work ethic that survives anything. It is not Haki, but it is the soil Haki grows in.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy lesson",
-    "fallback": "anime style, grandfather watching a boy train"
-   }
-  },
-  {
-   "text": "Second, Rayleigh: the vocabulary, the method, and the first real mastery of Observation and Armament during the timeskip.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Luffy Observation Armament",
-    "fallback": "anime style, mentor in a hat watching training"
-   }
-  },
-  {
-   "text": "Third, Hyogoro: the advanced Armament step that turns a shield into a weapon from the inside.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hyogoro advanced Armament Haki Luffy",
-    "fallback": "anime style, old yakuza demonstrating a technique"
-   }
-  },
-  {
-   "text": "That ranking is by importance of timing, not by raw power. You cannot skip the first stage and win the third.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Haki progression stages",
-    "fallback": "anime style, staircase with three steps"
-   }
-  },
-  {
-   "text": "Keep that order in mind, because the next few minutes try to knock it down.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Haki progression stages",
-    "fallback": "anime style, staircase with three steps"
-   }
-  },
-  {
-   "text": "Now the counter-argument, because the strongest version of the other side deserves a real hearing.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Luffy Haki teacher",
-    "fallback": "anime style, fan pointing at a chart"
-   }
-  },
-  {
-   "text": "It goes: Rayleigh is the only person the manga ever shows teaching Luffy Haki, so crediting Garp is just fan fiction.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh teacher Luffy Rusukaina",
-    "fallback": "anime style, skeptical fan"
-   }
-  },
-  {
-   "text": "I will give them that. There is no panel of Garp teaching Haki to child Luffy, and I am not claiming one exists.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy childhood flashback",
-    "fallback": "anime style, flashback of a boy and an old man"
-   }
-  },
-  {
-   "text": "My claim is smaller and stronger. Garp is why the lesson stuck, and the wiki's own descriptions of his methods support that.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp training methods Luffy",
-    "fallback": "anime style, old marine with a clipboard of drills"
-   }
-  },
-  {
-   "text": "There is another counter: Luffy was born with Supreme King Haki, so Garp did not build that part at all.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Haoshoku born",
-    "fallback": "anime style, boy with a golden crown outline"
-   }
-  },
-  {
-   "text": "True, and I agree. Garp gave him none of that. What he gave him is the ability to use it without collapsing.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Supreme King Haki stamina",
-    "fallback": "anime style, boy standing after a shockwave"
-   }
-  },
-  {
-   "text": "Haki is not limitless and can be depleted from overuse, chapters 785 and 786, and 886.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Haki depleted exhaustion Luffy",
-    "fallback": "anime style, boy collapsing from exhaustion"
-   },
-   "card": "HAKI RUNS OUT"
-  },
-  {
-   "text": "So endurance is the thing that decides how long a Haki user lasts. And endurance is Garp's department.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido fight Haki endurance",
-    "fallback": "anime style, battered pirate refusing to fall"
-   }
-  },
-  {
-   "text": "A last counter: Oda himself says the reason Garp's punch hurts rubber Luffy is not Haki, but love.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido fight Haki endurance",
-    "fallback": "anime style, battered pirate refusing to fall"
-   }
-  },
-  {
-   "text": "The wiki cites an SBS answer for that. It's a joke, but it says something: Garp's training always had feeling behind it.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Kaido fight Haki endurance",
-    "fallback": "anime style, battered pirate refusing to fall"
-   }
-  },
-  {
-   "text": "So here's the position I'll defend. Garp is the first teacher, even if not the Haki teacher. The theory is the order of operations.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp first teacher Luffy",
-    "fallback": "anime style, number one trophy"
-   }
-  },
-  {
-   "text": "Here's my read of the whole chain: Garp's body, Shanks' spark, Rayleigh's method, Hyogoro's twist. Each one built on the last.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Shanks Garp Rayleigh Hyogoro Luffy",
-    "fallback": "anime style, four figures behind a boy"
-   }
-  },
-  {
-   "text": "One weakness in my own theory: the wiki describes Garp's methods, and the manga doesn't show all of them, so parts are summary.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp methods wiki summary",
-    "fallback": "anime style, garp methods wiki summary"
-   }
-  },
-  {
-   "text": "I also can't prove Garp never gave Luffy a Haki hint. I only say no source I checked credits him with one.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp methods wiki summary",
-    "fallback": "anime style, garp methods wiki summary"
-   }
-  },
-  {
-   "text": "I'm labeling the claim a theory and the evidence canon. The pit, balloons and jungle are on record; the Haki link is mine.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp pit balloon jungle record",
-    "fallback": "anime style, garp pit balloon jungle record"
-   }
-  },
-  {
-   "text": "If you disagree, tell me which teacher you rank first. I know some of you will say Rayleigh with total confidence.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh ranked first Luffy",
-    "fallback": "anime style, rayleigh ranked first luffy"
-   }
-  },
-  {
-   "text": "And if Garp comes back and teaches Luffy something on the page, I will happily eat these words.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh ranked first Luffy",
-    "fallback": "anime style, rayleigh ranked first luffy"
-   }
-  },
-  {
-   "text": "And if Garp comes back and teaches Luffy something on the page, I will happily eat these words.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp returns Luffy lesson",
-    "fallback": "anime style, garp returns luffy lesson"
-   }
-  },
-  {
-   "text": "But if that chain is right, it predicts something for the future that nobody is talking about yet...",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Elbaf Garp missing",
-    "fallback": "anime style, boy looking out to sea"
-   }
-  },
-  {
-   "text": "My prediction is that Luffy's grandfather matters again. Garp is declared missing, and as far as the wiki goes, still alive.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp missing alive Hachinosu",
-    "fallback": "anime style, silhouette of an old hero in a cell"
-   }
-  },
-  {
-   "text": "When the story brings Garp back, I expect it to be the moment Luffy's fighting style gets a new lesson.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Garp reunion",
-    "fallback": "anime style, grandfather and grandson meeting again"
-   }
-  },
-  {
-   "text": "Why? Garp is one of the few who can infuse Supreme King Haki into his strikes, and Luffy can too.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy infused Supreme King Haki attack",
-    "fallback": "anime style, fist with black lightning"
-   }
-  },
-  {
-   "text": "Only a small handful of the strongest users can, according to chapter 1010. Garp and Luffy are both on that list.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Supreme King Haki infuse weapons attacks",
-    "fallback": "anime style, list of strongest Haki users"
-   },
-   "card": "CHAPTER 1010"
-  },
-  {
-   "text": "That is a very short list.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy Haki family",
-    "fallback": "anime style, family portrait with lightning"
-   }
-  },
-  {
-   "text": "Two names on it share a family tree, and one of them taught the other to take a hit.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy Haki family",
-    "fallback": "anime style, family portrait with lightning"
-   }
-  },
-  {
-   "text": "I'm not saying Garp teaches Luffy anything in Elbaf. That would be a guess. I'm saying the story has set it up.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Elbaph Arc Luffy Garp",
-    "fallback": "anime style, giant land and a straw hat"
-   }
-  },
-  {
-   "text": "What I can say for certain is that the wiki calls Garp a capable teacher, and names Kuzan, Koby and Helmeppo as his students.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp capable teacher Haki Kuzan Koby Helmeppo",
-    "fallback": "anime style, old marine and three students"
-   }
-  },
-  {
-   "text": "Which means the one student who never got the second stage is his own grandson. He learned it the hard way, from others.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp grandson Luffy Haki missing lesson",
-    "fallback": "anime style, boy standing alone while others train"
-   }
-  },
-  {
-   "text": "And that, I think, is the quiet tragedy in this story. Garp trained everyone's child except the one he wanted to protect most.",
-   "delivery": "slow",
-   "fx": "none",
-   "shot": {
-    "search": "Garp Luffy sad",
-    "fallback": "anime style, old marine looking at a distant horizon"
-   }
-  },
-  {
-   "text": "Because the one lesson he never gave Luffy was the one he feared the most, the lesson that sends him to sea.",
-   "delivery": "slow",
-   "fx": "none",
-   "shot": {
-    "search": "Garp worried Luffy sea",
-    "fallback": "anime style, old man watching a ship leave"
-   }
-  },
-  {
-   "text": "That is why I count Garp as the first of three. Without him, the rest of the chain has nothing to hold on to.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Garp first teacher chain",
-    "fallback": "anime style, garp first teacher chain"
-   }
-  },
-  {
-   "text": "So next time someone says Rayleigh taught Luffy Haki, say yes, then ask who taught him to survive the lesson.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh taught Luffy Haki",
-    "fallback": "anime style, rayleigh taught luffy haki"
-   }
-  },
-  {
-   "text": "I think Oda built it that way on purpose: a hero is assembled by many hands, and the first is the least gentle.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Eiichiro Oda Luffy mentors",
-    "fallback": "anime style, eiichiro oda luffy mentors"
-   }
-  },
-  {
-   "text": "And that is the part I do not think Oda left to chance.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Eiichiro Oda Luffy mentors",
-    "fallback": "anime style, eiichiro oda luffy mentors"
-   }
-  },
-  {
-   "text": "So when you ask who taught Luffy Haki, the clean answer is Rayleigh first, Hyogoro second, and nature third.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy Haki teachers ranked",
-    "fallback": "anime style, podium with three figures"
-   }
-  },
-  {
-   "text": "But the honest answer is that every one of them taught a boy who had already been taught how to keep standing.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Luffy keeps standing never gives up",
-    "fallback": "anime style, boy standing in a storm"
-   }
-  },
-  {
-   "text": "A grandfather who tied him to balloons, dropped him in pits and left him in the dark built that boy before any master did.",
-   "delivery": "reveal",
-   "fx": "zoom",
-   "shot": {
-    "search": "Garp balloons pit jungle Luffy",
-    "fallback": "anime style, montage of harsh training"
-   }
-  },
-  {
-   "text": "Garp did not teach Luffy Haki. He taught Luffy to be someone Haki could not break.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Monkey D. Garp Luffy proud",
-    "fallback": "anime style, grandfather's hand on a straw hat"
-   }
-  },
-  {
-   "text": "If you want the next story on a teacher nobody credits, the Rusukaina training is the follow-up worth watching.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Rayleigh Luffy Rusukaina training",
-    "fallback": "anime style, old pirate on a wild island"
-   }
+  "id": "2026-10-25-L",
+  "format": "long",
+  "deep": true,
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Garp trained Luffy's body years before Rayleigh taught him Haki",
+  "title": "Who Taught Luffy Haki? Garp Built The Body First",
+  "description": "Who taught Luffy Haki? Most fans say Rayleigh, some say Hyogoro, and almost nobody counts Garp. This deep dive follows every teacher in order, from Foosha Village to Rusukaina to the Wano prison mine, and argues that Garp's brutal childhood training is the reason the rest of it worked.\n\n0:00 Who Taught Luffy Haki\n0:30 The Teacher Nobody Counts\n2:48 A Word Nobody Said\n6:30 The Marine Pipeline\n8:45 Shanks Lit The Fuse\n11:02 The Auction House Stranger\n12:38 Two Years On Rusukaina\n14:55 The Lesson Under The Lesson\n17:31 The Student Who Left\n19:17 The Surprise Teacher\n21:39 The Hole In My Theory\n24:02 The Verdict\n\nWho do you think deserves the most credit for Luffy's Haki: Garp, Rayleigh or Hyogoro?",
+  "hashtags": [
+    "#luffy",
+    "#garp",
+    "#onepiece",
+    "#haki"
+  ],
+  "tags": [
+    "who taught luffy haki",
+    "luffy haki explained",
+    "garp trained luffy",
+    "rayleigh luffy training",
+    "luffy haki teachers",
+    "one piece haki explained",
+    "garp luffy childhood",
+    "hyogoro luffy haki",
+    "monkey d garp haki",
+    "luffy rusukaina training",
+    "one piece theory",
+    "one piece deep dive"
+  ],
+  "hook_text": "WHO TAUGHT HIM?",
+  "music_mood": "epic",
+  "comment": "Who deserves more credit for Luffy's Haki: Garp, who built the body and the stubbornness first, or Rayleigh, who actually unlocked it?",
+  "related_long": null,
+  "pages": [
+    "Monkey D. Luffy",
+    "Monkey D. Garp",
+    "Silvers Rayleigh",
+    "Haki",
+    "Hyogoro"
+  ],
+  "lines": [
+    {
+      "text": "Who taught Luffy Haki? Rayleigh did, but the first teacher was Garp, and he never said the word.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy young",
+        "fallback": "anime style, old marine looming over a small boy"
+      }
+    },
+    {
+      "text": "Garp dropped him in a pit, abandoned him in a jungle at night, and tied him to balloons.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy training",
+        "fallback": "anime style, boy tied to a balloon over a forest"
+      }
+    },
+    {
+      "text": "None of that is Haki. But I think it's the only reason Rayleigh's training didn't break him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Luffy Haki Rayleigh",
+        "fallback": "anime style, pirate captain with glowing aura"
+      }
+    },
+    {
+      "text": "So how much of Luffy's Haki is Rayleigh's, and how much was already waiting from childhood?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Rusukaina Rayleigh",
+        "fallback": "anime style, mentor and pupil on a wild island"
+      }
+    },
+    {
+      "text": "Stay for four teachers, a hidden Marine pipeline, and one lesson in Wano that Rayleigh never taught...",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Monkey D. Garp Fist of Love Luffy",
+        "fallback": "anime style, big fist coming down on a boy"
+      }
+    },
+    {
+      "text": "But the strangest thing Garp ever did to him wasn't a lesson. It was a drop...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy balloon",
+        "fallback": "anime style, boy tied to a balloon high above the sea"
+      }
+    },
+    {
+      "text": "Garp is Luffy's grandfather, chapter 431, and Luffy says he almost ended him several times, always as an excuse to make him tough.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Dragon Luffy family",
+        "fallback": "anime style, three generations of one family"
+      },
+      "card": "CHAPTER 431"
+    },
+    {
+      "text": "Garp believes throwing children into harsh conditions is what makes them strong. That is his whole philosophy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Roger Hero of the Marines",
+        "fallback": "anime style, marine hero facing a pirate king"
+      }
+    },
+    {
+      "text": "The methods are on record. First, a bottomless pit. Then the jungle, alone, in the middle of the night.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy Foosha Village",
+        "fallback": "anime style, old marine and a boy on a village path"
+      }
+    },
+    {
+      "text": "And he ties him to balloons and sends him flying through the sky.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp personality children",
+        "fallback": "anime style, stern old marine"
+      }
+    },
+    {
+      "text": "None of that is Haki, and I won't pretend it is. This video is an argument, not a rumor.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp serious",
+        "fallback": "anime style, narrator pointing at a chalkboard"
+      }
+    },
+    {
+      "text": "It is the thing the wiki says Garp believes in: build the person first, and everything else follows.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy toughness",
+        "fallback": "anime style, boy standing back up after a fall"
+      }
+    },
+    {
+      "text": "And it wasn't a one-off. Garp trained Ace and Sabo too, and nobody asked them either.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy Ace Sabo",
+        "fallback": "anime style, three boys with an old marine"
+      }
+    },
+    {
+      "text": "Sabo even noted that Garp tried to keep the three brothers on a short leash, chapter 794. That's a program, not a punishment.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Sabo Ace Luffy brothers",
+        "fallback": "anime style, three brothers sharing a drink"
+      },
+      "card": "CHAPTER 794"
+    },
+    {
+      "text": "The wiki's own summary says Garp trained Luffy and Ace to be strong enough to set sail on their own.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy sets sail Dawn Island",
+        "fallback": "anime style, boy leaving in a tiny boat"
+      }
+    },
+    {
+      "text": "Think about that. A boy who ate a rubber fruit leaves home at seventeen and survives the sea.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy leaves Foosha Village boat",
+        "fallback": "anime style, boy in a tiny boat on open sea"
+      }
+    },
+    {
+      "text": "That is not luck. Somebody spent years making sure the boy could take a beating and keep walking.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Dadan Mountain Bandits training",
+        "fallback": "anime style, boy fighting bandits in a forest"
+      }
+    },
+    {
+      "text": "And notice the kind of kid it was: one who would not stay down, no matter who dropped him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Dadan Mountain Bandits training",
+        "fallback": "anime style, boy fighting bandits in a forest"
+      }
+    },
+    {
+      "text": "Garp also parked Luffy with Curly Dadan, and he basically blackmailed her into being a foster mother.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Curly Dadan Garp Luffy Ace",
+        "fallback": "anime style, big bandit woman holding two boys"
+      }
+    },
+    {
+      "text": "In exchange, he looked away from her gang's crimes. So the jungle training had a ready-made home base.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dadan Family Mt. Colubo Luffy",
+        "fallback": "anime style, bandit hideout on a mountain"
+      }
+    },
+    {
+      "text": "And the jungle matters for a Devil Fruit user. Young Luffy had trouble aiming his rubber attacks.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gomu Gomu no Mi young recoil",
+        "fallback": "anime style, boy spinning from a stretched punch"
+      }
+    },
+    {
+      "text": "He misjudged timing and was sent spinning by the recoil. But his continuous jungle training fixed that by the time he left.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy jungle training Gomu Gomu",
+        "fallback": "anime style, boy punching a giant beast"
+      }
+    },
+    {
+      "text": "So here is claim number one. Garp is not a Haki teacher, but he is why Luffy had a body ready for one.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy",
+        "fallback": "anime style, proud old marine"
+      }
+    },
+    {
+      "text": "Garp was seventy-six at Marineford and still struck down Marco, something Kizaru and Akainu seemed unable to do.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy",
+        "fallback": "anime style, proud old marine"
+      }
+    },
+    {
+      "text": "A man like that doesn't raise a child gently. He raises one the way he trained himself, and that's why the pit makes sense.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy",
+        "fallback": "anime style, proud old marine"
+      }
+    },
+    {
+      "text": "The jungle part matters more than people think. It put Luffy where every single day was a small version of the same test.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy",
+        "fallback": "anime style, proud old marine"
+      }
+    },
+    {
+      "text": "The wiki even notes Garp visited in sandals and a red tropical shirt. The terror arrived in holiday clothes.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp tropical shirt Dadan visit",
+        "fallback": "anime style, garp tropical shirt dadan visit"
+      }
+    },
+    {
+      "text": "And there is a soft spot. When Ace asked whether he should have been born, Garp said he would find the answer by living.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Ace should have been born",
+        "fallback": "anime style, garp ace should have been born"
+      }
+    },
+    {
+      "text": "Now the awkward question. If Garp is a Haki master, why didn't he just teach his own grandson?",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Monkey D. Garp Haki Armament",
+        "fallback": "anime style, black-coated fist glowing"
+      }
+    },
+    {
+      "text": "Start with where Luffy grew up. Haki is almost nonexistent in the four Blues.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "East Blue Haki none Luffy",
+        "fallback": "anime style, quiet seaside town"
+      }
+    },
+    {
+      "text": "It's rare in Paradise and common only in the New World, so Luffy grew up where almost nobody had seen it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "East Blue Haki none Luffy",
+        "fallback": "anime style, quiet seaside town"
+      }
+    },
+    {
+      "text": "And the word itself shows up late. It first appears when Blackbeard comments on Luffy's bounty at Jaya, chapter 234.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Luffy Jaya Haki",
+        "fallback": "anime style, big pirate laughing at a bounty poster"
+      },
+      "card": "CHAPTER 234"
+    },
+    {
+      "text": "So for over two hundred chapters, readers watched Haki happen without anyone naming it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki first use Jaya",
+        "fallback": "anime style, mysterious aura around a fighter"
+      }
+    },
+    {
+      "text": "The first use is in chapter 1. Shanks drives off the Lord of the Coast with it and saves young Luffy's life.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Lord of the Coast Luffy",
+        "fallback": "anime style, red haired pirate staring down a sea monster"
+      },
+      "card": "CHAPTER 1"
+    },
+    {
+      "text": "Here's the detail I think people forget. Luffy's first experience of Haki wasn't training. It was being protected by it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Haki sea king Luffy Foosha",
+        "fallback": "anime style, small boy watching a pirate glare"
+      }
+    },
+    {
+      "text": "The concept properly arrives at Sabaody, chapter 503, and Amazon Lily, chapter 516, long after Luffy left home.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sabaody Archipelago Haki Luffy Camie",
+        "fallback": "anime style, crowded island of bubbles"
+      },
+      "card": "CHAPTER 516"
+    },
+    {
+      "text": "And Rayleigh is the one who explains it, right at the start of the training on Rusukaina.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh explains Haki Luffy Rusukaina",
+        "fallback": "anime style, old swordsman lecturing a boy on a cliff"
+      }
+    },
+    {
+      "text": "So Rayleigh gave Luffy the vocabulary and the method. That part isn't in dispute.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Silvers Rayleigh Luffy",
+        "fallback": "anime style, mentor with glasses and a sword"
+      }
+    },
+    {
+      "text": "But there is something strange about Luffy's Haki that has nothing to do with Rayleigh.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Impel Down Blackbeard Haki",
+        "fallback": "anime style, rookie pirate in a prison corridor"
+      }
+    },
+    {
+      "text": "And this is where it gets uncomfortable for the Rayleigh-only crowd.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Impel Down Blackbeard Haki",
+        "fallback": "anime style, rookie pirate in a prison corridor"
+      }
+    },
+    {
+      "text": "Blackbeard noted Luffy's Haki had grown stronger by the Impel Down breakout, compared to Jaya. That's chapter 544.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Luffy Impel Down Haki stronger",
+        "fallback": "anime style, big pirate sizing up a rookie"
+      },
+      "card": "CHAPTER 544"
+    },
+    {
+      "text": "A person's Haki can grow before they even learn it exists. Luffy was doing it with no teacher at all.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy untrained Haki growth",
+        "fallback": "anime style, boy glowing with raw energy"
+      }
+    },
+    {
+      "text": "So how does anyone get it? Haki is spiritual energy that comes from willpower.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki willpower spiritual energy",
+        "fallback": "anime style, glowing silhouette"
+      }
+    },
+    {
+      "text": "It's dormant in all living things, and there are three ways to wake it: years of training, shock in battle, or natural talent.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki awakening training battle talent",
+        "fallback": "anime style, three paths glowing"
+      }
+    },
+    {
+      "text": "Hold that three-way split in your head, because it is the key to the whole argument.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki Overview acquisition",
+        "fallback": "anime style, a fork in a path"
+      }
+    },
+    {
+      "text": "Keep score as we go, because by the end I will tell you which path Luffy actually took.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki Overview acquisition",
+        "fallback": "anime style, a fork in a path"
+      }
+    },
+    {
+      "text": "The first path is training. Chapter 594 says people usually awaken Haki through instruction and intense training over several years.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki training years instruction",
+        "fallback": "anime style, student training with a master"
+      },
+      "card": "CHAPTER 594"
+    },
+    {
+      "text": "Several years. Not a weekend. Rayleigh himself says two years is not enough to learn even the basics, chapter 597.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh two years Haki basics",
+        "fallback": "anime style, mentor warning a student"
+      },
+      "card": "CHAPTER 597"
+    },
+    {
+      "text": "And yet Luffy, Zoro, Sanji and a few others managed it inside the timeskip, according to the same page.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Straw Hats Haki timeskip Zoro Sanji Luffy",
+        "fallback": "anime style, crew reunited after two years"
+      }
+    },
+    {
+      "text": "So either the Straw Hats are freaks, or something earlier prepared them. For Luffy, I think that something is a grandfather.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Garp grandfather",
+        "fallback": "anime style, boy looking up at an old marine"
+      }
+    },
+    {
+      "text": "Notice how the Haki page words it: the energy is theoretically available to every living creature, but most people never learn it exists.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki dormant all creatures",
+        "fallback": "anime style, haki dormant all creatures"
+      }
+    },
+    {
+      "text": "That is the real barrier in the Blues. It is not talent, it is that nobody even knows what to ask for.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki unknown four Blues",
+        "fallback": "anime style, haki unknown four blues"
+      }
+    },
+    {
+      "text": "My read: a master who never named the thing would leave no visible trace in the story, which is exactly what we see.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki unknown four Blues",
+        "fallback": "anime style, haki unknown four blues"
+      }
+    },
+    {
+      "text": "The third path is natural talent. The wiki names Aisa and Otohime as born with awakened Observation Haki, chapters 265 and 621.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Aisa Otohime Observation Haki",
+        "fallback": "anime style, aisa otohime observation haki"
+      }
+    },
+    {
+      "text": "But there is a bigger puzzle on the Marine side of the family, one that explains why Garp stayed quiet...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Marine Vice Admiral Haki",
+        "fallback": "anime style, marine cape in the wind"
+      }
+    },
+    {
+      "text": "Garp is a Vice Admiral, and every Marine at that rank or above can use Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Marine Vice Admiral Haki Garp",
+        "fallback": "anime style, rows of marine officers"
+      }
+    },
+    {
+      "text": "He's one of the very few people who use all three types, and he can infuse Supreme King Haki into his fist.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp three types of Haki",
+        "fallback": "anime style, three colored auras around a fist"
+      }
+    },
+    {
+      "text": "That is the advanced use that only a small handful of people in the entire series can pull off.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp three types of Haki",
+        "fallback": "anime style, three colored auras around a fist"
+      }
+    },
+    {
+      "text": "So Garp absolutely could have taught his grandson Haki. The question is why we never see it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy Haki lesson",
+        "fallback": "anime style, old marine watching a boy"
+      }
+    },
+    {
+      "text": "I have three possible reasons, and I will label them as my read, not canon.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp thinking Luffy",
+        "fallback": "anime style, old marine deep in thought"
+      }
+    },
+    {
+      "text": "Reason one: Garp wanted Luffy in the Marines. He claims Shanks poisoned Luffy with the idea of piracy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Shanks grudge Luffy pirate",
+        "fallback": "anime style, angry marine pointing at a pirate"
+      }
+    },
+    {
+      "text": "That scene is chapter 432, and Luffy answers that he wanted to be a pirate even as a child.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy tells Garp he wants to be a pirate",
+        "fallback": "anime style, boy refusing his grandfather"
+      },
+      "card": "CHAPTER 432"
+    },
+    {
+      "text": "Teaching a future pirate the strongest tool in the world is a strange move for a Marine hero. So he held back.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy Marine dream",
+        "fallback": "anime style, marine uniform offered to a boy"
+      }
+    },
+    {
+      "text": "Reason two: Haki in the Blues was almost unknown, and Garp's own training was never about techniques.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp battleship punching training",
+        "fallback": "anime style, old man punching a battleship"
+      }
+    },
+    {
+      "text": "He trained himself since his youth by punching battleships. He destroyed eight mountains before fighting Chinjao.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Chinjao eight mountains",
+        "fallback": "anime style, mountains crumbling under fists"
+      }
+    },
+    {
+      "text": "That is a man who solves problems with the body first, and sorts out the energy part later.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Chinjao Armament Haki fist",
+        "fallback": "anime style, fist cracking a drill-shaped head"
+      }
+    },
+    {
+      "text": "Reason three: Haki still needs a person to believe in themselves and have real combat experience. A small kid has neither.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki requires combat experience belief",
+        "fallback": "anime style, boy hesitating before a fight"
+      }
+    },
+    {
+      "text": "So Garp may have treated childhood as the foundation stage. Body first, instruction later, by someone else.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp trains Luffy Ace",
+        "fallback": "anime style, old marine and two kids"
+      }
+    },
+    {
+      "text": "Does that pattern hold? That is where the story gets interesting, because Garp ran the same program on other people...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Kuzan Koby Helmeppo",
+        "fallback": "anime style, marine cadets lined up"
+      }
+    },
+    {
+      "text": "Now look at who Garp actually trained. First name on the list: Kuzan, the future Admiral Aokiji.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kuzan Garp student",
+        "fallback": "anime style, tall relaxed marine admiral"
+      }
+    },
+    {
+      "text": "Kuzan was a cadet who had learned everything the official instructors could offer, so he asked Garp to take him on.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kuzan asks Garp apprentice",
+        "fallback": "anime style, young marine bowing to an old hero"
+      }
+    },
+    {
+      "text": "Garp refused at first, then agreed, and they trained by punching a battleship.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kuzan battleship punching Garp training",
+        "fallback": "anime style, two men punching a warship hull"
+      }
+    },
+    {
+      "text": "The detail I love is the rule. Kuzan wouldn't let himself use his Devil Fruit or his Haki. Pure body, no shortcuts.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kuzan battleship bags no Devil Fruit no Haki",
+        "fallback": "anime style, man punching a hull with no powers"
+      }
+    },
+    {
+      "text": "Ask yourself who trains like that. Not someone looking for a shortcut.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kuzan battleship bags no Devil Fruit no Haki",
+        "fallback": "anime style, man punching a hull with no powers"
+      }
+    },
+    {
+      "text": "Until he could cave in the hull of a retired battleship with his bare fists.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Kuzan punch battleship hull",
+        "fallback": "anime style, huge hull dented by a fist"
+      }
+    },
+    {
+      "text": "That is the method the wiki credits to Garp himself, and the Hachinosu fight confirms it, chapter 1087.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kuzan Garp Hachinosu fight",
+        "fallback": "anime style, old marine facing his former student"
+      },
+      "card": "CHAPTER 1087"
+    },
+    {
+      "text": "Next, Koby and Helmeppo. They were chore boys in Shells Town, and Garp took them over because his rank outranked their captain.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Helmeppo Garp Shells Town",
+        "fallback": "anime style, two young marines scrubbing a deck"
+      }
+    },
+    {
+      "text": "Garp's rank gives him room to do this. As a Vice Admiral he took them from another officer, episode 68.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Helmeppo Garp Shells Town",
+        "fallback": "anime style, two young marines scrubbing a deck"
+      }
+    },
+    {
+      "text": "In a short time he made them capable fighters. Koby even picked up Soru from that regimen.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Soru Garp training",
+        "fallback": "anime style, marine cadet vanishing in a blur"
+      }
+    },
+    {
+      "text": "Chapters 432 and 569 show Koby using Soru against Luffy. Luffy could not even react in time.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Soru kick Luffy Water 7",
+        "fallback": "anime style, marine vanishing and kicking a pirate"
+      },
+      "card": "SORU"
+    },
+    {
+      "text": "So the pipeline produces speed, strength and nerve first. Nothing supernatural at the start.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby cross scar Garp training",
+        "fallback": "anime style, scarred young marine"
+      }
+    },
+    {
+      "text": "Here is the detail that matters for Luffy. Koby awakened Observation Haki at Marineford, chapter 579, in the middle of a crisis.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Observation Haki Marineford",
+        "fallback": "anime style, small marine standing up between armies"
+      },
+      "card": "CHAPTER 579"
+    },
+    {
+      "text": "That is the second path from earlier: awakening in battle. Even then, you still need training to control it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Haki awakening Marineford",
+        "fallback": "anime style, boy glowing with sudden power"
+      }
+    },
+    {
+      "text": "And when Koby needed to master it, a doctor named Fishbonen told him to ask Garp, which suggests Garp has real Observation expertise.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Fishbonen Observation Haki Garp",
+        "fallback": "anime style, bandaged marine hearing advice"
+      }
+    },
+    {
+      "text": "So here's the pattern. Body first, Haki second, and only for a student who has survived the body program.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp teaches Koby Haki",
+        "fallback": "anime style, old marine coaching a marine"
+      }
+    },
+    {
+      "text": "That, to me, is the first big piece of the theory: Garp's pipeline is body first, Haki second.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp instructor Marines",
+        "fallback": "anime style, instructor surrounded by recruits"
+      }
+    },
+    {
+      "text": "Now apply that to Luffy. The body program ran for years in Foosha. The Haki stage never came from Garp.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy Foosha Village",
+        "fallback": "anime style, quiet village and a training field"
+      }
+    },
+    {
+      "text": "Because Luffy left home at seventeen, long before Garp's second stage. Someone else would have to deliver it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy leaves home seventeen",
+        "fallback": "anime style, teen pirate waving goodbye"
+      }
+    },
+    {
+      "text": "Koby also kept up the battleship punching on his own. Only powerful Marines like Garp and Kuzan can do that drill.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby punching battleship",
+        "fallback": "anime style, koby punching battleship"
+      }
+    },
+    {
+      "text": "That is the pipeline's output: a chore boy turns into someone who can kick Luffy before Luffy reacts.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby punching battleship",
+        "fallback": "anime style, koby punching battleship"
+      }
+    },
+    {
+      "text": "And Kuzan shows the ceiling. Like Garp, he reached the point where he could cave in the armored hull of a retired battleship.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby punching battleship",
+        "fallback": "anime style, koby punching battleship"
+      }
+    },
+    {
+      "text": "Brannew's comment on Kuzan is the line I would frame: his strength wasn't gifted at birth, it was built, the same as Garp's.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Brannew Kuzan built strength",
+        "fallback": "anime style, brannew kuzan built strength"
+      }
+    },
+    {
+      "text": "So who did the world arrange for the next stage? The answer was set up by a man in a red coat...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Luffy Straw Hat",
+        "fallback": "anime style, red haired pirate giving a hat"
+      }
+    },
+    {
+      "text": "Shanks. Garp blames him for making Luffy a pirate, and he is angry about it again at Marineford.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Garp Marineford",
+        "fallback": "anime style, marine and pirate staring at each other"
+      },
+      "card": "CHAPTER 580"
+    },
+    {
+      "text": "That is chapter 580. Garp's grudge against Shanks is real, which is part of why he never wanted Luffy near the sea.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Shanks grudge",
+        "fallback": "anime style, angry old marine"
+      }
+    },
+    {
+      "text": "Here is the loop I find fascinating. Shanks gave Luffy the dream. Garp gave him the toughness to chase it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Luffy Garp three generations",
+        "fallback": "anime style, triangle of pirate, marine and boy"
+      }
+    },
+    {
+      "text": "And then Shanks connects to Rayleigh. Rayleigh punished Shanks and Buggy when the two boys fought, chapter 19.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Shanks Buggy Roger Pirates",
+        "fallback": "anime style, two bickering cabin boys"
+      },
+      "card": "CHAPTER 19"
+    },
+    {
+      "text": "As an adult, Shanks still knew Rayleigh. He told him about Luffy, and the retired pirate got eager to meet him. Chapter 506.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Rayleigh Sabaody Luffy",
+        "fallback": "anime style, two old friends talking"
+      },
+      "card": "CHAPTER 506"
+    },
+    {
+      "text": "So even Rayleigh's interest in Luffy comes through Shanks. The teachers are all linked to the boy through the same man.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Silvers Rayleigh Luffy meets",
+        "fallback": "anime style, old pirate studying a boy"
+      }
+    },
+    {
+      "text": "Now go back to Garp, because there is a line that I think proves how he saw himself.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp pride Luffy outrageous",
+        "fallback": "anime style, old marine laughing proudly"
+      }
+    },
+    {
+      "text": "It says Garp appears proud whenever Luffy commits outrageous acts, like breaking into Impel Down to rescue Ace.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy Impel Down proud",
+        "fallback": "anime style, old marine amused by a prison break"
+      }
+    },
+    {
+      "text": "That is not a man who thinks his training failed. That is a man who sees exactly what he built.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp watches Luffy Marineford",
+        "fallback": "anime style, grandfather watching from the crowd"
+      }
+    },
+    {
+      "text": "And Marineford has the scene that I think settles it. Luffy punches Garp in Gear Second at point blank range.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy punches Garp Gear Second Marineford",
+        "fallback": "anime style, boy landing a punch on an old hero"
+      }
+    },
+    {
+      "text": "Garp let him do it to save Ace, and Sengoku could tell he hesitated.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp lets Luffy punch Sengoku",
+        "fallback": "anime style, fleet admiral glaring at a hero"
+      }
+    },
+    {
+      "text": "That is the moment I keep replaying. Why would a Vice Admiral let a rookie punch him?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp lets Luffy punch Sengoku",
+        "fallback": "anime style, fleet admiral glaring at a hero"
+      }
+    },
+    {
+      "text": "But even letting it land, Garp stayed conscious and kept fighting. That tells you how deep his own durability goes.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp durability Luffy Gear 2",
+        "fallback": "anime style, old man shrugging off a hit"
+      }
+    },
+    {
+      "text": "He has tremendous durability and pain tolerance, and once shrugged off a deep wound from Captain Morgan without noticing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Morgan axe hand",
+        "fallback": "anime style, old marine unbothered by a hit"
+      }
+    },
+    {
+      "text": "That tolerance, the ability to take a hit and keep walking, is exactly the trait Luffy shows in every fight since.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy takes hit keeps standing",
+        "fallback": "anime style, battered pirate standing up smiling"
+      }
+    },
+    {
+      "text": "Look at it as inheritance plus training. Garp passed both down: the build and the habit of getting back up.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy resemblance",
+        "fallback": "anime style, grandfather and grandson side by side"
+      }
+    },
+    {
+      "text": "Luffy even looks like a young Garp, just less muscular.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp young appearance Luffy",
+        "fallback": "anime style, young marine and a boy with similar faces"
+      }
+    },
+    {
+      "text": "Go back to chapter 1:",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Lord of the Coast Haki",
+        "fallback": "anime style, shanks lord of the coast haki"
+      }
+    },
+    {
+      "text": "Shanks drives off the Lord of the Coast with Haki. Garp would later try to make that kid a Marine.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Lord of the Coast Haki",
+        "fallback": "anime style, shanks lord of the coast haki"
+      }
+    },
+    {
+      "text": "Luffy told his grandfather he wanted to be a pirate even as a child. The dream was set before either teacher spoke.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy child wants to be a pirate",
+        "fallback": "anime style, luffy child wants to be a pirate"
+      }
+    },
+    {
+      "text": "Luffy watched a pirate protect him with an invisible force. Two men, one kid, opposite goals.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy child wants to be a pirate",
+        "fallback": "anime style, luffy child wants to be a pirate"
+      }
+    },
+    {
+      "text": "That tells me the body program was never about direction. It was about durability, and the direction came free from Shanks.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy durability direction Shanks Garp",
+        "fallback": "anime style, luffy durability direction shanks garp"
+      }
+    },
+    {
+      "text": "Garp earned his hero title at God Valley, chapter 957, helping end the Rocks Pirates.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp God Valley Rocks Pirates",
+        "fallback": "anime style, garp god valley rocks pirates"
+      }
+    },
+    {
+      "text": "Now his own grandson aims for the Pirate King's crown. That irony is half of why he is so angry.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Roger Luffy Pirate King",
+        "fallback": "anime style, garp roger luffy pirate king"
+      }
+    },
+    {
+      "text": "So the stage is set. Body from Garp, spark from Shanks, and a missing piece the world had to supply...",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Luffy Rayleigh Sabaody Archipelago",
+        "fallback": "anime style, old pirate stepping out of the shadows"
+      }
+    },
+    {
+      "text": "That missing piece arrives at Sabaody, and it starts with a mermaid girl named Camie and a slave auction.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Camie Sabaody auction",
+        "fallback": "anime style, old man in a chaotic auction house"
+      }
+    },
+    {
+      "text": "An old man in the audience, who turns out to be Silvers Rayleigh, makes a giant guard faint just by glaring. Chapter 500.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Supreme King Haki Disco",
+        "fallback": "anime style, old man releasing a pressure wave"
+      },
+      "card": "CHAPTER 500"
+    },
+    {
+      "text": "Later he removes Camie's collar without a key. That is advanced Armament Haki, confirmed in Wano, chapter 947.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh removes Camie collar Haki",
+        "fallback": "anime style, old man breaking a metal collar"
+      },
+      "card": "CHAPTER 947"
+    },
+    {
+      "text": "Rayleigh kicks Kizaru's leg to divert a light attack, and later even cuts his cheek, chapters 511 and onward.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh kicks Kizaru Sabaody",
+        "fallback": "anime style, old pirate fighting a light man"
+      }
+    },
+    {
+      "text": "That is Rayleigh telling the whole world he is the Pirate King's right hand without saying a word.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Dark King Kizaru",
+        "fallback": "anime style, old swordsman stopping an admiral"
+      }
+    },
+    {
+      "text": "Luffy, meanwhile, had just accidentally released Supreme King Haki against a bison named Motobaro, the first hint of his own power.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Supreme King Haki Duval bison Sabaody",
+        "fallback": "anime style, boy releasing a shock wave"
+      }
+    },
+    {
+      "text": "That was the first time he showed it, and he did not know what it was. Chapter 519 names it later.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Haoshoku first use Sabaody",
+        "fallback": "anime style, boy surprised by his own power"
+      },
+      "card": "CHAPTER 519"
+    },
+    {
+      "text": "So Luffy had Supreme King Haki before he had a teacher. The rare type. The one in a million type.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Supreme King Haki",
+        "fallback": "anime style, straw hat boy with lightning aura"
+      }
+    },
+    {
+      "text": "That is the part no teacher gave him. Supreme King Haki cannot be learned, only born with.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Supreme King Haki born with one in million",
+        "fallback": "anime style, rare crown glowing"
+      }
+    },
+    {
+      "text": "So I want to pin this down. Garp gave him the body. Nature gave him the rare Haki. Rayleigh gave him control.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Garp Rayleigh three sources",
+        "fallback": "anime style, three glowing hands shaping a boy"
+      }
+    },
+    {
+      "text": "Rayleigh's job was not creating power. It was teaching Luffy how to aim what was already there.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh teaches Luffy control",
+        "fallback": "anime style, old master adjusting a student's stance"
+      }
+    },
+    {
+      "text": "Rayleigh's strength shows in how he handles the room: he faints a giant with a glare, then takes a collar apart without a key.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh teaches Luffy control",
+        "fallback": "anime style, old master adjusting a student's stance"
+      }
+    },
+    {
+      "text": "When Luffy asked about him, Shakky said Rayleigh would be fine because he was far stronger than the rookies, chapter 498.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh teaches Luffy control",
+        "fallback": "anime style, old master adjusting a student's stance"
+      }
+    },
+    {
+      "text": "In the same arc, Garp warns a Marine not to underestimate Rayleigh just because of his age. Two old men, one island, one boy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Rayleigh Sabaody warning",
+        "fallback": "anime style, garp rayleigh sabaody warning"
+      }
+    },
+    {
+      "text": "It is the first time the two mentors share a stretch of story, and neither knows how much they will matter to one teenager.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Rayleigh Luffy Sabaody",
+        "fallback": "anime style, garp rayleigh luffy sabaody"
+      }
+    },
+    {
+      "text": "And then Marineford breaks Luffy in half, and the timeskip begins with a question...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Marineford aftermath Rusukaina",
+        "fallback": "anime style, bandaged pirate in the rain"
+      }
+    },
+    {
+      "text": "After Marineford, Luffy ends up on Rusukaina, a wild island on the Grand Line, wearing his original red vest.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy arrives Rusukaina",
+        "fallback": "anime style, boy washing up on a wild island"
+      }
+    },
+    {
+      "text": "Rayleigh meets him there with an offer: two years of training, including the lesson no one had ever given him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Luffy Rusukaina training offer",
+        "fallback": "anime style, old pirate speaking to a bandaged boy"
+      }
+    },
+    {
+      "text": "The first thing he teaches is the vocabulary. The three types: Observation, Armament and Supreme King.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh three types of Haki Luffy",
+        "fallback": "anime style, three colored auras explained"
+      }
+    },
+    {
+      "text": "Observation senses people. Armament coats your own body as armor. Supreme King overpowers the will of others.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki types Observation Armament Supreme King",
+        "fallback": "anime style, three types of Haki illustrated"
+      }
+    },
+    {
+      "text": "Luffy already had the third without trying. So that left him two to learn, and he had to learn them against real monsters.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Rusukaina beasts training",
+        "fallback": "anime style, boy fighting jungle monsters"
+      }
+    },
+    {
+      "text": "Rayleigh says Haki blossoms only when the user pushes it to the limit against a much stronger opponent. Chapter 886.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Haki blossoms stronger opponent",
+        "fallback": "anime style, student stretched past his limit"
+      },
+      "card": "CHAPTER 886"
+    },
+    {
+      "text": "That line explains the island. Rusukaina is full of creatures far stronger than Luffy, and that is the teacher.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rusukaina giant beasts Luffy",
+        "fallback": "anime style, boy surrounded by huge animals"
+      }
+    },
+    {
+      "text": "Now compare that to Garp's methods. Throw a child into a jungle at night, and expect him to figure it out.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy jungle abandon",
+        "fallback": "anime style, boy alone in the dark woods"
+      }
+    },
+    {
+      "text": "Rayleigh's method is the same idea at a higher level. Put him where he cannot win, and let the energy wake up.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Rayleigh Luffy training beasts Haki",
+        "fallback": "anime style, boy facing a huge beast"
+      }
+    },
+    {
+      "text": "That is my first real parallel. Garp's pit and Rayleigh's island are the same lesson at different scales.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Rayleigh training comparison Luffy",
+        "fallback": "anime style, split screen of two mentors"
+      }
+    },
+    {
+      "text": "And it is why I think Luffy could survive Rayleigh at all. A boy who had never been dropped would not have lasted.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy survives Rusukaina training",
+        "fallback": "anime style, exhausted boy still standing"
+      }
+    },
+    {
+      "text": "By the end of the timeskip, Luffy looks significantly more muscular, with a thicker neck and bigger shoulders.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy after timeskip muscular",
+        "fallback": "anime style, older stronger straw hat boy"
+      },
+      "card": "CHAPTER 601"
+    },
+    {
+      "text": "Rayleigh rebuilt the fighting style, but who built the body he rebuilt it on?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy after timeskip muscular",
+        "fallback": "anime style, older stronger straw hat boy"
+      }
+    },
+    {
+      "text": "Chapter 601 shows the new Luffy, scar and all. And his attacks changed with him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy new world chapter 601 scar",
+        "fallback": "anime style, older pirate with a scar on his chest"
+      }
+    },
+    {
+      "text": "Gear Third was reworked after the training. The air now concentrates in the fist, usually hardened with Armament Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gear 3 Armament Haki hardened",
+        "fallback": "anime style, giant black fist"
+      }
+    },
+    {
+      "text": "And the new Gear Fourth always carries a layer of Armament over at least the arms and legs.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gear 4 Boundman Armament Haki",
+        "fallback": "anime style, bouncing black armored giant"
+      }
+    },
+    {
+      "text": "So if you ask what Rayleigh actually changed, the answer is the entire fighting style. Haki became a layer in everything.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Armament Haki coating punch",
+        "fallback": "anime style, black fist hitting a mountain"
+      }
+    },
+    {
+      "text": "But the question I keep coming back to is what Rayleigh never had to teach him.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Luffy farewell Rusukaina",
+        "fallback": "anime style, boy leaving an island after training"
+      }
+    },
+    {
+      "text": "Luffy arrived on Rusukaina still wrapped in bandages from Marineford, and the part of him that wouldn't quit was already installed by Garp.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy bandages Rusukaina arrival",
+        "fallback": "anime style, luffy bandages rusukaina arrival"
+      }
+    },
+    {
+      "text": "Haki can be learned through training but still needs real combat experience, and Rusukaina supplied the combat.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rusukaina combat experience Luffy",
+        "fallback": "anime style, rusukaina combat experience luffy"
+      }
+    },
+    {
+      "text": "Zoro, Sanji, Tashigi, Smoker, Koby and Bellamy all reached Haki in the same two years. The timeskip was a Haki factory.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Sanji Koby Haki timeskip",
+        "fallback": "anime style, zoro sanji koby haki timeskip"
+      }
+    },
+    {
+      "text": "Koby's name there is the point. Garp's other pupil got there in the same window with no Rayleigh at all.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Koby Haki timeskip Garp",
+        "fallback": "anime style, koby haki timeskip garp"
+      }
+    },
+    {
+      "text": "Two Garp trainees, one deadline, both through. Compare the results and the pipeline starts to look like a pattern.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp students Haki results",
+        "fallback": "anime style, garp students haki results"
+      }
+    },
+    {
+      "text": "Because two years, by Rayleigh's own admission, is not enough for the basics, and Luffy left with only a start...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh two years not enough",
+        "fallback": "anime style, mentor shaking his head"
+      }
+    },
+    {
+      "text": "That is the most important sentence in the whole Haki page, in my opinion. Two years is not enough for the basics.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki mastery difficult two years",
+        "fallback": "anime style, hourglass over a training ground"
+      }
+    },
+    {
+      "text": "So how did Luffy get through the basics at all? I think the answer lives in the training that never gets a chapter title.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy childhood training Garp Ace",
+        "fallback": "anime style, kids in a forest training"
+      }
+    },
+    {
+      "text": "Think about what Haki asks of the user. It takes real combat experience and the power to believe in oneself.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki combat experience belief",
+        "fallback": "anime style, boy facing an opponent with certainty"
+      }
+    },
+    {
+      "text": "Belief is the part that scares me. Nobody can hand you that, and Garp's method forced it out of a child.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki combat experience belief",
+        "fallback": "anime style, boy facing an opponent with certainty"
+      }
+    },
+    {
+      "text": "Believing in yourself is a trait you can build, and I think Garp built it the only way he knew how, by forcing it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy discipline",
+        "fallback": "anime style, grandfather lecturing a boy"
+      }
+    },
+    {
+      "text": "So here is the test I would apply to every one of these teachers: did they build the person, or just the move?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy discipline",
+        "fallback": "anime style, grandfather lecturing a boy"
+      }
+    },
+    {
+      "text": "Every time Luffy was dropped, left, or tied up, he had to decide to keep going. That is will, practiced thousands of times.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy determination childhood Garp",
+        "fallback": "anime style, determined boy gripping his fists"
+      }
+    },
+    {
+      "text": "Here is another angle. Garp's training was physical, but his Haki is a product of a lifetime of hard training and battles.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp lifetime of training strength",
+        "fallback": "anime style, old marine's scarred hands"
+      }
+    },
+    {
+      "text": "Even Garp's own Haki was built on the same mix: body, nerve and fights. He passed along the recipe, not the spell.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Haki recipe training battles",
+        "fallback": "anime style, cooking pot of fire and fists"
+      }
+    },
+    {
+      "text": "That is why I do not buy the line that Garp has nothing to do with Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Haki recipe training battles",
+        "fallback": "anime style, cooking pot of fire and fists"
+      }
+    },
+    {
+      "text": "The wiki itself calls him a great teacher.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Haki recipe training battles",
+        "fallback": "anime style, cooking pot of fire and fists"
+      }
+    },
+    {
+      "text": "The wiki says he trained Luffy and Ace to be strong enough to set sail alone.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Haki recipe training battles",
+        "fallback": "anime style, cooking pot of fire and fists"
+      }
+    },
+    {
+      "text": "Strong enough for the sea is the first step.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Haki recipe training battles",
+        "fallback": "anime style, cooking pot of fire and fists"
+      }
+    },
+    {
+      "text": "Now think about Ace. He awakened Haki in a fight against Vice Admiral Draw.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ace Haki Vice Admiral Draw",
+        "fallback": "anime style, fire fist facing a marine officer"
+      }
+    },
+    {
+      "text": "Ace had the same Garp body program, and the same lack of a Haki teacher. He still reached Haki by shock in battle.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Portgas D. Ace Haki Garp trained",
+        "fallback": "anime style, freckled pirate glowing with aura"
+      }
+    },
+    {
+      "text": "That is evidence for my theory. Two Garp-raised brothers, two different routes to Haki. Both needed the base first.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ace Luffy Garp brothers training Haki",
+        "fallback": "anime style, two brothers side by side"
+      }
+    },
+    {
+      "text": "A skeptic would say Ace was Roger's son and Luffy is a D. Fair. It is a pattern, not proof.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Will of D. Luffy Ace",
+        "fallback": "anime style, mysterious D mark"
+      }
+    },
+    {
+      "text": "But Garp's program has an unusually high hit rate for people who end up with Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp students Haki users",
+        "fallback": "anime style, class of strong students"
+      }
+    },
+    {
+      "text": "Kuzan used Haki. Koby awakened it. Ace awakened it. Luffy learned it. Four students, one coach.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Helmeppo Koby SWORD Garp",
+        "fallback": "anime style, SWORD members in a row"
+      }
+    },
+    {
+      "text": "The one common thread is a grandfather with a very odd definition of a bedtime story.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Fist of Love",
+        "fallback": "anime style, big fist knocking a head"
+      }
+    },
+    {
+      "text": "Haki comes from the spirit and not the body, so a body program shouldn't matter on paper.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki originates spirit not body",
+        "fallback": "anime style, haki originates spirit not body"
+      }
+    },
+    {
+      "text": "If Haki lives in the spirit, then what Garp built was the container: the habit of getting up.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy spirit getting up",
+        "fallback": "anime style, luffy spirit getting up"
+      }
+    },
+    {
+      "text": "Even people whose minds swap bodies keep their Haki, the page says, chapters 672 and 1150. So the energy is separate from the muscle.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy spirit getting up",
+        "fallback": "anime style, luffy spirit getting up"
+      }
+    },
+    {
+      "text": "So the muscle's job isn't to hold Haki. It's to survive the process of drawing it out.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy body survives Haki training",
+        "fallback": "anime style, luffy body survives haki training"
+      }
+    },
+    {
+      "text": "Training against stronger opponents means taking real hits. A body that never took hits would never get the second half of the lesson.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy takes hits stronger opponent",
+        "fallback": "anime style, luffy takes hits stronger opponent"
+      }
+    },
+    {
+      "text": "And one last scene shows exactly how Garp thinks. It comes from the Egghead era, and it changes how I read the old man...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Hachinosu Koby rescue",
+        "fallback": "anime style, old marine marching to an island"
+      }
+    },
+    {
+      "text": "In the Egghead era, Garp goes after Koby when the Blackbeard Pirates capture him. That rescue disregards protocol.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp rescue Koby Blackbeard Pirates",
+        "fallback": "anime style, old marine stepping onto an island"
+      }
+    },
+    {
+      "text": "He calls Koby his beloved pupil, and he expected Koby to be the future of the Marines.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Koby future of the Marines",
+        "fallback": "anime style, old marine looking at a young one"
+      }
+    },
+    {
+      "text": "On Hachinosu he faces his own student Kuzan, who now works for Blackbeard. Chapter 1081.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Kuzan Hachinosu",
+        "fallback": "anime style, two men trading blows on a battlefield"
+      },
+      "card": "CHAPTER 1081"
+    },
+    {
+      "text": "Kuzan went through the same battleship punching program, and still took very little damage from Garp's fists.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Kuzan punching battleship training",
+        "fallback": "anime style, two men with identical training"
+      }
+    },
+    {
+      "text": "Garp uses Blue Hole there, hardening his hand with Armament and infusing it with Supreme King Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Blue Hole Kuzan",
+        "fallback": "anime style, man slamming another into a deep hole"
+      }
+    },
+    {
+      "text": "That is the technique that proves a teacher's lesson can outgrow the teacher. Kuzan took it and kept fighting.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Kuzan Blue Hole Hachinosu",
+        "fallback": "anime style, deep crater in the ground"
+      }
+    },
+    {
+      "text": "In the end, Garp holds off a large part of the Blackbeard crew so Koby and the rescued people can escape, chapter 1126.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp holds off Blackbeard Pirates Hachinosu",
+        "fallback": "anime style, old marine blocking a bridge"
+      },
+      "card": "CHAPTER 1126"
+    },
+    {
+      "text": "He was badly injured and imprisoned there, and officially declared missing in action, chapter 1088.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp missing in action Hachinosu",
+        "fallback": "anime style, empty marine coat on a hook"
+      },
+      "card": "CHAPTER 1088"
+    },
+    {
+      "text": "So the man who raised Luffy is now gone from the board. His lessons are what's left of him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Garp missing reaction",
+        "fallback": "anime style, boy hearing bad news about his grandfather"
+      }
+    },
+    {
+      "text": "That gives Garp's training a weight it never had when he was around to scold.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Hachinosu imprisoned",
+        "fallback": "anime style, old hero behind bars"
+      }
+    },
+    {
+      "text": "The best part is how Garp's fights echo Luffy's style. Both punch with Armament, both pour Supreme King into the hit.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Armament Supreme King Haki punch",
+        "fallback": "anime style, black fist crackling with red lightning"
+      }
+    },
+    {
+      "text": "Garp has Galaxy Impact, a punch that infuses both. Look at Luffy's Wano punches and tell me the lineage isn't visible.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Galaxy Impact Luffy Wano punch",
+        "fallback": "anime style, two giant punches in parallel"
+      }
+    },
+    {
+      "text": "I am not saying Garp taught Luffy that technique. I am saying the body that can throw it had the same coach.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gear 5 punch Kaido",
+        "fallback": "anime style, huge glowing punch"
+      }
+    },
+    {
+      "text": "Look at what Garp's students were when he found them. Koby was a chore boy, Kuzan a cadet who had outgrown his instructors.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Koby Kuzan before training",
+        "fallback": "anime style, garp koby kuzan before training"
+      }
+    },
+    {
+      "text": "Garp asks nothing about talent. He only asks whether you will keep showing up.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp pupil keep showing up",
+        "fallback": "anime style, garp pupil keep showing up"
+      }
+    },
+    {
+      "text": "After Marineford Garp became an instructor for new recruits, chapter 1080, and the public believes he retired.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp instructor new recruits",
+        "fallback": "anime style, garp instructor new recruits"
+      }
+    },
+    {
+      "text": "He went into teaching right after Ace was lost. I don't think that's a coincidence: a man who lost one boy builds the next.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp teaches after Marineford",
+        "fallback": "anime style, garp teaches after marineford"
+      }
+    },
+    {
+      "text": "So when Luffy shows his full strength, I read it as Garp's work finally visible.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy full strength Garp legacy",
+        "fallback": "anime style, luffy full strength garp legacy"
+      }
+    },
+    {
+      "text": "So there is a family line of punchers, and now we reach the surprise teacher I promised. His lesson changed the punch itself...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro Luffy Wano Prisoner Mine",
+        "fallback": "anime style, old yakuza boss and a pirate in a mine"
+      }
+    },
+    {
+      "text": "In Wano, the surprise teacher is Hyogoro of the Flower, an old yakuza boss chained next to Luffy in the Prisoner Mine.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro Luffy Prisoner Mine",
+        "fallback": "anime style, old yakuza and a pirate chained together"
+      }
+    },
+    {
+      "text": "Queen puts both of them in a sumo ring with collars on their necks, and the first lesson is survival.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Queen sumo inferno Luffy Hyogoro",
+        "fallback": "anime style, sumo ring with collars"
+      }
+    },
+    {
+      "text": "Luffy knocks out a whole wave of guards with Supreme King Haki, chapter 936. He already has the rare type.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy knocks out guards Supreme King Haki Wano",
+        "fallback": "anime style, wave of guards collapsing"
+      },
+      "card": "CHAPTER 936"
+    },
+    {
+      "text": "But the next lesson isn't about the rare type. It's about Armament Haki, and what it can do from the inside.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro teaches Luffy Armament Haki",
+        "fallback": "anime style, old man guiding a young pirate"
+      }
+    },
+    {
+      "text": "Hyogoro showed him how to go beyond projecting Haki and use it to destroy objects from the inside.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro Armament Haki destroy inside",
+        "fallback": "anime style, glowing palm breaking an object from within"
+      }
+    },
+    {
+      "text": "And Luffy recognizes it right away: it is what Rayleigh did to Camie's collar at Sabaody.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy recognizes Rayleigh Camie collar Haki",
+        "fallback": "anime style, boy remembering a mentor's trick"
+      }
+    },
+    {
+      "text": "That detail bridges the teachers. Rayleigh showed it, but never taught it. Hyogoro taught it, years later.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Hyogoro Rayleigh Haki lesson",
+        "fallback": "anime style, boy between two old masters"
+      }
+    },
+    {
+      "text": "So Rayleigh's two years were not the end of Luffy's Haki. They were a base, and Wano finished a chapter of it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Wano Haki training",
+        "fallback": "anime style, glowing training in a mine"
+      }
+    },
+    {
+      "text": "How did Hyogoro train him? He ordered Luffy to protect him from Big Mom, with his life on the line.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro Big Mom Luffy protect",
+        "fallback": "anime style, boy shielding an old man from a giant woman"
+      }
+    },
+    {
+      "text": "Luffy tries to project his Haki to block her attack, fails, and gets sent into a wall. Then she chases him through the mine.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Big Mom chases Luffy Prisoner Mine",
+        "fallback": "anime style, giant woman chasing a pirate"
+      }
+    },
+    {
+      "text": "That is a Garp-style lesson: force the situation, make it urgent, let the body figure it out. The balloon trick, with a Yonko.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Garp balloon Luffy Big Mom comparison",
+        "fallback": "anime style, boy chased by a giant"
+      }
+    },
+    {
+      "text": "It is also exactly the Rayleigh principle: Haki grows when you push against someone far stronger.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Big Mom Haki training",
+        "fallback": "anime style, small boy facing a giant"
+      }
+    },
+    {
+      "text": "And advanced Armament is a real tier. Emitting Armament without a medium is cited to chapter 937.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "advanced Armament Haki emit Wano",
+        "fallback": "anime style, black energy leaving a fist"
+      },
+      "card": "CHAPTER 937"
+    },
+    {
+      "text": "A higher grade makes that emitted Armament flow into a target's body and destroy it from the inside, per the Haki page.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ryuo Luffy Armament Haki flow into body",
+        "fallback": "anime style, shockwave passing through an opponent"
+      }
+    },
+    {
+      "text": "That is the technique Luffy uses on Kaido, and it came from a chained yakuza, not from his famous mentor.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido Ryuo Haki",
+        "fallback": "anime style, dragon and a boy trading blows"
+      }
+    },
+    {
+      "text": "That's the part that scares me about Garp: every lesson he gave Luffy was a survival test.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido Ryuo Haki",
+        "fallback": "anime style, dragon and a boy trading blows"
+      }
+    },
+    {
+      "text": "Hyogoro is a yakuza boss, so on paper he has no business teaching Armament Haki to a Straw Hat captain.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido Ryuo Haki",
+        "fallback": "anime style, dragon and a boy trading blows"
+      }
+    },
+    {
+      "text": "But Luffy recognized the technique from Rayleigh, which means he already had the eye for it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido Ryuo Haki",
+        "fallback": "anime style, dragon and a boy trading blows"
+      }
+    },
+    {
+      "text": "So how did a student of Rayleigh pick that up so fast? Hold that thought, because I have a guess.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido Ryuo Haki",
+        "fallback": "anime style, dragon and a boy trading blows"
+      }
+    },
+    {
+      "text": "I think that is the Garp effect again: the kid sees a thing once, decides he can do it, and does it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy copies technique Garp effect",
+        "fallback": "anime style, luffy copies technique garp effect"
+      }
+    },
+    {
+      "text": "Fans will say Hyogoro's lesson was brief. It was. But brief lessons work on students who've already finished the long ones.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro brief lesson Luffy",
+        "fallback": "anime style, hyogoro brief lesson luffy"
+      }
+    },
+    {
+      "text": "That is my whole thesis in one sentence: the last lesson was short because the long ones were already done.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro brief lesson Luffy",
+        "fallback": "anime style, hyogoro brief lesson luffy"
+      }
+    },
+    {
+      "text": "So here is the ranking I would put on the three teachers, and then I will argue against my own list...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Garp Rayleigh Hyogoro",
+        "fallback": "anime style, boy and three teachers"
+      }
+    },
+    {
+      "text": "First, Garp: body, nerve, and a work ethic that survives anything. It is not Haki, but it is the soil Haki grows in.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy lesson",
+        "fallback": "anime style, grandfather watching a boy train"
+      }
+    },
+    {
+      "text": "Second, Rayleigh: the vocabulary, the method, and the first real mastery of Observation and Armament during the timeskip.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Luffy Observation Armament",
+        "fallback": "anime style, mentor in a hat watching training"
+      }
+    },
+    {
+      "text": "Third, Hyogoro: the advanced Armament step that turns a shield into a weapon from the inside.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hyogoro advanced Armament Haki Luffy",
+        "fallback": "anime style, old yakuza demonstrating a technique"
+      }
+    },
+    {
+      "text": "That ranking is by importance of timing, not by raw power. You cannot skip the first stage and win the third.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Haki progression stages",
+        "fallback": "anime style, staircase with three steps"
+      }
+    },
+    {
+      "text": "Keep that order in mind, because the next few minutes try to knock it down.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Haki progression stages",
+        "fallback": "anime style, staircase with three steps"
+      }
+    },
+    {
+      "text": "Now the counter-argument, because the strongest version of the other side deserves a real hearing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Luffy Haki teacher",
+        "fallback": "anime style, fan pointing at a chart"
+      }
+    },
+    {
+      "text": "It goes: Rayleigh is the only person the manga ever shows teaching Luffy Haki, so crediting Garp is just fan fiction.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh teacher Luffy Rusukaina",
+        "fallback": "anime style, skeptical fan"
+      }
+    },
+    {
+      "text": "I will give them that. There is no panel of Garp teaching Haki to child Luffy, and I am not claiming one exists.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy childhood flashback",
+        "fallback": "anime style, flashback of a boy and an old man"
+      }
+    },
+    {
+      "text": "My claim is smaller and stronger. Garp is why the lesson stuck, and the wiki's own descriptions of his methods support that.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp training methods Luffy",
+        "fallback": "anime style, old marine with a clipboard of drills"
+      }
+    },
+    {
+      "text": "There is another counter: Luffy was born with Supreme King Haki, so Garp did not build that part at all.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Haoshoku born",
+        "fallback": "anime style, boy with a golden crown outline"
+      }
+    },
+    {
+      "text": "True, and I agree. Garp gave him none of that. What he gave him is the ability to use it without collapsing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Supreme King Haki stamina",
+        "fallback": "anime style, boy standing after a shockwave"
+      }
+    },
+    {
+      "text": "Haki is not limitless and can be depleted from overuse, chapters 785 and 786, and 886.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Haki depleted exhaustion Luffy",
+        "fallback": "anime style, boy collapsing from exhaustion"
+      },
+      "card": "HAKI RUNS OUT"
+    },
+    {
+      "text": "So endurance is the thing that decides how long a Haki user lasts. And endurance is Garp's department.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido fight Haki endurance",
+        "fallback": "anime style, battered pirate refusing to fall"
+      }
+    },
+    {
+      "text": "A last counter: Oda himself says the reason Garp's punch hurts rubber Luffy is not Haki, but love.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido fight Haki endurance",
+        "fallback": "anime style, battered pirate refusing to fall"
+      }
+    },
+    {
+      "text": "The wiki cites an SBS answer for that. It's a joke, but it says something: Garp's training always had feeling behind it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Kaido fight Haki endurance",
+        "fallback": "anime style, battered pirate refusing to fall"
+      }
+    },
+    {
+      "text": "So here's the position I'll defend. Garp is the first teacher, even if not the Haki teacher. The theory is the order of operations.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp first teacher Luffy",
+        "fallback": "anime style, number one trophy"
+      }
+    },
+    {
+      "text": "Here's my read of the whole chain: Garp's body, Shanks' spark, Rayleigh's method, Hyogoro's twist. Each one built on the last.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Garp Rayleigh Hyogoro Luffy",
+        "fallback": "anime style, four figures behind a boy"
+      }
+    },
+    {
+      "text": "One weakness in my own theory: the wiki describes Garp's methods, and the manga doesn't show all of them, so parts are summary.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp methods wiki summary",
+        "fallback": "anime style, garp methods wiki summary"
+      }
+    },
+    {
+      "text": "I also can't prove Garp never gave Luffy a Haki hint. I only say no source I checked credits him with one.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp methods wiki summary",
+        "fallback": "anime style, garp methods wiki summary"
+      }
+    },
+    {
+      "text": "I'm labeling the claim a theory and the evidence canon. The pit, balloons and jungle are on record; the Haki link is mine.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp pit balloon jungle record",
+        "fallback": "anime style, garp pit balloon jungle record"
+      }
+    },
+    {
+      "text": "If you disagree, tell me which teacher you rank first. I know some of you will say Rayleigh with total confidence.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh ranked first Luffy",
+        "fallback": "anime style, rayleigh ranked first luffy"
+      }
+    },
+    {
+      "text": "And if Garp comes back and teaches Luffy something on the page, I will happily eat these words.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh ranked first Luffy",
+        "fallback": "anime style, rayleigh ranked first luffy"
+      }
+    },
+    {
+      "text": "But if that chain is right, it predicts something for the future that nobody is talking about yet...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Elbaf Garp missing",
+        "fallback": "anime style, boy looking out to sea"
+      }
+    },
+    {
+      "text": "My prediction is that Luffy's grandfather matters again. Garp is declared missing, and as far as the wiki goes, still alive.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp missing alive Hachinosu",
+        "fallback": "anime style, silhouette of an old hero in a cell"
+      }
+    },
+    {
+      "text": "When the story brings Garp back, I expect it to be the moment Luffy's fighting style gets a new lesson.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Garp reunion",
+        "fallback": "anime style, grandfather and grandson meeting again"
+      }
+    },
+    {
+      "text": "Why? Garp is one of the few who can infuse Supreme King Haki into his strikes, and Luffy can too.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy infused Supreme King Haki attack",
+        "fallback": "anime style, fist with black lightning"
+      }
+    },
+    {
+      "text": "Only a small handful of the strongest users can, according to chapter 1010. Garp and Luffy are both on that list.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Supreme King Haki infuse weapons attacks",
+        "fallback": "anime style, list of strongest Haki users"
+      },
+      "card": "CHAPTER 1010"
+    },
+    {
+      "text": "That is a very short list.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy Haki family",
+        "fallback": "anime style, family portrait with lightning"
+      }
+    },
+    {
+      "text": "Two names on it share a family tree, and one of them taught the other to take a hit.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy Haki family",
+        "fallback": "anime style, family portrait with lightning"
+      }
+    },
+    {
+      "text": "I'm not saying Garp teaches Luffy anything in Elbaf. That would be a guess. I'm saying the story has set it up.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Elbaph Arc Luffy Garp",
+        "fallback": "anime style, giant land and a straw hat"
+      }
+    },
+    {
+      "text": "What I can say for certain is that the wiki calls Garp a capable teacher, and names Kuzan, Koby and Helmeppo as his students.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp capable teacher Haki Kuzan Koby Helmeppo",
+        "fallback": "anime style, old marine and three students"
+      }
+    },
+    {
+      "text": "Which means the one student who never got the second stage is his own grandson. He learned it the hard way, from others.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp grandson Luffy Haki missing lesson",
+        "fallback": "anime style, boy standing alone while others train"
+      }
+    },
+    {
+      "text": "And that, I think, is the quiet tragedy in this story. Garp trained everyone's child except the one he wanted to protect most.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy sad",
+        "fallback": "anime style, old marine looking at a distant horizon"
+      }
+    },
+    {
+      "text": "Because the one lesson he never gave Luffy was the one he feared the most, the lesson that sends him to sea.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Garp worried Luffy sea",
+        "fallback": "anime style, old man watching a ship leave"
+      }
+    },
+    {
+      "text": "That is why I count Garp as the first of three. Without him, the rest of the chain has nothing to hold on to.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp first teacher chain",
+        "fallback": "anime style, garp first teacher chain"
+      }
+    },
+    {
+      "text": "So next time someone says Rayleigh taught Luffy Haki, say yes, then ask who taught him to survive the lesson.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh taught Luffy Haki",
+        "fallback": "anime style, rayleigh taught luffy haki"
+      }
+    },
+    {
+      "text": "I think Oda built it that way on purpose: a hero is assembled by many hands, and the first is the least gentle.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eiichiro Oda Luffy mentors",
+        "fallback": "anime style, eiichiro oda luffy mentors"
+      }
+    },
+    {
+      "text": "And that is the part I do not think Oda left to chance.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eiichiro Oda Luffy mentors",
+        "fallback": "anime style, eiichiro oda luffy mentors"
+      }
+    },
+    {
+      "text": "So when you ask who taught Luffy Haki, the clean answer is Rayleigh first, Hyogoro second, and nature third.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Haki teachers ranked",
+        "fallback": "anime style, podium with three figures"
+      }
+    },
+    {
+      "text": "But the honest answer is that every one of them taught a boy who had already been taught how to keep standing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy keeps standing never gives up",
+        "fallback": "anime style, boy standing in a storm"
+      }
+    },
+    {
+      "text": "A grandfather who tied him to balloons, dropped him in pits and left him in the dark built that boy before any master did.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Garp balloons pit jungle Luffy",
+        "fallback": "anime style, montage of harsh training"
+      }
+    },
+    {
+      "text": "Garp did not teach Luffy Haki. He taught Luffy to be someone Haki could not break.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy proud",
+        "fallback": "anime style, grandfather's hand on a straw hat"
+      }
+    },
+    {
+      "text": "If you want the next story on a teacher nobody credits, the Rusukaina training is the follow-up worth watching.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Luffy Rusukaina training",
+        "fallback": "anime style, old pirate on a wild island"
+      }
+    }
+  ],
+  "chapters": [
+    {
+      "line": 0,
+      "title": "Who Taught Luffy Haki"
+    },
+    {
+      "line": 6,
+      "title": "The Teacher Nobody Counts"
+    },
+    {
+      "line": 29,
+      "title": "A Word Nobody Said"
+    },
+    {
+      "line": 69,
+      "title": "The Marine Pipeline"
+    },
+    {
+      "line": 93,
+      "title": "Shanks Lit The Fuse"
+    },
+    {
+      "line": 118,
+      "title": "The Auction House Stranger"
+    },
+    {
+      "line": 134,
+      "title": "Two Years On Rusukaina"
+    },
+    {
+      "line": 158,
+      "title": "The Lesson Under The Lesson"
+    },
+    {
+      "line": 184,
+      "title": "The Student Who Left"
+    },
+    {
+      "line": 203,
+      "title": "The Surprise Teacher"
+    },
+    {
+      "line": 226,
+      "title": "The Hole In My Theory"
+    },
+    {
+      "line": 249,
+      "title": "The Verdict"
+    }
+  ],
+  "thumbnail": {
+    "text": "WHO TAUGHT HIM?",
+    "highlight": "WHO",
+    "search": "Monkey D. Luffy Haki determined",
+    "search2": "Monkey D. Garp angry fist",
+    "device": "split"
+  },
+  "sources": [
+    "https://comicbook.com/anime/list/every-teacher-who-trained-luffy-in-one-piece/",
+    "https://fandomwire.com/best-one-piece-teachers-who-trained-luffy-ranked/",
+    "https://onepiece.fandom.com/wiki/Monkey_D._Garp",
+    "https://onepiece.fandom.com/wiki/Haki"
+  ],
+  "self_check": {
+    "hook": "Line 1 names Luffy, Haki and Garp and states the claim; line 3 asks the video's core question.",
+    "loop": "Every chapter ends on an open question; the last line points to the Rusukaina training follow-up instead of an outro.",
+    "facts_verified": true
   }
- ],
- "chapters": [
-  {
-   "line": 0,
-   "title": "Who Taught Luffy Haki"
-  },
-  {
-   "line": 6,
-   "title": "The Teacher Nobody Counts"
-  },
-  {
-   "line": 30,
-   "title": "A Word Nobody Said"
-  },
-  {
-   "line": 70,
-   "title": "The Marine Pipeline"
-  },
-  {
-   "line": 94,
-   "title": "Shanks Lit The Fuse"
-  },
-  {
-   "line": 119,
-   "title": "The Auction House Stranger"
-  },
-  {
-   "line": 135,
-   "title": "Two Years On Rusukaina"
-  },
-  {
-   "line": 159,
-   "title": "The Lesson Under The Lesson"
-  },
-  {
-   "line": 186,
-   "title": "The Student Who Left"
-  },
-  {
-   "line": 205,
-   "title": "The Surprise Teacher"
-  },
-  {
-   "line": 229,
-   "title": "The Hole In My Theory"
-  },
-  {
-   "line": 253,
-   "title": "The Verdict"
-  }
- ],
- "thumbnail": {
-  "text": "WHO TAUGHT HIM?",
-  "highlight": "WHO",
-  "search": "Monkey D. Luffy Haki determined",
-  "search2": "Monkey D. Garp angry fist",
-  "device": "split"
- },
- "sources": [
-  "https://comicbook.com/anime/list/every-teacher-who-trained-luffy-in-one-piece/",
-  "https://fandomwire.com/best-one-piece-teachers-who-trained-luffy-ranked/",
-  "https://onepiece.fandom.com/wiki/Monkey_D._Garp",
-  "https://onepiece.fandom.com/wiki/Haki"
- ],
- "self_check": {
-  "hook": "Line 1 names Luffy, Haki and Garp and states the claim; line 3 asks the video's core question.",
-  "loop": "Every chapter ends on an open question; the last line points to the Rusukaina training follow-up instead of an outro.",
-  "facts_verified": true
- }
 }
