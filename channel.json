@@ -104,6 +104,20 @@
         "Sun"
       ],
       "per_day": 1,
+      "shorts_per_day": 1
+    },
+    {
+      "from": "2026-10-21",
+      "days": [
+        "Mon",
+        "Tue",
+        "Wed",
+        "Thu",
+        "Fri",
+        "Sat",
+        "Sun"
+      ],
+      "per_day": 1,
       "shorts_per_day": 2,
       "deep_days": [
         "Sun"
