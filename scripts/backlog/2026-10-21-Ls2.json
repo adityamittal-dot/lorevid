@@ -1,0 +1,39 @@
+{
+  "id": "2026-10-21-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Buggy as the Cross Guild figurehead: Mihawk and Crocodile put him out front, and the Yonko title came from a misunderstanding",
+  "title": "Buggy Is the Cross Guild's Figurehead, Not Its Brain",
+  "description": "Buggy is the Cross Guild's public face, and Mihawk and Crocodile are the reason. Fan summaries of chapter 1082 say his Yonko status grew out of a misunderstanding, and this Short walks through how that happened. Is he the boss, or the face the real founders hide behind?",
+  "hashtags": ["#buggy", "#onepiece", "#crossguild"],
+  "tags": ["buggy cross guild", "cross guild figurehead", "buggy yonko", "one piece cross guild", "mihawk crocodile buggy", "buggy figurehead", "one piece buggy yonko", "one piece final saga", "buggy shanks", "one piece chapter 1082"],
+  "hook_text": "THE FIGUREHEAD TRAP",
+  "music_mood": "suspense",
+  "comment": "Is Buggy a joke who got a title by accident, or the front man chosen on purpose?",
+  "related_long": "2026-10-21-L",
+  "pages": ["Buggy", "Cross Guild", "Dracule Mihawk"],
+  "lines": [
+    {"text": "Buggy is the Cross Guild's figurehead, and that was Mihawk's plan.", "delivery": "normal", "fx": "none", "shot": {"search": "Buggy Cross Guild Figurehead", "fallback": "anime style, a clown-like pirate posed as a figurehead on a ship"}},
+    {"text": "Mihawk didn't want to become a Yonko, or the attention that comes with it.", "delivery": "normal", "fx": "none", "shot": {"search": "Mihawk Yoru Calm", "fallback": "anime style, a swordsman in a dark coat standing in shadow"}},
+    {"text": "So he put Buggy in front to pull the spotlight away from himself.", "delivery": "normal", "fx": "none", "shot": {"search": "Mihawk Buggy Spotlight", "fallback": "anime style, a clown-like pirate in a spotlight with a swordsman in shadow"}},
+    {"text": "Crocodile agreed, because they could eliminate Buggy at any time.", "delivery": "normal", "fx": "none", "shot": {"search": "Crocodile Mihawk Buggy", "fallback": "anime style, a dark-suited pirate and a swordsman in a dim hall"}},
+    {"text": "Then Buggy's crew printed flyers with his face in the center.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Buggy Flyers Worldwide", "fallback": "anime style, a stack of flyers with a clown-like pirate in the center"}},
+    {"text": "The World Government read that as a leadership claim, and Buggy got the Yonko title.", "delivery": "normal", "fx": "none", "shot": {"search": "World Government Declares Buggy", "fallback": "anime style, an official-looking notice with a clown-like pirate on it"}},
+    {"text": "Chapter 1082 summaries say Mihawk and Crocodile don't see him as the same caliber.", "delivery": "normal", "fx": "none", "shot": {"search": "Buggy Yonko Caliber", "fallback": "anime style, three powerful captains standing apart from a clown-like pirate"}},
+    {"text": "Here's my read: the title rests on a misunderstanding, not on strength.", "delivery": "normal", "fx": "none", "shot": {"search": "Buggy Title Misunderstanding", "fallback": "anime style, a confused clown-like pirate looking at a title"}},
+    {"text": "But that's exactly the point, because a figurehead takes the first hit.", "delivery": "normal", "fx": "none", "shot": {"search": "Buggy Figurehead Crowd", "fallback": "anime style, a figurehead pirate facing a crowd"}},
+    {"text": "So the Cross Guild has a face everyone watches, and two strong founders behind it.", "delivery": "reveal", "fx": "none", "shot": {"search": "Cross Guild Figurehead Face", "fallback": "anime style, a clown-like face in front of two dark silhouettes"}},
+    {"text": "Ask who really runs the guild, because the front man was picked by someone else.", "delivery": "normal", "fx": "none", "shot": {"search": "Cross Guild Buggy Boss", "fallback": "anime style, a clown-like pirate standing before two shadowy figures"}}
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://sportskeeda.com/anime/one-piece-chapter-1082-is-buggy-truly-yonko-explored",
+    "https://www.sportskeeda.com/anime/one-piece-1082-all-known-members-cross-guild-ranked",
+    "https://sportskeeda.com/anime/one-piece-chapter-1082-full-summary-sabo-confirmed-alive-yonko-buggy-makes-his-goals-clear",
+    "https://www.dexerto.com/anime/one-piece-the-cross-guild-explained-2175350",
+    "https://sportskeeda.com/anime/one-piece-episode-1080-why-buggy-become-yonko-explained"
+  ],
+  "self_check": {"hook": "Line 1 names Buggy and the figurehead claim in its first 11 words.", "loop": "Last line says someone else picked the front man, which leads into line 1 about the figurehead plan.", "facts_verified": true}
+}
