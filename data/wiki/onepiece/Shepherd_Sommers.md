@@ -1,6 +1,6 @@
 # Shepherd Sommers
 
-Source: https://onepiece.fandom.com/wiki/Shepherd_Sommers (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Shepherd_Sommers (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Saint Shepherd Sommers is a World Noble and a member of the Knights of God.
 Due to his actions and role, he is a major antagonist in the Elbaph Arc.

@@ -1,6 +1,6 @@
 # Hinata Hyūga
 
-Source: https://naruto.fandom.com/wiki/Hinata_Hy%C5%ABga (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Hinata_Hy%C5%ABga (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 is a kunoichi of Konohagakure. Formerly the heiress of the Hyūga clan, she lost the position upon being deemed unsuited for the responsibilities of leading the clan. Nonetheless, Hinata persevered and from her observation of Naruto Uzumaki especially, Hinata found an example to follow. Through her membership with Team 8, she sought to become strong enough to change herself, if even a little at a time. A few years after the Fourth Shinobi World War, Hinata joined the Uzumaki Clan after marrying Naruto.
 

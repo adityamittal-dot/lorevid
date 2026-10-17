@@ -1,6 +1,6 @@
 # Enies Lobby Arc
 
-Source: https://onepiece.fandom.com/wiki/Enies_Lobby_Arc (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Enies_Lobby_Arc (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Enies Lobby Arc is the 16th story arc of the manga and anime One Piece, and the third story arc of the Water 7 Saga.
 The Straw Hats, Sogeking, the Franky Family, and the shipwrights of the Galley-La Company arrive at Enies Lobby aboard the Rocketman to rescue Nico Robin and Franky. Standing in their way, however, are the forces of the World Government, including its deadly assassination unit, CP9. A massive battle ensues between the two sides when Luffy declares war against the World Government.

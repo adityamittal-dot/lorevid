@@ -1,6 +1,6 @@
 # Egghead Arc
 
-Source: https://onepiece.fandom.com/wiki/Egghead_Arc (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Egghead_Arc (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Egghead Arc, also referred to as the Future Island Arc, is the 32nd story arc of the manga and anime One Piece, the first story arc of the Final Saga, and the ninth story arc of the second half of the series.
 As the aftermaths of both the Levely and the Raid on Onigashima, as well as the erasure of the Lulusia Kingdom, cause major shifts across the world, the Straw Hat Pirates arrive at the futuristic island Egghead where the super genius Dr. Vegapunk resides. Jewelry Bonney is intent on killing Vegapunk for what he did to Bartholomew Kuma, whose past and connection to Vegapunk are revealed. Meanwhile, a CP0 team is dispatched to assassinate Vegapunk, leading to a Marine siege that escalates into an incident that will shock the world.

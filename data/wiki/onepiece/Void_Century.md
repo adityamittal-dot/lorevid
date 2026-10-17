@@ -1,6 +1,6 @@
 # Void Century
 
-Source: https://onepiece.fandom.com/wiki/Void_Century (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Void_Century (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Void Century, also known as the Void in History, is a century-long time period from 900 to 800 years prior to the current storyline with no recorded archaeological history. [Ch. 392, Ep. 275] [Ch. 395, Ep. 277] For unknown reasons, research into this era is considered to be the worst crime possible by the World Government. [Ch. 392, Ep. 275] The events of this period are so important and relevant that by learning them, one is said to become aware of the "true history" of the Blue Planet.
 It is Nico Robin's dream to uncover the truth of the Void Century by discovering the "Rio Poneglyph". [Ch. 218, Ep. 130] Following his death, the scientist Dr. Vegapunk revealed to the world via a pre-planned broadcast what he knew about the Void Century, [Ch. 1114, Ep. 1148] although part of it was temporarily interrupted by the Five Elders' desperate attempt to stop the broadcast at all costs. [Ch. 1117, Ep. 1150]

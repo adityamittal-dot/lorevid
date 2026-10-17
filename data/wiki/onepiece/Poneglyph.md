@@ -1,6 +1,6 @@
 # Poneglyph
 
-Source: https://onepiece.fandom.com/wiki/Poneglyph (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Poneglyph (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Poneglyphs are large, mysterious, and apparently indestructible Stele inscribed with historical knowledge in an ancient script. They are scattered across many different islands on the Blue Planet.
 As the World Government has spent centuries violently suppressing it, in present day the Poneglyph language is lost to all but a few: Nico Robin, the sole surviving scholar of Ohara; [Ch. 398, Ep. 278] members of the Kouzuki Family, the descendants of the Poneglyphs' creators; [Ch. 818, Ep. 770] [Ch. 1056, Ep. 1083] and Vegapunk, who deciphered it based on materials from Ohara. [Ch. 1114, Ep. 1148]

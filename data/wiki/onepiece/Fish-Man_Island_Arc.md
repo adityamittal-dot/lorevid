@@ -1,6 +1,6 @@
 # Fish-Man Island Arc
 
-Source: https://onepiece.fandom.com/wiki/Fish-Man_Island_Arc (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Fish-Man_Island_Arc (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Fish-Man Island Arc is the 25th story arc of the manga and anime One Piece, both the second and last story arc of the Fish-Man Island Saga, and the second story arc of the second half of the series.
 The Straw Hat Pirates finally arrive at Fish-Man Island, where they learn the history of Fisher Tiger and the ongoing discrimination between humans and Fish-Men. Meanwhile, the New Fish-Man Pirates plot to overtake Ryugu Kingdom and establish Fish-Men as the supreme race.

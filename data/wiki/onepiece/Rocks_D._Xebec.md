@@ -1,6 +1,6 @@
 # Rocks D. Xebec
 
-Source: https://onepiece.fandom.com/wiki/Rocks_D._Xebec (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Rocks_D._Xebec (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Rocks D. Xebec, [Ch. 1154] born Davy D. Xebec, was the captain of the legendary Rocks Pirates. Born on God Valley, he was a member of the Davy Family and the father of Marshall D. Teach, one of the current Four Emperors. His goal in life was to become King of the World, [Ch. 1155] a title he believed was held by his ancestor, the legendary pirate Davy D. Jones. [Ch. 1164]
 Rocks was a dominant figure four decades ago, [Ch. 907, Ep. 887] during which he had assembled one of the strongest and most infamous pirate crews in history, many of whom went on to be highly infamous pirates themselves. He had a rivalry with Gol D. Roger years before Roger reached the heights of his own power. He was also a close friend of Elbaph's most recent king, Harald, and was idolized by Harald's son Loki.

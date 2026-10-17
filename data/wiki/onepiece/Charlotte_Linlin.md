@@ -1,6 +1,6 @@
 # Charlotte Linlin
 
-Source: https://onepiece.fandom.com/wiki/Charlotte_Linlin (fetched 2026-10-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Charlotte_Linlin (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Charlotte Linlin, [Ch. 829, Ep. 789] better known as "Big Mom", [Ch. 610, Ep. 529] is the captain of the Big Mom Pirates and was formerly one of the Four Emperors ruling over the New World, as the only female member of the group. She is the queen of the archipelago nation Totto Land, a place she seeks to form into a utopia where all the world's races can live together in peace without discrimination or segregation. [Ch. 827, Ep. 785] She is also the matriarch of the Charlotte Family, whose children make up the ministers of her nation and the core infrastructure of her crew. [Ch. 828, Ep. 787]
 Big Mom wields the Soru Soru no Mi, which allows her to steal the souls of others and implant them in inanimate objects, resulting in the unique race known as homies, who happily serve her. Big Mom possesses three special homies made from her own soul: the bicorne Napoleon, the sun Prometheus, and the thunder cloud Hera. Hera's position was formerly occupied by another thunder cloud, Zeus, but Big Mom grew tired of Zeus' continued failures and created Hera to replace him. [Ch. 1011, Ep. 1028]
