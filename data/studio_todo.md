@@ -36,3 +36,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Kaido's Dragon Form Was His Trap, Not His Peak (https://youtu.be/2WcRnIGM2jc) -> related video: Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E)
 - [ ] Why Enel Had to Fight Luffy in the Sky Island (https://youtu.be/FbtK5VnHVhg) -> thumbnail B saved at output/2026-10-18-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Itachi Never Put Naruto In Tsukuyomi. Here's Why (https://youtu.be/rmrMFXovOfs) -> related video: What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I)
+- [ ] Only Rubber Could Touch the Sky God Enel (https://youtu.be/pkXBsbniZnk) -> related video: Why Enel Had to Fight Luffy in the Sky Island (https://youtu.be/FbtK5VnHVhg)
