@@ -39,3 +39,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Only Rubber Could Touch the Sky God Enel (https://youtu.be/pkXBsbniZnk) -> related video: Why Enel Had to Fight Luffy in the Sky Island (https://youtu.be/FbtK5VnHVhg)
 - [ ] Why Bartolomeo Idolizes Luffy More Than Anyone (https://youtu.be/NbVz6Jp-be8) -> thumbnail B saved at output/2026-10-19-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Smoker Chased Luffy Harder Than Anyone (https://youtu.be/UWd1zn38m44) -> thumbnail B saved at output/2026-10-19-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Smoker Abandoned His Post For One Pirate (https://youtu.be/o-OT8-a3FAU) -> related video: Why Smoker Chased Luffy Harder Than Anyone (https://youtu.be/UWd1zn38m44)
