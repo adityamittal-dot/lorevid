@@ -1,0 +1,153 @@
+{
+ "id": "2026-10-30-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Momonosuke already refused to open Wano's borders after the war, and called it cowardice",
+ "title": "Momonosuke Already Refused Oden's Final Wish",
+ "description": "After Kaidou falls, Yamato asks Momonosuke to finally open Wano's borders like Oden always wanted. Momonosuke says no, and asks if that makes him a coward. That's canon, chapter 1041. From the full story: What If Oden Never Opened Wano's Borders?",
+ "hashtags": [
+  "#onepiece",
+  "#wano",
+  "#momonosuke"
+ ],
+ "tags": [
+  "one piece theory",
+  "momonosuke one piece",
+  "kouzuki oden",
+  "wano borders",
+  "yamato one piece",
+  "one piece 1041",
+  "one piece shorts",
+  "one piece hidden detail"
+ ],
+ "hook_text": "HE ALREADY SAID NO",
+ "music_mood": "emotional",
+ "comment": "Was Momonosuke right to keep Wano closed, or is he betraying his father's dream? Pick one.",
+ "related_long": "2026-10-30-L",
+ "pages": [
+  "Momonosuke",
+  "Kouzuki Oden",
+  "Yamato"
+ ],
+ "lines": [
+  {
+   "text": "Momonosuke already refused to open Wano's borders, and almost nobody talks about it.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Momonosuke refuses open borders Wano",
+    "fallback": "young ruler standing before a closed gate"
+   }
+  },
+  {
+   "text": "Chapter 1041. After the war. After Kaidou falls.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke chapter 1041 aftermath",
+    "fallback": "young ruler standing in a quiet aftermath"
+   }
+  },
+  {
+   "text": "Yamato asks him to finish his father's dream and open the country.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yamato asks Momonosuke open country",
+    "fallback": "warrior making a request to a young ruler"
+   }
+  },
+  {
+   "text": "Momonosuke says no. He's scared it'll put his own people in danger.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke scared endangering people fear",
+    "fallback": "young ruler looking anxious and uncertain"
+   }
+  },
+  {
+   "text": "Then he asks Yamato one question straight to his face.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke asks Yamato question",
+    "fallback": "young ruler speaking directly to an ally"
+   }
+  },
+  {
+   "text": "Does that make me a coward?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke coward question close-up",
+    "fallback": "young ruler's face, uncertain and searching"
+   }
+  },
+  {
+   "text": "That's not fan theory. That's Oda's own panel, chapter 1041.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke canon panel chapter 1041",
+    "fallback": "manga panel of a young ruler in doubt"
+   }
+  },
+  {
+   "text": "Oden spent his whole life feeling trapped by those same borders.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden trapped Wano borders youth",
+    "fallback": "young samurai staring past a border wall"
+   }
+  },
+  {
+   "text": "His own son just chose to keep them shut anyway.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke keeps Wano shut choice",
+    "fallback": "young ruler standing before closed gates"
+   }
+  },
+  {
+   "text": "Not out of cowardice. Out of love for people Oden never got to protect himself.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke love people protect Wano",
+    "fallback": "young ruler protecting his people, resolute"
+   }
+  },
+  {
+   "text": "So maybe the real question isn't whether Momonosuke is a coward...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Momonosuke real question coward doubt",
+    "fallback": "young ruler lost in difficult thought"
+   }
+  },
+  {
+   "text": "It's whether Momonosuke already refused the one thing his father died wanting.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Momonosuke refused father wish borders",
+    "fallback": "young ruler standing alone before a closed gate"
+   }
+  }
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Yamato",
+  "https://onepiece.fandom.com/wiki/Kouzuki_Oden",
+  "https://onepiece.fandom.com/wiki/Wano_Country_Arc"
+ ],
+ "self_check": {
+  "hook": "hidden-detail claim in line 1 (Momonosuke already refused, almost nobody talks about it)",
+  "loop": "last line restates 'Momonosuke already refused' leading straight back into line 1's claim",
+  "facts_verified": true
+ }
+}

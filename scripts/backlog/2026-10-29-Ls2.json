@@ -1,0 +1,144 @@
+{
+ "id": "2026-10-29-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Doflamingo capturing Law wasn't a defeat for Law's plan; it's the moment the plan actually starts working",
+ "title": "Law Let Doflamingo Capture Him On Purpose",
+ "description": "Doflamingo captures Law in the middle of Dressrosa, and most people read that as Law's plan falling apart. Here's why it's actually the moment the plan starts paying off. Does Law deserve more credit here than fans give him?",
+ "hashtags": [
+  "#onepiece",
+  "#trafalgarlaw",
+  "#doflamingo"
+ ],
+ "tags": [
+  "one piece theory",
+  "trafalgar law",
+  "doflamingo",
+  "dressrosa arc",
+  "law vs doflamingo",
+  "corazon one piece",
+  "one piece analysis",
+  "smile factory one piece",
+  "one piece dressrosa"
+ ],
+ "hook_text": "THE PLAN WORKED",
+ "music_mood": "suspense",
+ "comment": "Does Law's plan deserve more credit than the final punch Luffy throws, or does none of it matter without that punch? Pick one.",
+ "related_long": "2026-10-29-L",
+ "pages": [
+  "Trafalgar D. Water Law",
+  "Dressrosa Arc",
+  "Donquixote Doflamingo"
+ ],
+ "lines": [
+  {
+   "text": "Doflamingo captured Law. That's the exact moment Law's plan started working.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Doflamingo capturing Law Dressrosa palace",
+    "fallback": "pirate king carrying away a defeated captive"
+   }
+  },
+  {
+   "text": "Everyone treats this like Law's plan failing. I don't think it did.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Trafalgar Law chained Dressrosa throne",
+    "fallback": "chained prisoner in a throne room"
+   }
+  },
+  {
+   "text": "Law's whole scheme was never really about saving Caesar Clown at all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Caesar Clown hostage Law plan",
+    "fallback": "mad scientist held captive by pirates"
+   }
+  },
+  {
+   "text": "It was about forcing Doflamingo to fight the World Government and Kaidou at the same time.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Doflamingo Kaidou World Government pressure",
+    "fallback": "king caught between two powerful forces"
+   }
+  },
+  {
+   "text": "Getting captured doesn't break that plan. It just means Doflamingo stops watching everything else.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Doflamingo distracted Law prisoner Dressrosa",
+    "fallback": "king distracted while guarding a prisoner"
+   }
+  },
+  {
+   "text": "While he's busy questioning Law, an army of tiny allies is sneaking toward a target named Sugar.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tontatta dwarves sneaking Sugar Dressrosa",
+    "fallback": "tiny warriors sneaking through tunnels"
+   }
+  },
+  {
+   "text": "Knock her out, and every citizen Doflamingo ever turned into a toy remembers the truth at once.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Sugar knockout citizens toys Dressrosa",
+    "fallback": "toys transforming back into people suddenly"
+   }
+  },
+  {
+   "text": "That's the real bomb Law's distraction bought time for, and Doflamingo never saw it coming.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Dressrosa uprising bomb Doflamingo unaware",
+    "fallback": "tiny warriors preparing a final move"
+   }
+  },
+  {
+   "text": "Thirteen years of waiting taught Law exactly how patient a trap needs to be.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Trafalgar Law patient Corazon memory",
+    "fallback": "pirate remembering a lost mentor"
+   }
+  },
+  {
+   "text": "So no, Doflamingo didn't capture Law. Law let the rest of the trap finish itself.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Trafalgar Law plan Dressrosa verdict",
+    "fallback": "surgeon pirate watching a plan unfold"
+   }
+  },
+  {
+   "text": "Because Doflamingo capturing Law was never the moment the plan broke...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Doflamingo capturing Law Dressrosa palace",
+    "fallback": "pirate king carrying away a defeated captive"
+   }
+  }
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Dressrosa_Arc",
+  "https://onepiece.fandom.com/wiki/Donquixote_Rosinante"
+ ],
+ "self_check": {
+  "hook": "line 1 states the contrarian claim (capture = plan working) in the first 2 seconds",
+  "loop": "last line restates the setup and leads straight into line 1's payoff",
+  "facts_verified": true
+ }
+}
