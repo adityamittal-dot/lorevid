@@ -1,6 +1,6 @@
 # Kinji Hakari
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Kinji_Hakari (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Kinji_Hakari (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Kinji Hakari is a supporting character in the Jujutsu Kaisen series. He is a third-year student at Tokyo Jujutsu High who was suspended for clashing with authority. While away from the school, Kinji is running the Gachinko Fight Club, a venue for hand-to-hand combat between sorcerers for money.
 

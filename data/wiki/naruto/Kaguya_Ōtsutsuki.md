@@ -1,6 +1,6 @@
 # Kaguya Ōtsutsuki
 
-Source: https://naruto.fandom.com/wiki/Kaguya_%C5%8Ctsutsuki (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Kaguya_%C5%8Ctsutsuki (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 is a member of the Ōtsutsuki Clan and was the matriarch of a branch family of her clan, including her children Hagoromo and Hamura. Long before the founding of the hidden villages, during an era of endless war, Kaguya betrayed her clan by consuming the fruit of the God Tree and became the first wielder of chakra on Earth, before later merging with the tree's Tailed Beast form in a battle against her children that ended with her being sealed away.
 Centuries later, during the Fourth Shinobi World War, Kaguya was brought back once again by her "son", Black Zetsu at the expense of Madara Uchiha, Kaguya resuming her attempt to claim all the chakra for herself, only for both Kaguya and Black Zetsu to end up being defeated by Team 7 and sealed away.

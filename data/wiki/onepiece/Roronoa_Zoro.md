@@ -1,6 +1,6 @@
 # Roronoa Zoro
 
-Source: https://onepiece.fandom.com/wiki/Roronoa_Zoro (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Roronoa_Zoro (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 :The subject of this article is sometimes called Roronoa Zolo.
 Roronoa Zoro, also known as "Pirate Hunter" Zoro, is the Swordsman and [[combatant of the Straw Hat Pirates, one of the Senior Officers of the Straw Hat Grand Fleet, and is publicly recognized as the right-hand man and number two of his crew's captain, Monkey D. Luffy. [Ch. 723, Ep. 653] [Ch. 995, Ep. 1008] [Ch. 1093, Ep. 1127] Formerly a bounty hunter, he is the second member of Luffy's crew and the first to join it, doing so in the Romance Dawn Arc.
@@ -11,7 +11,7 @@ Zoro gained his first bounty of 60,000,000 after the Arabasta Arc. It later incr
 ### Appearance
 Zoro is a tall, muscular young man with lightly tanned skin. He occupies his three swords along with him, bundled up with a green Haramaki (clothing) over his right hip, allowing him to easily draw them with his left hand. Of the three swords he has on his person, he has always been seen carrying the Wado Ichimonji, while his other two swords have varied over time due to them being destroyed and subsequently replaced with progressively better ones. Although his right hand is usually seen resting over them, he can also use this hand to pull his swords out before sitting down. He has three identical gold earrings on his left earlobe. Zoro normally keeps a black bandana tied around his left bicep and ties it around his head when he fights seriously against an opponent.
 Zoro's body is covered with scars from his many battles, most notably the massive scar stretching from his left shoulder to his right hip that he acquired during his loss against the world's greatest swordsman, Dracule Mihawk, at Baratie. His other visible scars are the scars he inflicted upon his ankles in a desperate attempt to free himself from Mr. 3's Tokudai Candle Service Set by trying to cut his feet off at Little Garden. After the timeskip, he gained another scar over his left eye, obtained through unknown means.
-Zoro's other remarkable feature is his cropped green hair, which Sanji often teases him about by calling him "marimo" (moss-ball, moss-head in the VIZ manga and Funimation adaptations) due to its similitude to one.
+Zoro's other remarkable feature is his cropped green hair, which Sanji often teases him about by calling him "marimo" ("moss-ball", "moss-head" in the VIZ manga and Funimation adaptations) due to its similitude to one.
 
 #### Before the Timeskip
 Similar to most of his male crewmates, Zoro has the same outfit throughout most of the series. Before the timeskip, he would consistently wear a white short-sleeved henley shirt, a green haramaki, black pants, and black boots, both of which are sometimes depicted as dark green. However, only Zoro's shirt varies from time to time in the arcs.

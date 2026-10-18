@@ -1,6 +1,6 @@
 # Sarada Uchiha
 
-Source: https://naruto.fandom.com/wiki/Sarada_Uchiha (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Sarada_Uchiha (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 is a kunoichi from Konohagakure's Uchiha Clan. Because she was raised only by her mother without having her father around, Sarada initially struggled to understand who she is or what she's supposed to be. After meeting her father with the help of Naruto Uzumaki, Sarada comes to believe that she is defined by the connections she has with others. From this, she seeks to someday become Hokage so that she can connect with as many people as possible.
 

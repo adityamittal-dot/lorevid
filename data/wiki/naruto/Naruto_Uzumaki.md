@@ -1,6 +1,6 @@
 # Naruto Uzumaki
 
-Source: https://naruto.fandom.com/wiki/Naruto_Uzumaki (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Naruto_Uzumaki (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 is a shinobi of Konohagakure's Uzumaki clan and a reincarnation and descendant of Asura Ōtsutsuki. He became the jinchūriki of the Nine-Tails on the day of his birth — a fate that caused him to be shunned by most of Konoha throughout his childhood. After joining Team Kakashi, Naruto worked hard to gain the village's acknowledgement all the while chasing his dream to become Hokage. In the following years, through many hardships and ordeals, he became a capable ninja, regarded as a hero both by the villagers, and soon after, the rest of the world, becoming known as the . He soon proved to be one of the main factors in winning the Fourth Shinobi World War, leading him to achieve his dream and become the village's .
 

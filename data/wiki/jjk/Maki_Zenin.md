@@ -1,6 +1,6 @@
 # Maki Zenin
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Maki Zenin is a major supporting character in Jujutsu Kaisen and one of the main protagonists of its prequel, Jujutsu Kaisen 0: Jujutsu High. She is currently a second-year at Tokyo Jujutsu High.
 The daughter of Ogi Zenin and his wife, and the elder twin sister of Mai Zenin, Maki was born in the Zenin Clan. Born a non-sorcerer in one of the Big Three Families, Maki was constantly mistreated and felt compelled to expel herself from her clan. She aspires to be a great jujutsu sorcerer to spite her family, working closely with her friends Yuta Okkotsu, Panda and Toge Inumaki, while also serving as a role model to the first-year students.

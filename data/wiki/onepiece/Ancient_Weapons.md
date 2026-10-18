@@ -1,6 +1,6 @@
 # Ancient Weapons
 
-Source: https://onepiece.fandom.com/wiki/Ancient_Weapons (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Ancient_Weapons (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Ancient Weapons are three weapons capable of mass destruction, each taking a different form. They are known as Pluton, Poseidon, and Uranus, each named after a deity for their godly powers. [Ch. 650, Ep. 570] The weapons are not limited only to inanimate objects, but consist of living beings as well.
 The Ancient Weapons were used during the initial Great War during the Void Century and are majorly responsible for the rise of global sea levels that shaped much of the current Blue Planet geography. [Ch. 1115, Ep. 1149] The ancient pirate Joy Boy had a role in their preservation so future generations could still access and use the weapons, but his reasons for doing so are still a complete mystery. [Ch. 1116, Ep. 1149]

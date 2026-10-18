@@ -1,6 +1,6 @@
 # Jinbe
 
-Source: https://onepiece.fandom.com/wiki/Jinbe (fetched 2026-10-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Jinbe (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 :The subject of this article is sometimes called "Jinbei" or "Jimbei".
 "Knight of the Sea" Jinbe is the helmsman of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the tenth member of the crew and the ninth to join, doing so during the Wano Country Arc. [Ch. 976, Ep. 980]
