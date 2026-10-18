@@ -1595,5 +1595,12 @@
     "hook": "Opens on the abandoned post and a named pirate within 5 seconds, with a question by line 3.",
     "loop": "Long form ends on a pointer to the next story; the Short carries the loop.",
     "facts_verified": true
+  },
+  "published": {
+    "video_id": "UWd1zn38m44",
+    "publish_at": "2026-10-19T23:00:00Z",
+    "url": "https://youtu.be/UWd1zn38m44",
+    "comment": "Was Smoker chasing Luffy out of duty, or is it something personal? Pick one.",
+    "comment_posted": false
   }
 }

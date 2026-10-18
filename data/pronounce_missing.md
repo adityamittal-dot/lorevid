@@ -72,3 +72,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Warashi (2026-10-18-L)
 - Wyper (2026-10-18-L)
 - Maynard (2026-10-19-L)
+- Mushi (2026-10-19-L2)
