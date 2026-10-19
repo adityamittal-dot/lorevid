@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-03-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Katakuri's family showed rage at his loss, not concern for him; Flampe even threatened to expose his secret",
+ "title": "The Moment Katakuri's Family Failed Him",
+ "description": "When the Charlotte Family learned Katakuri lost to Luffy, nobody asked if he was okay. Flampe, who idolized him most, immediately threatened to expose the one secret he'd spent his life hiding. Here's what Katakuri's family actually loved.",
+ "hashtags": [
+  "#onepiece",
+  "#katakuri",
+  "#flampe"
+ ],
+ "tags": [
+  "one piece theory",
+  "katakuri family betrayal",
+  "flampe katakuri",
+  "whole cake island",
+  "charlotte family",
+  "one piece 898",
+  "katakuri respect",
+  "one piece analysis"
+ ],
+ "hook_text": "NOT CONCERN",
+ "music_mood": "suspense",
+ "comment": "Was Flampe's devotion to Katakuri ever really love, or just idolization of a record?",
+ "related_long": "2026-11-03-L",
+ "pages": [
+  "Charlotte Katakuri",
+  "Charlotte Flampe",
+  "Charlotte Oven",
+  "Whole Cake Island Arc"
+ ],
+ "lines": [
+  {
+   "text": "Flampe loved her oldest brother more than any of her siblings. She idolized him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Flampe idolizes Katakuri favorite",
+    "fallback": "young girl admiring an older brother"
+   }
+  },
+  {
+   "text": "The unbeaten record. The dignified warrior. The legend everyone respected in chapter 898.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Katakuri perfect undefeated legend",
+    "fallback": "composed warrior standing above a crowd"
+   }
+  },
+  {
+   "text": "But the moment she hears he lost to Luffy, something inside her snaps.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Flampe learns Katakuri loss shock",
+    "fallback": "shocked sister receiving grim news"
+   }
+  },
+  {
+   "text": "She doesn't ask if he's hurt. Doesn't go check on him. Doesn't show a single moment of concern.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Flampe does not check Katakuri",
+    "fallback": "indifferent sister turning away"
+   }
+  },
+  {
+   "text": "Instead, she threatens to expose the one secret Katakuri spent his entire life hiding: his real mouth.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Flampe threatens expose Katakuri secret",
+    "fallback": "former admirer turning hostile instantly"
+   }
+  },
+  {
+   "text": "Her own meddling later proves why: she never wanted to protect her brother, she wanted to stay his favorite.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Flampe motive revealed personal status",
+    "fallback": "admirer protecting her own ego"
+   }
+  },
+  {
+   "text": "The moment the legend cracked, her loyalty had nowhere else to land, so it turned into rage.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Loyalty turns rage myth breaks",
+    "fallback": "devotion curdling into anger"
+   }
+  },
+  {
+   "text": "That's what happens when a family only loves a record...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Family love conditional on image",
+    "fallback": "family devoted to legend over person"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Charlotte_Katakuri",
+  "https://onepiece.fandom.com/wiki/Charlotte_Flampe",
+  "https://onepiece.fandom.com/wiki/Whole_Cake_Island_Arc"
+ ],
+ "self_check": {
+  "hook": "line 1 establishes Flampe's idolization, line 3 stakes the moment of loss, lines 5-6 state the claim (threatened to expose his secret, motivated by status not love)",
+  "loop": "last line ('That's what happens when a family only loves a record...') leads back toward Flampe's setup without repeating words — the viewer understands the thesis through Flampe's action",
+  "facts_verified": true
+ }
+}
