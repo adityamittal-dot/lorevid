@@ -43,3 +43,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Why Bartolomeo Bows Before Luffy's Ship Itself (https://youtu.be/ouxxNftr2Ak) -> related video: Why Bartolomeo Idolizes Luffy More Than Anyone (https://youtu.be/NbVz6Jp-be8)
 - [ ] Shirahoshi's Tears Were The Plot's Hidden Trigger (https://youtu.be/oIqwNCHl83A) -> thumbnail B saved at output/2026-10-20-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Choso Was The Best Brother Yuji Never Knew (https://youtu.be/H75qutoUAXc) -> thumbnail B saved at output/2026-10-20-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Choso Felt Yuji's Ending Coming Before Yuji Did (https://youtu.be/xzCTx35MYqM) -> related video: Choso Was The Best Brother Yuji Never Knew (https://youtu.be/H75qutoUAXc)
