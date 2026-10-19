@@ -1,6 +1,6 @@
 # Madara Uchiha
 
-Source: https://naruto.fandom.com/wiki/Madara_Uchiha (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Madara_Uchiha (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 was the legendary leader of the Uchiha Clan and a reincarnation and descendant of Indra Ōtsutsuki. He founded Konohagakure alongside his childhood friend and rival, Hashirama Senju, with the intention of bringing about an era of peace. When the two couldn't agree on how to achieve that peace, they fought for control of the village, a conflict which ended in Madara's death. Madara, however, rewrote his death and went into hiding to work on his own plans. Unable to complete it in his natural life, he entrusted his knowledge and plans to Obito Uchiha shortly before his actual death. Years later, Madara was revived during the Fourth Shinobi World War with his goal involving the Infinite Tsukuyomi having reached fruition, only to be upended by Black Zetsu and its own ancient machinations. Finally, realising the error of his ways, he made amends with Hashirama before his final death.
 

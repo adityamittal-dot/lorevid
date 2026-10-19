@@ -1,6 +1,6 @@
 # Sabaody Archipelago Arc
 
-Source: https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Sabaody_Archipelago_Arc (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Sabaody Archipelago Arc, also referred to as the Sabaody Arc, is the 19th story arc of the manga and anime One Piece, and the first story arc of the Summit War Saga.
 The Straw Hat Pirates arrive at the final island of the Grand Line's first half, Sabaody Archipelago. While searching for a means to pass under the Red Line into the New World, they come into conflict with a deadly slave trading ring that sells to the World Nobles. Luffy and Zoro are labelled as two of the Eleven Supernovas, rookies of significant bounties who have simultaneously arrived at the archipelago. A chain reaction of events engulfs the archipelago in chaos, and the Straw Hats are faced with their greatest challenge yet.

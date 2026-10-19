@@ -1,6 +1,6 @@
 # Goro Goro no Mi
 
-Source: https://onepiece.fandom.com/wiki/Goro_Goro_no_Mi (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Goro_Goro_no_Mi (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Goro Goro no Mi is a Logia-type Devil Fruit that grants the power to create, control, and become lightning at will, making the user a Lightning Human; it is one of the few abilities touted as "invincible" according to Nico Robin. [Ch. 274, Ep. 180] The fruit was eaten by Enel.
 

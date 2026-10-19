@@ -1,6 +1,6 @@
 # Hyougoro
 
-Source: https://onepiece.fandom.com/wiki/Hyougoro (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Hyougoro (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Hyougoro of the Flower [Ch. 934, Ep. 929] is the former yakuza boss of the Flower Capital and the most famous yakuza in Wano Country during the first Kouzuki Family's reign. During Kurozumi Orochi's reign, he was imprisoned in Udon's prisoner mines until he was freed by Monkey D. Luffy. As a prisoner, he was known as Grandpa Hyo.
 

@@ -1,6 +1,6 @@
 # Laugh Tale
 
-Source: https://onepiece.fandom.com/wiki/Laugh_Tale (fetched 2026-10-18). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Laugh_Tale (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 :The subject of this article is also called Raftel.
 Laugh Tale is the island at the end of the New World, which supposedly holds the treasure One Piece. [Ch. 105, Ep. 63] It was named by Gol D. Roger after he and his crew arrived on the island and discovered the treasure left there by Joy Boy.
