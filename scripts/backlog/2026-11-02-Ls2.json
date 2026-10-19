@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-02-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Akainu used a pirate's grudge against Roger to turn him against Whitebeard, weaponizing lineage itself",
+ "title": "Akainu Weaponized A 20-Year Grudge",
+ "description": "Akainu knew he couldn't beat Whitebeard alone, so he did something colder: he found a captain who lost his crew to Roger years earlier and convinced him Whitebeard was using him. One lie, one grudge, and Whitebeard's own family attacked him. Here's the manipulation most power-scaling videos skip.",
+ "hashtags": [
+  "#onepiece",
+  "#marineford",
+  "#akainu"
+ ],
+ "tags": [
+  "one piece theory",
+  "marineford strategy",
+  "squard whitebeard",
+  "akainu manipulation",
+  "one piece 561",
+  "whitebeard pirates",
+  "akainu tactics",
+  "absolute justice",
+  "one piece analysis"
+ ],
+ "hook_text": "NOT A FIGHT",
+ "music_mood": "suspense",
+ "comment": "Does Akainu's manipulation of Squard prove he was never hunting raw strength at all?",
+ "related_long": "2026-11-02-L",
+ "pages": [
+  "Sakazuki",
+  "Edward Newgate",
+  "Squard",
+  "Marineford Arc"
+ ],
+ "lines": [
+  {
+   "text": "Squard lost his entire crew to Gol D. Roger years before Marineford even happened.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Squard lost crew Roger pirate",
+    "fallback": "grieving pirate captain alone at sea"
+   }
+  },
+  {
+   "text": "Whitebeard took him in afterward, raised him like one of his own sons in chapter 561.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard adopts Squard crew family",
+    "fallback": "old emperor welcoming a broken pirate"
+   }
+  },
+  {
+   "text": "That's two decades of loyalty, one pirate owing everything to another.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Squard Whitebeard loyalty years",
+    "fallback": "devoted pirate serving an old emperor"
+   }
+  },
+  {
+   "text": "Then Akainu walks up to Squard and tells him a lie: Whitebeard is abandoning the crew just to save Ace.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Akainu deceives Squard sympathy",
+    "fallback": "admiral whispering a manipulative lie"
+   }
+  },
+  {
+   "text": "That lie is built specifically on a grudge Squard holds against Roger's lineage, not Whitebeard's actions.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Squard grudge lineage weapon",
+    "fallback": "pirate's old loss weaponized"
+   }
+  },
+  {
+   "text": "Squard turns on the man who took him in, drives a blade straight through Whitebeard's body.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Squard attacks Whitebeard betrayal",
+    "fallback": "pirate captain striking an old emperor"
+   }
+  },
+  {
+   "text": "Not because Whitebeard did anything wrong. Because a lie turned a lineage grudge into a weapon.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Squard betrayal lineage reason",
+    "fallback": "betrayal motivated by ancient history"
+   }
+  },
+  {
+   "text": "That's patience. That's playing for a longer game than one battle...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Akainu strategy longer game",
+    "fallback": "admiral playing a slow careful game"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Sakazuki",
+  "https://onepiece.fandom.com/wiki/Edward_Newgate",
+  "https://onepiece.fandom.com/wiki/Marineford_Arc"
+ ],
+ "self_check": {
+  "hook": "line 1 sets Squard's history (lost crew to Roger), line 2 adds stakes (Whitebeard raised him), line 4 states the claim (Akainu weaponized this via a lie)",
+  "loop": "last line ('That's patience... a longer game') echoes the long's theme that Akainu played strategy, not raw power — loops back to the setup without repeating opening words",
+  "facts_verified": true
+ }
+}

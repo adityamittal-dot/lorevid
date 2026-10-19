@@ -1,0 +1,121 @@
+{
+ "id": "2026-11-02-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Akainu chased Luffy through Ace because Ace's lineage, not power, was the real target",
+ "title": "Akainu Aimed Past Ace At Luffy",
+ "description": "Akainu insulted Whitebeard to stop Ace in his tracks, then did something most fans miss: he aimed his final attack straight at Luffy, not down at Ace. Here's why that single choice reveals the entire reason for Marineford.",
+ "hashtags": [
+  "#onepiece",
+  "#akainu",
+  "#marineford"
+ ],
+ "tags": [
+  "one piece theory",
+  "akainu lineage",
+  "marineford explained",
+  "one piece 573",
+  "akainu ace luffy",
+  "one piece analysis",
+  "absolute justice",
+  "gol d roger",
+  "one piece akainu"
+ ],
+ "hook_text": "NOT THE EMPEROR",
+ "music_mood": "suspense",
+ "comment": "Was Akainu trying to stop Ace from reaching Whitebeard, or was he aiming at Luffy the whole time?",
+ "related_long": "2026-11-02-L",
+ "pages": [
+  "Sakazuki",
+  "Portgas D. Ace",
+  "Monkey D. Luffy",
+  "Marineford Arc"
+ ],
+ "lines": [
+  {
+   "text": "Akainu insulted the Emperor. Ace couldn't stand it and turned around to fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Akainu insults Whitebeard honor age",
+    "fallback": "admiral mocking an absent emperor"
+   }
+  },
+  {
+   "text": "But watch what actually happens when Ace charges him in chapter 573.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ace charges Akainu magma counter",
+    "fallback": "fire pirate attacking a magma admiral"
+   }
+  },
+  {
+   "text": "Akainu catches the attack and aims his magma right past Ace's body.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Akainu magma aims past Ace",
+    "fallback": "admiral redirecting an attack"
+   }
+  },
+  {
+   "text": "His real target was never in front of him. It was directly behind him.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Akainu aiming Luffy past Ace",
+    "fallback": "admiral's aim passing through one body"
+   }
+  },
+  {
+   "text": "He says both the Roger lineage and the Dragon lineage deserve the same sentence, and he means it as law.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Akainu declares both brothers lineage",
+    "fallback": "admiral stating cold doctrine"
+   }
+  },
+  {
+   "text": "Ace throws himself in front to shield Luffy, and that single choice decides everything that happens next.",
+   "delivery": "slow",
+   "fx": "shake",
+   "shot": {
+    "search": "Ace shields Luffy Akainu attack",
+    "fallback": "young pirate protecting his brother"
+   }
+  },
+  {
+   "text": "The whole war was built around one decision: erase a lineage, not stop an Emperor.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Marineford war lineage target",
+    "fallback": "battlefield revealing its true shape"
+   }
+  },
+  {
+   "text": "And Akainu aimed past Ace to make sure...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Akainu insults Whitebeard honor age",
+    "fallback": "admiral mocking an absent emperor"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Sakazuki",
+  "https://onepiece.fandom.com/wiki/Portgas_D._Ace",
+  "https://onepiece.fandom.com/wiki/Marineford_Arc"
+ ],
+ "self_check": {
+  "hook": "line 1 immediately sets the action (Akainu insulting Whitebeard), line 2 names the chapter to verify, lines 3-4 state the claim (Akainu aimed at Luffy, not Ace)",
+  "loop": "last line leads back into line 1's setup ('Akainu insulted Whitebeard... and Akainu aimed past Ace to make sure'), matching the loop rule",
+  "facts_verified": true
+ }
+}
