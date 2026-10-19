@@ -1,0 +1,147 @@
+{
+ "id": "2026-10-31-Ls2",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Nanami's rule that sorcerers survive by making friends accept they might not come back traces to Haibara's loss, and Yuji inherits that exact rule after Shibuya",
+ "title": "Nanami's Rule For Sorcerers Came From One Loss",
+ "description": "Nanami Kento's whole philosophy about the job traces back to one person: his old classmate Yu Haibara. After Shibuya, Yuji Itadori ends up carrying the exact same rule Nanami once said he hated. From the full story: Nanami Was Never Supposed To Survive Shibuya.",
+ "hashtags": [
+  "#nanami",
+  "#yuji",
+  "#jjk",
+  "#jujutsukaisen"
+ ],
+ "tags": [
+  "jjk theory",
+  "nanami kento haibara",
+  "yu haibara jujutsu kaisen",
+  "nanami philosophy",
+  "yuji itadori promise",
+  "jujutsu kaisen shibuya incident",
+  "nanami black flash",
+  "jjk emotional theory",
+  "jujutsu kaisen nanami",
+  "jjk shorts",
+  "nanami legacy"
+ ],
+ "hook_text": "THE RULE HE HATED",
+ "music_mood": "emotional",
+ "comment": "Is Nanami's rule about sorcerers wisdom, or just guilt he never got over? Pick one.",
+ "related_long": "2026-10-31-L",
+ "pages": [
+  "Kento Nanami",
+  "Yu Haibara",
+  "Yuji Itadori"
+ ],
+ "lines": [
+  {
+   "text": "Nanami's whole philosophy about sorcerers traces back to one lost friend.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nanami Kento philosophy sorcerers",
+    "fallback": "composed swordsman standing alone, reflective"
+   }
+  },
+  {
+   "text": "His classmate Yu Haibara was endlessly optimistic, the one person who made missions feel lighter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yu Haibara optimistic classmate",
+    "fallback": "smiling student in Jujutsu High uniform"
+   }
+  },
+  {
+   "text": "Then Haibara never made it back from a mission, and something in Nanami shut down completely.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nanami Haibara loss grief",
+    "fallback": "grieving swordsman standing in the rain"
+   }
+  },
+  {
+   "text": "Nanami walked away from being a sorcerer and spent years working an ordinary office job instead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nanami salaryman office job",
+    "fallback": "businessman in a crowded office"
+   }
+  },
+  {
+   "text": "He admits it himself: he didn't quit. He ran.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Nanami admits running away",
+    "fallback": "man walking alone down a city street"
+   }
+  },
+  {
+   "text": "And the reason he gives is brutal: sorcerers survive by making their friends accept they might not come back.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nanami philosophy sorcerers trash",
+    "fallback": "swordsman speaking seriously to a student"
+   }
+  },
+  {
+   "text": "Carry that rule into Shibuya, because it's the exact rule Yuji inherits...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nanami Shibuya Incident approaching",
+    "fallback": "swordsman walking toward a chaotic city street"
+   }
+  },
+  {
+   "text": "After Nanami's part in the story ends, Yuji breaks completely, for the first time in the whole arc.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Yuji breaks rage Mahito Shibuya",
+    "fallback": "young fighter screaming in fury"
+   }
+  },
+  {
+   "text": "Weeks later he makes a private promise: he'll carry Nanami's share of the suffering too.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji promise carry Nanami suffering",
+    "fallback": "young fighter standing resolute after grief"
+   }
+  },
+  {
+   "text": "That's not a new rule. It's the same one, just handed down.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji inherits Nanami philosophy",
+    "fallback": "young fighter carrying an invisible weight forward"
+   }
+  },
+  {
+   "text": "Because Nanami's whole philosophy about sorcerers...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nanami Kento classmate Haibara memory",
+    "fallback": "two students in Jujutsu High uniforms"
+   }
+  }
+ ],
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami",
+  "https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori"
+ ],
+ "self_check": {
+  "hook": "line 1 names Nanami and the claim (his philosophy traces to one lost friend)",
+  "loop": "last line ('Nanami's whole philosophy about sorcerers...') feeds straight into line 1's own phrasing",
+  "facts_verified": true
+ }
+}
