@@ -73,3 +73,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Wyper (2026-10-18-L)
 - Maynard (2026-10-19-L)
 - Mushi (2026-10-19-L2)
+- Ryugu (2026-10-20-L)
