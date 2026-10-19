@@ -1,0 +1,122 @@
+{
+ "id": "2026-11-04-Ls1",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "The moment Jiraiya saw Nagato's Rinnegan and decided he was the Child of Prophecy, decades before Naruto was born",
+ "title": "Jiraiya Found His Chosen One First",
+ "description": "During the Second Shinobi World War, Jiraiya took in three orphans fleeing a battle. When a shinobi cornered them, the quiet boy's eyes turned red—the legendary Rinnegan. That moment in chapter 373 changed everything: Jiraiya decided Nagato was the real Child of Prophecy, and moved in to raise him for three straight years.",
+ "hashtags": [
+  "#naruto",
+  "#jiraiya",
+  "#nagato"
+ ],
+ "tags": [
+  "naruto theory",
+  "jiraiya nagato rinnegan",
+  "child of prophecy",
+  "naruto 373",
+  "jiraiya legacy",
+  "sage of six paths",
+  "naruto analysis",
+  "nagato first training",
+  "amegakure orphans",
+  "jiraiya chosen one",
+  "rinnegan awakening"
+ ],
+ "hook_text": "THE CHOSEN ONE",
+ "music_mood": "suspense",
+ "comment": "Was Nagato really the Child of Prophecy, or did Jiraiya just project his hopes onto a grieving orphan?",
+ "related_long": "2026-11-04-L",
+ "pages": [
+  "Jiraiya",
+  "Nagato",
+  "Rinnegan"
+ ],
+ "lines": [
+  {
+   "text": "Jiraiya found three war orphans running from a shinobi in chapter 373, and he almost turned away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya finds war orphans Amegakure",
+    "fallback": "mentor encountering three ragged children"
+   }
+  },
+  {
+   "text": "He'd only agreed to feed them, maybe teach them to fish. Nothing more. War had taken enough from kids.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya feeds orphans basic care",
+    "fallback": "mentor providing simple survival help"
+   }
+  },
+  {
+   "text": "Then an enemy cornered them, and the quiet boy's eyes turned red.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nagato eyes turn red Rinnegan awaken",
+    "fallback": "young boy's eyes glowing with sudden power"
+   }
+  },
+  {
+   "text": "Not just red. The Rinnegan—the same eyes the Sage of the Six Paths once used to bring peace to the world.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Rinnegan Sage Six Paths legend",
+    "fallback": "ancient eyes glowing with legendary power"
+   }
+  },
+  {
+   "text": "Jiraiya could have feared him. Most adults would have. Instead he knelt down and told Nagato the fight wasn't his fault.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya kneels comforts frightened Nagato",
+    "fallback": "understanding mentor kneeling to comfort a child"
+   }
+  },
+  {
+   "text": "He told him something he genuinely believed: pain forces you to understand others, if you let it.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya comforts Nagato pain lesson",
+    "fallback": "mentor offering honest difficult wisdom"
+   }
+  },
+  {
+   "text": "Right there, Jiraiya made his decision. This grieving, quiet boy was the Child of Prophecy.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya decides Nagato chosen one",
+    "fallback": "mentor making a life-changing decision"
+   }
+  },
+  {
+   "text": "And Jiraiya found his first Child of Prophecy in that single moment...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya finds orphans Amegakure",
+    "fallback": "mentor encountering three ragged children"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Jiraiya",
+  "https://naruto.fandom.com/wiki/Nagato",
+  "https://naruto.fandom.com/wiki/Rinnegan"
+ ],
+ "self_check": {
+  "hook": "line 1 sets the moment (Jiraiya encounters orphans), lines 3-4 name the Rinnegan and state the claim (Child of Prophecy), line 7 clarifies the decision",
+  "loop": "last line leads back into line 1's setup (finding the orphans) without repeating exact words — the viewer understands the moment through the loop",
+  "facts_verified": true
+ }
+}

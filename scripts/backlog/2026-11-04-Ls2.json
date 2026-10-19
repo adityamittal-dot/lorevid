@@ -1,0 +1,123 @@
+{
+ "id": "2026-11-04-Ls2",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Minato named his son Naruto after reading Jiraiya's novel inspired by Nagato, making the Child of Prophecy's name trace back to another Child of Prophecy",
+ "title": "Nagato's Name Lives On In Naruto",
+ "description": "Jiraiya wrote \"The Tale of the Utterly Gutsy Shinobi\" inspired by Nagato's words about finding peace. The novel barely sold, but one reader bought it: a young shinobi named Minato. Years later, Minato named his son Naruto after that book—meaning the name of the Child of Prophecy traces directly back to Jiraiya's first chosen one.",
+ "hashtags": [
+  "#naruto",
+  "#jiraiya",
+  "#prophecy"
+ ],
+ "tags": [
+  "naruto theory",
+  "naruto name origin",
+  "jiraiya novel inspiration",
+  "child of prophecy",
+  "minato naruto naming",
+  "nagato influence",
+  "naruto 446",
+  "naruto analysis",
+  "gutsy shinobi novel",
+  "minato inspired by jiraiya",
+  "naruto birth story",
+  "prophecy connection"
+ ],
+ "hook_text": "ONE BOOK CHANGED IT",
+ "music_mood": "emotional",
+ "comment": "Would Naruto even exist with his famous name if Jiraiya had never met Nagato?",
+ "related_long": "2026-11-04-L",
+ "pages": [
+  "Jiraiya",
+  "Naruto Uzumaki",
+  "Minato Namikaze"
+ ],
+ "lines": [
+  {
+   "text": "After three years with Nagato, Jiraiya sat down and wrote a novel inspired by one sentence the boy had said.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya writing novel inspiration creative",
+    "fallback": "mentor writing late into the night"
+   }
+  },
+  {
+   "text": "Nagato had promised that someday he would find a real path to peace, even though he didn't know how yet.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nagato promises path to peace vow",
+    "fallback": "hopeful child making a quiet promise"
+   }
+  },
+  {
+   "text": "Jiraiya called the book The Tale of the Utterly Gutsy Shinobi and dedicated it to Nagato by name in chapter 446.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gutsy Shinobi book dedication Nagato",
+    "fallback": "finished novel dedicated to a young student"
+   }
+  },
+  {
+   "text": "The novel barely sold at all. Most readers ignored it completely. Except for one.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Novel finds one reader Minato",
+    "fallback": "young ninja discovering an overlooked book"
+   }
+  },
+  {
+   "text": "A young jonin named Minato Namikaze bought a copy, and he couldn't put it down.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato reads Jiraiya novel inspired",
+    "fallback": "young shinobi reading with quiet focus"
+   }
+  },
+  {
+   "text": "Years later, when Minato had a son, he named him Naruto—directly after the character in Jiraiya's book.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato names son Naruto choice",
+    "fallback": "parent choosing a name with meaning"
+   }
+  },
+  {
+   "text": "The Child of Prophecy's name came from a book inspired by Jiraiya's first Child of Prophecy.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Prophecy connection chain two children",
+    "fallback": "connection between two chosen ones"
+   }
+  },
+  {
+   "text": "Nagato's influence shaped the name of the boy who would forgive him...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nagato legacy Naruto forgiveness",
+    "fallback": "two chosen ones connected across time"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Jiraiya",
+  "https://naruto.fandom.com/wiki/Naruto_Uzumaki",
+  "https://naruto.fandom.com/wiki/Minato_Namikaze"
+ ],
+ "self_check": {
+  "hook": "line 1 sets Jiraiya writing inspired by Nagato, line 3 names the book and dedication, line 6 states the claim (Minato named Naruto after it), line 7 broadens to the thesis (prophecy connection)",
+  "loop": "last line leads back conceptually to lines 1-2 (Nagato's promise and influence) without exact repetition — the viewer understands the chain through reflection",
+  "facts_verified": true
+ }
+}
