@@ -1,0 +1,2421 @@
+{
+ "id": "2026-11-01-L",
+ "format": "long",
+ "deep": true,
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Sunday deep dive: everything Joy Boy left behind during the Void Century, chronologically, from the Great War through the Ancient Weapons, the Poneglyphs, the empty throne, Laugh Tale, and his eventual return",
+ "title": "The Void Century: Everything Joy Boy Left Behind",
+ "description": "The Void Century is the one hundred years the World Government erased from every record on the planet, and researching it is the single worst crime in this world. This deep dive walks through everything Joy Boy actually left behind during that century, in order: the Great War, the three Ancient Weapons, the thirty Poneglyphs, the throne that was never really empty, a broken promise to an entire ocean kingdom, and the island where it all ends in laughter.\n\nEvery major mystery this franchise has ever teased, Imu, the Will of D, the Ancient Weapons, the One Piece itself, traces back to this one century. This is the full shape of it, with the exact chapters that prove each piece.",
+ "hashtags": [
+  "#onepiece",
+  "#voidcentury",
+  "#joyboy",
+  "#anime"
+ ],
+ "tags": [
+  "void century explained",
+  "joy boy explained",
+  "one piece poneglyphs explained",
+  "ancient weapons one piece",
+  "laugh tale one piece",
+  "one piece theory",
+  "imu one piece",
+  "will of d explained",
+  "one piece void century",
+  "joy boy one piece theory",
+  "one piece lore explained",
+  "one piece deep dive",
+  "nerona imu explained"
+ ],
+ "music_mood": "epic",
+ "comment": "Is Imu really the final villain of this story, or is there someone above him? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Void Century",
+  "Joy Boy",
+  "Poneglyph",
+  "Ancient Weapons",
+  "Laugh Tale",
+  "Nerona Imu"
+ ],
+ "lines": [
+  {
+   "text": "The Void Century is a hundred years the World Government erased from history, and Joy Boy is the reason it ended.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Void Century erased history Joy Boy",
+    "fallback": "ancient ruins half-submerged beneath a dark ocean"
+   }
+  },
+  {
+   "text": "Researching it is the single worst crime in this world. Even asking the wrong question gets islands destroyed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century forbidden research crime",
+    "fallback": "scholars hiding forbidden ancient texts"
+   }
+  },
+  {
+   "text": "So what did Joy Boy actually do in those hundred years that's worth erasing an entire century to hide?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy mystery Void Century",
+    "fallback": "silhouette of a straw-hatted figure against an ancient sky"
+   }
+  },
+  {
+   "text": "Poneglyphs, Ancient Weapons, a broken promise to an ocean kingdom, and one throne that isn't actually empty...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph Ancient Weapons empty throne",
+    "fallback": "stone tablets and a weapon beside an unoccupied throne"
+   }
+  },
+  {
+   "text": "I'm walking through everything Joy Boy left behind, with the exact chapters that prove each piece.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy legacy chapters evidence",
+    "fallback": "ancient stone tablets glowing under torchlight"
+   }
+  },
+  {
+   "text": "Because the first piece of this isn't a treasure or a weapon. It's a war nobody alive remembers fighting...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "ancient war forgotten history",
+    "fallback": "two ancient armies clashing beneath a stormy sky"
+   }
+  },
+  {
+   "text": "Nine hundred years ago, twenty kingdoms went to war against something they called the Great Kingdom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Kingdom war twenty kingdoms",
+    "fallback": "ancient banners of twenty kingdoms rallying for war"
+   },
+   "card": "THE GREAT WAR"
+  },
+  {
+   "text": "That alliance of twenty royal families would eventually become the World Government you see today.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "First Twenty alliance World Government",
+    "fallback": "ancient council of twenty robed rulers"
+   }
+  },
+  {
+   "text": "On the other side stood Joy Boy, the first pirate in history, fighting for the Great Kingdom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Great Kingdom war side",
+    "fallback": "silhouetted rubber-bodied warrior standing against an army"
+   }
+  },
+  {
+   "text": "He was strong enough, on his own, that the alliance of twenty nations couldn't beat him outright.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy overpowers alliance army",
+    "fallback": "lone warrior holding off a massive army"
+   }
+  },
+  {
+   "text": "So they used something else instead: three weapons of mass destruction called Pluton, Poseidon, and Uranus.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ancient Weapons Pluton Poseidon Uranus war",
+    "fallback": "three monstrous weapons looming over a battlefield"
+   }
+  },
+  {
+   "text": "Vegapunk later calculated exactly what that did to the planet: global sea levels rose two hundred meters.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk sea level rise calculation",
+    "fallback": "scientist studying an ancient flooded world map"
+   }
+  },
+  {
+   "text": "Every island you've ever seen in this story is just the mountaintop of a continent that used to stand taller.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "sunken continents mountaintop islands",
+    "fallback": "island peak rising from a vast flooded landscape"
+   }
+  },
+  {
+   "text": "Whole nations disappeared under that water. Shandora's fall is tied directly to this same war.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shandora fall sunken war",
+    "fallback": "golden ruined city sinking beneath clouds"
+   }
+  },
+  {
+   "text": "Vegapunk's own conclusion is the one that should worry you: those weapons still exist today.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk warns weapons still exist",
+    "fallback": "scientist pointing to a hidden ancient weapon"
+   }
+  },
+  {
+   "text": "Which means, by his own math, this war never actually finished nine hundred years ago. It just paused.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Great War never ended theory",
+    "fallback": "frozen battlefield suspended in time"
+   }
+  },
+  {
+   "text": "The Great Kingdom itself had a real name, one Professor Clover said held the entire key to understanding this century.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Kingdom true name Clover",
+    "fallback": "scholar studying an ancient unreadable inscription"
+   }
+  },
+  {
+   "text": "Nobody alive has ever said that name out loud on the page. Not once.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Kingdom name unknown mystery",
+    "fallback": "blank space on an ancient carved stone"
+   }
+  },
+  {
+   "text": "According to Vegapunk, the Great Kingdom was five hundred years ahead of where the world is now, technologically.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Kingdom advanced technology Vegapunk",
+    "fallback": "ancient advanced machinery buried in ruins"
+   }
+  },
+  {
+   "text": "He still considers himself inferior to a civilization that lost a war nine centuries ago.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk inferior Great Kingdom tech",
+    "fallback": "scientist humbled before ancient technology"
+   }
+  },
+  {
+   "text": "The First Twenty weren't just any twenty kingdoms. They're the same twenty royal lines ruling the world's nations today.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "First Twenty royal lines today",
+    "fallback": "twenty royal crests representing ancient kingdoms"
+   }
+  },
+  {
+   "text": "One of them was Nefertari Lili, queen of Arabasta at the time, who chose a very different ending than the other nineteen.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nefertari Lili queen Arabasta Void Century",
+    "fallback": "ancient desert queen standing alone before her throne"
+   }
+  },
+  {
+   "text": "There's also a giant mural on Elbaph, carved into the bark of the Treasure Tree Adam, from this exact era.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph mural Treasure Tree Adam",
+    "fallback": "massive carved mural on an ancient giant tree"
+   }
+  },
+  {
+   "text": "The giants' best guess is that children carved it just for fun. Nobody takes that theory too seriously.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "giants theory mural children carved",
+    "fallback": "giants examining an ancient carved mural skeptically"
+   }
+  },
+  {
+   "text": "That mural lines up almost exactly with an ancient text called the Harley, which describes two worlds already gone and one still coming.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Harley text two worlds prophecy",
+    "fallback": "ancient prophetic text glowing with faint light"
+   }
+  },
+  {
+   "text": "Before the war, an entire tribe called the Shandorians lived on the moon, alongside a race of ancient robots.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shandorians moon ancient robots",
+    "fallback": "ancient tribe standing beside towering robots on the moon"
+   }
+  },
+  {
+   "text": "When resources up there ran out, three different races traveled down together to this planet.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "three races travel moon to planet",
+    "fallback": "ancient travelers descending from the moon together"
+   }
+  },
+  {
+   "text": "The Shandorians ended up on the island of Jaya, where they built their own city: Shandora.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shandorians build Shandora Jaya",
+    "fallback": "golden city rising on a lush island"
+   }
+  },
+  {
+   "text": "Shandora collapses during this same war, defended by people fighting something the records only call those who seek the stone.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Shandora collapse defenders war",
+    "fallback": "ancient city crumbling under siege"
+   }
+  },
+  {
+   "text": "Their descendants, the Shandia, keep defending that same ruined city for another eight hundred years after that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shandia defend ruined Shandora centuries",
+    "fallback": "descendants guarding ancient ruined golden city"
+   }
+  },
+  {
+   "text": "On Dressrosa, the Tontatta dwarves were already being oppressed by the Donquixote family even before the Void Century started.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tontatta dwarves oppressed Donquixote Dressrosa",
+    "fallback": "small dwarf tribe suffering under a cruel ruling family"
+   }
+  },
+  {
+   "text": "By the present day, even the dwarves themselves have completely forgotten what actually happened back then.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tontatta dwarves forgot history",
+    "fallback": "small dwarf village with no memory of its own past"
+   }
+  },
+  {
+   "text": "There's a reason the World Nobles live at the very top of the Red Line, the tallest point in the entire world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Nobles Red Line tallest point",
+    "fallback": "grand palace perched atop a towering red cliff"
+   }
+  },
+  {
+   "text": "If sea levels rose two hundred meters once already, rising further is apparently not a risk they're willing to take at ground level.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "sea level rise risk World Nobles",
+    "fallback": "palace safely elevated above a rising flooded world"
+   }
+  },
+  {
+   "text": "That same fear is why they commission four massive structures: Tequila Wolf, Vodka Wolf, Rum Wolf, and Bourbon Wolf.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Tequila Vodka Rum Bourbon Wolf megastructures",
+    "fallback": "four colossal wolf-shaped structures under construction"
+   }
+  },
+  {
+   "text": "Slaves have reportedly been constructing those four megastructures for seven hundred straight years.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "slaves build megastructures centuries",
+    "fallback": "laborers constructing a massive structure for generations"
+   }
+  },
+  {
+   "text": "Nobody low enough in this world's hierarchy gets told why those structures actually matter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "hidden purpose megastructures secrecy",
+    "fallback": "workers kept in the dark about their own labor"
+   }
+  },
+  {
+   "text": "Every decision the World Government makes about geography traces back to a disaster they caused themselves, nine centuries ago.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government geography disaster origin",
+    "fallback": "world map reshaped by an ancient catastrophe"
+   }
+  },
+  {
+   "text": "The alliance that wins this war doesn't even get to enjoy a clean victory. They spend the next eight centuries just trying to keep the secret buried.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "alliance hides secret centuries",
+    "fallback": "ancient council guarding a buried secret for generations"
+   }
+  },
+  {
+   "text": "That's the actual cost of winning: an entire government built around hiding exactly how it started.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government founded hiding truth",
+    "fallback": "government headquarters built atop a hidden truth"
+   }
+  },
+  {
+   "text": "During the Egghead broadcast, the Five Elders try to physically stop Vegapunk from finishing it, mid-sentence, in front of the whole world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders stop Vegapunk broadcast",
+    "fallback": "robed elders rushing to silence a live broadcast"
+   }
+  },
+  {
+   "text": "They only partly succeed. Enough of the truth gets out that it can never be fully buried again.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk broadcast partial truth escapes",
+    "fallback": "fragments of a broadcast still spreading despite interference"
+   }
+  },
+  {
+   "text": "Joy Boy's side loses in the end. The alliance wins, and the Void Century quietly begins...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy defeat Void Century begins",
+    "fallback": "lone silhouetted warrior fading into history"
+   }
+  },
+  {
+   "text": "Joy Boy was born inside the Great Kingdom, right as the Void Century begins.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy born Great Kingdom",
+    "fallback": "silhouette of a child born into an ancient kingdom"
+   },
+   "card": "JOY BOY"
+  },
+  {
+   "text": "At some point, he just leaves, and becomes the very first person in history anyone calls a pirate.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy first pirate sets sail",
+    "fallback": "silhouetted figure setting sail on an ancient ship"
+   }
+  },
+  {
+   "text": "His Devil Fruit is the Hito Hito no Mi, Model Nika, the Mythical Zoan that makes him an incarnation of a sun god.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Nika Devil Fruit sun god",
+    "fallback": "glowing rubber figure radiating like a sun"
+   }
+  },
+  {
+   "text": "It gives him a rubber body and, more importantly, the total freedom to fight however he wants.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nika rubber body freedom fighting",
+    "fallback": "rubber warrior fighting with total unrestrained freedom"
+   }
+  },
+  {
+   "text": "Joy Boy is also one of the very few people in this entire story to wield Supreme King Haki.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Supreme King Haki",
+    "fallback": "silhouetted figure radiating a dark powerful aura"
+   }
+  },
+  {
+   "text": "The giants Dorry and Brogy once wondered out loud if his Haki was even stronger than Shanks'.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dorry Brogy giants compare Haki Shanks",
+    "fallback": "two giants discussing a legendary warrior's power"
+   }
+  },
+  {
+   "text": "He has one advanced trick almost nobody else can do: tying his own Haki into a knot to save it for later.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Haki knot technique",
+    "fallback": "glowing energy tied into a knot of light"
+   }
+  },
+  {
+   "text": "He ties a piece of it specifically for an iron giant named Emet, in case Emet is ever in real danger.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Haki Emet iron giant",
+    "fallback": "ancient robot receiving a sealed gift of energy"
+   }
+  },
+  {
+   "text": "That knot stays sealed for eight hundred years, untouched, waiting for exactly the right moment.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "sealed Haki knot centuries waiting",
+    "fallback": "glowing sealed energy dormant for centuries"
+   }
+  },
+  {
+   "text": "Joy Boy can also hear the Voice of All Things, the same ability that later lets Gol D. Roger find the Poneglyphs.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Voice of All Things",
+    "fallback": "figure listening intently to an unseen ancient voice"
+   }
+  },
+  {
+   "text": "He becomes close with Zunesha during this life, a friendship that still matters eight centuries later.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Zunesha friendship",
+    "fallback": "small figure standing beside a colossal ancient elephant"
+   }
+  },
+  {
+   "text": "And at some point, he meets somebody else: a being who is, impossibly, still alive and ruling today.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy meets Imu ancient ruler",
+    "fallback": "two ancient figures meeting in shadow"
+   },
+   "card": "IMU"
+  },
+  {
+   "text": "The two of them seem to get along fine at first. By the present day, that's completely flipped.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Imu relationship changes",
+    "fallback": "two figures once allied, now distant and opposed"
+   }
+  },
+  {
+   "text": "Whatever happened between them, Imu now fears Joy Boy more than almost anything else in this world.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu fears Joy Boy",
+    "fallback": "shadowy ruler visibly unsettled on a throne"
+   }
+  },
+  {
+   "text": "Nobody has ever actually seen Joy Boy's face. Every appearance so far is just a silhouette.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy silhouette unseen face",
+    "fallback": "faceless silhouette against a bright ancient sky"
+   }
+  },
+  {
+   "text": "That silhouette wears a wide brimmed hat that looks a lot like a straw hat, capri pants, and a cape.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy straw hat silhouette outfit",
+    "fallback": "silhouette wearing a wide straw hat and cape"
+   }
+  },
+  {
+   "text": "Emet, the one character who actually met him, says Joy Boy looked strikingly similar to a certain rubber captain centuries later.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Emet compares Joy Boy Luffy resemblance",
+    "fallback": "ancient robot recognizing a familiar rubber figure"
+   }
+  },
+  {
+   "text": "According to Rocks D. Xebec, Joy Boy is one of only two people Imu genuinely fears, the other being a pirate named Davy D. Jones.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Xebec Imu fears Joy Boy Davy Jones",
+    "fallback": "two legendary pirates feared by an ancient ruler"
+   }
+  },
+  {
+   "text": "Imu even calls Luffy, a current Four Emperor, weak compared to what the original Joy Boy could actually do.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu calls Luffy weak compared Joy Boy",
+    "fallback": "shadowy ruler dismissing a current pirate emperor"
+   }
+  },
+  {
+   "text": "None of this reads like hype. It reads like somebody who watched the original up close and is still afraid of the memory.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu haunted Joy Boy memory",
+    "fallback": "ancient ruler haunted by a centuries-old memory"
+   }
+  },
+  {
+   "text": "Whitebeard himself once said the whole world will be shocked to its core whenever Joy Boy's real treasure is finally found again.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard quote Joy Boy treasure shock",
+    "fallback": "towering pirate captain speaking of a legendary treasure"
+   }
+  },
+  {
+   "text": "Joy Boy's own defeat is specifically what ends the Great Kingdom and, with it, the entire Void Century itself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy defeat ends Great Kingdom",
+    "fallback": "silhouetted warrior's fall marking the end of an era"
+   }
+  },
+  {
+   "text": "At some point, Joy Boy makes a choice almost nobody mentions: he deliberately preserves all three Ancient Weapons instead of destroying them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy preserves Ancient Weapons choice",
+    "fallback": "silhouetted figure protecting three ancient relics"
+   }
+  },
+  {
+   "text": "His own reasons for doing that are still a complete mystery, even to people who've read every Poneglyph he left.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy motives mystery weapons",
+    "fallback": "scholars puzzling over an ancient unexplained choice"
+   }
+  },
+  {
+   "text": "He also personally writes down where to find all three weapons, hidden inside the same stones that record his own history...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy records weapon locations stones",
+    "fallback": "ancient hand carving coordinates into stone"
+   }
+  },
+  {
+   "text": "Right around the start of the Void Century, someone builds a gigantic armored robot. Nobody knows why.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Iron Giant built Void Century origin",
+    "fallback": "colossal ancient armored robot under construction"
+   },
+   "card": "THE IRON GIANT"
+  },
+  {
+   "text": "Seven hundred years later, two hundred years before the present, that same robot climbs the Red Line and invades Mary Geoise itself.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Iron Giant climbs Red Line invades",
+    "fallback": "massive robot scaling a towering red cliff"
+   }
+  },
+  {
+   "text": "It loses power before it can do any real damage, and the government orders it destroyed on the spot.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Iron Giant loses power shutdown",
+    "fallback": "massive robot powering down mid-climb"
+   }
+  },
+  {
+   "text": "One of the Five Elders, Saturn, secretly disobeys that order and has it preserved and studied instead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Saturn preserves Iron Giant secretly",
+    "fallback": "robed elder secretly guarding a dormant robot"
+   }
+  },
+  {
+   "text": "Vegapunk later admits he can't even get the thing to run. Its power source doesn't exist anywhere in the modern world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk cannot power Iron Giant",
+    "fallback": "scientist puzzling over an ancient unreadable power core"
+   }
+  },
+  {
+   "text": "Then, during the Egghead Incident, something called the Drums of Liberation start beating, and the giant wakes up on its own.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Drums of Liberation Iron Giant awakens",
+    "fallback": "massive robot's eyes glowing to life suddenly"
+   }
+  },
+  {
+   "text": "That giant is Emet, and it turns out he's been more than a machine this whole time.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Emet iron giant more than machine",
+    "fallback": "ancient robot revealing unexpected awareness"
+   }
+  },
+  {
+   "text": "He's the one who finally breaks the seal on Joy Boy's centuries-old Haki, at the exact moment Luffy needs it most.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Emet breaks Joy Boy Haki seal Luffy",
+    "fallback": "robot releasing a burst of ancient golden energy"
+   }
+  },
+  {
+   "text": "An ancient weapon built right as this century began ends up being the thing that saves Joy Boy's return eight hundred years later.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Iron Giant saves Joy Boy return",
+    "fallback": "ancient robot standing guard over a historic return"
+   }
+  },
+  {
+   "text": "Nobody has explained yet why an iron giant built at the start of this century would end up protecting Joy Boy's return at the very end of it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Iron Giant protects Joy Boy return question",
+    "fallback": "ancient robot standing guard at a historic turning point"
+   }
+  },
+  {
+   "text": "That's the kind of century this was: even the machines built during it are still deciding outcomes today...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century machines still mattering",
+    "fallback": "ancient robot silhouetted against a modern battlefield"
+   }
+  },
+  {
+   "text": "Here's the part most retellings rush past: the Ancient Weapons aren't just big and scary. Each one is completely different.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Three Ancient Weapons different types",
+    "fallback": "three distinct ancient weapons displayed side by side"
+   },
+   "card": "THE WEAPONS"
+  },
+  {
+   "text": "Pluton is a battleship, built on Water 7 during the Void Century, capable of leveling entire nations.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pluton battleship Water 7 built",
+    "fallback": "massive ancient battleship under construction at a shipyard"
+   }
+  },
+  {
+   "text": "Its blueprints survive for centuries, passed shipwright to shipwright, until they land with a fish-man named Tom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pluton blueprints passed Tom shipwright",
+    "fallback": "old shipwright guarding ancient battleship blueprints"
+   }
+  },
+  {
+   "text": "Tom refuses to hand them over to the government, no matter what they threaten him with.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Tom refuses Pluton blueprints government",
+    "fallback": "shipwright standing firm against government agents"
+   }
+  },
+  {
+   "text": "His apprentice Franky eventually burns those blueprints completely rather than risk them ending up in the wrong hands.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Franky burns Pluton blueprints",
+    "fallback": "cyborg shipwright burning ancient blueprints in flames"
+   }
+  },
+  {
+   "text": "Pluton itself is hidden inside Wano, buried under a mountain the country built walls specifically to flood and seal away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pluton hidden Wano mountain walls",
+    "fallback": "ancient battleship buried beneath a flooded mountain"
+   }
+  },
+  {
+   "text": "Opening Wano's borders was never really about tourism. It was always about bringing down that one wall.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Wano borders wall Pluton purpose",
+    "fallback": "towering wall surrounding an isolated ancient country"
+   }
+  },
+  {
+   "text": "Wano wasn't always shaped like a water bowl. Before the Void Century, it was just a normal island at sea level.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "ancient Wano normal island sea level",
+    "fallback": "flat ordinary island before it was transformed"
+   }
+  },
+  {
+   "text": "Oden learns on his trip to Laugh Tale that Wano adopted its isolation specifically to protect itself from something it only ever calls a great enemy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden learns Wano isolation great enemy",
+    "fallback": "samurai discovering why his country sealed itself away"
+   }
+  },
+  {
+   "text": "That's why the walls went up in the first place, flooding everything below the top of them and leaving only a few mountainside plateaus to live on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Wano walls flood plateaus isolation",
+    "fallback": "towering walls flooding a once-open country"
+   }
+  },
+  {
+   "text": "Even the people living inside Wano today have no idea why their own country is isolated at all.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Wano people unaware isolation reason",
+    "fallback": "villagers living unaware of their country's hidden history"
+   }
+  },
+  {
+   "text": "Poseidon isn't a machine at all. It's a person: a mermaid princess born once every few centuries with the power to command Sea Kings.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poseidon mermaid princess Sea Kings power",
+    "fallback": "mermaid princess commanding giant Sea Kings"
+   }
+  },
+  {
+   "text": "During the Void Century, that power belonged to a different princess entirely. Today, it belongs to Shirahoshi.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poseidon power Shirahoshi inherits",
+    "fallback": "mermaid princess inheriting an ancient power"
+   }
+  },
+  {
+   "text": "Even the Sea Kings themselves don't fully understand why their ruler keeps being born this exact way.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sea Kings confused Poseidon lineage",
+    "fallback": "giant sea creatures bowing to a mysterious ruler"
+   }
+  },
+  {
+   "text": "And then there's Uranus, the third weapon, which the story has never actually shown you anything about.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uranus mystery third weapon",
+    "fallback": "empty fog where a third ancient weapon should be"
+   },
+   "card": "URANUS"
+  },
+  {
+   "text": "Not its shape. Not its location. Not even a hint of what it actually does.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uranus unknown shape location",
+    "fallback": "blank unmarked space representing total mystery"
+   }
+  },
+  {
+   "text": "Three weapons, one war, and only one of them is still a total mystery nine hundred years later...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "three weapons one mystery remains",
+    "fallback": "three ancient relics, one still hidden in fog"
+   }
+  },
+  {
+   "text": "All three weapons share one detail that's easy to miss: they're named after actual gods, for exactly the kind of power they hold.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ancient Weapons named gods power",
+    "fallback": "three weapons glowing with godlike divine energy"
+   }
+  },
+  {
+   "text": "Pluton isn't the only one people chase without understanding what they're chasing. Crocodile builds an entire criminal organization just hunting for it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Crocodile hunts Pluton organization",
+    "fallback": "desert warlord commanding a criminal organization"
+   }
+  },
+  {
+   "text": "Spandam, a government agent, wants it too, officially to end the Pirate Era, actually to overthrow the same government he works for.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Spandam wants Pluton overthrow government",
+    "fallback": "government agent secretly plotting betrayal"
+   }
+  },
+  {
+   "text": "Poseidon pulls in obsession too. A pirate named Vander Decken spends years fixated on Shirahoshi without even fully understanding what she actually is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vander Decken obsessed Shirahoshi Poseidon",
+    "fallback": "obsessive pirate fixated on a mermaid princess"
+   }
+  },
+  {
+   "text": "That's the real theme connecting all three weapons: they don't have to be understood to be wanted. They just have to be powerful.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Ancient Weapons wanted misunderstood",
+    "fallback": "three weapons desired despite being misunderstood"
+   }
+  },
+  {
+   "text": "Franky himself never wanted that power in the first place. He built his entire life protecting the one person who could actually unlock it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Franky protects Robin Pluton unlock",
+    "fallback": "cyborg shipwright protecting an archaeologist friend"
+   }
+  },
+  {
+   "text": "That's the quiet twist in all of this: the person most qualified to misuse Pluton is also the one person who's spent her whole life trying not to.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin refuses misuse Pluton power",
+    "fallback": "archaeologist choosing restraint over ancient power"
+   }
+  },
+  {
+   "text": "The government never manages to get its hands on a working Pluton blueprint, specifically because of choices people like Tom and Franky kept making.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "government fails obtain Pluton blueprint",
+    "fallback": "government agents failing to seize ancient blueprints"
+   }
+  },
+  {
+   "text": "Three weapons, and the story's entire cast keeps choosing, over and over, not to use the two that are actually findable...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "cast refuses use findable weapons",
+    "fallback": "heroes turning away from accessible ancient power"
+   }
+  },
+  {
+   "text": "The Poneglyphs are the only physical record left of any of this, and they're deliberately built to never break.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyphs indestructible record history",
+    "fallback": "massive indestructible stone tablet glowing faintly"
+   },
+   "card": "THE PONEGLYPHS"
+  },
+  {
+   "text": "A clan of master stonemasons in Wano, the Kouzuki family, carved these things specifically so history couldn't be erased again.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kouzuki family carve Poneglyphs Wano",
+    "fallback": "ancient stonemasons carving a massive stone tablet"
+   }
+  },
+  {
+   "text": "There are thirty of them scattered across the world: historical ones, instructional ones, and four rare road ones.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "thirty Poneglyphs historical instructional road",
+    "fallback": "scattered ancient stone tablets across a world map"
+   }
+  },
+  {
+   "text": "You can actually tell them apart just by color: historical and instructional stones are dark blue, road stones are a deep red.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph colors blue red types",
+    "fallback": "stones glowing in two distinct colors side by side"
+   }
+  },
+  {
+   "text": "The historical stones hold pieces of the Void Century itself. The instructional ones point toward where to find more.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "historical instructional Poneglyphs purpose",
+    "fallback": "ancient tablet pointing toward another hidden stone"
+   }
+  },
+  {
+   "text": "The four road stones, read together, point to one single location: the last island on the Grand Line.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Road Poneglyphs point Laugh Tale",
+    "fallback": "four glowing red stones aligning toward one point"
+   }
+  },
+  {
+   "text": "There's also a single combined message called the Rio Poneglyph, built from nine of the historical stones put together.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rio Poneglyph nine stones combined",
+    "fallback": "nine ancient stones merging into one message"
+   }
+  },
+  {
+   "text": "Finding it means carrying instructional passages with you across your entire voyage, piece by piece, the same way Roger apparently did.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Instructional Poneglyph passages journey Roger",
+    "fallback": "pirate carrying ancient passages across a long journey"
+   }
+  },
+  {
+   "text": "Reading any of them requires an ancient script almost nobody alive can translate.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "ancient Poneglyph script untranslatable",
+    "fallback": "scholar squinting at unreadable ancient script"
+   }
+  },
+  {
+   "text": "Only a handful of people in the entire world can actually read it: Nico Robin, the Kouzuki family, and Vegapunk.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Kouzuki Vegapunk read Poneglyphs",
+    "fallback": "three scholars studying the same ancient script"
+   }
+  },
+  {
+   "text": "Robin learned it by secretly spying on her own mother's research team at the age of eight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "young Robin spies mother research team",
+    "fallback": "young girl secretly watching archaeologists at work"
+   }
+  },
+  {
+   "text": "That team, the scholars of Ohara, get wiped out entirely, hunted down for the crime of successfully reading one stone.",
+   "delivery": "reveal",
+   "fx": "shake",
+   "shot": {
+    "search": "Ohara scholars destroyed Buster Call",
+    "fallback": "island engulfed by an overwhelming military attack"
+   }
+  },
+  {
+   "text": "Her mother, Nico Olvia, and dozens of other scholars set out to sea looking for more Poneglyphs and never make it back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Olvia scholars lost at sea",
+    "fallback": "ship of scholars sailing into uncertain danger"
+   }
+  },
+  {
+   "text": "A Buster Call erases the entire island once the government learns a researcher named Clover actually cracked the ancient script.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Buster Call Ohara island erased",
+    "fallback": "massive fleet bombarding an entire island"
+   }
+  },
+  {
+   "text": "Robin survives by sheer luck. She's eight years old when she watches her whole home disappear.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "young Robin survives Ohara alone",
+    "fallback": "young girl alone watching her home vanish"
+   }
+  },
+  {
+   "text": "The World Government's official reasoning is that the Poneglyphs could lead someone to the Ancient Weapons.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "government reasoning Poneglyphs weapons",
+    "fallback": "government official justifying a research ban"
+   }
+  },
+  {
+   "text": "Rayleigh offers a quieter, scarier read on it: the actual ideas written on some of those stones are more dangerous than any weapon.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh Poneglyph ideas dangerous",
+    "fallback": "wise old pirate speaking a quiet warning"
+   }
+  },
+  {
+   "text": "Gol D. Roger is the one person who manages to collect enough of them to learn the whole truth.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger collects Poneglyphs learns truth",
+    "fallback": "legendary pirate captain studying ancient stones"
+   }
+  },
+  {
+   "text": "Printing a Poneglyph's text onto paper is possible, like a woodblock rubbing, but the copy loses the stone's own indestructibility.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph paper copy rubbing technique",
+    "fallback": "ancient text being pressed onto fragile paper"
+   }
+  },
+  {
+   "text": "Crocodile specifically targets Arabasta because its Poneglyph names the exact location of Pluton.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Crocodile targets Arabasta Poneglyph Pluton",
+    "fallback": "desert warlord scheming over a desert kingdom"
+   }
+  },
+  {
+   "text": "He forces Robin to read it for him. She lies about the contents the moment she gets the chance.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin lies Crocodile Poneglyph contents",
+    "fallback": "archaeologist defiantly misleading a warlord"
+   }
+  },
+  {
+   "text": "In Skypiea, Roger's crew finds a Poneglyph at the base of the Golden Belfry, describing Poseidon and leaving a message for whoever comes next.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger crew Skypiea Golden Belfry Poneglyph",
+    "fallback": "pirate crew discovering an ancient stone beneath a golden bell"
+   }
+  },
+  {
+   "text": "Robin eventually frees the Shandia from centuries of guarding that same stone, relieving a duty passed down since before any of them were born.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Robin frees Shandia Poneglyph duty",
+    "fallback": "archaeologist releasing warriors from an ancient burden"
+   }
+  },
+  {
+   "text": "At Fish-Man Island, Robin reads a stone that turns out to be Joy Boy's own apology letter to Poseidon.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin reads Joy Boy apology Fish-Man Island",
+    "fallback": "archaeologist discovering an ancient apology carved in stone"
+   }
+  },
+  {
+   "text": "At Zou, the Mink Tribe actually chains a wanted ninja named Raizo to their Road Poneglyph just to hide him from invaders.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mink Tribe chains Raizo Road Poneglyph",
+    "fallback": "ninja chained to an ancient red stone for protection"
+   }
+  },
+  {
+   "text": "Roger gets access to that exact stone later with a recommendation from Nekomamushi himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger accesses Zou Poneglyph Nekomamushi",
+    "fallback": "pirate captain granted access to a hidden ancient stone"
+   }
+  },
+  {
+   "text": "At Whole Cake Island, Brook sneaks into Big Mom's personal vault and secretly copies three Poneglyphs, hidden inside his own skull the entire time.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Brook copies Poneglyphs Big Mom vault",
+    "fallback": "skeleton musician sneaking ancient copies past guards"
+   }
+  },
+  {
+   "text": "He gets caught and defeated doing it. Nobody searching him ever finds the copies anyway.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Brook caught hidden copies undetected",
+    "fallback": "skeleton musician outsmarting searching guards"
+   }
+  },
+  {
+   "text": "In Wano, Law finds a Poneglyph underneath Onigashima that isn't even the Road stone everyone's looking for.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Law finds Poneglyph Onigashima Wano",
+    "fallback": "surgeon pirate discovering an unexpected ancient stone"
+   }
+  },
+  {
+   "text": "By the Egghead Incident, Vegapunk has secretly learned to read all of it too, just by studying what survived Ohara's destruction.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk learns Poneglyphs Ohara survivors",
+    "fallback": "scientist studying salvaged ancient research documents"
+   }
+  },
+  {
+   "text": "That's thirty stones, scattered across six different arcs, and every single one of them was fought over, guarded, or died for.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "thirty Poneglyphs fought guarded cost",
+    "fallback": "ancient stones scattered across a war-torn world map"
+   }
+  },
+  {
+   "text": "Thirteen years before the current story, a crew called the Nox Expedition Party sets out from Zou specifically hunting Poneglyphs for Nekomamushi.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nox Expedition Party Zou hunt Poneglyphs",
+    "fallback": "small crew setting sail from a snowy island"
+   }
+  },
+  {
+   "text": "Because that hunt is already a crime, the government brands them pirates before they even find anything.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nox Expedition branded pirates government",
+    "fallback": "peaceful explorers suddenly labeled as criminals"
+   }
+  },
+  {
+   "text": "Years into the search, two of them, Pedro and Zepo, finally reach Big Mom's own Poneglyph inside Totto Land.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pedro Zepo reach Big Mom Poneglyph",
+    "fallback": "two explorers infiltrating a towering candy kingdom"
+   }
+  },
+  {
+   "text": "They lose badly. Zepo gambles on Big Mom's own roulette wheel and loses decades of his remaining lifespan in the process.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Zepo roulette wheel Big Mom lifespan",
+    "fallback": "explorer gambling his own remaining years on a wheel"
+   }
+  },
+  {
+   "text": "Pedro removes his own eye just to convince her to take less from him instead, and she actually agrees.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pedro offers eye Big Mom bargain",
+    "fallback": "explorer bargaining desperately with a towering emperor"
+   }
+  },
+  {
+   "text": "Even today, two of the four Road Poneglyphs stay contested between the story's biggest pirates.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Road Poneglyphs contested pirates today",
+    "fallback": "two powerful pirates each guarding a stolen stone"
+   }
+  },
+  {
+   "text": "Big Mom and Kaidou each claim possession of one. Shanks later takes Eustass Kid's copies after defeating him outright.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks takes Kid Road Poneglyph copies",
+    "fallback": "red-haired pirate claiming stolen copies after victory"
+   }
+  },
+  {
+   "text": "Blackbeard challenges Law specifically to take his Poneglyph copies, treating them as just another prize to collect.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blackbeard challenges Law Poneglyph copies",
+    "fallback": "dark pirate confronting a rival over stolen knowledge"
+   }
+  },
+  {
+   "text": "That's the real cost of this research ban: entire crews pay years off their own lives just trying to read one rock...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "research ban cost crews lifespans",
+    "fallback": "weary explorers paying a steep price for knowledge"
+   }
+  },
+  {
+   "text": "Joy Boy's story isn't just about weapons and wars. He also makes one personal promise he never gets to keep.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy personal promise Fish-Man Island",
+    "fallback": "silhouetted figure making a solemn vow underwater"
+   },
+   "card": "THE PROMISE"
+  },
+  {
+   "text": "He arrives at Fish-Man Island and makes a deal with the mermaid princess who holds the power of Poseidon.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy deal mermaid princess Poseidon",
+    "fallback": "ancient figure speaking with an underwater princess"
+   }
+  },
+  {
+   "text": "The terms involve a colossal ship called Noah, built so Sea Kings could pull it somewhere unknown.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Noah colossal ship Sea Kings pull",
+    "fallback": "massive ancient ship being pulled by sea creatures"
+   }
+  },
+  {
+   "text": "For reasons the story still hasn't explained, Joy Boy simply fails to keep his end of that deal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy breaks promise unexplained",
+    "fallback": "silhouetted figure turning away from an unfinished task"
+   }
+  },
+  {
+   "text": "He writes an apology directly onto a Poneglyph in the Sea Forest, promising someone else will finish what he started.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy apology Poneglyph Sea Forest",
+    "fallback": "ancient hand carving an apology into underwater stone"
+   }
+  },
+  {
+   "text": "The people of Fish-Man Island spend the next eight hundred years quietly guarding that ship, waiting.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Fish-Man Island guards Noah centuries",
+    "fallback": "underwater kingdom guarding an ancient ship for generations"
+   }
+  },
+  {
+   "text": "During the Fish-Man Island arc, that promise nearly breaks completely, when Luffy is asked to destroy Noah to save the island.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy asked destroy Noah Fish-Man Island",
+    "fallback": "young pirate facing a difficult choice over an ancient ship"
+   }
+  },
+  {
+   "text": "A group of Sea Kings, summoned without anyone meaning to, catch the falling ship just in time.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sea Kings catch falling Noah",
+    "fallback": "giant sea creatures catching a collapsing ancient ship"
+   }
+  },
+  {
+   "text": "They carry Noah to the Sea Forest to be repaired, kept ready for whenever this appointed time finally arrives.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sea Kings carry Noah Sea Forest repair",
+    "fallback": "sea creatures carrying a damaged ship to safety"
+   }
+  },
+  {
+   "text": "Nobody in this story, not even Vegapunk, knows exactly when that appointed time is supposed to be.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "appointed time unknown mystery",
+    "fallback": "ancient ship waiting silently in an underwater forest"
+   }
+  },
+  {
+   "text": "A woman named Toki even uses her own Devil Fruit specifically to travel forward in time, just to witness the day this promise finally gets kept.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Toki time travel Devil Fruit promise",
+    "fallback": "woman using a mystical power to glimpse the future"
+   }
+  },
+  {
+   "text": "When Roger and Oden pass through Fish-Man Island together, they overhear the Sea Kings themselves talking about someone being born in twenty five years.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger Oden overhear Sea Kings prophecy",
+    "fallback": "two pirate captains listening to sea creatures speak"
+   }
+  },
+  {
+   "text": "That someone, paired with a brand new Poseidon, is supposed to finally lead them somewhere.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "prophecy new Poseidon leader",
+    "fallback": "mysterious figure destined to lead sea creatures"
+   }
+  },
+  {
+   "text": "That single unanswered question, exactly when, might be the most important unanswered question left standing in the entire story right now.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "appointed time most important question",
+    "fallback": "looming question mark over an ancient waiting ship"
+   }
+  },
+  {
+   "text": "Shirahoshi is born almost exactly on that timeline, inheriting the Poseidon title the same way the original princess did eight centuries earlier...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Shirahoshi born prophecy Poseidon timeline",
+    "fallback": "young mermaid princess inheriting an ancient title"
+   }
+  },
+  {
+   "text": "After the war ends, the alliance of twenty kingdoms becomes the World Government, and they build themselves a very specific symbol.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government formed empty throne symbol",
+    "fallback": "grand government headquarters with an empty throne room"
+   },
+   "card": "THE EMPTY THRONE"
+  },
+  {
+   "text": "Nineteen of those founding royal families move into Mary Geoise, the government's capital at the top of the world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "nineteen royals move Mary Geoise capital",
+    "fallback": "grand floating capital city atop the world"
+   }
+  },
+  {
+   "text": "Their descendants are the Celestial Dragons you see today, ruled officially by a council called the Five Elders.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Celestial Dragons Five Elders rule today",
+    "fallback": "robed elders presiding over a grand council"
+   }
+  },
+  {
+   "text": "In front of their headquarters sits a chair called the Empty Throne, meant to prove no single person rules the world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Empty Throne symbol no single ruler",
+    "fallback": "grand unoccupied throne in an empty hall"
+   }
+  },
+  {
+   "text": "Each founder even leaves a personal weapon stuck in the ground around it, symbolizing shared protection, not ownership.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "founders weapons surround Empty Throne",
+    "fallback": "ring of ancient weapons planted around a throne"
+   }
+  },
+  {
+   "text": "That entire symbol is a lie. The throne isn't empty. It never was.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Empty Throne lie occupied secretly",
+    "fallback": "throne secretly occupied by an unseen presence"
+   }
+  },
+  {
+   "text": "One of the original First Twenty, a being called Imu, is still alive and sitting on it right now.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu alive sitting Empty Throne",
+    "fallback": "shadowy ancient ruler seated on a hidden throne"
+   }
+  },
+  {
+   "text": "Even the Five Elders, who officially run the government, bow to this one person in secret.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders bow Imu secretly",
+    "fallback": "robed elders bowing to an unseen ruler"
+   }
+  },
+  {
+   "text": "Throughout the world, there's also a separate mystery the government is just as desperate to bury: anyone whose name carries the letter D.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Will of D mystery government buries",
+    "fallback": "ancient symbol representing a hidden lineage"
+   }
+  },
+  {
+   "text": "Nobody knows what the D actually stands for, but one retainer called it the mark of the natural enemy of the Celestial Dragons.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Will of D natural enemy Celestial Dragons",
+    "fallback": "mysterious figure marked as an enemy of the gods"
+   }
+  },
+  {
+   "text": "People with the D all seem to share the same traits: a hunger for freedom, and the habit of smiling right at the very end.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Will of D freedom smiling trait",
+    "fallback": "defiant figure smiling in the face of danger"
+   }
+  },
+  {
+   "text": "Luffy, Ace, Teach, Roger, Dragon, Garp himself: every major turning point in this story runs through someone carrying that letter.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Will of D characters major events",
+    "fallback": "group of legendary figures all sharing one trait"
+   }
+  },
+  {
+   "text": "There's a second lineage Imu is just as obsessed with: the Davy family, tied to a pirate called Davy D. Jones.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Davy family Imu obsessed Davy Jones",
+    "fallback": "shadowy ruler fixated on an ancient legendary pirate"
+   }
+  },
+  {
+   "text": "According to his own descendant, Rocks D. Xebec, Davy Jones was once called the King of the World.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Xebec Davy Jones King of World",
+    "fallback": "legendary pirate once called ruler of the world"
+   }
+  },
+  {
+   "text": "Imu furiously denies that title ever meant anything, which is exactly the kind of denial that makes people suspicious.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu denies Davy Jones title suspicious",
+    "fallback": "ancient ruler furiously rejecting an old title"
+   }
+  },
+  {
+   "text": "Xebec also mentions some kind of ancient promise that's supposed to be fulfilled eventually, a comment that visibly enrages Imu.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Xebec ancient promise enrages Imu",
+    "fallback": "defiant pirate provoking a furious ancient ruler"
+   }
+  },
+  {
+   "text": "The only known survivor of that entire lineage today is Marshall D. Teach: Blackbeard.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Blackbeard last Davy lineage survivor",
+    "fallback": "dark-coated pirate standing as the last of a lineage"
+   }
+  },
+  {
+   "text": "One villain's whole existence quietly ties back to a grudge nine hundred years old that he probably doesn't even fully understand himself.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Blackbeard tied ancient grudge unaware",
+    "fallback": "dark pirate unknowingly carrying a centuries-old grudge"
+   }
+  },
+  {
+   "text": "Mary Geoise even tells its own children a cautionary story: misbehave, and the letter D will come eat you up.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mary Geoise children warned letter D",
+    "fallback": "noble children frightened by an old cautionary tale"
+   }
+  },
+  {
+   "text": "People who carry the Will of D never seem to fear that story back. Luffy, Ace, all of them keep smiling right up to the very end.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Will of D unafraid smiling defiance",
+    "fallback": "defiant figures smiling in the face of fear"
+   }
+  },
+  {
+   "text": "That's the pattern the Five Elders are most afraid of repeating: someone with that same smile showing up again at exactly the wrong moment.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders fear smile returning",
+    "fallback": "robed elders anxiously watching for a familiar smile"
+   }
+  },
+  {
+   "text": "That same government holds a Council of Kings meeting every four years, the one event where all nineteen remaining royal lines still show up together.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Council of Kings nineteen royal lines meeting",
+    "fallback": "grand council of nineteen royal lines convening"
+   }
+  },
+  {
+   "text": "Even some World Nobles aren't fully briefed on this. Rosward Shalria once looked genuinely confused when Vegapunk brought up the Void Century on live broadcast.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rosward Shalria confused Void Century broadcast",
+    "fallback": "noble looking puzzled during a world-wide broadcast"
+   }
+  },
+  {
+   "text": "Meanwhile, the other nobles standing right next to her weren't confused at all. They just wanted Vegapunk silenced immediately.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "nobles demand Vegapunk silenced",
+    "fallback": "furious nobles reacting to a dangerous broadcast"
+   }
+  },
+  {
+   "text": "Every single World Noble alive today still carries at least some knowledge of this whole century. Most ordinary people carry none of it at all...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Nobles knowledge ordinary people none",
+    "fallback": "privileged nobles contrasted with uninformed commoners"
+   }
+  },
+  {
+   "text": "There's one more loose thread tied directly to how the Poneglyphs even got out into the world in the first place.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili mystery Poneglyphs scattered origin",
+    "fallback": "ancient queen standing before a scattering of stones"
+   },
+   "card": "LILI'S MISTAKE"
+  },
+  {
+   "text": "Nefertari Lili was queen of Arabasta during the Void Century, and one of the First Twenty who helped form the alliance.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nefertari Lili queen Arabasta First Twenty",
+    "fallback": "ancient desert queen among twenty founding rulers"
+   }
+  },
+  {
+   "text": "When the war ends, most of the other nineteen rulers relocate to Mary Geoise and become the first Celestial Dragons.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "nineteen rulers relocate Mary Geoise Celestial Dragons",
+    "fallback": "royal procession moving toward a grand floating capital"
+   }
+  },
+  {
+   "text": "Lili chooses to go home instead. She doesn't even leave a weapon at the Empty Throne like the others did.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili returns home Arabasta no weapon",
+    "fallback": "queen walking away from an empty throne alone"
+   }
+  },
+  {
+   "text": "Before she can get back to Arabasta, she vanishes completely, and every record of her existence gets wiped clean.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili vanishes records wiped Arabasta",
+    "fallback": "queen's image fading from an ancient historical record"
+   }
+  },
+  {
+   "text": "Her younger brother quietly takes the throne in her place. The only proof she ever existed is one single letter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili brother takes throne letter proof",
+    "fallback": "young prince taking a throne beside an old letter"
+   }
+  },
+  {
+   "text": "According to Imu, whatever mistake Lili made is the exact reason the Poneglyphs ended up scattered across the world at all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu blames Lili Poneglyphs scattered",
+    "fallback": "ancient ruler blaming a vanished queen for scattered stones"
+   }
+  },
+  {
+   "text": "Imu is also, for some reason, specifically interested in her descendant: a princess named Vivi.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu interested Vivi Lili descendant",
+    "fallback": "ancient ruler watching a modern desert princess closely"
+   }
+  },
+  {
+   "text": "Even now, nobody's connected exactly what Lili's mistake actually was. The Poneglyphs just started spreading, and the records just stopped explaining why.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili mistake unexplained Poneglyphs spread",
+    "fallback": "scattered ancient stones with no explanation left behind"
+   }
+  },
+  {
+   "text": "That's one mystery Oda still hasn't closed, centuries later, sitting right next to all the others.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "unsolved mystery Lili centuries later",
+    "fallback": "ancient unsolved mystery resting beside countless others"
+   }
+  },
+  {
+   "text": "One queen's disappearance, one letter, and somehow that's connected to why thirty indestructible stones are scattered across this entire ocean...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili disappearance Poneglyphs ocean connection",
+    "fallback": "single letter resting beside thirty scattered stones"
+   }
+  },
+  {
+   "text": "Eight hundred years after Joy Boy's defeat, one crew finally reaches the last island on the Grand Line.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger crew reach Laugh Tale island",
+    "fallback": "legendary pirate crew arriving at a mysterious final island"
+   },
+   "card": "LAUGH TALE"
+  },
+  {
+   "text": "Gol D. Roger and his crew get there by combining all four road stones into a single location.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger combines four Road Poneglyphs",
+    "fallback": "pirate captain aligning four glowing stones on a map"
+   }
+  },
+  {
+   "text": "A normal Log Pose can't even get you there. Every needle on the Grand Line stops dead at the island right before it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Log Pose fails stops Lodestar Island",
+    "fallback": "compass needle spinning wildly near a mysterious island"
+   }
+  },
+  {
+   "text": "Only the four Road Poneglyphs, read together, can actually point to where Laugh Tale really is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Road Poneglyphs point Laugh Tale location",
+    "fallback": "four red stones aligning toward one final destination"
+   }
+  },
+  {
+   "text": "When they see what's actually waiting on that island, they don't gasp. They start laughing.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Roger crew laughing Laugh Tale discovery",
+    "fallback": "pirate crew bursting into laughter on a mysterious shore"
+   }
+  },
+  {
+   "text": "Roger names the island on the spot: Laugh Tale, because the whole truth of this century turns out to be a funny story to him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger names Laugh Tale island",
+    "fallback": "pirate captain naming an island while laughing"
+   }
+  },
+  {
+   "text": "He later says, almost wistfully, that he wishes he and Joy Boy had lived during the same era.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Roger wishes lived Joy Boy era",
+    "fallback": "pirate captain gazing wistfully toward the horizon"
+   }
+  },
+  {
+   "text": "The treasure Joy Boy left behind on that island is what the world now calls the One Piece.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy treasure One Piece Laugh Tale",
+    "fallback": "mysterious treasure hidden on a distant island"
+   }
+  },
+  {
+   "text": "Nobody outside that one crew has ever actually seen what it is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "One Piece unseen mystery",
+    "fallback": "silhouette of an unseen hidden treasure"
+   }
+  },
+  {
+   "text": "One of Roger's own crewmates secretly makes an Eternal Pose back to the island, just in case anyone ever wanted to return.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "crewmate secret Eternal Pose Laugh Tale",
+    "fallback": "crew member secretly crafting a navigational device"
+   }
+  },
+  {
+   "text": "Roger finds out and throws it straight into the ocean, where a Sea King swallows it whole.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Roger discards Eternal Pose Sea King",
+    "fallback": "pirate captain throwing an object into the sea"
+   }
+  },
+  {
+   "text": "He even offers to tell Whitebeard exactly how to get there. Whitebeard turns him down completely.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger offers Whitebeard Laugh Tale declines",
+    "fallback": "two legendary pirate captains in quiet conversation"
+   }
+  },
+  {
+   "text": "Whitebeard's dream was never the One Piece. He just wanted a family, and that was already enough for him.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard dream family not treasure",
+    "fallback": "towering pirate captain surrounded by his own crew"
+   }
+  },
+  {
+   "text": "Not long after reaching Laugh Tale, Roger is diagnosed with an illness nothing in this world can cure.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Roger diagnosed illness incurable",
+    "fallback": "weary pirate captain receiving grave news"
+   }
+  },
+  {
+   "text": "That's part of why he goes public with the One Piece at all: he knows exactly how little time he has left.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger reveals One Piece limited time",
+    "fallback": "pirate captain speaking to a massive public crowd"
+   }
+  },
+  {
+   "text": "Before the Marines can stop him, Roger uses his very last public appearance to speak to the entire world.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Roger reveals One Piece free world",
+    "fallback": "legendary pirate addressing the entire world one last time"
+   }
+  },
+  {
+   "text": "He reveals the One Piece itself, calling it free for absolutely anyone who can find it.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Roger reveals One Piece free find",
+    "fallback": "legendary pirate unveiling a treasure to the world"
+   }
+  },
+  {
+   "text": "That one sentence is what actually starts the Great Pirate Era this whole story has been set in ever since.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger sentence starts Great Pirate Era",
+    "fallback": "countless ships setting sail across a vast ocean"
+   }
+  },
+  {
+   "text": "According to Oden's own log, the crew learned three things that day.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden log Void Century Will of D weapons",
+    "fallback": "ancient logbook recording three great truths"
+   }
+  },
+  {
+   "text": "The truth of the Void Century, the real meaning of the Will of D, and the true nature of all three Ancient Weapons.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden log three truths learned",
+    "fallback": "ancient logbook open to three recorded truths"
+   }
+  },
+  {
+   "text": "According to Vegapunk, whoever actually claims the One Piece decides the fate of the whole world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk One Piece decides world fate",
+    "fallback": "scientist warning about the power of one treasure"
+   }
+  },
+  {
+   "text": "He adds one unsettling detail: the person who finds it might not be the person Joy Boy was hoping for...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk warns wrong person finds treasure",
+    "fallback": "uncertain figure reaching toward a hidden treasure"
+   }
+  },
+  {
+   "text": "For eight hundred years, Joy Boy is just a legend. Then Luffy eats the exact same Devil Fruit he once carried.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy eats Joy Boy Devil Fruit",
+    "fallback": "young pirate eating a mysterious ancient fruit"
+   },
+   "card": "GEAR 5"
+  },
+  {
+   "text": "Nobody even realizes what fruit it is at first. It takes twelve more years before Luffy actually awakens it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy years before awakening fruit",
+    "fallback": "young pirate growing older before a hidden power awakens"
+   }
+  },
+  {
+   "text": "The moment he does, Zunesha feels it instantly and makes one simple announcement to the entire world: Joy Boy has returned.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Zunesha announces Joy Boy returned",
+    "fallback": "colossal ancient elephant sensing a historic return"
+   }
+  },
+  {
+   "text": "Kaidou spent years searching for someone exactly like this, someone who could finally defeat him in battle.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kaidou searches Joy Boy successor",
+    "fallback": "towering dragon pirate searching for a worthy rival"
+   }
+  },
+  {
+   "text": "In his very last moments, Kaidou seems to realize Luffy was that person all along.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Kaidou realizes Luffy Joy Boy final moment",
+    "fallback": "towering dragon pirate recognizing his rival at last"
+   }
+  },
+  {
+   "text": "Afterward, Luffy asks the shogun not to credit him personally for beating Kaidou, so the story gets told under a different name instead: Joy Boy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy asks shogun credit Joy Boy",
+    "fallback": "young pirate quietly declining personal credit"
+   }
+  },
+  {
+   "text": "That's how Joy Boy becomes a living legend in Wano, built from an act Luffy didn't even want his own name attached to.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy legend Wano Luffy humble",
+    "fallback": "legendary name spreading across a grateful country"
+   }
+  },
+  {
+   "text": "On Egghead, Imu feels a burst of Haki so powerful it can be sensed all the way from Mary Geoise.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu feels Haki burst Egghead Mary Geoise",
+    "fallback": "ancient ruler sensing a powerful distant shockwave"
+   }
+  },
+  {
+   "text": "Imu recognizes it instantly as Joy Boy's own sealed Haki, the exact knot tied eight hundred years earlier.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu recognizes Joy Boy sealed Haki",
+    "fallback": "ancient ruler recognizing a centuries-old power signature"
+   }
+  },
+  {
+   "text": "That single release knocks out every Marine near the island, Vice Admirals included, and cancels out the Five Elders' own powers.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Haki release knocks out Marines Egghead",
+    "fallback": "shockwave of golden energy overwhelming an entire army"
+   }
+  },
+  {
+   "text": "That burst of Haki is strong enough to do something else too: it cancels the Five Elders' own transformations completely.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Haki cancels Five Elders transformations",
+    "fallback": "robed elders forcibly reverting from monstrous forms"
+   }
+  },
+  {
+   "text": "Three of them get sent straight back to Mary Geoise by the shockwave, mid-fight, without any say in the matter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders sent back Mary Geoise shockwave",
+    "fallback": "elders forcibly teleported away from a battlefield"
+   }
+  },
+  {
+   "text": "Emet, the iron giant, is the one who finally breaks that seal, releasing it to save Luffy's life.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Emet breaks seal saves Luffy",
+    "fallback": "ancient robot releasing ancient energy to protect an ally"
+   }
+  },
+  {
+   "text": "Imu even says it outright: compared to the original Joy Boy, this new one is still weak.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu says Luffy weak compared original",
+    "fallback": "ancient ruler dismissing a current pirate's strength"
+   }
+  },
+  {
+   "text": "King, one of Kaidou's own closest allies, briefly wonders if Kaidou himself could have been Joy Boy all along.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "King wonders Kaidou Joy Boy",
+    "fallback": "loyal ally questioning his own captain's legendary status"
+   }
+  },
+  {
+   "text": "Kaidou eventually dismisses that idea completely, treating the name as nothing more than an old legend, right up until the fight that proves him wrong.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kaidou dismisses Joy Boy legend fight",
+    "fallback": "towering dragon pirate dismissing an old legend"
+   }
+  },
+  {
+   "text": "Luffy's own Gear 5 burns through his stamina incredibly fast, the same tradeoff every version of this power seems to carry.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gear 5 stamina cost tradeoff",
+    "fallback": "exhausted rubber warrior powering through fatigue"
+   }
+  },
+  {
+   "text": "That tradeoff might be the one thing connecting every single person who's ever worn this fruit's power, all the way back to Joy Boy himself.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gear 5 tradeoff connects Joy Boy",
+    "fallback": "glowing rubber warriors across centuries sharing one cost"
+   }
+  },
+  {
+   "text": "Every single piece of evidence here points at one specific outcome: Joy Boy's return was never really about one person. It's about one promise finally getting paid.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy return promise paid synthesis",
+    "fallback": "ancient promise finally being fulfilled across centuries"
+   }
+  },
+  {
+   "text": "Oden himself learns the full truth on that same trip to Laugh Tale, which is exactly why he comes home already planning to open Wano's borders.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden learns truth Laugh Tale Wano plan",
+    "fallback": "samurai returning home with a world-changing plan"
+   }
+  },
+  {
+   "text": "That one decision costs him everything, and the job of finishing it gets passed down to his own children instead...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden decision passed children Wano",
+    "fallback": "samurai's legacy passed down to the next generation"
+   }
+  },
+  {
+   "text": "So here's everything Joy Boy actually left behind, laid out in order.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy legacy summary order",
+    "fallback": "ancient treasures and stones laid out in a row"
+   },
+   "card": "THE VERDICT"
+  },
+  {
+   "text": "A war against twenty kingdoms that, by Vegapunk's own math, never actually finished, because Pluton, Poseidon, and Uranus are all still sitting out there somewhere.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pluton Poseidon Uranus still hidden",
+    "fallback": "three ancient weapons still waiting, unfound"
+   }
+  },
+  {
+   "text": "A promise to an entire ocean kingdom: one ship, Noah, still waiting at Fish-Man Island eight hundred years later for someone to finally keep it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Noah ship Fish-Man Island waiting",
+    "fallback": "ancient ship waiting patiently in an underwater forest"
+   }
+  },
+  {
+   "text": "A throne at Mary Geoise that was never actually empty, hiding a ruler even the Five Elders bow to in secret.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Mary Geoise hidden throne",
+    "fallback": "hidden ruler seated behind a false empty throne"
+   }
+  },
+  {
+   "text": "That same ruler and the last of the Davy family are the two names Joy Boy's own return still seems to frighten most.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Davy family fear Joy Boy",
+    "fallback": "shadowy ruler unsettled by an old memory"
+   }
+  },
+  {
+   "text": "Thirty indestructible Poneglyphs, carved by one family specifically so this history could never be erased again, in a script almost nobody alive can read.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kouzuki family Poneglyphs indestructible script",
+    "fallback": "ancient stones scattered toward an unseen treasure"
+   }
+  },
+  {
+   "text": "Nine of those stones combine into the Rio Poneglyph. Four more, read together, point to one single island.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rio Poneglyph Road stones combine",
+    "fallback": "nine ancient stones merging into one message"
+   }
+  },
+  {
+   "text": "And one island, named Laugh Tale as a joke between two men nine hundred years apart, holding a treasure almost nobody has ever actually seen.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Laugh Tale name joke two men",
+    "fallback": "island named after a joke shared across centuries"
+   }
+  },
+  {
+   "text": "Every single mystery this franchise has ever teased, Imu, the Will of D, the Davy family, the Ancient Weapons, the One Piece itself, traces back to this one century.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "every mystery traces Void Century",
+    "fallback": "countless mysteries converging into a single century"
+   }
+  },
+  {
+   "text": "That's not a coincidence. Oda built the entire story as the second half of a sentence Joy Boy started writing nine hundred years ago.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Oda story sentence Joy Boy started",
+    "fallback": "ancient unfinished sentence completed centuries later"
+   }
+  },
+  {
+   "text": "Five separate threads, and Oda has never once shown all five of them resolved at the same time.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century open threads unresolved",
+    "fallback": "countless loose threads waiting to be pulled"
+   }
+  },
+  {
+   "text": "Even the phrase too early keeps repeating across this century: Roger said it at Laugh Tale, and Eris said the exact same thing at God Valley.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "too early phrase Laugh Tale God Valley",
+    "fallback": "two separate scenes echoing the same ominous phrase"
+   }
+  },
+  {
+   "text": "Nobody in this entire story has ever said what happens once it stops being too early.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "unknown appointed time future",
+    "fallback": "question mark looming over an uncertain future"
+   }
+  },
+  {
+   "text": "Every one of these threads is still open right now, in the current arc, waiting for Oda to pull just one of them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "open threads current arc waiting",
+    "fallback": "countless loose threads waiting to be pulled"
+   }
+  },
+  {
+   "text": "The appointed time Whitebeard warned about is still coming, and according to him, finding the One Piece ends in a war big enough to swallow the whole world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard appointed time war warning",
+    "fallback": "towering pirate captain warning of a coming war"
+   }
+  },
+  {
+   "text": "If you want to see exactly how that first war started, the one at God Valley, that's a story for another day.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "God Valley Incident teaser future story",
+    "fallback": "distant island silhouetted against a stormy horizon"
+   }
+  }
+ ],
+ "chapters": [
+  {
+   "line": 0,
+   "title": "A Hundred Years, Erased"
+  },
+  {
+   "line": 6,
+   "title": "The War Nobody Remembers"
+  },
+  {
+   "line": 43,
+   "title": "Joy Boy, The First Pirate"
+  },
+  {
+   "line": 68,
+   "title": "The Iron Giant"
+  },
+  {
+   "line": 79,
+   "title": "Three Weapons, One World"
+  },
+  {
+   "line": 105,
+   "title": "The Poneglyphs"
+  },
+  {
+   "line": 145,
+   "title": "The Promise To Fish-Man Island"
+  },
+  {
+   "line": 160,
+   "title": "The Throne That Isn't Empty"
+  },
+  {
+   "line": 185,
+   "title": "Lili's Disappearance"
+  },
+  {
+   "line": 196,
+   "title": "Laugh Tale And The One Piece"
+  },
+  {
+   "line": 218,
+   "title": "Joy Boy Comes Back"
+  },
+  {
+   "line": 239,
+   "title": "What's Still Missing"
+  }
+ ],
+ "thumbnail": {
+  "text": "THE FULL TRUTH",
+  "highlight": "TRUTH",
+  "search": "Joy Boy Nika silhouette sun",
+  "search2": "Imu Empty Throne shadow",
+  "device": "split"
+ },
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Void_Century",
+  "https://onepiece.fandom.com/wiki/Joy_Boy",
+  "https://onepiece.fandom.com/wiki/Poneglyph",
+  "https://onepiece.fandom.com/wiki/Ancient_Weapons",
+  "https://onepiece.fandom.com/wiki/Laugh_Tale"
+ ],
+ "self_check": {
+  "hook": "line 1 states subject (Void Century) and claim (a hundred years erased from history, Joy Boy is why it ended)",
+  "loop": "long video, no loop required",
+  "facts_verified": true
+ }
+}

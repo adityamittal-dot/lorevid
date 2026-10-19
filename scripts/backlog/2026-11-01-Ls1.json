@@ -1,0 +1,127 @@
+{
+ "id": "2026-11-01-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Joy Boy is one of only two people Imu genuinely fears, and the Egghead Haki burst is why that fear is justified",
+ "title": "Joy Boy Is The One Person Imu Still Fears",
+ "description": "According to Rocks D. Xebec, Joy Boy is one of only two people Nerona Imu genuinely fears, the other being the pirate Davy D. Jones. The Egghead Incident shows exactly why. From the full story: The Void Century: Everything Joy Boy Left Behind.",
+ "hashtags": [
+  "#onepiece",
+  "#imu",
+  "#joyboy",
+  "#anime"
+ ],
+ "tags": [
+  "one piece theory",
+  "joy boy explained",
+  "imu one piece",
+  "nerona imu",
+  "void century one piece",
+  "one piece shorts",
+  "davy d jones",
+  "one piece theory explained",
+  "joy boy one piece"
+ ],
+ "hook_text": "IMU IS STILL AFRAID",
+ "music_mood": "suspense",
+ "comment": "Is Imu really the final villain of this story, or is there someone above him? Pick one.",
+ "related_long": "2026-11-01-L",
+ "pages": [
+  "Joy Boy",
+  "Nerona Imu"
+ ],
+ "lines": [
+  {
+   "text": "Joy Boy is one of the only two things Imu is still afraid of in this entire world.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Joy Boy Imu fear Void Century",
+    "fallback": "shadowy ruler visibly unsettled on a throne"
+   }
+  },
+  {
+   "text": "The other one is a pirate named Davy D. Jones.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Davy D Jones Imu fear",
+    "fallback": "legendary ancient pirate feared by a ruler"
+   }
+  },
+  {
+   "text": "According to Rocks D. Xebec, those are the only two names that actually rattle Imu.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Xebec Imu fears Joy Boy Davy",
+    "fallback": "defiant pirate speaking to an ancient ruler"
+   }
+  },
+  {
+   "text": "Imu even calls Luffy, a current Four Emperor, weak compared to what the original Joy Boy could do.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu calls Luffy weak Joy Boy",
+    "fallback": "shadowy ruler dismissing a current pirate emperor"
+   }
+  },
+  {
+   "text": "That's not hype talk. Imu watched the original up close, eight hundred years ago.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu watched Joy Boy Void Century",
+    "fallback": "ancient ruler remembering a centuries-old memory"
+   }
+  },
+  {
+   "text": "On Egghead, Imu feels a burst of Joy Boy's own sealed Haki all the way from Mary Geoise.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu feels Haki burst Egghead",
+    "fallback": "ancient ruler sensing a powerful distant shockwave"
+   }
+  },
+  {
+   "text": "That single burst is strong enough to cancel the Five Elders' own transformations and send three of them straight home.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Haki burst cancels Five Elders",
+    "fallback": "shockwave of golden energy overwhelming an army"
+   }
+  },
+  {
+   "text": "And Imu still calls that just a weaker echo of the real thing.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Imu weaker echo Joy Boy",
+    "fallback": "shadowy ruler dismissing a faint echo of power"
+   }
+  },
+  {
+   "text": "Because Joy Boy is one of the only two things Imu is still afraid of...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Imu fear Mary Geoise",
+    "fallback": "shadowy figure on a hidden throne, afraid"
+   }
+  }
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Joy_Boy",
+  "https://onepiece.fandom.com/wiki/Nerona_Imu",
+  "https://onepiece.fandom.com/wiki/Void_Century"
+ ],
+ "self_check": {
+  "hook": "line 1 names Joy Boy and the claim (one of two things Imu still fears) inside 17 words",
+  "loop": "last line ('Joy Boy is one of the only two things Imu is still afraid of...') feeds straight into line 1's own phrasing",
+  "facts_verified": true
+ }
+}

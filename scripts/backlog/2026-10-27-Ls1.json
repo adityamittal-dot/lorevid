@@ -1,0 +1,129 @@
+{
+ "id": "2026-10-27-Ls1",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Minato had a way to end the Nine-Tails threat completely that night (Kushina's offer to reseal it into herself) and rejected it on purpose",
+ "title": "Minato Rejected Kushina's Plan To End The Nine-Tails",
+ "description": "Right before sealing the Nine-Tails into Naruto, Kushina offers a different plan: reseal it into herself so it ends that same night. Minato says no, and the reason he gives changes how this whole scene should be read. From the full story: Minato Sealed The Nine-Tails Inside Naruto On Purpose.",
+ "hashtags": [
+  "#minato",
+  "#naruto",
+  "#anime"
+ ],
+ "tags": [
+  "naruto theory",
+  "minato namikaze",
+  "kushina uzumaki",
+  "nine tails sealing",
+  "minato kushina choice",
+  "naruto nine tails",
+  "naruto shorts",
+  "minato decision",
+  "jinchuriki naruto",
+  "naruto theory explained",
+  "minato naruto analysis"
+ ],
+ "hook_text": "THE OFFER HE REFUSED",
+ "music_mood": "suspense",
+ "comment": "Was Minato protecting Naruto that night, or already recruiting him for a war to come? Pick one.",
+ "related_long": "2026-10-27-L",
+ "pages": [
+  "Minato Namikaze",
+  "Kushina Uzumaki",
+  "Naruto Uzumaki"
+ ],
+ "lines": [
+  {
+   "text": "Minato had a way to end the Nine-Tails for good that night. He said no.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Minato Kushina night decision",
+    "fallback": "two ninjas standing together before a fateful choice"
+   }
+  },
+  {
+   "text": "Right before sealing it into Naruto, Kushina offers a different plan entirely.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kushina offers plan Nine-Tails",
+    "fallback": "weakened mother proposing an alternative plan"
+   }
+  },
+  {
+   "text": "Reseal the Nine-Tails back into herself, so it ends with her, that same night.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kushina reseal herself Nine-Tails",
+    "fallback": "mother offering to absorb a beast's power herself"
+   }
+  },
+  {
+   "text": "No fifth jinchuriki. No decades of consequences. Just one grave and it's over.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kushina plan ends Nine-Tails",
+    "fallback": "a single quiet grave beside an empty cradle"
+   }
+  },
+  {
+   "text": "Minato rejects it. Flat out.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Minato rejects plan firm",
+    "fallback": "ninja shaking his head, firm refusal"
+   }
+  },
+  {
+   "text": "He believes the fox's power will be needed again, specifically if Tobi ever comes back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato believes Nine-Tails needed Tobi",
+    "fallback": "ninja staring toward an uncertain future threat"
+   }
+  },
+  {
+   "text": "That's not a father protecting a baby from danger. That's a Hokage already planning for a war that hasn't started yet.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Hokage planning future war",
+    "fallback": "lone leader studying a map of future threats"
+   }
+  },
+  {
+   "text": "So he chooses, on purpose, to make his own newborn son the Nine-Tails' new jinchuriki instead.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Minato chooses Naruto jinchuriki purpose",
+    "fallback": "ninja placing a hand over an infant's glowing seal"
+   }
+  },
+  {
+   "text": "Because Minato had a way to end the Nine-Tails for good that night...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Kushina fateful night choice",
+    "fallback": "two figures standing together before chaos erupts"
+   }
+  }
+ ],
+ "sources": [
+  "https://naruto.fandom.com/wiki/Minato_Namikaze",
+  "https://naruto.fandom.com/wiki/Kushina_Uzumaki",
+  "https://naruto.fandom.com/wiki/Naruto_Uzumaki"
+ ],
+ "self_check": {
+  "hook": "line 1 names Minato and the claim (had a way to end it, said no) inside 15 words",
+  "loop": "last line ('Minato had a way to end the Nine-Tails for good that night...') feeds straight into line 1's own phrasing",
+  "facts_verified": true
+ }
+}
