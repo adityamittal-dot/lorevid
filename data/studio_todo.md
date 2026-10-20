@@ -46,3 +46,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Choso Felt Yuji's Ending Coming Before Yuji Did (https://youtu.be/xzCTx35MYqM) -> related video: Choso Was The Best Brother Yuji Never Knew (https://youtu.be/H75qutoUAXc)
 - [ ] Shirahoshi's Crying Is The Weapon Fans Laughed At (https://youtu.be/ry_gPrU1gpw) -> related video: Shirahoshi's Tears Were The Plot's Hidden Trigger (https://youtu.be/oIqwNCHl83A)
 - [ ] Why Buggy's Clown Fruit Was Underrated in the Final Saga (https://youtu.be/MHb3I5eOTu0) -> thumbnail B saved at output/2026-10-21-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Buggy's Chop-Chop Fruit Makes Swords Useless (https://youtu.be/UIDzf2rP8OQ) -> related video: Why Buggy's Clown Fruit Was Underrated in the Final Saga (https://youtu.be/MHb3I5eOTu0)
