@@ -1,1146 +1,1178 @@
 {
-  "Agito": [
-    "Ah-gee-toh",
-    "ɑɡˈitO"
-  ],
-  "Akainu": [
-    "Ah-kye-noo",
-    "ɑkˈInu"
-  ],
-  "Alabasta": [
-    "Al-uh-bas-tah",
-    "ˌæləbˈæstə"
-  ],
-  "Alubarna": [
-    "Ah-loo-bar-nah",
-    "ˌɑlubˈɑɹnə"
-  ],
-  "Alvida": [
-    "Al-vee-dah",
-    "ælvˈidə"
-  ],
-  "Amado": [
-    "Ah-mah-doh",
-    "ɑmˈɑdO"
-  ],
-  "Amiudake": [
-    "Ah-mee-oo-dah-keh",
-    "ɑmiudˈɑkɛ"
-  ],
-  "Aokiji": [
-    "Ah-oh-kee-jee",
-    "ˌɑOkˈiʤi"
-  ],
-  "Arlong": [
-    "Ar-long",
-    "ˈɑɹlɔŋ"
-  ],
-  "Baratie": [
-    "Bah-rah-tee-ay",
-    "bˌɑɹɑtˈiA"
-  ],
-  "Bartolomeo": [
-    "Bar-toh-loh-MAY-oh",
-    "bɑrtˌOlomˈAO"
-  ],
-  "Bepo": [
-    "Beh-poh",
-    "bˈɛpO"
-  ],
-  "Boruto": [
-    "Boh-roo-toh",
-    "bOɹˈutO"
-  ],
-  "Brogy": [
-    "Broh-gee",
-    "bɹˈOɡi"
-  ],
-  "Busoshoku": [
-    "Boo-soh-shoh-koo",
-    "bˌusOʃˈOku"
-  ],
-  "Byakugan": [
-    "Byah-koo-gahn",
-    "bjˈɑkuɡˌɑn"
-  ],
-  "Chibaku": [
-    "Chee-bah-koo",
-    "ʧibˈɑku"
-  ],
-  "Chidori": [
-    "Chee-doh-ree",
-    "ʧidˈOɹi"
-  ],
-  "Choso": [
-    "Choh-soh",
-    "ʧˈOsO"
-  ],
-  "Chunin": [
-    "Choo-nin",
-    "ʧˈunin"
-  ],
-  "Cocoyasi": [
-    "Koh-koh-yah-see",
-    "kOkOjˈɑsi"
-  ],
-  "Colubo": [
-    "Koh-loo-boh",
-    "kOlˈubO"
-  ],
-  "Corazon": [
-    "Koh-rah-sohn",
-    "kˌOɹəsˈOn"
-  ],
-  "Crocus": [
-    "Kroh-kus",
-    "kɹˈOkəs"
-  ],
-  "Cutty": [
-    "Kut-ee",
-    "kˈʌti"
-  ],
-  "Dadan": [
-    "Dah-dahn",
-    "dˈɑdɑn"
-  ],
-  "Dagon": [
-    "Day-gon",
-    "dˈAɡɑn"
-  ],
-  "Danzo": [
-    "Dahn-zoh",
-    "dˈɑnzO"
-  ],
-  "Doflamingo": [
-    "Doh-fluh-ming-goh",
-    "dOfləmˈɪŋgO"
-  ],
-  "Domi": [
-    "Doh-mee",
-    "dˈOmi"
-  ],
-  "Donquixote": [
-    "Don-kee-show-tay",
-    "dɑnkiʃˈOtA"
-  ],
-  "Dorry": [
-    "Dor-ree",
-    "dˈɔɹi"
-  ],
-  "Dressrosa": [
-    "Dress-ROH-sah",
-    "drɛsrˈOsɑ"
-  ],
-  "Eida": [
-    "Ay-dah",
-    "ˈAdə"
-  ],
-  "Elbaf": [
-    "El-bahf",
-    "ˈɛlbɑf"
-  ],
-  "Elbaph": [
-    "El-bahf",
-    "ˈɛlbɑf"
-  ],
-  "Enel": [
-    "Eh-nel",
-    "ˈɛnɛl"
-  ],
-  "Enies": [
-    "Eh-neez",
-    "ˈɛniz"
-  ],
-  "Enma": [
-    "En-mah",
-    "ˈɛnmɑ"
-  ],
-  "Flam": [
-    "Flam",
-    "flˈæm"
-  ],
-  "Flevance": [
-    "Fleh-vans",
-    "flˈɛvəns"
-  ],
-  "Foosha": [
-    "Foo-shah",
-    "fˈuʃə"
-  ],
-  "Franky": [
-    "Frank-ee",
-    "fɹˈæŋki"
-  ],
-  "Fugaku": [
-    "Foo-gah-koo",
-    "fuɡˈɑku"
-  ],
-  "Fujitora": [
-    "Foo-jee-toh-rah",
-    "fˌuʤitˈOɹə"
-  ],
-  "Fukasaku": [
-    "Foo-kah-sah-koo",
-    "fukˈɑsɑku"
-  ],
-  "Fushiguro": [
-    "Foo-shee-goo-roh",
-    "fˌuʃiɡˈuɹO"
-  ],
-  "Gaara": [
-    "Gah-rah",
-    "ɡˈɑɹə"
-  ],
-  "Gaban": [
-    "Gah-bahn",
-    "ɡˈɑbɑn"
-  ],
-  "Galley-La": [
-    "Gal-ee-lah",
-    "ɡˈæliˌlɑ"
-  ],
-  "Garp": [
-    "Garp",
-    "ɡˈɑɹp"
-  ],
-  "Gege": [
-    "Geh-geh",
-    "ɡˈɛɡɛ"
-  ],
-  "Genzo": [
-    "Jen-zoh",
-    "ʤˈɛnzO"
-  ],
-  "Germa": [
-    "Jer-mah",
-    "ʤˈɜɹmə"
-  ],
-  "Geto": [
-    "Geh-toh",
-    "ɡˈɛtO"
-  ],
-  "Gojo": [
-    "Goh-joh",
-    "ɡˈOʤO"
-  ],
-  "Gol": [
-    "Goal",
-    "ɡˈɑl"
-  ],
-  "Gomu": [
-    "Goh-moo",
-    "ɡˈOmu"
-  ],
-  "Goro": [
-    "Goh-roh",
-    "ɡˈOɹO"
-  ],
-  "Gorosei": [
-    "Goh-roh-say",
-    "ɡˌOɹOsˈA"
-  ],
-  "Gunko": [
-    "Goon-koh",
-    "ɡˈunkO"
-  ],
-  "Gura": [
-    "Goo-rah",
-    "ɡˈuɹɑ"
-  ],
-  "Hagoromo": [
-    "Hah-goh-roh-moh",
-    "hˌɑɡOɹˈOmO"
-  ],
-  "Haibara": [
-    "Hye-bah-rah",
-    "hˌIbˈɑɹə"
-  ],
-  "Hajrudin": [
-    "Hah-jroo-din",
-    "hɑʤɹˈudɪn"
-  ],
-  "Hakari": [
-    "Hah-kah-ree",
-    "hɑkˈɑɹi"
-  ],
-  "Haki": [
-    "Hah-kee",
-    "hˈɑki"
-  ],
-  "Hanami": [
-    "Hah-nah-mee",
-    "hɑnˈɑmi"
-  ],
-  "Haoshoku": [
-    "Hah-oh-shoh-koo",
-    "hˌɑOʃˈOku"
-  ],
-  "Harald": [
-    "Hair-ald",
-    "hˈɛɹɑld"
-  ],
-  "Hatchan": [
-    "Hot-chan",
-    "hˈɑtʧɑn"
-  ],
-  "Helmeppo": [
-    "Hel-meh-poh",
-    "hɛlmˈɛpO"
-  ],
-  "Hidari": [
-    "Hee-dah-ree",
-    "hidˈɑɹi"
-  ],
-  "Higuma": [
-    "Hee-goo-mah",
-    "hiɡˈumə"
-  ],
-  "Higuruma": [
-    "Hee-goo-roo-mah",
-    "hˌiɡuɹˈumə"
-  ],
-  "Himawari": [
-    "Hee-mah-wah-ree",
-    "hˌimɑwˈɑɹi"
-  ],
-  "Hinata": [
-    "Hee-nah-tah",
-    "hinˈɑtə"
-  ],
-  "Hiriluk": [
-    "Hee-ree-look",
-    "hˈiɹilˌuk"
-  ],
-  "Hiruzen": [
-    "Hee-roo-zen",
-    "hiɹˈuzɛn"
-  ],
-  "Hito": [
-    "Hee-toh",
-    "hˈitO"
-  ],
-  "Hiyori": [
-    "Hee-yoh-ree",
-    "hijˈOɹi"
-  ],
-  "Hody": [
-    "Hoh-dee",
-    "hˈOdi"
-  ],
-  "Hokage": [
-    "Hoh-kah-gay",
-    "hOkˈɑɡA"
-  ],
-  "Homies": [
-    "Hoh-meez",
-    "hˈOmiz"
-  ],
-  "Iceburg": [
-    "Eye-sburg",
-    "ˈIsbɜɹɡ"
-  ],
-  "Ichiji": [
-    "Ee-chee-jee",
-    "ˈiʧiʤi"
-  ],
-  "Ichimonji": [
-    "Ee-chee-mohn-jee",
-    "ˌiʧimˈOnʤi"
-  ],
-  "Ikemoto": [
-    "Ee-keh-moh-toh",
-    "ˌikɛmˈOtO"
-  ],
-  "Imu": [
-    "Ee-moo",
-    "ˈimu"
-  ],
-  "Inumaki": [
-    "Ee-noo-mah-kee",
-    "ˌinumˈɑki"
-  ],
-  "Iruka": [
-    "Ee-roo-kah",
-    "iɹˈukə"
-  ],
-  "Ishigori": [
-    "Ee-shee-goh-ree",
-    "ˌiʃiɡˈOɹi"
-  ],
-  "Isshiki": [
-    "Ee-shee-kee",
-    "iʃˈiki"
-  ],
-  "Itachi": [
-    "Ee-tah-chee",
-    "itˈɑʧi"
-  ],
-  "Itadori": [
-    "Ee-tah-doh-ree",
-    "ˌitɑdˈOɹi"
-  ],
-  "Ivankov": [
-    "Ee-van-koff",
-    "ivˈɑnkɔf"
-  ],
-  "Izanagi": [
-    "Ee-zah-nah-gee",
-    "izɑnˈɑɡi"
-  ],
-  "Izanami": [
-    "Ee-zah-nah-mee",
-    "ˌizɑnˈɑmi"
-  ],
-  "Jinbe": [
-    "Jin-bay",
-    "ʤˈinbA"
-  ],
-  "Jiraiya": [
-    "Jee-rye-yah",
-    "ʤiɹˈIjə"
-  ],
-  "Jogo": [
-    "Joh-goh",
-    "ʤˈOɡO"
-  ],
-  "Jougan": [
-    "Joh-gahn",
-    "ʤˈOɡɑn"
-  ],
-  "Junpei": [
-    "Joon-pay",
-    "ʤˈunpA"
-  ],
-  "Jyabura": [
-    "Jah-boo-rah",
-    "ʤˈɑbuɹɑ"
-  ],
-  "Kabuto": [
-    "Kah-boo-toh",
-    "kɑbˈutO"
-  ],
-  "Kaguya": [
-    "Kah-goo-yah",
-    "kɑɡˈujə"
-  ],
-  "Kaido": [
-    "Kye-doh",
-    "kˈIdO"
-  ],
-  "Kakashi": [
-    "Kah-kah-shee",
-    "kɑkˈɑʃi"
-  ],
-  "Kaku": [
-    "Kah-koo",
-    "kˈɑku"
-  ],
-  "Kalifa": [
-    "Kah-lee-fah",
-    "kɑlˈifɑ"
-  ],
-  "Kamabakka": [
-    "Kah-mah-bah-kah",
-    "kɑmɑbˈɑkɑ"
-  ],
-  "Kamui": [
-    "Kah-moo-ee",
-    "kˈɑmui"
-  ],
-  "Kannabi": [
-    "Kah-nah-bee",
-    "kɑnˈɑbi"
-  ],
-  "Kara": [
-    "Kah-rah",
-    "kˈɑɹə"
-  ],
-  "Karasu": [
-    "Kah-rah-soo",
-    "kɑɹˈɑsu"
-  ],
-  "Kashii": [
-    "Kah-shee",
-    "kˈɑʃi"
-  ],
-  "Kashimo": [
-    "Kah-shee-moh",
-    "kɑʃˈimO"
-  ],
-  "Kashin": [
-    "Kah-shin",
-    "kˈɑʃin"
-  ],
-  "Katakuri": [
-    "Kah-tah-koo-ree",
-    "kˌɑtɑkˈuɹi"
-  ],
-  "Kawaki": [
-    "Kah-wah-kee",
-    "kɑwˈɑki"
-  ],
-  "Kazekage": [
-    "Kah-zeh-kah-geh",
-    "kˌɑzɛkˈɑɡɛ"
-  ],
-  "Kenbunshoku": [
-    "Ken-boon-shoh-koo",
-    "kˌɛnbunʃˈOku"
-  ],
-  "Kenjaku": [
-    "Ken-jah-koo",
-    "kˈɛnʤɑku"
-  ],
-  "Killingham": [
-    "Kill-ing-ham",
-    "kˈɪlɪŋhæm"
-  ],
-  "Kinemon": [
-    "Kee-neh-mon",
-    "kˈinəmɑn"
-  ],
-  "Kishimoto": [
-    "Kee-shee-moh-toh",
-    "kˌiʃimˈOtO"
-  ],
-  "Kizaru": [
-    "Kee-zah-roo",
-    "kizˈɑɹu"
-  ],
-  "Koby": [
-    "Koh-bee",
-    "kˈObi"
-  ],
-  "Koji": [
-    "Koh-jee",
-    "kˈOʤi"
-  ],
-  "Konoha": [
-    "Koh-noh-hah",
-    "kˈOnOhɑ"
-  ],
-  "Koshiro": [
-    "Koh-shee-roh",
-    "kOʃˈiɹO"
-  ],
-  "Kotoamatsukami": [
-    "Koh-toh-ah-mah-tsoo-kah-mee",
-    "kˌOtOˌɑmɑtsukˈɑmi"
-  ],
-  "Kozaburo": [
-    "Koh-zah-boo-roh",
-    "kˌOzɑbˈuɹO"
-  ],
-  "Krieg": [
-    "Kreeg",
-    "kɹˈiɡ"
-  ],
-  "Kuina": [
-    "Koo-ee-nah",
-    "kuˈinə"
-  ],
-  "Kuma": [
-    "Koo-mah",
-    "kˈumə"
-  ],
-  "Kumadori": [
-    "Koo-mah-doh-ree",
-    "kumɑdˈOɹi"
-  ],
-  "Kuraigana": [
-    "Koo-rye-gah-nah",
-    "kˌuɹIɡˈɑnə"
-  ],
-  "Kurama": [
-    "Koo-rah-mah",
-    "kuɹˈɑmə"
-  ],
-  "Kureha": [
-    "Koo-reh-hah",
-    "kˈuɹɛhɑ"
-  ],
-  "Kuroobi": [
-    "Koo-roh-oh-bee",
-    "kˌuɹOˈObi"
-  ],
-  "Kusakabe": [
-    "Koo-sah-kah-bay",
-    "kˌusɑkˈɑbA"
-  ],
-  "Kuzan": [
-    "Koo-zahn",
-    "kˈuzɑn"
-  ],
-  "Laboon": [
-    "Lah-boon",
-    "lɑbˈun"
-  ],
-  "Larue": [
-    "La-roo",
-    "lɑrˈu"
-  ],
-  "Loguetown": [
-    "Loag-town",
-    "lˈOɡtWn"
-  ],
-  "Loki": [
-    "Loh-kee",
-    "lˈOki"
-  ],
-  "Lucci": [
-    "Loo-chee",
-    "lˈuʧi"
-  ],
-  "Luffy": [
-    "Loo-fee",
-    "lˈufi"
-  ],
-  "Lulu": [
-    "Loo-loo",
-    "lˈulu"
-  ],
-  "Lulusia": [
-    "Loo-loo-see-ah",
-    "lˌulusˈiə"
-  ],
-  "Madara": [
-    "Mah-dah-rah",
-    "mɑdˈɑɹə"
-  ],
-  "Magu": [
-    "Mah-goo",
-    "mˈɑɡu"
-  ],
-  "Mahito": [
-    "Mah-hee-toh",
-    "mɑhˈitO"
-  ],
-  "Mahoraga": [
-    "Mah-hoh-rah-gah",
-    "mˌɑhOɹˈɑɡə"
-  ],
-  "Maki": [
-    "Mah-kee",
-    "mˈɑki"
-  ],
-  "Mangekyo": [
-    "Mahn-geh-kyoh",
-    "mˌɑnɡɛkjˈO"
-  ],
-  "Marineford": [
-    "Marine-ford",
-    "məɹˈinfɔɹd"
-  ],
-  "Megumi": [
-    "Meh-goo-mee",
-    "mɛɡˈumi"
-  ],
-  "Mera": [
-    "Meh-rah",
-    "mˈɛɹə"
-  ],
-  "Mera Mera": [
-    "Meh-rah Meh-rah",
-    "mˈɛɹɑ mˈɛɹɑ"
-  ],
-  "Mihawk": [
-    "Mee-hawk",
-    "mˈihɔk"
-  ],
-  "Mikoto": [
-    "Mee-koh-toh",
-    "mikˈOtO"
-  ],
-  "Minato": [
-    "Mee-nah-toh",
-    "minˈɑtO"
-  ],
-  "Minutes": [
-    "My-noots",
-    "maɪnˈuts"
-  ],
-  "Mizuki": [
-    "Mee-zoo-kee",
-    "mizˈuki"
-  ],
-  "Momonosuke": [
-    "Moh-moh-noh-skay",
-    "mˌOmOnˈOskA"
-  ],
-  "Momoo": [
-    "Moh-moh-oo",
-    "mˈOmOu"
-  ],
-  "Momoshiki": [
-    "Moh-moh-shee-kee",
-    "mˌOmOʃˈiki"
-  ],
-  "Monet": [
-    "Moh-net",
-    "mOnˈɛt"
-  ],
-  "Mozu": [
-    "Moh-zoo",
-    "mˈOzu"
-  ],
-  "Nagato": [
-    "Nah-gah-toh",
-    "nɑɡˈɑtO"
-  ],
-  "Naka": [
-    "Nah-kah",
-    "nˈɑkɑ"
-  ],
-  "Nako": [
-    "Nah-koh",
-    "nˈɑkO"
-  ],
-  "Nami": [
-    "Nah-mee",
-    "nˈɑmi"
-  ],
-  "Nanami": [
-    "Nah-nah-mee",
-    "nɑnˈɑmi"
-  ],
-  "Naruto": [
-    "Nah-roo-toh",
-    "nɑɹˈutO"
-  ],
-  "Nefertari": [
-    "Neh-fer-tar-ee",
-    "nˌɛfɚtˈɑɹi"
-  ],
-  "Neji": [
-    "Neh-jee",
-    "nˈɛʤi"
-  ],
-  "Nezumi": [
-    "Neh-zoo-mee",
-    "nˈɛzumi"
-  ],
-  "Niji": [
-    "Nee-jee",
-    "nˈiʤi"
-  ],
-  "Nika": [
-    "Nee-kah",
-    "nˈikə"
-  ],
-  "Noah": [
-    "Noh-ah",
-    "nˈOɑ"
-  ],
-  "Nobara": [
-    "Noh-bah-rah",
-    "nObˈɑɹə"
-  ],
-  "Nojiko": [
-    "Noh-jee-koh",
-    "nOʤˈikO"
-  ],
-  "Obito": [
-    "Oh-bee-toh",
-    "ObˈitO"
-  ],
-  "Oda": [
-    "Oh-dah",
-    "ˈOdə"
-  ],
-  "Oden": [
-    "Oh-den",
-    "ˈOdɛn"
-  ],
-  "Ohara": [
-    "Oh-hah-rah",
-    "Ohˈɑɹə"
-  ],
-  "Okkotsu": [
-    "Oh-kot-soo",
-    "Okˈɑtsu"
-  ],
-  "Olvia": [
-    "Ohl-vee-ah",
-    "ˈOlviə"
-  ],
-  "Onigashima": [
-    "Oh-nee-gah-shee-mah",
-    "ˌOniɡɑʃˈimə"
-  ],
-  "Ope": [
-    "Oh-pay",
-    "ˈOpA"
-  ],
-  "Orochimaru": [
-    "Oh-roh-chee-mah-roo",
-    "ˌOɹOʧimˈɑɹu"
-  ],
-  "Otohime": [
-    "Oh-toh-hee-may",
-    "OtOhˈimA"
-  ],
-  "Otsutsuki": [
-    "Oh-tsoo-tsoo-kee",
-    "ˌOtsutsˈuki"
-  ],
-  "Perona": [
-    "Peh-roh-nah",
-    "pɛɹˈOnə"
-  ],
-  "Perospero": [
-    "Pe-roh-speh-roh",
-    "pˈɛɹOspˈɛɹO"
-  ],
-  "Pika": [
-    "Pee-kah",
-    "pˈikə"
-  ],
-  "Pluton": [
-    "Ploo-ton",
-    "plˈutɑn"
-  ],
-  "Poneglyph": [
-    "Pone-glif",
-    "pˈOnɡlɪf"
-  ],
-  "Poneglyphs": [
-    "Pone-glifs",
-    "pˈOnɡlɪfs"
-  ],
-  "Poseidon": [
-    "Poh-sy-dun",
-    "pOsˈIdən"
-  ],
-  "Raftel": [
-    "Raff-tel",
-    "ɹˈæftɛl"
-  ],
-  "Raijin": [
-    "Rye-jin",
-    "ɹˈIʤin"
-  ],
-  "Rankyaku": [
-    "Rahn-kyah-koo",
-    "ɹɑŋkjˈɑku"
-  ],
-  "Rasengan": [
-    "Rah-sen-gahn",
-    "ɹˈɑsɛŋɡˌɑn"
-  ],
-  "Rayleigh": [
-    "Ray-lee",
-    "ɹˈAli"
-  ],
-  "Reiju": [
-    "Ray-joo",
-    "ɹˈAʤu"
-  ],
-  "Reports": [
-    "Ree-ports",
-    "ɹipˈɔɹts"
-  ],
-  "Reversi": [
-    "Ruh-ver-see",
-    "ɹɪvˈɜɹsi"
-  ],
-  "Rika": [
-    "Ree-kah",
-    "ɹˈikə"
-  ],
-  "Rinnegan": [
-    "Ree-neh-gahn",
-    "ɹˈinəɡˌɑn"
-  ],
-  "Rosinante": [
-    "Roh-zee-nan-tay",
-    "ɹOsinˈɑntA"
-  ],
-  "Rumbar": [
-    "Rum-bar",
-    "ɹˈʌmbɑɹ"
-  ],
-  "Rusukaina": [
-    "Roo-soo-kai-nah",
-    "ɹusukˈIna"
-  ],
-  "Ryokugyu": [
-    "Ryoh-koo-gyoo",
-    "ɹjOkˈuɡju"
-  ],
-  "Ryomen": [
-    "Ryoh-men",
-    "ɹjˈOmɛn"
-  ],
-  "Ryuma": [
-    "Ryoo-mah",
-    "ɹjˈumə"
-  ],
-  "Sabaody": [
-    "Sah-bah-oh-dee",
-    "sˌɑbɑˈOdi"
-  ],
-  "Sabo": [
-    "Sah-boh",
-    "sˈɑbO"
-  ],
-  "Sakazuki": [
-    "Sah-kah-zoo-kee",
-    "sˌɑkɑzˈuki"
-  ],
-  "Sakura": [
-    "Sah-koo-rah",
-    "sɑkˈuɹə"
-  ],
-  "Sanji": [
-    "Sahn-jee",
-    "sˈɑnʤi"
-  ],
-  "Sarada": [
-    "Sah-rah-dah",
-    "sˈɑɹɑdə"
-  ],
-  "Sasuke": [
-    "Sahs-kay",
-    "sˈɑskA"
-  ],
-  "Satoru": [
-    "Sah-toh-roo",
-    "sɑtˈOɹu"
-  ],
-  "Sengoku": [
-    "Sen-goh-koo",
-    "sɛŋɡˈOku"
-  ],
-  "Shachi": [
-    "Shah-chee",
-    "ʃˈɑʧi"
-  ],
-  "Sharingan": [
-    "Shah-reen-gahn",
-    "ʃˈɑɹiŋɡˌɑn"
-  ],
-  "Shibai": [
-    "Shee-bye",
-    "ʃibˈI"
-  ],
-  "Shibuya": [
-    "Shee-boo-yah",
-    "ʃibˈujɑ"
-  ],
-  "Shikamaru": [
-    "Shee-kah-mah-roo",
-    "ʃikˈɑmɑɹu"
-  ],
-  "Shimotsuki": [
-    "Shee-moh-tsoo-kee",
-    "ʃˌimOtsˈuki"
-  ],
-  "Shinigami": [
-    "Shee-nee-gah-mee",
-    "ʃˌiniɡˈɑmi"
-  ],
-  "Shinjuku": [
-    "Shin-joo-koo",
-    "ʃˈinʤuku"
-  ],
-  "Shirahoshi": [
-    "Shee-rah-hoh-shee",
-    "ʃˌiɹɑhˈOʃi"
-  ],
-  "Shisui": [
-    "Shee-soo-ee",
-    "ʃˈisui"
-  ],
-  "Shukaku": [
-    "Shoo-kah-koo",
-    "ʃukˈɑku"
-  ],
-  "Shunshin": [
-    "Shoon-shin",
-    "ʃˈunʃin"
-  ],
-  "Shusui": [
-    "Shoo-soo-ee",
-    "ʃˈusui"
-  ],
-  "Skypiea": [
-    "Sky-pee-ah",
-    "skˈIpiə"
-  ],
-  "Sogeking": [
-    "Soh-geh-king",
-    "sOɡˈɛkIŋ"
-  ],
-  "Sommers": [
-    "Som-erz",
-    "sˈɑməɹz"
-  ],
-  "Spandam": [
-    "Spahn-dam",
-    "spˈɑndɑm"
-  ],
-  "Sukuna": [
-    "Soo-koo-nah",
-    "sukˈunə"
-  ],
-  "Susanoo": [
-    "Soo-sah-noh-oh",
-    "sˌusɑnˈOO"
-  ],
-  "Tashigi": [
-    "Tah-shee-gee",
-    "tɑʃˈiɡi"
-  ],
-  "Tengen": [
-    "Ten-gen",
-    "tˈɛŋɡɛn"
-  ],
-  "Todo": [
-    "Toh-doh",
-    "tˈOdO"
-  ],
-  "Toji": [
-    "Toh-jee",
-    "tˈOʤi"
-  ],
-  "Toneri": [
-    "Toh-neh-ree",
-    "tOnˈɛɹi"
-  ],
-  "Tontatta": [
-    "Ton-tah-tah",
-    "tˈɑntɑtə"
-  ],
-  "Torino": [
-    "Toh-ree-noh",
-    "tɔɹˈinO"
-  ],
-  "Totto": [
-    "Tot-toh",
-    "tˈɑtO"
-  ],
-  "Tsukuyomi": [
-    "Tsoo-koo-yoh-mee",
-    "tsukujˈOmi"
-  ],
-  "Tsunade": [
-    "Tsoo-nah-day",
-    "tsunˈɑdA"
-  ],
-  "Uchiha": [
-    "Oo-chee-hah",
-    "uʧˈihɑ"
-  ],
-  "Uraume": [
-    "Oo-rah-oo-may",
-    "ˌuɹɑˈumA"
-  ],
-  "Usopp": [
-    "Oo-sop",
-    "ˈusɑp"
-  ],
-  "Uzumaki": [
-    "Oo-zoo-mah-kee",
-    "ˌuzumˈɑki"
-  ],
-  "Vegapunk": [
-    "Vega-punk",
-    "vˈɛɡəpʌŋk"
-  ],
-  "Vergo": [
-    "Ver-goh",
-    "vˈɜɹɡO"
-  ],
-  "Vinsmoke": [
-    "Vin-smoke",
-    "vˈɪnsmOk"
-  ],
-  "Vivi": [
-    "Vee-vee",
-    "vˈivi"
-  ],
-  "Wado": [
-    "Wah-doh",
-    "wˈɑdO"
-  ],
-  "Wano": [
-    "Wah-noh",
-    "wˈɑnO"
-  ],
-  "Wapol": [
-    "Wah-pol",
-    "wˈɑpɔl"
-  ],
-  "Whitebeard": [
-    "White-beerd",
-    "wˈItbˌiɹd"
-  ],
-  "Yahiko": [
-    "Yah-hee-koh",
-    "jɑhˈikO"
-  ],
-  "Yamato": [
-    "Yah-mah-toh",
-    "jɑmˈɑtO"
-  ],
-  "Yami": [
-    "Yah-mee",
-    "jˈɑmi"
-  ],
-  "Yomi": [
-    "Yoh-mee",
-    "jˈOmi"
-  ],
-  "Yonji": [
-    "Yon-jee",
-    "jˈɑnʤi"
-  ],
-  "Yorki": [
-    "York-ee",
-    "jˈɔɹki"
-  ],
-  "Yoru": [
-    "Yoh-roo",
-    "jˈOɹu"
-  ],
-  "Yosaku": [
-    "Yoh-sah-koo",
-    "jOsˈɑku"
-  ],
-  "Yuji": [
-    "Yoo-jee",
-    "jˈuʤi"
-  ],
-  "Yuta": [
-    "Yoo-tah",
-    "jˈutə"
-  ],
-  "Zambai": [
-    "Zahm-bye",
-    "zˈɑmbI"
-  ],
-  "Zeff": [
-    "Zef",
-    "zˈɛf"
-  ],
-  "Zenin": [
-    "Zen-in",
-    "zˈɛnin"
-  ],
-  "Zetsu": [
-    "Zet-soo",
-    "zˈɛtsu"
-  ],
-  "Zoan": [
-    "Zoh-an",
-    "zˈOən"
-  ],
-  "Zoro": [
-    "Zoh-roh",
-    "zˈOɹO"
-  ],
-  "Zunesha": [
-    "Zoo-neh-shah",
-    "zunˈɛʃə"
-  ]
+ "Agito": [
+  "Ah-gee-toh",
+  "ɑɡˈitO"
+ ],
+ "Akainu": [
+  "Ah-kye-noo",
+  "ɑkˈInu"
+ ],
+ "Alabasta": [
+  "Al-uh-bas-tah",
+  "ˌæləbˈæstə"
+ ],
+ "Alubarna": [
+  "Ah-loo-bar-nah",
+  "ˌɑlubˈɑɹnə"
+ ],
+ "Alvida": [
+  "Al-vee-dah",
+  "ælvˈidə"
+ ],
+ "Amado": [
+  "Ah-mah-doh",
+  "ɑmˈɑdO"
+ ],
+ "Amiudake": [
+  "Ah-mee-oo-dah-keh",
+  "ɑmiudˈɑkɛ"
+ ],
+ "Aokiji": [
+  "Ah-oh-kee-jee",
+  "ˌɑOkˈiʤi"
+ ],
+ "Arlong": [
+  "Ar-long",
+  "ˈɑɹlɔŋ"
+ ],
+ "Baratie": [
+  "Bah-rah-tee-ay",
+  "bˌɑɹɑtˈiA"
+ ],
+ "Bartolomeo": [
+  "Bar-toh-loh-MAY-oh",
+  "bɑrtˌOlomˈAO"
+ ],
+ "Bepo": [
+  "Beh-poh",
+  "bˈɛpO"
+ ],
+ "Boruto": [
+  "Boh-roo-toh",
+  "bOɹˈutO"
+ ],
+ "Brogy": [
+  "Broh-gee",
+  "bɹˈOɡi"
+ ],
+ "Busoshoku": [
+  "Boo-soh-shoh-koo",
+  "bˌusOʃˈOku"
+ ],
+ "Byakugan": [
+  "Byah-koo-gahn",
+  "bjˈɑkuɡˌɑn"
+ ],
+ "Chibaku": [
+  "Chee-bah-koo",
+  "ʧibˈɑku"
+ ],
+ "Chidori": [
+  "Chee-doh-ree",
+  "ʧidˈOɹi"
+ ],
+ "Choso": [
+  "Choh-soh",
+  "ʧˈOsO"
+ ],
+ "Chunin": [
+  "Choo-nin",
+  "ʧˈunin"
+ ],
+ "Cocoyasi": [
+  "Koh-koh-yah-see",
+  "kOkOjˈɑsi"
+ ],
+ "Colubo": [
+  "Koh-loo-boh",
+  "kOlˈubO"
+ ],
+ "Corazon": [
+  "Koh-rah-sohn",
+  "kˌOɹəsˈOn"
+ ],
+ "Crocus": [
+  "Kroh-kus",
+  "kɹˈOkəs"
+ ],
+ "Cutty": [
+  "Kut-ee",
+  "kˈʌti"
+ ],
+ "Dadan": [
+  "Dah-dahn",
+  "dˈɑdɑn"
+ ],
+ "Dagon": [
+  "Day-gon",
+  "dˈAɡɑn"
+ ],
+ "Danzo": [
+  "Dahn-zoh",
+  "dˈɑnzO"
+ ],
+ "Doflamingo": [
+  "Doh-fluh-ming-goh",
+  "dOfləmˈɪŋgO"
+ ],
+ "Domi": [
+  "Doh-mee",
+  "dˈOmi"
+ ],
+ "Donquixote": [
+  "Don-kee-show-tay",
+  "dɑnkiʃˈOtA"
+ ],
+ "Dorry": [
+  "Dor-ree",
+  "dˈɔɹi"
+ ],
+ "Dressrosa": [
+  "Dress-ROH-sah",
+  "drɛsrˈOsɑ"
+ ],
+ "Eida": [
+  "Ay-dah",
+  "ˈAdə"
+ ],
+ "Elbaf": [
+  "El-bahf",
+  "ˈɛlbɑf"
+ ],
+ "Elbaph": [
+  "El-bahf",
+  "ˈɛlbɑf"
+ ],
+ "Enel": [
+  "Eh-nel",
+  "ˈɛnɛl"
+ ],
+ "Enies": [
+  "Eh-neez",
+  "ˈɛniz"
+ ],
+ "Enma": [
+  "En-mah",
+  "ˈɛnmɑ"
+ ],
+ "Flam": [
+  "Flam",
+  "flˈæm"
+ ],
+ "Flevance": [
+  "Fleh-vans",
+  "flˈɛvəns"
+ ],
+ "Foosha": [
+  "Foo-shah",
+  "fˈuʃə"
+ ],
+ "Franky": [
+  "Frank-ee",
+  "fɹˈæŋki"
+ ],
+ "Fugaku": [
+  "Foo-gah-koo",
+  "fuɡˈɑku"
+ ],
+ "Fujitora": [
+  "Foo-jee-toh-rah",
+  "fˌuʤitˈOɹə"
+ ],
+ "Fukasaku": [
+  "Foo-kah-sah-koo",
+  "fukˈɑsɑku"
+ ],
+ "Fushiguro": [
+  "Foo-shee-goo-roh",
+  "fˌuʃiɡˈuɹO"
+ ],
+ "Gaara": [
+  "Gah-rah",
+  "ɡˈɑɹə"
+ ],
+ "Gaban": [
+  "Gah-bahn",
+  "ɡˈɑbɑn"
+ ],
+ "Galley-La": [
+  "Gal-ee-lah",
+  "ɡˈæliˌlɑ"
+ ],
+ "Garp": [
+  "Garp",
+  "ɡˈɑɹp"
+ ],
+ "Gege": [
+  "Geh-geh",
+  "ɡˈɛɡɛ"
+ ],
+ "Genzo": [
+  "Jen-zoh",
+  "ʤˈɛnzO"
+ ],
+ "Germa": [
+  "Jer-mah",
+  "ʤˈɜɹmə"
+ ],
+ "Geto": [
+  "Geh-toh",
+  "ɡˈɛtO"
+ ],
+ "Gojo": [
+  "Goh-joh",
+  "ɡˈOʤO"
+ ],
+ "Gol": [
+  "Goal",
+  "ɡˈɑl"
+ ],
+ "Gomu": [
+  "Goh-moo",
+  "ɡˈOmu"
+ ],
+ "Goro": [
+  "Goh-roh",
+  "ɡˈOɹO"
+ ],
+ "Gorosei": [
+  "Goh-roh-say",
+  "ɡˌOɹOsˈA"
+ ],
+ "Gunko": [
+  "Goon-koh",
+  "ɡˈunkO"
+ ],
+ "Gura": [
+  "Goo-rah",
+  "ɡˈuɹɑ"
+ ],
+ "Hagoromo": [
+  "Hah-goh-roh-moh",
+  "hˌɑɡOɹˈOmO"
+ ],
+ "Haibara": [
+  "Hye-bah-rah",
+  "hˌIbˈɑɹə"
+ ],
+ "Hajrudin": [
+  "Hah-jroo-din",
+  "hɑʤɹˈudɪn"
+ ],
+ "Hakari": [
+  "Hah-kah-ree",
+  "hɑkˈɑɹi"
+ ],
+ "Haki": [
+  "Hah-kee",
+  "hˈɑki"
+ ],
+ "Hanami": [
+  "Hah-nah-mee",
+  "hɑnˈɑmi"
+ ],
+ "Haoshoku": [
+  "Hah-oh-shoh-koo",
+  "hˌɑOʃˈOku"
+ ],
+ "Harald": [
+  "Hair-ald",
+  "hˈɛɹɑld"
+ ],
+ "Hatchan": [
+  "Hot-chan",
+  "hˈɑtʧɑn"
+ ],
+ "Helmeppo": [
+  "Hel-meh-poh",
+  "hɛlmˈɛpO"
+ ],
+ "Hidari": [
+  "Hee-dah-ree",
+  "hidˈɑɹi"
+ ],
+ "Higuma": [
+  "Hee-goo-mah",
+  "hiɡˈumə"
+ ],
+ "Higuruma": [
+  "Hee-goo-roo-mah",
+  "hˌiɡuɹˈumə"
+ ],
+ "Himawari": [
+  "Hee-mah-wah-ree",
+  "hˌimɑwˈɑɹi"
+ ],
+ "Hinata": [
+  "Hee-nah-tah",
+  "hinˈɑtə"
+ ],
+ "Hiriluk": [
+  "Hee-ree-look",
+  "hˈiɹilˌuk"
+ ],
+ "Hiruzen": [
+  "Hee-roo-zen",
+  "hiɹˈuzɛn"
+ ],
+ "Hito": [
+  "Hee-toh",
+  "hˈitO"
+ ],
+ "Hiyori": [
+  "Hee-yoh-ree",
+  "hijˈOɹi"
+ ],
+ "Hody": [
+  "Hoh-dee",
+  "hˈOdi"
+ ],
+ "Hokage": [
+  "Hoh-kah-gay",
+  "hOkˈɑɡA"
+ ],
+ "Homies": [
+  "Hoh-meez",
+  "hˈOmiz"
+ ],
+ "Iceburg": [
+  "Eye-sburg",
+  "ˈIsbɜɹɡ"
+ ],
+ "Ichiji": [
+  "Ee-chee-jee",
+  "ˈiʧiʤi"
+ ],
+ "Ichimonji": [
+  "Ee-chee-mohn-jee",
+  "ˌiʧimˈOnʤi"
+ ],
+ "Ikemoto": [
+  "Ee-keh-moh-toh",
+  "ˌikɛmˈOtO"
+ ],
+ "Imu": [
+  "Ee-moo",
+  "ˈimu"
+ ],
+ "Inumaki": [
+  "Ee-noo-mah-kee",
+  "ˌinumˈɑki"
+ ],
+ "Iruka": [
+  "Ee-roo-kah",
+  "iɹˈukə"
+ ],
+ "Ishigori": [
+  "Ee-shee-goh-ree",
+  "ˌiʃiɡˈOɹi"
+ ],
+ "Isshiki": [
+  "Ee-shee-kee",
+  "iʃˈiki"
+ ],
+ "Itachi": [
+  "Ee-tah-chee",
+  "itˈɑʧi"
+ ],
+ "Itadori": [
+  "Ee-tah-doh-ree",
+  "ˌitɑdˈOɹi"
+ ],
+ "Ivankov": [
+  "Ee-van-koff",
+  "ivˈɑnkɔf"
+ ],
+ "Izanagi": [
+  "Ee-zah-nah-gee",
+  "izɑnˈɑɡi"
+ ],
+ "Izanami": [
+  "Ee-zah-nah-mee",
+  "ˌizɑnˈɑmi"
+ ],
+ "Jinbe": [
+  "Jin-bay",
+  "ʤˈinbA"
+ ],
+ "Jiraiya": [
+  "Jee-rye-yah",
+  "ʤiɹˈIjə"
+ ],
+ "Jogo": [
+  "Joh-goh",
+  "ʤˈOɡO"
+ ],
+ "Jougan": [
+  "Joh-gahn",
+  "ʤˈOɡɑn"
+ ],
+ "Junpei": [
+  "Joon-pay",
+  "ʤˈunpA"
+ ],
+ "Jyabura": [
+  "Jah-boo-rah",
+  "ʤˈɑbuɹɑ"
+ ],
+ "Kabuto": [
+  "Kah-boo-toh",
+  "kɑbˈutO"
+ ],
+ "Kaguya": [
+  "Kah-goo-yah",
+  "kɑɡˈujə"
+ ],
+ "Kaido": [
+  "Kye-doh",
+  "kˈIdO"
+ ],
+ "Kakashi": [
+  "Kah-kah-shee",
+  "kɑkˈɑʃi"
+ ],
+ "Kaku": [
+  "Kah-koo",
+  "kˈɑku"
+ ],
+ "Kalifa": [
+  "Kah-lee-fah",
+  "kɑlˈifɑ"
+ ],
+ "Kamabakka": [
+  "Kah-mah-bah-kah",
+  "kɑmɑbˈɑkɑ"
+ ],
+ "Kamui": [
+  "Kah-moo-ee",
+  "kˈɑmui"
+ ],
+ "Kannabi": [
+  "Kah-nah-bee",
+  "kɑnˈɑbi"
+ ],
+ "Kara": [
+  "Kah-rah",
+  "kˈɑɹə"
+ ],
+ "Karasu": [
+  "Kah-rah-soo",
+  "kɑɹˈɑsu"
+ ],
+ "Kashii": [
+  "Kah-shee",
+  "kˈɑʃi"
+ ],
+ "Kashimo": [
+  "Kah-shee-moh",
+  "kɑʃˈimO"
+ ],
+ "Kashin": [
+  "Kah-shin",
+  "kˈɑʃin"
+ ],
+ "Katakuri": [
+  "Kah-tah-koo-ree",
+  "kˌɑtɑkˈuɹi"
+ ],
+ "Kawaki": [
+  "Kah-wah-kee",
+  "kɑwˈɑki"
+ ],
+ "Kazekage": [
+  "Kah-zeh-kah-geh",
+  "kˌɑzɛkˈɑɡɛ"
+ ],
+ "Kenbunshoku": [
+  "Ken-boon-shoh-koo",
+  "kˌɛnbunʃˈOku"
+ ],
+ "Kenjaku": [
+  "Ken-jah-koo",
+  "kˈɛnʤɑku"
+ ],
+ "Killingham": [
+  "Kill-ing-ham",
+  "kˈɪlɪŋhæm"
+ ],
+ "Kinemon": [
+  "Kee-neh-mon",
+  "kˈinəmɑn"
+ ],
+ "Kishimoto": [
+  "Kee-shee-moh-toh",
+  "kˌiʃimˈOtO"
+ ],
+ "Kizaru": [
+  "Kee-zah-roo",
+  "kizˈɑɹu"
+ ],
+ "Koby": [
+  "Koh-bee",
+  "kˈObi"
+ ],
+ "Koji": [
+  "Koh-jee",
+  "kˈOʤi"
+ ],
+ "Konoha": [
+  "Koh-noh-hah",
+  "kˈOnOhɑ"
+ ],
+ "Koshiro": [
+  "Koh-shee-roh",
+  "kOʃˈiɹO"
+ ],
+ "Kotoamatsukami": [
+  "Koh-toh-ah-mah-tsoo-kah-mee",
+  "kˌOtOˌɑmɑtsukˈɑmi"
+ ],
+ "Kozaburo": [
+  "Koh-zah-boo-roh",
+  "kˌOzɑbˈuɹO"
+ ],
+ "Krieg": [
+  "Kreeg",
+  "kɹˈiɡ"
+ ],
+ "Kuina": [
+  "Koo-ee-nah",
+  "kuˈinə"
+ ],
+ "Kuma": [
+  "Koo-mah",
+  "kˈumə"
+ ],
+ "Kumadori": [
+  "Koo-mah-doh-ree",
+  "kumɑdˈOɹi"
+ ],
+ "Kuraigana": [
+  "Koo-rye-gah-nah",
+  "kˌuɹIɡˈɑnə"
+ ],
+ "Kurama": [
+  "Koo-rah-mah",
+  "kuɹˈɑmə"
+ ],
+ "Kureha": [
+  "Koo-reh-hah",
+  "kˈuɹɛhɑ"
+ ],
+ "Kuroobi": [
+  "Koo-roh-oh-bee",
+  "kˌuɹOˈObi"
+ ],
+ "Kusakabe": [
+  "Koo-sah-kah-bay",
+  "kˌusɑkˈɑbA"
+ ],
+ "Kuzan": [
+  "Koo-zahn",
+  "kˈuzɑn"
+ ],
+ "Laboon": [
+  "Lah-boon",
+  "lɑbˈun"
+ ],
+ "Larue": [
+  "La-roo",
+  "lɑrˈu"
+ ],
+ "Loguetown": [
+  "Loag-town",
+  "lˈOɡtWn"
+ ],
+ "Loki": [
+  "Loh-kee",
+  "lˈOki"
+ ],
+ "Lucci": [
+  "Loo-chee",
+  "lˈuʧi"
+ ],
+ "Luffy": [
+  "Loo-fee",
+  "lˈufi"
+ ],
+ "Lulu": [
+  "Loo-loo",
+  "lˈulu"
+ ],
+ "Lulusia": [
+  "Loo-loo-see-ah",
+  "lˌulusˈiə"
+ ],
+ "Madara": [
+  "Mah-dah-rah",
+  "mɑdˈɑɹə"
+ ],
+ "Magu": [
+  "Mah-goo",
+  "mˈɑɡu"
+ ],
+ "Mahito": [
+  "Mah-hee-toh",
+  "mɑhˈitO"
+ ],
+ "Mahoraga": [
+  "Mah-hoh-rah-gah",
+  "mˌɑhOɹˈɑɡə"
+ ],
+ "Maki": [
+  "Mah-kee",
+  "mˈɑki"
+ ],
+ "Mangekyo": [
+  "Mahn-geh-kyoh",
+  "mˌɑnɡɛkjˈO"
+ ],
+ "Marineford": [
+  "Marine-ford",
+  "məɹˈinfɔɹd"
+ ],
+ "Megumi": [
+  "Meh-goo-mee",
+  "mɛɡˈumi"
+ ],
+ "Mera": [
+  "Meh-rah",
+  "mˈɛɹə"
+ ],
+ "Mera Mera": [
+  "Meh-rah Meh-rah",
+  "mˈɛɹɑ mˈɛɹɑ"
+ ],
+ "Mihawk": [
+  "Mee-hawk",
+  "mˈihɔk"
+ ],
+ "Mikoto": [
+  "Mee-koh-toh",
+  "mikˈOtO"
+ ],
+ "Minato": [
+  "Mee-nah-toh",
+  "minˈɑtO"
+ ],
+ "Minutes": [
+  "My-noots",
+  "maɪnˈuts"
+ ],
+ "Mizuki": [
+  "Mee-zoo-kee",
+  "mizˈuki"
+ ],
+ "Momonosuke": [
+  "Moh-moh-noh-skay",
+  "mˌOmOnˈOskA"
+ ],
+ "Momoo": [
+  "Moh-moh-oo",
+  "mˈOmOu"
+ ],
+ "Momoshiki": [
+  "Moh-moh-shee-kee",
+  "mˌOmOʃˈiki"
+ ],
+ "Monet": [
+  "Moh-net",
+  "mOnˈɛt"
+ ],
+ "Mozu": [
+  "Moh-zoo",
+  "mˈOzu"
+ ],
+ "Nagato": [
+  "Nah-gah-toh",
+  "nɑɡˈɑtO"
+ ],
+ "Naka": [
+  "Nah-kah",
+  "nˈɑkɑ"
+ ],
+ "Nako": [
+  "Nah-koh",
+  "nˈɑkO"
+ ],
+ "Nami": [
+  "Nah-mee",
+  "nˈɑmi"
+ ],
+ "Nanami": [
+  "Nah-nah-mee",
+  "nɑnˈɑmi"
+ ],
+ "Naruto": [
+  "Nah-roo-toh",
+  "nɑɹˈutO"
+ ],
+ "Nefertari": [
+  "Neh-fer-tar-ee",
+  "nˌɛfɚtˈɑɹi"
+ ],
+ "Neji": [
+  "Neh-jee",
+  "nˈɛʤi"
+ ],
+ "Nezumi": [
+  "Neh-zoo-mee",
+  "nˈɛzumi"
+ ],
+ "Niji": [
+  "Nee-jee",
+  "nˈiʤi"
+ ],
+ "Nika": [
+  "Nee-kah",
+  "nˈikə"
+ ],
+ "Noah": [
+  "Noh-ah",
+  "nˈOɑ"
+ ],
+ "Nobara": [
+  "Noh-bah-rah",
+  "nObˈɑɹə"
+ ],
+ "Nojiko": [
+  "Noh-jee-koh",
+  "nOʤˈikO"
+ ],
+ "Obito": [
+  "Oh-bee-toh",
+  "ObˈitO"
+ ],
+ "Oda": [
+  "Oh-dah",
+  "ˈOdə"
+ ],
+ "Oden": [
+  "Oh-den",
+  "ˈOdɛn"
+ ],
+ "Ohara": [
+  "Oh-hah-rah",
+  "Ohˈɑɹə"
+ ],
+ "Okkotsu": [
+  "Oh-kot-soo",
+  "Okˈɑtsu"
+ ],
+ "Olvia": [
+  "Ohl-vee-ah",
+  "ˈOlviə"
+ ],
+ "Onigashima": [
+  "Oh-nee-gah-shee-mah",
+  "ˌOniɡɑʃˈimə"
+ ],
+ "Ope": [
+  "Oh-pay",
+  "ˈOpA"
+ ],
+ "Orochimaru": [
+  "Oh-roh-chee-mah-roo",
+  "ˌOɹOʧimˈɑɹu"
+ ],
+ "Otohime": [
+  "Oh-toh-hee-may",
+  "OtOhˈimA"
+ ],
+ "Otsutsuki": [
+  "Oh-tsoo-tsoo-kee",
+  "ˌOtsutsˈuki"
+ ],
+ "Perona": [
+  "Peh-roh-nah",
+  "pɛɹˈOnə"
+ ],
+ "Perospero": [
+  "Pe-roh-speh-roh",
+  "pˈɛɹOspˈɛɹO"
+ ],
+ "Pika": [
+  "Pee-kah",
+  "pˈikə"
+ ],
+ "Pluton": [
+  "Ploo-ton",
+  "plˈutɑn"
+ ],
+ "Poneglyph": [
+  "Pone-glif",
+  "pˈOnɡlɪf"
+ ],
+ "Poneglyphs": [
+  "Pone-glifs",
+  "pˈOnɡlɪfs"
+ ],
+ "Poseidon": [
+  "Poh-sy-dun",
+  "pOsˈIdən"
+ ],
+ "Raftel": [
+  "Raff-tel",
+  "ɹˈæftɛl"
+ ],
+ "Raijin": [
+  "Rye-jin",
+  "ɹˈIʤin"
+ ],
+ "Rankyaku": [
+  "Rahn-kyah-koo",
+  "ɹɑŋkjˈɑku"
+ ],
+ "Rasengan": [
+  "Rah-sen-gahn",
+  "ɹˈɑsɛŋɡˌɑn"
+ ],
+ "Rayleigh": [
+  "Ray-lee",
+  "ɹˈAli"
+ ],
+ "Reiju": [
+  "Ray-joo",
+  "ɹˈAʤu"
+ ],
+ "Reports": [
+  "Ree-ports",
+  "ɹipˈɔɹts"
+ ],
+ "Reversi": [
+  "Ruh-ver-see",
+  "ɹɪvˈɜɹsi"
+ ],
+ "Rika": [
+  "Ree-kah",
+  "ɹˈikə"
+ ],
+ "Rinnegan": [
+  "Ree-neh-gahn",
+  "ɹˈinəɡˌɑn"
+ ],
+ "Rosinante": [
+  "Roh-zee-nan-tay",
+  "ɹOsinˈɑntA"
+ ],
+ "Rumbar": [
+  "Rum-bar",
+  "ɹˈʌmbɑɹ"
+ ],
+ "Rusukaina": [
+  "Roo-soo-kai-nah",
+  "ɹusukˈIna"
+ ],
+ "Ryokugyu": [
+  "Ryoh-koo-gyoo",
+  "ɹjOkˈuɡju"
+ ],
+ "Ryomen": [
+  "Ryoh-men",
+  "ɹjˈOmɛn"
+ ],
+ "Ryuma": [
+  "Ryoo-mah",
+  "ɹjˈumə"
+ ],
+ "Sabaody": [
+  "Sah-bah-oh-dee",
+  "sˌɑbɑˈOdi"
+ ],
+ "Sabo": [
+  "Sah-boh",
+  "sˈɑbO"
+ ],
+ "Sakazuki": [
+  "Sah-kah-zoo-kee",
+  "sˌɑkɑzˈuki"
+ ],
+ "Sakura": [
+  "Sah-koo-rah",
+  "sɑkˈuɹə"
+ ],
+ "Sanji": [
+  "Sahn-jee",
+  "sˈɑnʤi"
+ ],
+ "Sarada": [
+  "Sah-rah-dah",
+  "sˈɑɹɑdə"
+ ],
+ "Sasuke": [
+  "Sahs-kay",
+  "sˈɑskA"
+ ],
+ "Satoru": [
+  "Sah-toh-roo",
+  "sɑtˈOɹu"
+ ],
+ "Sengoku": [
+  "Sen-goh-koo",
+  "sɛŋɡˈOku"
+ ],
+ "Shachi": [
+  "Shah-chee",
+  "ʃˈɑʧi"
+ ],
+ "Sharingan": [
+  "Shah-reen-gahn",
+  "ʃˈɑɹiŋɡˌɑn"
+ ],
+ "Shibai": [
+  "Shee-bye",
+  "ʃibˈI"
+ ],
+ "Shibuya": [
+  "Shee-boo-yah",
+  "ʃibˈujɑ"
+ ],
+ "Shikamaru": [
+  "Shee-kah-mah-roo",
+  "ʃikˈɑmɑɹu"
+ ],
+ "Shimotsuki": [
+  "Shee-moh-tsoo-kee",
+  "ʃˌimOtsˈuki"
+ ],
+ "Shinigami": [
+  "Shee-nee-gah-mee",
+  "ʃˌiniɡˈɑmi"
+ ],
+ "Shinjuku": [
+  "Shin-joo-koo",
+  "ʃˈinʤuku"
+ ],
+ "Shirahoshi": [
+  "Shee-rah-hoh-shee",
+  "ʃˌiɹɑhˈOʃi"
+ ],
+ "Shisui": [
+  "Shee-soo-ee",
+  "ʃˈisui"
+ ],
+ "Shukaku": [
+  "Shoo-kah-koo",
+  "ʃukˈɑku"
+ ],
+ "Shunshin": [
+  "Shoon-shin",
+  "ʃˈunʃin"
+ ],
+ "Shusui": [
+  "Shoo-soo-ee",
+  "ʃˈusui"
+ ],
+ "Skypiea": [
+  "Sky-pee-ah",
+  "skˈIpiə"
+ ],
+ "Sogeking": [
+  "Soh-geh-king",
+  "sOɡˈɛkIŋ"
+ ],
+ "Sommers": [
+  "Som-erz",
+  "sˈɑməɹz"
+ ],
+ "Spandam": [
+  "Spahn-dam",
+  "spˈɑndɑm"
+ ],
+ "Sukuna": [
+  "Soo-koo-nah",
+  "sukˈunə"
+ ],
+ "Susanoo": [
+  "Soo-sah-noh-oh",
+  "sˌusɑnˈOO"
+ ],
+ "Tashigi": [
+  "Tah-shee-gee",
+  "tɑʃˈiɡi"
+ ],
+ "Tengen": [
+  "Ten-gen",
+  "tˈɛŋɡɛn"
+ ],
+ "Todo": [
+  "Toh-doh",
+  "tˈOdO"
+ ],
+ "Toji": [
+  "Toh-jee",
+  "tˈOʤi"
+ ],
+ "Toneri": [
+  "Toh-neh-ree",
+  "tOnˈɛɹi"
+ ],
+ "Tontatta": [
+  "Ton-tah-tah",
+  "tˈɑntɑtə"
+ ],
+ "Torino": [
+  "Toh-ree-noh",
+  "tɔɹˈinO"
+ ],
+ "Totto": [
+  "Tot-toh",
+  "tˈɑtO"
+ ],
+ "Tsukuyomi": [
+  "Tsoo-koo-yoh-mee",
+  "tsukujˈOmi"
+ ],
+ "Tsunade": [
+  "Tsoo-nah-day",
+  "tsunˈɑdA"
+ ],
+ "Uchiha": [
+  "Oo-chee-hah",
+  "uʧˈihɑ"
+ ],
+ "Uraume": [
+  "Oo-rah-oo-may",
+  "ˌuɹɑˈumA"
+ ],
+ "Usopp": [
+  "Oo-sop",
+  "ˈusɑp"
+ ],
+ "Uzumaki": [
+  "Oo-zoo-mah-kee",
+  "ˌuzumˈɑki"
+ ],
+ "Vegapunk": [
+  "Vega-punk",
+  "vˈɛɡəpʌŋk"
+ ],
+ "Vergo": [
+  "Ver-goh",
+  "vˈɜɹɡO"
+ ],
+ "Vinsmoke": [
+  "Vin-smoke",
+  "vˈɪnsmOk"
+ ],
+ "Vivi": [
+  "Vee-vee",
+  "vˈivi"
+ ],
+ "Wado": [
+  "Wah-doh",
+  "wˈɑdO"
+ ],
+ "Wano": [
+  "Wah-noh",
+  "wˈɑnO"
+ ],
+ "Wapol": [
+  "Wah-pol",
+  "wˈɑpɔl"
+ ],
+ "Whitebeard": [
+  "White-beerd",
+  "wˈItbˌiɹd"
+ ],
+ "Yahiko": [
+  "Yah-hee-koh",
+  "jɑhˈikO"
+ ],
+ "Yamato": [
+  "Yah-mah-toh",
+  "jɑmˈɑtO"
+ ],
+ "Yami": [
+  "Yah-mee",
+  "jˈɑmi"
+ ],
+ "Yomi": [
+  "Yoh-mee",
+  "jˈOmi"
+ ],
+ "Yonji": [
+  "Yon-jee",
+  "jˈɑnʤi"
+ ],
+ "Yorki": [
+  "York-ee",
+  "jˈɔɹki"
+ ],
+ "Yoru": [
+  "Yoh-roo",
+  "jˈOɹu"
+ ],
+ "Yosaku": [
+  "Yoh-sah-koo",
+  "jOsˈɑku"
+ ],
+ "Yuji": [
+  "Yoo-jee",
+  "jˈuʤi"
+ ],
+ "Yuta": [
+  "Yoo-tah",
+  "jˈutə"
+ ],
+ "Zambai": [
+  "Zahm-bye",
+  "zˈɑmbI"
+ ],
+ "Zeff": [
+  "Zef",
+  "zˈɛf"
+ ],
+ "Zenin": [
+  "Zen-in",
+  "zˈɛnin"
+ ],
+ "Zetsu": [
+  "Zet-soo",
+  "zˈɛtsu"
+ ],
+ "Zoan": [
+  "Zoh-an",
+  "zˈOən"
+ ],
+ "Zoro": [
+  "Zoh-roh",
+  "zˈOɹO"
+ ],
+ "Zunesha": [
+  "Zoo-neh-shah",
+  "zunˈɛʃə"
+ ],
+ "Hajime": [
+  "Hah-jee-meh",
+  "hɑdʤˈimɛ"
+ ],
+ "Hana": [
+  "Hah-nah",
+  "hˈɑnɑ"
+ ],
+ "Kurusu": [
+  "Koo-roo-soo",
+  "kˈuɹusu"
+ ],
+ "Aoi": [
+  "Ah-oh-ee",
+  "ˈɑOi"
+ ],
+ "Takaba": [
+  "Tah-kah-bah",
+  "tɑkˈɑbɑ"
+ ],
+ "Fumihiko": [
+  "Foo-mee-hee-koh",
+  "fˌumihˈikO"
+ ],
+ "Nanako": [
+  "Nah-nah-koh",
+  "nɑnˈɑkO"
+ ],
+ "Mimiko": [
+  "Mee-mee-koh",
+  "mimˈikO"
+ ]
 }
