@@ -1,6 +1,6 @@
 # Nami
 
-Source: https://onepiece.fandom.com/wiki/Nami (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Nami (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 "Cat Burglar" Nami is the navigator of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the third member of the crew and the second to join, doing so during the Orange Town Arc. [Ch. 8, Ep. 4] She is the adoptive sister of Nojiko after the two were orphaned and taken in by Bell-mère.
 She was formerly a member of the Arlong Pirates who initially joined the Straw Hats to rob them in order to buy back her village from Arlong, and served as a supporting antagonist during the Baratie Arc. However, she legitimately joined the Straw Hats after they defeated Arlong. Her dream is to make a map of the entire world. [Ch. 49, Ep. 23]

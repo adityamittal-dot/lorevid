@@ -1,6 +1,6 @@
 # Shisui Uchiha
 
-Source: https://naruto.fandom.com/wiki/Shisui_Uchiha (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Shisui_Uchiha (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 , renowned as , was an Anbu from Konohagakure's Uchiha clan.
 

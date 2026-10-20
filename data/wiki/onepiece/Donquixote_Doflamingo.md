@@ -1,6 +1,6 @@
 # Donquixote Doflamingo
 
-Source: https://onepiece.fandom.com/wiki/Donquixote_Doflamingo (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Donquixote_Doflamingo (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Donquixote Doflamingo, nicknamed "Heavenly Yaksha", is the captain of the Donquixote Pirates. [Ch. 692, Ep. 618] Before his imprisonment, [Ch. 801, Ep. 746] he was a member of the Seven Warlords of the Sea with a frozen bounty of 340,000,000, [Ch. 234, Ep. 151] as well as the most influential underworld broker under the codename "Joker". He is also a former World Noble, descended from the Donquixote Family.
 He is the first son of the late Donquixote Homing [Ch. 763, Ep. 702] and the older brother of the late Rosinante, [Ch. 749, Ep. 686] both of whom he killed out of feeling betrayed by them. [Ch. 747, Ep. 683] Doflamingo became the King of Dressrosa after taking the throne from Riku Doldo III eight years before the start of the series. [Ch. 721, Ep. 651] He ruled the country tyrannically until he was stripped of his positions as a Warlord of the Sea and king after he was defeated by Monkey D. Luffy near the end of the Dressrosa Arc. After Doflamingo was arrested by Admiral Fujitora along with most of his crew, [Ch. 792, Ep. 735] he was locked up at Impel Down and placed in Level 6. [Ch. 906, Ep. 885] Vegapunk later cloned Doflamingo as one of the Seraphim to replace the Warlords. [Ch. 1086, Ep. 1120]

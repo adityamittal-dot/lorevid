@@ -1,6 +1,6 @@
 # Jiraiya
 
-Source: https://naruto.fandom.com/wiki/Jiraiya (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Jiraiya (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 was one of Konohagakure's Sannin. Famed as a hermit and pervert of stupendous ninja skill, Jiraiya travelled the world in search of knowledge that would help his friends, the various novels he wrote, and, posthumously, the world in its entirety – knowledge that would be passed on to his godson and final student, Naruto Uzumaki.
 

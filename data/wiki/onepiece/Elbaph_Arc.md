@@ -1,6 +1,6 @@
 # Elbaph Arc
 
-Source: https://onepiece.fandom.com/wiki/Elbaph_Arc (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Elbaph_Arc (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Elbaph Arc is the 33rd story arc of the manga and anime One Piece, the second story arc of the Final Saga, and the tenth story arc of the second half of the series.
 The Straw Hat Pirates, joined by Lilith, Kuma, Bonney and the Giant Warrior Pirates, travel to Elbaph, where Robin reunites with Jaguar D. Saul and Luffy meets Elbaph's imprisoned and disgraced prince Loki. The history of Elbaph's previous king Harald and his ties to Rocks D. Xebec, including the truth of the God Valley Incident, are revealed. Meanwhile, as the world reels from Vegapunk's shocking announcement, the Red Hair Pirates, Cross Guild and the Blackbeard Pirates actively search for the One Piece while the Knights of God begin to mobilize, with their eyes set on annexing Elbaph for the World Government.

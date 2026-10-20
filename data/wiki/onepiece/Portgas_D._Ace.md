@@ -1,6 +1,6 @@
 # Portgas D. Ace
 
-Source: https://onepiece.fandom.com/wiki/Portgas_D._Ace (fetched 2026-10-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Portgas_D._Ace (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Portgas D. Ace, [Ch. 590, Ep. 505] born as Gol D. Ace and nicknamed "Fire Fist" Ace, was the captain of the Spade Pirates before being recruited into the Whitebeard Pirates and becoming its 2nd division commander. The biological son of the late Pirate King Gol D. Roger and Portgas D. Rouge, [Ch. 550, Ep. 459] Ace was put in the care of Monkey D. Garp and Curly Dadan after Roger's death, which is where he became the sworn brother of Monkey D. Luffy and Sabo. [Ch. 585, Ep. 496] Due to Roger's absence from his life, Ace disowned his father and took his mother's surname, ultimately declaring that his captain Whitebeard was his true father. [Ch. 551, Ep. 460]
 Ace's pursuit of his former subordinate Blackbeard for the murder of their crewmate Thatch led to him being captured after their duel on Banaro Island, and he was turned in to the Marines, who held a public execution for him on Marineford due to his heritage; this triggered the Summit War of Marineford. While freed from bondage, Ace would ultimately die at the hands of Admiral Akainu while protecting Luffy. [Ch. 573, Ep. 482]
