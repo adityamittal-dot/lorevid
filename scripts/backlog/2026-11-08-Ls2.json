@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-08-Ls2",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "At the Shinjuku Showdown, when Sukuna and Gojo's domains finally clashed, Sukuna's Malevolent Shrine overpowered Gojo's Unlimited Void for the first time ever",
+ "title": "Sukuna's Domain Beat Gojo's",
+ "description": "History's strongest sorcerer met an ancient king in Shinjuku. When their domains clashed, Malevolent Shrine cut through Unlimited Void—something that had never happened to Gojo before. Gojo spent the entire fight healing himself just to survive each guaranteed hit.",
+ "hashtags": [
+  "#jujutsukaisen",
+  "#sukuna",
+  "#gojo"
+ ],
+ "tags": [
+  "sukuna vs gojo",
+  "shinjuku showdown",
+  "malevolent shrine",
+  "unlimited void",
+  "domain clash",
+  "jujutsu kaisen theory",
+  "gojo strongest sorcerer",
+  "jjk analysis"
+ ],
+ "hook_text": "INFINITY CRACKED",
+ "music_mood": "epic",
+ "comment": "Is Sukuna actually stronger than Gojo, or did Gojo just have a bad day against a King a thousand years old?",
+ "related_long": "2026-11-08-L",
+ "pages": [
+  "Sukuna",
+  "Satoru Gojo",
+  "Shinjuku Incident"
+ ],
+ "lines": [
+  {
+   "text": "Gojo's Unlimited Void made him untouchable to almost everyone else in the series.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Unlimited Void untouchable infinity",
+    "fallback": "untouchable sorcerer surrounded by infinite space"
+   }
+  },
+  {
+   "text": "Sukuna's Malevolent Shrine cuts through everything in a two-hundred-meter radius the instant it opens.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Malevolent Shrine domain opening",
+    "fallback": "massive domain cutting through everything nearby"
+   }
+  },
+  {
+   "text": "When their domains clashed in Shinjuku, Malevolent Shrine overpowered Unlimited Void, which had never happened to Gojo before.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Domain clash Malevolent Shrine wins",
+    "fallback": "unprecedented domain clash overwhelming a legend"
+   }
+  },
+  {
+   "text": "Gojo absorbed hit after guaranteed hit, losing ground with every second inside that domain.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo absorbs guaranteed strikes losing",
+    "fallback": "resilient fighter losing ground relentlessly"
+   }
+  },
+  {
+   "text": "He used reverse cursed technique at full output just to heal fast enough to keep standing at all.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Gojo reverses technique full output healing",
+    "fallback": "desperate healing just to remain standing"
+   }
+  },
+  {
+   "text": "Two of the strongest beings alive were trading blows that would have ended almost anyone in a single hit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Two strongest trade devastating blows",
+    "fallback": "two titans trading impossible exchanges"
+   }
+  },
+  {
+   "text": "At his lowest point, badly hurt and his technique temporarily gone, Gojo still fought smart and found a way to recover.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo fights smart recovering anyway",
+    "fallback": "battered fighter refusing to give up"
+   }
+  },
+  {
+   "text": "But that one moment where Gojo wasn't ready, Sukuna landed exactly the blow it took to finally end the match...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna final blow Gojo match end",
+    "fallback": "decisive strike ending an epochal battle"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Sukuna",
+  "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo",
+  "https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident_Arc"
+ ],
+ "self_check": {
+  "hook": "line 1 establishes Gojo's power, line 2-3 introduce the impossible (Sukuna wins domain clash)",
+  "loop": "last line returns to the final strike that ended an epochal battle without exact repetition",
+  "facts_verified": true
+ }
+}

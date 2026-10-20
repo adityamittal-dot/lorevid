@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-08-Ls1",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Sukuna tore off one of Yuji's fingers, force-fed it to Megumi, and permanently transferred his soul into Megumi's body, taking complete control instantly without hesitation",
+ "title": "Sukuna Abandoned Yuji For A Better Body",
+ "description": "For months Sukuna shared Yuji's body, a compromise neither wanted. Then Sukuna decided Yuji's body simply wasn't good enough for him anymore. He tore off his own finger, forced it into Megumi's mouth, and transferred his soul completely. Yuji fought to stop it with everything he had and lost anyway.",
+ "hashtags": [
+  "#jujutsukaisen",
+  "#sukuna",
+  "#megumi"
+ ],
+ "tags": [
+  "sukuna explained",
+  "sukuna takes megumi",
+  "jujutsu kaisen theory",
+  "megumi fushiguro possessed",
+  "sukuna transfer vessel",
+  "yuji itadori loses control",
+  "sukuna ten shadows",
+  "jjk analysis"
+ ],
+ "hook_text": "BODY UPGRADE CALCULATED",
+ "music_mood": "suspense",
+ "comment": "Did Sukuna plan from the start to possess Megumi, or did he just get impatient with Yuji's limitations?",
+ "related_long": "2026-11-08-L",
+ "pages": [
+  "Sukuna",
+  "Yuji Itadori",
+  "Megumi Fushiguro"
+ ],
+ "lines": [
+  {
+   "text": "Sukuna had spent months sharing Yuji's body, but decided Yuji's power simply wasn't good enough for him anymore.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna impatient Yuji body limitations",
+    "fallback": "restless tyrant deciding to upgrade"
+   }
+  },
+  {
+   "text": "He'd been impressed by Megumi since their first fight. Megumi had the technique Sukuna actually wanted.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna impressed Megumi Ten Shadows",
+    "fallback": "calculating figure remembering a worthy opponent"
+   }
+  },
+  {
+   "text": "So Sukuna tore off Yuji's own pinky finger and force-fed it directly to Megumi to complete the transfer.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sukuna forces finger Megumi transfer",
+    "fallback": "forced transfer imposed on unwilling target"
+   }
+  },
+  {
+   "text": "His soul moved out of Yuji and into Megumi instantly, taking full control of a body with its own incredible technique.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna soul transfer complete control",
+    "fallback": "soul shifting into a more suitable vessel"
+   }
+  },
+  {
+   "text": "Yuji fought to stop it with everything he had. He lost anyway, watching helplessly as his own friend's body was taken over.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Yuji fights fails helplessly watches",
+    "fallback": "helpless friend witnessing a takeover"
+   }
+  },
+  {
+   "text": "Inside Megumi's body, Sukuna used Hana's own trust against her, hurting her while she was still hugging who she thought was Megumi.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna hurts Hana deceptive embrace",
+    "fallback": "cruel exploitation of someone's trust"
+   }
+  },
+  {
+   "text": "He demoralizes Megumi's own will from the inside, pushing him toward giving up entirely.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna attacks Megumi spirit inside body",
+    "fallback": "intimate cruelty from within a stolen body"
+   }
+  },
+  {
+   "text": "That's the real cost of Sukuna's underestimation: he finally got the body he wanted, but it came with a fight he didn't expect...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi resists inside body fight ahead",
+    "fallback": "internal struggle beginning in a stolen vessel"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Sukuna",
+  "https://jujutsu-kaisen.fandom.com/wiki/Yuji_Itadori",
+  "https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro"
+ ],
+ "self_check": {
+  "hook": "line 1 establishes Sukuna's impatience, lines 2-4 show his decision and execution, line 5 makes it personal with Yuji's failure",
+  "loop": "last line returns to the consequence (Megumi's resistance) that Sukuna didn't anticipate",
+  "facts_verified": true
+ }
+}
