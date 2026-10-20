@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-05-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Garling had twin sons with Magnolia on God Valley, then told her he was marrying someone else, beat her when she resisted, and walked away without confirming whether she survived",
+ "title": "Garling Left His Twin Sons And Never Looked Back",
+ "description": "A woman named Magnolia fell for Garling on God Valley and gave birth to his twin sons: Shamrock and Shanks. She believed he'd come back and they'd be a real family. Garling came back to tell her he was marrying someone else, struck her down when she protested, and abandoned her to her fate.",
+ "hashtags": [
+  "#onepiece",
+  "#garling",
+  "#shanks"
+ ],
+ "tags": [
+  "one piece theory",
+  "garling shanks father",
+  "magnolia one piece",
+  "god valley incident",
+  "shanks backstory",
+  "figarland garling",
+  "one piece 1160",
+  "dragon saves shanks",
+  "twin sons"
+ ],
+ "hook_text": "FAMILY DISPOSABLE",
+ "music_mood": "emotional",
+ "comment": "Did Garling deliberately abandon his own sons, or was he just indifferent to whether they lived or died?",
+ "related_long": "2026-11-05-L",
+ "pages": [
+  "Figarland Garling",
+  "Shanks",
+  "Magnolia"
+ ],
+ "lines": [
+  {
+   "text": "Garling met a local woman named Magnolia on God Valley and hid his true identity from her completely.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Garling meets Magnolia God Valley local",
+    "fallback": "noble disguising his true identity"
+   }
+  },
+  {
+   "text": "She had his twin sons: Shamrock and Shanks. She believed they'd be a real family once he came back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Magnolia gives birth twin sons Shanks",
+    "fallback": "mother holding newborn infant twins"
+   }
+  },
+  {
+   "text": "Chapter 1160: he returned and told her he was marrying someone else and her home would be destroyed.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Garling returns tells marriage destroyed",
+    "fallback": "noble delivering devastating news coldly"
+   }
+  },
+  {
+   "text": "When she wouldn't let it go, Garling struck her down on the spot and walked away.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Garling strikes Magnolia walks",
+    "fallback": "noble turning away from a fallen woman"
+   }
+  },
+  {
+   "text": "He didn't even confirm if she survived. He had Marines to order, and she was no longer useful.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Garling indifferent outcome leaves",
+    "fallback": "indifferent figure walking away without looking back"
+   }
+  },
+  {
+   "text": "Dragon, a young Marine cadet, found her and chose to save her twins instead of following orders.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon finds Magnolia saves infants",
+    "fallback": "young marine discovering a crisis"
+   }
+  },
+  {
+   "text": "That single moment of mercy is the only reason Shanks ever got off that island alive at all.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon mercy Shanks survival reason",
+    "fallback": "merciful choice becoming a child's lifeline"
+   }
+  },
+  {
+   "text": "Garling never knew what happened to her, and he never came back to find out...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Garling never returned never knew",
+    "fallback": "indifferent figure never looking back"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Figarland_Garling",
+  "https://onepiece.fandom.com/wiki/Shanks",
+  "https://onepiece.fandom.com/wiki/God_Valley_Incident"
+ ],
+ "self_check": {
+  "hook": "line 1 opens on a deception, line 3 introduces Garling's cruelty with chapter cite, lines 6-7 explain the larger consequence",
+  "loop": "last line returns to the beginning of Garling's indifference without repeating exact words",
+  "facts_verified": true
+ }
+}

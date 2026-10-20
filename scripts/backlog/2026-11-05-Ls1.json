@@ -1,0 +1,120 @@
+{
+ "id": "2026-11-05-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Garling orchestrated the God Valley Incident hunting competition, designed the entire thing for profit, then took credit when Rocks fell",
+ "title": "Garling Designed God Valley For Profit",
+ "description": "Garling found the Davy Family on God Valley, then decided to host the World Nobles' Native Hunting Competition on that exact island. A hundred thousand civilians marked as targets. The competition opening showed every detail of what he was orchestrating—and he got promoted for it instead of punished.",
+ "hashtags": [
+  "#onepiece",
+  "#garling",
+  "#godvalley"
+ ],
+ "tags": [
+  "one piece theory",
+  "garling explained",
+  "god valley incident",
+  "one piece 1158",
+  "native hunting competition",
+  "world nobles one piece",
+  "celestial dragons",
+  "five elders",
+  "one piece 1162"
+ ],
+ "hook_text": "DESIGNED THEN PROFITED",
+ "music_mood": "suspense",
+ "comment": "Was Garling actually orchestrating God Valley from the very beginning, or did he stumble into the whole thing by accident?",
+ "related_long": "2026-11-05-L",
+ "pages": [
+  "Figarland Garling",
+  "God Valley Incident",
+  "Davy Family"
+ ],
+ "lines": [
+  {
+   "text": "Garling found the Davy Family on God Valley, then turned that discovery into a hunting competition for the World Nobles themselves.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Garling discovers Davy Family island",
+    "fallback": "noble uncovering a hidden family"
+   }
+  },
+  {
+   "text": "A hundred thousand civilians marked as targets. He picked the island. He designed the opening ceremony.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hunting competition opening ceremony Garling",
+    "fallback": "grand ceremony announcing a cruel game"
+   }
+  },
+  {
+   "text": "The Davy Family themselves were announced as Super Rare targets worth the most points of all.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Davy Family announced rare targets Garling",
+    "fallback": "hidden family displayed as prized targets"
+   }
+  },
+  {
+   "text": "Chapter 1158 shows the World Government knew exactly what was happening, and did nothing to stop it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Government knows permits chapter 1158",
+    "fallback": "officials knowingly allowing a cruelty"
+   }
+  },
+  {
+   "text": "Saturn, one of the Five Elders already, watched the opening and personally complimented Garling on the find.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Saturn compliments Garling find approval",
+    "fallback": "powerful elder praising a subordinate's plan"
+   }
+  },
+  {
+   "text": "This wasn't some surprise nobody saw coming. This was a man profiting from an entire island's suffering with official blessing.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Garling profits official blessing system",
+    "fallback": "calculated profit hidden in plain sight"
+   }
+  },
+  {
+   "text": "And when Rocks and Roger's crews showed up, he didn't defend the civilians trapped in that hunt.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Marines abandon civilians defend nobles",
+    "fallback": "abandonment of the helpless for the powerful"
+   }
+  },
+  {
+   "text": "He had the Marines pull back and protect the Celestial Dragons instead, letting everyone else fend for themselves...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Garling prioritizes nobles over civilians",
+    "fallback": "system valuing some lives over others"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Figarland_Garling",
+  "https://onepiece.fandom.com/wiki/God_Valley_Incident",
+  "https://onepiece.fandom.com/wiki/Davy_Family"
+ ],
+ "self_check": {
+  "hook": "line 1 states the claim directly (Garling designed for profit), line 3-4 provide proof with chapter number, line 6 drives the argument home",
+  "loop": "last line leads back into line 1's setup (his priorities revealed through his choices) without exact repetition",
+  "facts_verified": true
+ }
+}
