@@ -80,3 +80,7 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Kechizu (2026-10-20-L2)
 - Noritoshi (2026-10-20-L2)
 - Shoko (2026-10-20-L2)
+- Bara (2026-10-21-L)
+- Dexerto (2026-10-21-L)
+- MyAnimeList (2026-10-21-L)
+- Paramecia (2026-10-21-L)
