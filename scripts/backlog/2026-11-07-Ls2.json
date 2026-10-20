@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-07-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Mother Carmel's real name was Mountain Witch, and the Sheep's House was a front for trafficking orphans directly to the World Government—including Big Mom herself",
+ "title": "Mother Carmel Was Actually A Trafficker",
+ "description": "The woman Big Mom called her mother for years was secretly known as Mountain Witch in the underworld. The Sheep's House wasn't a charity—it was a trafficking operation. She had already sold orphans to the World Government before Linlin arrived, and she planned to sell Linlin too.",
+ "hashtags": [
+  "#onepiece",
+  "#bigmom",
+  "#carmel"
+ ],
+ "tags": [
+  "one piece theory",
+  "mother carmel mountain witch",
+  "sheep's house trafficking",
+  "big mom sold",
+  "world government agents",
+  "cipher pol recruitment",
+  "one piece dark theory",
+  "carmel betrayal"
+ ],
+ "hook_text": "CARETAKER OR TRAFFICKER",
+ "music_mood": "suspense",
+ "comment": "Did Mother Carmel ever actually care about those children, or was it all an act from the very beginning?",
+ "related_long": "2026-11-07-L",
+ "pages": [
+  "Charlotte Linlin",
+  "Mountain Witch",
+  "Sheep's House"
+ ],
+ "lines": [
+  {
+   "text": "Mother Carmel's real name in the underworld was Mountain Witch, and the Sheep's House was never a charity at all.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Mountain Witch real name Carmel",
+    "fallback": "hidden identity revealed in shadow"
+   }
+  },
+  {
+   "text": "She'd been recruiting orphans for years, building trust with every kindness, just to sell them to the World Government for profit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Carmel sells orphans government agents",
+    "fallback": "secret meetings with government officials"
+   }
+  },
+  {
+   "text": "The first giant the Marines ever enlisted came directly from her. She had already established that business model.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Giant John Marines first recruit",
+    "fallback": "earlier victim of her trafficking scheme"
+   }
+  },
+  {
+   "text": "Every warm memory Big Mom has of Carmel happened while Carmel was already planning to sell her for profit.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Carmel sells Linlin planned already",
+    "fallback": "betrayal hidden behind kindness"
+   }
+  },
+  {
+   "text": "The kindness was real. The mercy was real. But it was all packaging for a much darker transaction underneath.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Kindness packaging real transaction darker",
+    "fallback": "genuine warmth serving hidden purposes"
+   }
+  },
+  {
+   "text": "She'd planned her own retirement around that sale, getting rich off one last transaction before disappearing completely.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Carmel retirement plan final sale",
+    "fallback": "planned exit after final profit"
+   }
+  },
+  {
+   "text": "The woman Big Mom still carries a portrait of was never the mother who chose her. She was just the first trafficker.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Carmel portrait first trafficker identity",
+    "fallback": "portrait holding a darker truth"
+   }
+  },
+  {
+   "text": "That portrait is why Big Mom still can't accept being abandoned, because the one woman who 'chose' her only chose profit...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Portrait why Big Mom can't accept",
+    "fallback": "lasting pain from a calculated betrayal"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Charlotte_Linlin",
+  "https://onepiece.fandom.com/wiki/Sheep's_House",
+  "https://onepiece.fandom.com/wiki/Elbaph"
+ ],
+ "self_check": {
+  "hook": "lines 1-2 establish Carmel's true identity and operation, line 4 makes the betrayal personal",
+  "loop": "last line returns to the portrait (from line 7) as the source of Big Mom's unresolved wound",
+  "facts_verified": true
+ }
+}

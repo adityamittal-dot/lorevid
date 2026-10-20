@@ -1,0 +1,119 @@
+{
+ "id": "2026-11-07-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "On Big Mom's sixth birthday, Mother Carmel and every orphan in the Sheep's House vanished without a word while she was eating her croquembouche",
+ "title": "Mother Carmel Vanished On Her Birthday",
+ "description": "Big Mom turned six, and the Sheep's House threw her a birthday party with a massive croquembouche made entirely of semla. She ate it, happy and oblivious. When she looked up, Carmel and every single orphan were simply gone. No goodbye. No explanation. Just an empty house.",
+ "hashtags": [
+  "#onepiece",
+  "#bigmom",
+  "#mothercarmel"
+ ],
+ "tags": [
+  "one piece theory",
+  "big mom backstory",
+  "mother carmel disappears",
+  "charlotte linlin",
+  "sheep's house one piece",
+  "big mom sixth birthday",
+  "one piece explanation",
+  "carmel vanishes"
+ ],
+ "hook_text": "GONE WHILE SHE ATE",
+ "music_mood": "emotional",
+ "comment": "Did Mother Carmel plan to disappear on that exact birthday, or was the timing just cruel coincidence?",
+ "related_long": "2026-11-07-L",
+ "pages": [
+  "Charlotte Linlin",
+  "Sheep's House",
+  "Elbaph"
+ ],
+ "lines": [
+  {
+   "text": "The Sheep's House threw a sixth birthday party for Linlin with a massive croquembouche made entirely of semla.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sheep's House birthday party croquembouche",
+    "fallback": "festive birthday party with towering dessert"
+   }
+  },
+  {
+   "text": "She ate the entire thing in one sitting, completely happy and oblivious to everything happening around her.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Linlin eats cake completely happy",
+    "fallback": "joyful child lost in a treat"
+   }
+  },
+  {
+   "text": "When she finally looked up, Mother Carmel and every single orphan in that house were simply gone.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Empty house all orphans vanished",
+    "fallback": "empty room where people had just been"
+   }
+  },
+  {
+   "text": "Not even the croquembouche plates were cleared. Just an entire life, gone, mid-celebration, without a trace.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Abandoned celebration frozen time plates",
+    "fallback": "abandoned party suspended in time"
+   }
+  },
+  {
+   "text": "No goodbye. No real explanation. Just an empty house and a six-year-old left completely alone.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Alone confused abandoned child empty",
+    "fallback": "solitary child in an abandoned space"
+   }
+  },
+  {
+   "text": "Big Mom still screams that same question at every tea party decades later: where did Mother Carmel go?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Big Mom screams tea party question",
+    "fallback": "towering empress screaming at empty space"
+   }
+  },
+  {
+   "text": "She carries that moment in a portrait she never lets go of, the one person who ever chose her.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Big Mom portrait Carmel never lets go",
+    "fallback": "powerful woman keeping a fragile memento"
+   }
+  },
+  {
+   "text": "The woman in that portrait vanished on her birthday and left a six-year-old the only answer...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Portrait memory Carmel question unanswered",
+    "fallback": "image holding an unanswered question"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Charlotte_Linlin",
+  "https://onepiece.fandom.com/wiki/Sheep's_House",
+  "https://onepiece.fandom.com/wiki/Elbaph"
+ ],
+ "self_check": {
+  "hook": "lines 1-3 set the moment (party, then vanishing), line 6 shows the lasting wound (screaming at tea party)",
+  "loop": "last line returns to the portrait and unanswered question without exact repetition",
+  "facts_verified": true
+ }
+}
