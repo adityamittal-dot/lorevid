@@ -1,6 +1,6 @@
 # Shirahoshi
 
-Source: https://onepiece.fandom.com/wiki/Shirahoshi (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Shirahoshi (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Princess Shirahoshi, famous in the world as the Mermaid Princess, is a giant Sillaginidae mermaid and the princess of the Ryugu Kingdom, as the youngest of King Neptune's children and the only daughter in the Neptune royal family. [Ch. 613, Ep. 531]
 Having been locked up and raised inside an impregnable tower for most of her childhood thanks to the constant threat of Vander Decken IX, Shirahoshi wishes to know more about the outside world, following the will of her late mother, Queen Otohime. She is also the current incarnation of the Ancient Weapon Poseidon, to the knowledge of very few. [Ch. 650, Ep. 570] [Ch. 625, Ep. 545] [Ch. 626, Ep. 546]

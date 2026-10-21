@@ -1,6 +1,6 @@
 # Monkey D. Garp
 
-Source: https://onepiece.fandom.com/wiki/Monkey_D._Garp (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Monkey_D._Garp (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Monkey D. Garp, also known as "Garp the Fist", is an extremely famous and powerful Marine Vice Admiral. He is the father of Monkey D. Dragon, [Ch. 432, Ep. 314] the paternal grandfather of Monkey D. Luffy, [Ch. 431, Ep. 313] and the adoptive grandfather of Portgas D. Ace. He was responsible for overseeing Ace's birth and raising a young Luffy, before entrusting them both to the Dadan Family.
 A contemporary of Gol D. Roger in his prime, Garp came to be known as the only Marine that could seriously challenge the Pirate King, with feats to match; his participation in the God Valley Incident, that led to the defeat and disbanding of the infamous Rocks Pirates, won him the title "Hero of the Marines". [Ch. 957, Ep. 958] At the same time, he has mentored many younger Marines into prominence, including once-Admiral Kuzan and SWORD members Koby and Helmeppo. [Ch. 1081, Ep. 1115] After Ace's death at the Summit War of Marineford, Garp became an instructor to focus on training new recruits; while the public believes him to be retired, he still retains the rank of Vice Admiral. [Ch. 1080, Ep. 1114]

@@ -1,6 +1,6 @@
 # Roronoa Zoro
 
-Source: https://onepiece.fandom.com/wiki/Roronoa_Zoro (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Roronoa_Zoro (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 :The subject of this article is sometimes called Roronoa Zolo.
 Roronoa Zoro, also known as "Pirate Hunter" Zoro, is the Swordsman and [[combatant of the Straw Hat Pirates, one of the Senior Officers of the Straw Hat Grand Fleet, and is publicly recognized as the right-hand man and number two of his crew's captain, Monkey D. Luffy. [Ch. 723, Ep. 653] [Ch. 995, Ep. 1008] [Ch. 1093, Ep. 1127] Formerly a bounty hunter, he is the second member of Luffy's crew and the first to join it, doing so in the Romance Dawn Arc.

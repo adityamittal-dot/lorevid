@@ -1,6 +1,6 @@
 # Yamato
 
-Source: https://onepiece.fandom.com/wiki/Yamato (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Yamato (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Yamato is the son  of Kaidou. Born as Kaidou's daughter and groomed from a young age to be his heir, Yamato instead developed a profound admiration for the legendary samurai Kouzuki Oden. After Oden's death, Yamato decided to become like him, impersonating him and adopting his mannerisms. As a result of this desire to emulate Oden, Yamato decided to become a man and identify as Kaidou's son, with his father and the Beasts Pirates referring to him as such as well.
 This path has put Yamato at odds with Kaidou, with much of his life being spent imprisoned on Onigashima. [Ch. 1024, Ep. 1048] Yamato befriended Portgas D. Ace during his visit to Wano Country, and after learning of Ace's death waited for the arrival of his sworn brother, Monkey D. Luffy. [Ch. 1016, Ep. 1038] Yamato eventually met Luffy during the Raid on Onigashima, [Ch. 983, Ep. 990] during which he took a rebellious stance against his father and fought as a valuable ally to the samurai against the Beasts Pirates. Initially desiring to join Luffy's crew, [Ch. 1051, Ep. 1078] Yamato ultimately decided to remain behind in Wano to help protect it from outside forces, though he still intends to join them in the future. [Ch. 1057, Ep. 1085]

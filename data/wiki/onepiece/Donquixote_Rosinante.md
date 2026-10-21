@@ -1,6 +1,6 @@
 # Donquixote Rosinante
 
-Source: https://onepiece.fandom.com/wiki/Donquixote_Rosinante (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Donquixote_Rosinante (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Donquixote Rosinante [Ch. 763, Ep. 702] was a former World Noble of the Donquixote Family descent, being the second son of Donquixote Homing and the younger brother of Donquixote Doflamingo. [Ch. 760, Ep. 699] After his family lost their status as Celestial Dragons and became pariahs, Rosinante was discovered by Sengoku and enlisted into the Marines, eventually reaching the rank of Commander. Upon reuniting with Doflamingo, he feigned muteness and operated as an Elite Officer of the Donquixote Pirates, serving Doflamingo under the codename Corazon [Ch. 729, Ep. 639] [Ch. 764, Ep. 703] while remaining an undercover Marine.
 Rosinante abandoned his post in an attempt to cure Trafalgar D. Water Law of his Amber Lead Syndrome. He eventually obtained the Ope Ope no Mi, forcing Law to eat it and thus giving him the means to save himself from the disease. However, his cover was blown by the former Corazon, Vergo, [Ch. 766, Ep. 705] and he was subsequently executed by Doflamingo. [Ch. 767, Ep. 706] Rosinante's kindness and sacrifice would serve as driving motivators for Law to one day avenge him by defeating Doflamingo.

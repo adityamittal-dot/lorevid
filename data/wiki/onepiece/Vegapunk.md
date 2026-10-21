@@ -1,6 +1,6 @@
 # Vegapunk
 
-Source: https://onepiece.fandom.com/wiki/Vegapunk (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Vegapunk (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Dr. Vegapunk was the leading scientist of the SSG in the employment of the Marines. His work included discovering the secrets and uses of seastone, the secrets of how Devil Fruit powers work, the co-discovery of the Lineage Factor and its applications, the creation of the Pacifista and Seraphim, and various other scientific achievements that are said to be at least 500 years ahead of current technology. [Ch. 433, Ep. 315] [Ch. 485, Ep. 377] He hailed from the technologically advanced Karakuri Island [Ep. 453] and resided on Egghead, where his laboratory is located.
 Before being employed under the World Government, Vegapunk had been the director of an outlaw scientific research team known as MADS. The team was eventually arrested, and Vegapunk was later integrated into the Marines as its head scientist after MADS' dissolution. During his tenure at Egghead, he created six copies, or "satellites", of himself, each embodying an aspect of his personality, with him being known as Stella among them. However, when one of his satellites, York, betrayed him by revealing to the World Government that Vegapunk was researching the Void Century, they dispatched CP0 and conspired with her to eliminate him, which resulted in the monumental Egghead Incident. [Ch. 1078, Ep. 1111]  [Ch. 1062, Ep. 1091]

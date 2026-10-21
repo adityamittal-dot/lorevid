@@ -1,6 +1,6 @@
 # Gol D. Roger
 
-Source: https://onepiece.fandom.com/wiki/Gol_D._Roger (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Gol_D._Roger (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Gol D. Roger, [Ch. 154, Ep. 91] more commonly known as Gold Roger, was a legendary pirate who, as captain of the former Roger Pirates, held the title of Pirate King and possessed the legendary treasure known as the One Piece. He was also the lover of Portgas D. Rouge and the biological father of Portgas D. Ace. [Ch. 550, Ep. 459]
 Roger was the first pirate in history since Joy Boy to circumnavigate the Grand Line, culminating in reaching its final island which he named Laugh Tale. However, knowing that his life was limited by an incurable disease, Roger disbanded his crew and turned himself in to be executed. Though the World Government staged the execution as a public spectacle to discourage piracy, Roger used his final words to ensure the opposite, openly declaring that the One Piece belonged to anyone that could find it. As such, he singlehandedly began the Great Pirate Era. [Ch. 506, Ep. 400]

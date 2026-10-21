@@ -1,6 +1,6 @@
 # Kenjaku
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Kenjaku (fetched 2026-10-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Kenjaku (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Kenjaku is one of the primary antagonists of the Jujutsu Kaisen series. He was an ancient curse user who existed for over a thousand years using his innate technique, which allowed him to transplant his brain into other bodies and control them. He has inhabited different individuals throughout the centuries and assumed their identities. [Ch. 90, Ep. 33] [Ch. 134, Ep. 46] Among those he has possessed are the blight of the Kamo Clan and creator of the Cursed Womb: Death Paintings, Noritoshi Kamo, the mother of Yuji Itadori, Kaori Itadori, [Ch. 143, Ep. 49] and Suguru Geto, whose corpse served as Kenjaku's final vessel to exploit his Cursed Spirit Manipulation.
 
