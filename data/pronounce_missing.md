@@ -93,3 +93,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Seastone (2026-10-22-L)
 - Spandine (2026-10-22-L)
 - Tekkai (2026-10-22-L)
+- Borrowed (2026-10-23-L)
