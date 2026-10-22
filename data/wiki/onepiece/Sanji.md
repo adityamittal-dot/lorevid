@@ -1,6 +1,6 @@
 # Sanji
 
-Source: https://onepiece.fandom.com/wiki/Sanji (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Sanji (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 "Black Leg" Sanji is the cook of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the fifth member of the crew and the fourth to join, doing so at the end of the Baratie Arc.
 Born as Vinsmoke Sanji, [Ch. 843, Ep. 807] the third son and fourth child of the Vinsmoke Family [Ch. 812, Ep. 763] (thus, making him a former prince of the Germa Kingdom), [Ch. 832, Ep. 793] he disowned his family twice, once in his youth and again after reuniting with them as an adult. [Ch. 870, Ep. 840] [Ch. 903, Ep. 878] After fleeing the Vinsmokes as a child, he eventually entered the care of Zeff as the sous chef of the Baratie, where he would remain until he met Luffy, who convinced him to join his crew.

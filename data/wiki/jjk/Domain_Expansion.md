@@ -1,6 +1,6 @@
 # Domain Expansion
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Domain_Expansion (fetched 2026-10-21). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Domain_Expansion (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Domain Expansion is an advanced barrier technique and is considered the pinnacle of jujutsu sorcery. It manifests the user's innate domain into reality inside a barrier infused with their innate cursed technique. Within a domain expansion, the user's cursed techniques are improved and any that are activated are guaranteed to hit. [Ch. 30, Ep. 13]
 
