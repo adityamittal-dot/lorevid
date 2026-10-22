@@ -52,3 +52,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Robin Walked Through Blueno's Door On Purpose (https://youtu.be/ZBMN9xSOiMI) -> related video: Nico Robin Chose Blueno's Door On Purpose (https://youtu.be/XAZv-KlKNPI)
 - [ ] Luffy Burned That Flag For One Sentence (https://youtu.be/f8aFS7Q7V-8) -> related video: Nico Robin Chose Blueno's Door On Purpose (https://youtu.be/XAZv-KlKNPI)
 - [ ] Yuji Itadori: Why Yuji Had To Lose Before Sukuna Could Win (https://youtu.be/ftKsYBztMxY) -> thumbnail B saved at output/2026-10-23-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Yuji's Shibuya Loss Was Sukuna's Setup (https://youtu.be/K6zltYSamPE) -> related video: Yuji Itadori: Why Yuji Had To Lose Before Sukuna Could Win (https://youtu.be/ftKsYBztMxY)
