@@ -1,6 +1,6 @@
 # Knights of God
 
-Source: https://onepiece.fandom.com/wiki/Knights_of_God (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Knights_of_God (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Knights of God [Ch. 1160] are an elite squad of warriors from the Holy Land Mary Geoise, with authority to oversee the World Nobles. [Ch. 1054, Ep. 1081] They operated under the command of their Supreme Commander, Saint Figarland Garling, but Garling's command over the Knights in any capacity is now unknown following his promotion to one of the Five Elders. [Ch. 1125, Ep. 1155]
 Due to their actions and role, they are the secondary antagonists of the Elbaph Arc and a major antagonist group of the Final Saga.

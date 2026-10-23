@@ -1,6 +1,6 @@
 # Culling Game
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Culling_Game (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Culling_Game (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Culling Game is the most unprecedented act of jujutsu terrorism ever enacted. The conflict immediately follows the Shibuya Incident and is orchestrated by Kenjaku with the goal of evolving humanity by optimizing cursed energy. The game functions as a lethal battle royale where players kill one another with jujutsu. Players must adhere to the strict rules of the game and fight across ten barrier colonies that form a line down Japan.
 

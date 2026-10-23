@@ -1,6 +1,6 @@
 # Buggy
 
-Source: https://onepiece.fandom.com/wiki/Buggy (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Buggy (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Buggy the Star Clown is the nominal president of Cross Guild, and one of the current Four Emperors dominating the New World. [Ch. 1058, Ep. 1086]
 Initially a Roger Pirates apprentice alongside Shanks, Buggy succeeded his disbanded mentors as a career pirate in the East Blue, in time becoming captain of the Buggy Pirates. One of the earliest enemies defeated by Monkey D. Luffy and the Straw Hat Pirates, revenge drove him to an alliance with "Iron Mace" Alvida and pursuit into the Grand Line. Since then, his fortunes have constantly, dramatically revolved: from imprisonment in Impel Down to entanglement in its first mass-breakout and the subsequent Summit War of Marineford, his escalating infamy won him entry to the Seven Warlords of the Sea, allowing him to launch the pirate mercenary organization Buggy's Delivery.

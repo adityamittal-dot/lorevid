@@ -1,6 +1,6 @@
 # Yuta Okkotsu
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Yuta Okkotsu is a major supporting character in the Jujutsu Kaisen series and the main protagonist of its prequel, Jujutsu Kaisen 0: Jujutsu High. He was initially a special grade cursed human haunted by his late childhood friend, Rika Orimoto. Satoru Gojo enrolled Yuta at Tokyo Jujutsu High and trained him to become a jujutsu sorcerer.
 As a first-year student, Yuta defeated Suguru Geto in battle and freed Rika's soul. He left Japan to train with Miguel in Africa in his second year until after the Shibuya Incident. He returned to Japan and fought alongside Jujutsu High sorcerers to combat Kenjaku and Sukuna's schemes.

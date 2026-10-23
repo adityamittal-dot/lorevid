@@ -1,6 +1,6 @@
 # Hajime Kashimo
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Hajime_Kashimo (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Hajime_Kashimo (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Hajime Kashimo, [Ch. 158] also known as The God of Lightning, [Ch. 236] is an antagonist-turned-supporting character in the Jujutsu Kaisen series. He is a jujutsu sorcerer from 400 years ago, currently inhabiting the body of someone Kenjaku prepared as a vessel, and has served as a player in Kenjaku's Culling Game, seeking to find and consequently battle Sukuna. [Ch. 158] [Ch. 187]
 

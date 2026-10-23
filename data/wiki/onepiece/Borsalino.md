@@ -1,6 +1,6 @@
 # Borsalino
 
-Source: https://onepiece.fandom.com/wiki/Borsalino (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Borsalino (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Borsalino, [Ch. 507, Ep. 400] [Ch. 907, Ep. 887] more commonly known by his alias Kizaru, is an Admiral in the Marines. After Kuzan resigned from the Marines and Sakazuki was promoted to Fleet Admiral, Kizaru is now the only remaining Admiral from the previous trio.
 He was first mentioned by Nico Robin during the Straw Hats' initial encounter with Aokiji. Due to his actions and role, Kizaru is the secondary antagonist of the Sabaody Archipelago Arc and Marineford Arc, and the tertiary antagonist of the Egghead Arc.

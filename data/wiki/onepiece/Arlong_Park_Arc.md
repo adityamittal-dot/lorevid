@@ -1,6 +1,6 @@
 # Arlong Park Arc
 
-Source: https://onepiece.fandom.com/wiki/Arlong_Park_Arc (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Arlong_Park_Arc (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Arlong Park Arc is the 5th story arc of the manga and anime One Piece, and the fifth story arc of the East Blue Saga. This is the last arc of season one of the live-action series.
 Zoro, Usopp and Johnny track Nami, who stole the Going Merry, to Cocoyasi Village, her hometown. They discover that it is ruled by Arlong and the Arlong Pirates, a pirate crew of Fish-Men of which Nami is a member. After Luffy and his new cook Sanji arrive on the island with Yosaku, Nami's past and true motives come to light. The Straw Hats decide to free both her and the village from the Fish-Men's claws.

@@ -1,6 +1,6 @@
 # Shanks
 
-Source: https://onepiece.fandom.com/wiki/Shanks (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Shanks (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 "Red-Haired" Shanks, commonly known as just "Red Hair", [Ch. 580, Ep. 489] is the chief of the Red Hair Pirates and one of the Four Emperors that rule over the New World.
 Born in God Valley to the Figarland Family of the World Nobles, Shanks is the son of Figarland Garling and the younger twin brother of Shamrock. However, as an infant during the God Valley Incident, Shanks was bequeathed to Monkey D. Dragon by his mother Magnolia. He ended up in a treasure chest which was stolen by the Roger Pirates, resulting in him being adopted and raised onboard the Oro Jackson. He served on Gol D. Roger's crew as an apprentice alongside Buggy. After Roger's death, Shanks began to assemble his own crew, only to then return to Mary Geoise to reunite with his family and join the Knights of God, becoming Saint Shanks. However, Shanks ultimately abdicated his noble status after working against Mary Geoise; he then rapidly attained infamy as a pirate before being named as one of the Emperors six years ago. [Ch. 957, Ep. 958]

@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Megumi_Fushiguro (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Megumi Fushiguro is the deuteragonist of the Jujutsu Kaisen series. He is a grade 2 jujutsu sorcerer and first-year student at Tokyo Jujutsu High alongside Yuji Itadori and Nobara Kugisaki. Megumi is Tsumiki Fushiguro's stepbrother, and as Toji Fushiguro's son, he is also a descendant of the Zenin Clan, of which he is currently the 27th head. Megumi was born outside the clan as Toji's trump card and was eventually found by Satoru Gojo, who mentored him and enrolled him at Jujutsu High as his student.
 

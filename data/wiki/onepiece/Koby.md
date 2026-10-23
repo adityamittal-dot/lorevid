@@ -1,6 +1,6 @@
 # Koby
 
-Source: https://onepiece.fandom.com/wiki/Koby (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Koby (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Koby the Hero [Ch. 903, Ep. 879] is a Marine Captain, currently serving in the SWORD special forces unit. [Ch. 956, Ep. 957] Alongside fellow SWORD member Helmeppo, he was trained and mentored into prominence under the legendary Vice Admiral Garp.
 Originally a cabin boy enslaved by the Alvida Pirates, Koby was freed and befriended by Monkey D. Luffy, becoming Luffy's first traveling companion. Though he soon left to pursue his dream of Marine service, he continues to regard Luffy highly; after entering full-fledged service, he briefly reunited with Luffy on two occasions, as both friend and adversary. Overall, Koby has experienced a meteoric rise in the Marines, with many accomplishments and the Rocky Port Incident in particular cementing him as a public hero. [Ch. 1059, Ep. 1088] During an arrest attempt on Boa Hancock, he was captured by the Blackbeard Pirates [Ch. 1059, Ep. 1088] but eventually escaped with the help of Perona, his SWORD colleagues, and his mentor Garp. [Ch. 1080, Ep. 1113]

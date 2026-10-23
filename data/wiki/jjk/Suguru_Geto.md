@@ -1,6 +1,6 @@
 # Suguru Geto
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Suguru_Geto (fetched 2026-10-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Suguru_Geto (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Suguru Geto is an antagonist in both the Jujutsu Kaisen series and its prequel Jujutsu Kaisen 0: Jujutsu High, the main antagonist of the Cursed Child Arc, and the deuteragonist of the Gojo's Past Arc. He was originally a student of Masamichi Yaga's alongside Satoru Gojo and Shoko Ieiri at Tokyo Jujutsu High. His experiences as a jujutsu sorcerer bred a deep hatred within him for non-sorcerers, leading to an incident where he massacred over a hundred civilians in a single night. Because of this, he was expelled from Jujutsu High and came to be known as the worst of all curse users.
 After being fatally wounded by Yuta Okkotsu and Rika Orimoto in battle and subsequently killed by Gojo, Geto's corpse was inhabited by Kenjaku, who sought his cursed technique to carry out his plans.
