@@ -1,6 +1,6 @@
 # Brook
 
-Source: https://onepiece.fandom.com/wiki/Brook (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Brook (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 "Soul King" Brook is the musician of the Straw Hat Pirates, one of their two swordsmen, and one of the Senior Officers of the Straw Hat Grand Fleet. He is the ninth member of the crew and the eighth to join, [Ch. 489, Ep. 381] doing so at the end of the Thriller Bark Arc.
 Brook ate the Yomi Yomi no Mi, which allowed him to return to life after death once. [Ch. 443, Ep. 338] Brook eventually learned to tap deeper into the powers of his Devil Fruit, giving him significant control over his own soul and the souls of others.

@@ -80,7 +80,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Joy_Boy.md` | 10k | 56 |
 | onepiece | `data/wiki/onepiece/Kaidou.md` | 60k | 161 |
 | onepiece | `data/wiki/onepiece/Knights_of_God.md` | 17k | 39 |
-| onepiece | `data/wiki/onepiece/Koby.md` | 42k | 80 |
+| onepiece | `data/wiki/onepiece/Koby.md` | 43k | 80 |
 | onepiece | `data/wiki/onepiece/Kouzuki_Oden.md` | 60k | 181 |
 | onepiece | `data/wiki/onepiece/Kuzan.md` | 59k | 167 |
 | onepiece | `data/wiki/onepiece/Laugh_Tale.md` | 3k | 10 |

@@ -1,6 +1,6 @@
 # Nico Robin
 
-Source: https://onepiece.fandom.com/wiki/Nico_Robin (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Nico_Robin (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Nico Robin, [Ch. 177, Ep. 110] also known by her epithet "Devil Child" and the "Light of the Revolution", is the archaeologist of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. She is the seventh member of the crew and the sixth to join, doing so at the end of the Arabasta Arc. She temporarily left the crew during the Water 7 Arc but rejoined during the Enies Lobby Arc.
 Born into a family of archaeologists, Robin is the daughter of Nico Olvia. Robin ate the Hana Hana no Mi at a young age, giving her the power to reproduce her body parts (or her entire body) on any surface at will. As the sole survivor of the destroyed West Blue island Ohara, she is currently one of only two people in the world known to have the ability to read and decipher Poneglyphs, a skill which is considered forbidden and threatening to the World Government.

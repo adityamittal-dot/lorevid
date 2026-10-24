@@ -1,6 +1,6 @@
 # Franky
 
-Source: https://onepiece.fandom.com/wiki/Franky (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Franky (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 "Iron Man" Franky is the shipwright of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the crew's eighth member and the seventh to join, doing so at the end of the Post-Enies Lobby Arc. [Ch. 439]
 Franky was born in the South Blue [Ch. 490, Ep. 385] to Scien, an infamous scientist and pirate who would later be known as Queen of the Beasts Pirates. After his parents abandoned him as a 10-year-old [Ch. 354, Ep. 248], he eventually made his way to Water 7. Born "Cutty Flam", [Ch. 352, Ep. 248] he chose to go by his nickname of "Franky" until he eventually permanently discarded his true name per the request of Iceburg to hide his identity. [Ch. 358, Ep. 250] He worked as a shipwright for Tom's Workers until, during a failed attempt to save his mentor, Tom, from the World Government, his body was heavily damaged, requiring him to augment himself into a cyborg. Upon returning to Water 7, he became the leader of the Franky Family, a group of ship dismantlers and bounty hunters.

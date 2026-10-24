@@ -1,6 +1,6 @@
 # Thriller Bark Arc
 
-Source: https://onepiece.fandom.com/wiki/Thriller_Bark_Arc (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Thriller_Bark_Arc (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Thriller Bark Arc is the 18th story arc of the manga and anime One Piece, and both the first and only story arc of the Thriller Bark Saga.
 During their journey through the Florian Triangle, the Straw Hats arrive on a seemingly haunted island called Thriller Bark, where they encounter the Warlord Gecko Moria. Using his Devil Fruit abilities, Moria steals the Straw Hats' shadows. With the help of a mysterious talking skeleton named Brook, the crew must regain their shadows before sunrise in order to survive.

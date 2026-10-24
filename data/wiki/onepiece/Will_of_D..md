@@ -1,6 +1,6 @@
 # Will of D.
 
-Source: https://onepiece.fandom.com/wiki/Will_of_D. (fetched 2026-10-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Will_of_D. (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The "Will of D." is a form of inherited will surrounding members of the Clan of D. [Ch. 763, Ep. 702] who bear the initial "D." in their names.
 It is said that the Clan is the Natural Enemy of God [Ch. 764, Ep. 703] and is opposed to the World Government, namely its World Nobles, though most members do not know its true meaning. [Ch. 1085, Ep. 1119] Gol D. Roger, who learned its meaning during his voyage to Laugh Tale, is considered to be a central figure concerning the Will of D, with much discussion about those who have since borne the initial centering on them inheriting Roger's will. More often than not, people in the Clan of D. have been noted to be regularly involved in world-shaking events.
