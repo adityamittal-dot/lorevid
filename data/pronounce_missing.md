@@ -115,3 +115,5 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - SBS (2026-10-25-L)
 - Shakky (2026-10-25-L)
 - Soru (2026-10-25-L)
+- Beebom (2026-10-25-Ls2)
+- Ryuo (2026-10-25-Ls2)

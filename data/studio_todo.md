@@ -59,3 +59,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Naruto Beat Pain Without Out-Hurting Him (https://youtu.be/tF-RZhKwbCo) -> related video: Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE)
 - [ ] Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI) -> thumbnail B saved at output/2026-10-25-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Garp Trained Luffy Before Rayleigh Did (https://youtu.be/trQw3nbVXnw) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
+- [ ] Hyogoro Taught Luffy The Sharper Haki (https://youtu.be/jC-XU1h9QLQ) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
