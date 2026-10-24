@@ -57,3 +57,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE) -> thumbnail B saved at output/2026-10-24-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Naruto's Pain Undid His Own Lesson (https://youtu.be/FhDKMhypHkk) -> related video: Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE)
 - [ ] Naruto Beat Pain Without Out-Hurting Him (https://youtu.be/tF-RZhKwbCo) -> related video: Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE)
+- [ ] Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI) -> thumbnail B saved at output/2026-10-25-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
