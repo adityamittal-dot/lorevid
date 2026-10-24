@@ -1,0 +1,134 @@
+{
+  "id": "2026-10-25-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Garp trained Luffy's body years before Rayleigh taught him Haki",
+  "title": "Garp Trained Luffy Before Rayleigh Did",
+  "description": "Garp raised Luffy long before Silvers Rayleigh taught him Haki. Who taught Haki in One Piece is a bigger chain than most fans think, and the full breakdown is linked above.",
+  "hashtags": [
+    "#luffy",
+    "#garp",
+    "#onepiece"
+  ],
+  "tags": [
+    "luffy garp training",
+    "who taught luffy haki",
+    "silvers rayleigh haki",
+    "one piece haki teachers",
+    "garp luffy childhood",
+    "haki explained",
+    "garp haki",
+    "luffy rayleigh training"
+  ],
+  "hook_text": "GARP TRAINED HIM FIRST",
+  "music_mood": "suspense",
+  "comment": "Did Garp's physical training matter more than Rayleigh's Haki lessons, or the other way round?",
+  "related_long": "2026-10-25-L",
+  "pages": [
+    "Monkey D. Garp",
+    "Silvers Rayleigh"
+  ],
+  "lines": [
+    {
+      "text": "Everyone says Rayleigh taught Luffy Haki. But Garp had him for years first.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy young",
+        "fallback": "anime style, marine grandfather standing over a small boy"
+      }
+    },
+    {
+      "text": "Garp raised Luffy in Foosha Village with brutal physical training.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy Foosha Village",
+        "fallback": "anime style, old marine and young boy on a village path"
+      }
+    },
+    {
+      "text": "Sources describe him tying Luffy to a balloon and dropping him from heights.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Garp Luffy balloon",
+        "fallback": "anime style, small boy tied to a floating balloon over the sea"
+      }
+    },
+    {
+      "text": "None of the sources I checked credit Garp with teaching Haki in those years.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Haki",
+        "fallback": "anime style, marine captain staring into the distance"
+      }
+    },
+    {
+      "text": "So Garp built the body, and Haki came later from a different teacher.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garp Luffy toughness training",
+        "fallback": "anime style, boy bouncing back up after a hard fall"
+      }
+    },
+    {
+      "text": "Rayleigh then spent about two years on Rusukaina teaching all three types.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Silvers Rayleigh Rusukaina Luffy",
+        "fallback": "anime style, mentor with a wide hat on a wild island"
+      }
+    },
+    {
+      "text": "Here's my read: Garp's toughness is why Luffy could survive that training at all.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Garp Rayleigh training",
+        "fallback": "anime style, pirate standing firm under a waterfall"
+      }
+    },
+    {
+      "text": "That's a theory, not canon, so tell me which teacher you'd pick.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy strength",
+        "fallback": "anime style, old marine with a proud expression"
+      }
+    },
+    {
+      "text": "But if Garp never taught Haki, what did he teach Luffy that Rayleigh never could?",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Garp Luffy",
+        "fallback": "anime style, marine leader looking down at a boy"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://comicbook.com/anime/list/every-teacher-who-trained-luffy-in-one-piece/",
+    "https://fandomwire.com/best-one-piece-teachers-who-trained-luffy-ranked/",
+    "https://www.sportskeeda.com/anime/one-piece-when-luffy-learn-haki"
+  ],
+  "self_check": {
+    "hook": "Line 1 names Garp and Luffy and the Haki claim in under 2 seconds.",
+    "loop": "The last line asks what Garp taught that Rayleigh never could, which leads back into the opening contrast.",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "trQw3nbVXnw",
+    "publish_at": "2026-10-26T14:30:00Z",
+    "url": "https://youtu.be/trQw3nbVXnw",
+    "comment": "Did Garp's physical training matter more than Rayleigh's Haki lessons, or the other way round?\nhttps://youtu.be/FHgJtZfjkuI",
+    "comment_posted": false
+  }
+}
