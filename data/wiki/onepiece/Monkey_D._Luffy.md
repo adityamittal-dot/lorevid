@@ -1,6 +1,6 @@
 # Monkey D. Luffy
 
-Source: https://onepiece.fandom.com/wiki/Monkey_D._Luffy (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Monkey_D._Luffy (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Monkey D. Luffy, commonly known as "Straw Hat Luffy" or simply "Straw Hat", is the founder and captain of the Straw Hat Pirates. [Ch. 455, Ep. 349] [Ch. 606, Ep. 525] He pursues the legendary treasure of the late Gol D. Roger in order to become the new Pirate King [Ch. 1, Ep. 4] and reach a further, untold dream (currently known to only his crew, family and closest friends). [Ch. 585, Ep. 496] [Ch. 1060, Ep. 1088] He believes that being the Pirate King means having the most freedom in the world. [Ch. 507, Ep. 400]
 Born on Dawn Island, Luffy is the son of Revolutionary leader Monkey D. Dragon [Ch. 432, Ep. 314] and grandson of the Marine hero Monkey D. Garp [Ch. 431, Ep. 313] and as such is a member of the Clan of D. Most of his childhood was shaped by Garp and Curly Dadan, [Ch. 551, Ep. 460] under whose care he befriended and swore brotherhood to the late Portgas D. Ace [Ch. 159, Ep. 95] and Sabo. [Ch. 585, Ep. 496] However, he draws his greatest inspiration from the pirate Shanks, who (unwittingly) enabled him to eat the Devil Fruit that turned his body into rubber, [Ch. 1, Ep. 4] sacrificed an arm to save his life, and gifted his signature straw hat as a symbol of their vow to reunite someday, after Luffy became a great pirate. [Ch. 1, Ep. 4]

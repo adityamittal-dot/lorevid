@@ -1,6 +1,6 @@
 # Akatsuki
 
-Source: https://naruto.fandom.com/wiki/Akatsuki (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Akatsuki (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 was a group of shinobi that existed outside the usual system of the hidden villages. Over the course of several decades, Akatsuki took different forms and was led by different individuals. Though each iteration is viewed as either subversives or criminals, all sought to make the world a better place through their own means. Each Akatsuki tended to have multiple lairs across the world, inaccessible either due to their remoteness or the various security measures that protected them.
 

@@ -1,6 +1,6 @@
 # Black Flash
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Black_Flash (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Black_Flash (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Black Flash is a phenomenon in jujutsu that greatly amplifies the user's physical strike when cursed energy is applied to it within one-millionth of a second.
 

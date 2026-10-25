@@ -1,6 +1,6 @@
 # Maki Zenin
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Maki Zenin is a major supporting character in Jujutsu Kaisen and one of the main protagonists of its prequel, Jujutsu Kaisen 0: Jujutsu High. She is currently a second-year at Tokyo Jujutsu High.
 The daughter of Ogi Zenin and his wife, and the elder twin sister of Mai Zenin, Maki was born in the Zenin Clan. Born a non-sorcerer in one of the Big Three Families, Maki was constantly mistreated and felt compelled to expel herself from her clan. She aspires to be a great jujutsu sorcerer to spite her family, working closely with her friends Yuta Okkotsu, Panda and Toge Inumaki, while also serving as a role model to the first-year students.
@@ -16,7 +16,7 @@ Maki Zenin (Chapter 106).png|Maki's initial appearance as a second-year (manga).
 
 #### Post Shibuya
 Maki was severely burned by Jogo's flames during the Shibuya Incident. This has left a great deal of her body covered in scars from the severe burns, running all the way up and down both her arms and the sides of her face. Her hair now only reaches just past her ears, which may be a result of her cutting it, or it may have been partially or entirely burned off.
-Maki decided to alter her uniform to keep her arms mostly uncovered. She wore a sleeveless, turtle-neck, black shirt underneath a large cape attached by two Jujutsu High pins on each side. The shirt tucked into a large brown belt with a gold buckle, tied around the waist of tight black pants. The glasses she paired with this outfit were circular but Maki's right eye was covered in bandages from the burns. [Ch. 144, Ep. 49]
+Maki decided to alter her uniform to keep her arms mostly uncovered. She wore a sleeveless, black turtle-neck shirt underneath a large cape attached by two Jujutsu High pins on each side. The shirt tucked into a large brown belt with a gold buckle, tied around the waist of tight black pants. The glasses she paired with this outfit were circular but Maki's right eye was covered in bandages from the burns. [Ch. 144, Ep. 49]
 During her conflict with the Zenin Clan, Maki lost her right eye altogether and now has a scar where it was sliced by her father's katana. She ditched the cape but sports mostly the same outfit, with the same sleeveless shirt paired with the same pants, belt, and shoes. [Ch. 150, Ep. 51] By the time she entered the Culling Game, Maki reclaimed her cape and had her right eye completely healed. [Ch. 190]
 Maki Zenin (Chapter 144).png|Maki's appearance immediately following the Shibuya Incident (gray).
 Maki Zenin (Chapter 150).png|Maki's appearance during her conflict with the Zenin clan.

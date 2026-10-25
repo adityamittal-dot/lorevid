@@ -1,6 +1,6 @@
 # Sharingan
 
-Source: https://naruto.fandom.com/wiki/Sharingan (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Sharingan (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The  is the dōjutsu kekkei genkai of the Uchiha clan that appears selectively among its members. [Naruto Ch. 12] It is regarded as one of the "Three Great Dōjutsu", the others being the Byakugan and the Rinnegan. While its powers originated from Kaguya Ōtsutsuki's Rinne Sharingan, its independent form was first manifested by Indra Ōtsutsuki [Naruto Ch. 670] (Hagoromo Ōtsutsuki in the anime). [Naruto: Shippūden Ep. 461]
 

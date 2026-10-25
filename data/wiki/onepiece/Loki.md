@@ -1,6 +1,6 @@
 # Loki
 
-Source: https://onepiece.fandom.com/wiki/Loki (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Loki (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Loki is the prince of Elbaph, the son of King Harald and Queen Estrid, the younger half-brother of Hajrudin, and the foster son of Ida. [Ch. 1137, Ep. 1167]
 An outcast since childhood, Loki was tasked by Harald to kill him to spare Elbaph from the World Government's attempt to control the giants. After doing so, Loki refused to clear his name earning him a reputation as the "Shame of Elbaph", and he instead set out to sea to take revenge against the World Government. Loki was later brought back to Elbaph by Shanks and imprisoned for the next six years [Ch. 1136, Ep. 1166] before being freed by Monkey D. Luffy and Hajrudin to assist them against the World Government's latest attempt to annex the land of giants. [Ch. 1171]

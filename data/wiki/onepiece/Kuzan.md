@@ -1,6 +1,6 @@
 # Kuzan
 
-Source: https://onepiece.fandom.com/wiki/Kuzan (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Kuzan (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Kuzan, better known by his alias Aokiji, [Ch. 1081, Ep. 1114] is one of the Ten Titanic Captains of the Blackbeard Pirates, serving as the captain of the tenth ship of the fleet. Before joining Blackbeard's crew, he served as a Marine Admiral, having been taught by Monkey D. Garp. He was nominated by Sengoku for the position of Fleet Admiral; however, after fighting Sakazuki for the position and losing, Kuzan resigned from the Marines. [Ch. 594, Ep. 511]
 Kuzan was the antagonist of the second part of the Long Ring Long Land Arc; in the anime, he is instead one of the main antagonists of the Foxy's Return Arc. He is later a secondary antagonist of the Marineford Arc, a minor antagonist in the Egghead Arc, and a major antagonist in the Final Saga.

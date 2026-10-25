@@ -27,7 +27,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | naruto | `data/wiki/naruto/Gaara.md` | 60k | 19 |
 | naruto | `data/wiki/naruto/Hashirama_Senju.md` | 33k | 69 |
 | naruto | `data/wiki/naruto/Hinata_Hyūga.md` | 60k | 40 |
-| naruto | `data/wiki/naruto/Itachi_Uchiha.md` | 59k | 83 |
+| naruto | `data/wiki/naruto/Itachi_Uchiha.md` | 59k | 82 |
 | naruto | `data/wiki/naruto/Jiraiya.md` | 60k | 42 |
 | naruto | `data/wiki/naruto/Kaguya_Ōtsutsuki.md` | 31k | 37 |
 | naruto | `data/wiki/naruto/Kakashi_Hatake.md` | 60k | 74 |

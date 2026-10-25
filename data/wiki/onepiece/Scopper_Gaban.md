@@ -1,6 +1,6 @@
 # Scopper Gaban
 
-Source: https://onepiece.fandom.com/wiki/Scopper_Gaban (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Scopper_Gaban (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Scopper Gaban, also known as the "Mountain-Eater", is a legendary retired pirate and navigator of the former Roger Pirates. His fame is said to rival that of his crewmates Gol D. Roger and Silvers Rayleigh, being known as the "Left Hand of the Pirate King". After the disbandment of the Roger Pirates and the execution of Roger, Gaban has come to live out his retirement on Elbaph, alongside his partner Ripley and their son Colon, being known to the giant locals as Ya-san.
 First introduced in Buggy's flashback sequence in the Orange Town Arc and later seen in Kouzuki Oden's flashbacks during his time with the Roger Pirates, Gaban made his present-day debut in the series through the "From the Decks of the World" cover story, before eventually playing an active role in the main storyline during the Elbaph Arc where he acts as an ally of the Straw Hat Pirates.

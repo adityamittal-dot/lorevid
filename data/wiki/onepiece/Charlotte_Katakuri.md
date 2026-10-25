@@ -1,6 +1,6 @@
 # Charlotte Katakuri
 
-Source: https://onepiece.fandom.com/wiki/Charlotte_Katakuri (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Charlotte_Katakuri (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Charlotte Katakuri is the second son and third child of the Charlotte Family and the elder triplet brother of Daifuku and Oven. He is also one of the Three Sweet Commanders of the Big Mom Pirates and serves as Totto Land's Minister of Flour, governing over Komugi Island.
 Due to his actions and role, Katakuri is the secondary antagonist in the second half of the Whole Cake Island Arc. He, alongside his younger siblings Charlotte Brûlée and Oven, become temporary and reluctant allies of the Red Hair Pirates and the Straw Hat Pirates during One Piece Film: Red.

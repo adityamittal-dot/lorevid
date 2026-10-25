@@ -1,6 +1,6 @@
 # Boruto Uzumaki
 
-Source: https://naruto.fandom.com/wiki/Boruto_Uzumaki (fetched 2026-10-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Boruto_Uzumaki (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 is a missing-nin from Konohagakure's Uzumaki clan and Hyūga clan through his parents. After being marked by Momoshiki Ōtsutsuki, and meeting Kawaki, who shared a similar mark, the boy was adopted into Boruto's family, with hopes of removing the marks. However, Boruto was later forced to defect from the village when he was framed for killing his parents after the world's memories of him were altered. [Boruto Ch. 80] However, despite losing everything, he remains determined to prove his innocence and regain everything taken from him.
 
