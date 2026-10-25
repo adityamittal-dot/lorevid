@@ -1,0 +1,151 @@
+{
+  "id": "2026-10-26-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Shanks intercepted Kaidou a full day before the Summit War of Marineford even started",
+  "title": "Shanks Stopped Marineford One Day Before It Started",
+  "description": "A full day before the Summit War of Marineford even began, Shanks had already made the move that decided how it would end. Here's the Kaidou interception almost nobody talks about. Was it loyalty, or was it positioning?",
+  "hashtags": [
+    "#shanks",
+    "#onepiece",
+    "#kaidou"
+  ],
+  "tags": [
+    "one piece theory",
+    "shanks marineford",
+    "shanks vs kaidou",
+    "one piece shanks",
+    "red hair pirates",
+    "summit war of marineford",
+    "one piece analysis",
+    "kaidou one piece"
+  ],
+  "hook_text": "ONE DAY EARLY",
+  "music_mood": "epic",
+  "comment": "Did Shanks engineer the whole war's outcome in advance, or did he just get lucky Kaidou backed off? Pick one.",
+  "related_long": "2026-10-26-L",
+  "pages": [
+    "Shanks",
+    "Kaidou",
+    "Edward Newgate"
+  ],
+  "lines": [
+    {
+      "text": "Shanks stopped the Marineford war a full day before it even started.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Shanks intercepts Kaidou New World",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "The day before the fighting, Kaidou tried to cut off Whitebeard's path to Marineford.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kaidou Whitebeard confrontation New World",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "Shanks intercepted him first.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Kaidou standoff",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "Nobody knows what happened in that fight. We only know Kaidou backed off.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Kaidou unseen clash",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "That single move cleared Whitebeard's entire route to the war, a full day early.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard fleet sailing Marineford",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "Think about what that actually means.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks thinking New World",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "An Emperor spent a favor clearing the road for his own rival, before the war even reached its worst hour.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Whitebeard rivalry New World",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "That's not loyalty. Shanks and Whitebeard were rivals for decades.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks Whitebeard old rivalry",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "I think Shanks needed that war to happen in front of everyone, not quietly, in open water, with no witnesses.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks watching Marineford broadcast",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "So he cleared the one obstacle that could have ended it early.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Shanks clearing path Marineford",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    },
+    {
+      "text": "Because Shanks didn't stop the war a day late. He stopped it a full day before it even started.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Shanks Marineford arrival determined",
+        "fallback": "anime style, red haired pirate captain on a war-torn battlefield"
+      }
+    }
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Shanks",
+    "https://onepiece.fandom.com/wiki/Kaidou",
+    "https://onepiece.fandom.com/wiki/Edward_Newgate"
+  ],
+  "self_check": {
+    "hook": "line 1 names Shanks and Marineford and states the timing twist (a day before) in under 12 words",
+    "loop": "last line repeats line 1's exact phrase (stopped the war a full day before it even started) so it leads straight back into line 1",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "Oqhcl3s2Meg",
+    "publish_at": "2026-10-27T17:00:00Z",
+    "url": "https://youtu.be/Oqhcl3s2Meg",
+    "comment": "Did Shanks engineer the whole war's outcome in advance, or did he just get lucky Kaidou backed off? Pick one.\nhttps://youtu.be/4Va3DRP7new",
+    "comment_posted": false
+  }
+}
