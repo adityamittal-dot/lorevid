@@ -61,3 +61,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Garp Trained Luffy Before Rayleigh Did (https://youtu.be/trQw3nbVXnw) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
 - [ ] Hyogoro Taught Luffy The Sharper Haki (https://youtu.be/jC-XU1h9QLQ) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
 - [ ] Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new) -> thumbnail B saved at output/2026-10-26-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Shanks Let Blackbeard Walk Away From Marineford (https://youtu.be/Y6tWyxvhYo0) -> related video: Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new)
