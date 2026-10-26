@@ -34,111 +34,120 @@
  ],
  "lines": [
   {
-   "text": "Three separate things had to go right for Luffy to ever reach the Grand Line out of Loguetown.",
+   "text": "Luffy gets captured at Loguetown, and the only Marine who can free him is his own grandfather.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Luffy Loguetown three things go right",
-    "fallback": "young pirate standing on the edge of a decisive town"
+    "search": "Luffy captured Loguetown Garp grandfather",
+    "fallback": "young pirate in cuffs facing his own grandfather"
    }
   },
   {
-   "text": "A lightning bolt. A cannonball. And one Revolutionary who happened to be walking through town that day.",
-   "delivery": "reveal",
+   "text": "Smoker has him pinned and cuffed, and the wiki says he would have succeeded, if Dragon hadn't interfered.",
+   "delivery": "punch",
    "fx": "none",
    "shot": {
-    "search": "Lightning cannonball Revolutionary Loguetown clues",
+    "search": "Smoker pins Luffy cuffed Dragon interfered",
     "fallback": "three separate strokes of fortune lining up at once"
    }
   },
   {
-   "text": "So what actually happens if that third one, Monkey D. Dragon, simply never shows up at all?",
+   "text": "So what happens if Dragon never walks down that street, and Garp has to fix it instead?",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Dragon never shows question Loguetown",
+    "search": "Dragon never walks street Garp fixes it",
     "fallback": "absent savior leaving a desperate moment unresolved"
    }
   },
   {
-   "text": "Smoker already had Luffy pinned to the ground, cuffed, with every intention of finishing the arrest.",
+   "text": "I'm going to show you the failed rescue, the order Garp gives, and the grudge it plants in Smoker.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Smoker pins Luffy cuffed arrest Loguetown",
-    "fallback": "captain pinning down a cornered young pirate"
+    "search": "Failed rescue Garp order Smoker grudge",
+    "fallback": "three beats of a story lined up ahead"
    }
   },
   {
-   "text": "The wiki says it outright: Smoker would have succeeded, if Dragon hadn't interfered...",
-   "delivery": "punch",
-   "fx": "none",
-   "shot": {
-    "search": "Smoker would succeed without Dragon wiki",
-    "fallback": "nearly successful capture cut short by one arrival"
-   }
-  },
-  {
-   "text": "Take that one arrival away, and the entire story bends in a direction nobody saw coming...",
+   "text": "But the strangest part is who pays for all of it, and it isn't Luffy...",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Take away arrival story bends direction",
-    "fallback": "single missing arrival reshaping an entire future"
+    "search": "Who pays the price not Luffy",
+    "fallback": "one person quietly absorbing the cost for everyone"
    }
   },
   {
-   "text": "This isn't a random, out-of-nowhere change either. It's removing exactly one documented event the wiki itself confirms happened.",
-   "delivery": "normal",
+   "text": "But it all hinges on one moment, and we're about to take it out...",
+   "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Not random removing one documented event",
-    "fallback": "a single, specific fact lifted straight from the record"
+    "search": "One moment taken out Loguetown storm",
+    "fallback": "single scene about to be removed"
    }
   },
   {
-   "text": "Everything that follows still uses the same characters, the same motives, and the same rules the actual story already set up.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Same characters motives rules story setup",
-    "fallback": "familiar rules governing an unfamiliar outcome"
-   }
-  },
-  {
-   "text": "Picture the real version first. A storm breaks over Loguetown as Smoker corners Luffy in the town square.",
+   "text": "Here's the real scene. A storm breaks over Loguetown, and Smoker corners Luffy in the town square.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
     "search": "Storm breaks Smoker corners Luffy square",
-    "fallback": "sudden storm rolling over a tense standoff"
+    "fallback": "a single, specific fact lifted straight from the record"
    }
   },
   {
-   "text": "Dragon happens to be walking through that exact street, watching his own son about to be taken.",
+   "text": "Dragon happens to be on that exact street, watching his own son about to be taken.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Dragon walks street watches son Loguetown",
-    "fallback": "quiet figure watching a desperate confrontation unfold"
+    "search": "Dragon on street watches son Loguetown",
+    "fallback": "familiar rules governing an unfamiliar outcome"
    }
   },
   {
-   "text": "A massive gust of wind, likely Dragon's own doing, blows the Marines back and frees Luffy on the spot.",
+   "text": "Then a massive gust of wind, likely Dragon's own doing, blows the Marines back and frees Luffy on the spot.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
     "search": "Gust wind blows Marines frees Luffy",
-    "fallback": "powerful gust scattering an entire Marine unit"
+    "fallback": "sudden storm rolling over a tense standoff"
    }
   },
   {
-   "text": "Now take that one moment out entirely. Dragon is delayed somewhere else, or simply never walks down that street at all.",
+   "text": "That gust is the only reason Luffy ever reaches the Grand Line from here.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gust only reason Luffy reaches Grand Line",
+    "fallback": "one gust of wind holding up an entire voyage"
+   }
+  },
+  {
+   "text": "So I'm taking that gust away, and nothing else.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Taking gust away nothing else",
+    "fallback": "one single change and no others"
+   }
+  },
+  {
+   "text": "Dragon is delayed somewhere else, or just never walks down that street.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
     "search": "Dragon delayed never walks street removed",
     "fallback": "single absent figure changing an entire outcome"
+   }
+  },
+  {
+   "text": "I think this is the cleanest place to cut, because everything that follows hangs off that one gust.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Cleanest place to cut one gust",
+    "fallback": "single pivot point holding up a whole story"
    }
   },
   {
@@ -151,7 +160,7 @@
    }
   },
   {
-   "text": "For the first time in his short career, Luffy is actually, fully in Marine custody, with no storm left to save him.",
+   "text": "For the first time, Luffy is in Marine custody, and there's no storm left to save him.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -160,7 +169,16 @@
    }
   },
   {
-   "text": "Smoker radios ahead immediately, requesting transport to the nearest Marine base before anyone can organize a rescue.",
+   "text": "Think about how fast the mood in that square flips. A second ago it was a rescue, and now it's a verdict nobody can appeal.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Mood flips rescue becomes verdict square",
+    "fallback": "a crowd going silent as the outcome sinks in"
+   }
+  },
+  {
+   "text": "Smoker radios ahead for transport to the nearest Marine base before anyone can organize a rescue.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -178,7 +196,7 @@
    }
   },
   {
-   "text": "Zoro, Nami, Usopp, and Sanji are all already part of the crew by this point in the story.",
+   "text": "Zoro, Nami, Usopp, and Sanji are already on the crew by now, so they don't sit still.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -187,7 +205,7 @@
    }
   },
   {
-   "text": "Nami actually argues against rushing in blind, pointing out that Marine garrisons at Loguetown are famously well stocked for exactly this kind of attack.",
+   "text": "Nami argues against rushing in blind. The Marine garrison at Loguetown is well stocked for exactly this kind of attack.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -196,7 +214,7 @@
    }
   },
   {
-   "text": "Usopp is openly terrified too, but nobody on that crew seriously considers leaving their captain behind, not even for a second.",
+   "text": "Usopp is terrified too, but nobody on that crew even considers leaving their captain behind.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -214,7 +232,7 @@
    }
   },
   {
-   "text": "Loguetown isn't some sleepy outpost, though. It's the town built around Gol D. Roger's own final stand, heavily garrisoned for exactly this reason.",
+   "text": "Loguetown isn't some sleepy outpost. It's the town built around Gol D. Roger's final stand, and it's heavily garrisoned.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -223,7 +241,16 @@
    }
   },
   {
-   "text": "Smoker's Logia body alone makes most direct attacks on him pointless, and his officer Tashigi backs him at every turn.",
+   "text": "That's the part Nami sees and Luffy never would, and honestly it's why she's the navigator.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami sees the danger navigator",
+    "fallback": "sharp-eyed navigator reading a bad situation"
+   }
+  },
+  {
+   "text": "Smoker's Logia body makes most direct attacks on him pointless, and his officer Tashigi backs him at every turn.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -232,7 +259,7 @@
    }
   },
   {
-   "text": "Zoro trades blows with Smoker directly and barely slows him down, same as he barely managed in the story everyone actually knows.",
+   "text": "Zoro trades blows with Smoker and barely slows him down, just like in the story everyone knows.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -250,7 +277,16 @@
    }
   },
   {
-   "text": "Zoro takes that failure the hardest of anyone. He already carries a vow never to lose again after Mihawk, and this feels exactly like that.",
+   "text": "I can't blame them for trying, though. Walking away from their captain just isn't something this crew knows how to do.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Crew will not walk away from captain",
+    "fallback": "loyal crew refusing to abandon their captain"
+   }
+  },
+  {
+   "text": "Zoro takes the failure hardest. He already vowed never to lose again after Mihawk, and this feels exactly the same.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -259,7 +295,7 @@
    }
   },
   {
-   "text": "He wants to go straight back in alone. Nami physically stops him, pointing out that one more reckless attempt gets him captured too.",
+   "text": "He wants to go straight back in alone. Nami stops him, because one more reckless try gets him captured too.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -268,7 +304,7 @@
    }
   },
   {
-   "text": "Sanji takes the fight the most personally of all, furious that his brand new captain got taken before they'd even reached the Grand Line properly.",
+   "text": "Sanji takes it personally, furious that his new captain got taken before they'd even properly reached the Grand Line.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -277,7 +313,7 @@
    }
   },
   {
-   "text": "Even Luffy himself, cuffed and dragged through town, keeps shouting for his crew to run instead of risking themselves on his behalf.",
+   "text": "Even Luffy, cuffed and dragged through town, keeps shouting for his crew to run.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -286,7 +322,7 @@
    }
   },
   {
-   "text": "Nobody listens to him, obviously. That's never once worked on this crew, and it doesn't work here either.",
+   "text": "Nobody listens, obviously. That's never worked on this crew, and it doesn't work here.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -295,7 +331,16 @@
    }
   },
   {
-   "text": "That's the first real cost of this change: the crew's very first rescue attempt, and it fails completely.",
+   "text": "I love that about them, and it's exactly why this failure is going to hurt so much.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Loyal crew failure hurts",
+    "fallback": "a proud crew facing its first real defeat"
+   }
+  },
+  {
+   "text": "That's the first real cost of this change: the crew's first rescue attempt, and it fails completely.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -304,7 +349,7 @@
    }
   },
   {
-   "text": "Smoker doesn't gloat about beating them either. He's far too focused on getting Luffy processed before anything else can go wrong.",
+   "text": "Smoker doesn't gloat. He's too busy getting Luffy processed before anything else goes wrong.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -313,7 +358,7 @@
    }
   },
   {
-   "text": "A capture this clean, on the exact spot Gol D. Roger once stood, is the kind of story that makes careers inside the Marines.",
+   "text": "A clean capture on the exact ground where Gol D. Roger once stood is the kind of story that makes Marine careers.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -322,7 +367,7 @@
    }
   },
   {
-   "text": "Smoker already has a reputation for ignoring other notable pirates once he's locked onto a target, and right now that target is secured.",
+   "text": "Smoker ignores other pirates once he's locked onto a target, and right now that target is secured.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -340,7 +385,7 @@
    }
   },
   {
-   "text": "That Marine is Monkey D. Garp, and he has a long, established habit of handling his grandson's messes himself.",
+   "text": "That Marine is Monkey D. Garp, and he has a long habit of cleaning up his grandson's messes himself.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -349,7 +394,7 @@
    }
   },
   {
-   "text": "Garp already refused to capture Luffy once before at Water 7, until he was explicitly ordered to do so.",
+   "text": "Garp already refused to capture Luffy once, at Water 7, until he was explicitly ordered to.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -358,7 +403,7 @@
    }
   },
   {
-   "text": "He consistently bends Marine rules around his own family, valuing them over his actual duty again and again.",
+   "text": "He bends Marine rules around his family again and again, and he puts them ahead of duty.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -367,7 +412,16 @@
    }
   },
   {
-   "text": "Even Roger himself once said he and Garp nearly ended each other many times, across years of mutual, almost respectful pursuit.",
+   "text": "Keep that in mind, because it explains why he'd ever cross a fellow Marine.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Garp explains crossing fellow Marine",
+    "fallback": "veteran Marine weighing family against orders"
+   }
+  },
+  {
+   "text": "Even Roger said he and Garp nearly ended each other many times, across years of almost respectful pursuit.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -376,7 +430,7 @@
    }
   },
   {
-   "text": "That history of mutual respect for a pirate is exactly the kind of thing that makes Garp so unpredictable to officers like Smoker.",
+   "text": "That history is exactly why officers like Smoker can never predict what Garp will do.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -385,7 +439,7 @@
    }
   },
   {
-   "text": "Garp has also turned down every single offer to become an Admiral, specifically because he refuses to answer to the Celestial Dragons.",
+   "text": "Garp has also turned down every offer to become an Admiral, because he refuses to answer to the Celestial Dragons.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -394,7 +448,7 @@
    }
   },
   {
-   "text": "That's a man who already treats rank as something to use selectively, not something to chase for its own sake.",
+   "text": "To him, rank is a tool to use when he wants, not a prize to chase.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -403,7 +457,16 @@
    }
   },
   {
-   "text": "Once word reaches him through the ranks that Luffy is actually, fully in custody, Garp doesn't wait for permission to act.",
+   "text": "That line is the key to everything Garp does next, so keep it in your head while we go on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Garp rank key to what he does next",
+    "fallback": "legendary Marine about to make a decision"
+   }
+  },
+  {
+   "text": "So when word reaches him that Luffy is fully in custody, Garp doesn't wait for permission.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -412,7 +475,7 @@
    }
   },
   {
-   "text": "Hearing that Smoker actually succeeded where Garp usually intervenes first, Garp personally travels to Loguetown to handle it himself.",
+   "text": "Smoker succeeded where Garp usually intervenes first, so Garp travels to Loguetown to handle it himself.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -430,7 +493,7 @@
    }
   },
   {
-   "text": "He drags Luffy aside, delivers the exact same bone-headed Fist of Love lecture he always gives him, and lets him go.",
+   "text": "He drags Luffy aside, delivers the same bone-headed Fist of Love lecture he always does, and lets him go.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -439,7 +502,7 @@
    }
   },
   {
-   "text": "In front of his own men, Smoker watches his hard-earned catch simply walk free, with zero explanation given to him at all.",
+   "text": "In front of his own men, Smoker watches his hard-earned catch walk free, with no explanation.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -448,7 +511,16 @@
    }
   },
   {
-   "text": "Garp doesn't even bother explaining his reasoning to Smoker at all. He simply states that the matter is now handled, and walks away.",
+   "text": "Put yourself in Smoker's boots for a second: a clean arrest, his whole garrison watching, and no one to explain why it vanished.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Smoker garrison watching arrest vanishes",
+    "fallback": "officer standing alone in front of his own men"
+   }
+  },
+  {
+   "text": "Garp doesn't explain. He says the matter is handled, and walks away.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -457,7 +529,7 @@
    }
   },
   {
-   "text": "Tashigi tries defending her captain's actions, pointing out the arrest was entirely legitimate under every Marine rule that applies.",
+   "text": "Tashigi tries to defend her captain, pointing out the arrest was legitimate under every Marine rule.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -466,7 +538,7 @@
    }
   },
   {
-   "text": "Garp doesn't argue the point. He simply outranks the entire conversation and leaves with Luffy regardless.",
+   "text": "Garp doesn't argue. He just outranks the whole conversation and leaves with Luffy.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -475,7 +547,16 @@
    }
   },
   {
-   "text": "Smoker still files an official report anyway, documenting every single detail of a by-the-book arrest that still somehow slipped through his own fingers.",
+   "text": "That silence says more about Garp's power than any speech could.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Silence says more about Garp power",
+    "fallback": "commanding presence ending an argument without a word"
+   }
+  },
+  {
+   "text": "Smoker files an official report anyway, documenting every detail of a by-the-book arrest that slipped through his fingers.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -484,7 +565,7 @@
    }
   },
   {
-   "text": "Nobody above him ever even reads it closely at all. Garp's own towering reputation alone makes the whole incident quietly disappear from the official record.",
+   "text": "Nobody above him reads it closely. Garp's reputation alone makes the whole incident quietly vanish from the record.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -511,7 +592,7 @@
    }
   },
   {
-   "text": "In this version, there's no mystery left to chase at all. Smoker knows exactly what happened: Garp's favoritism cost him his arrest.",
+   "text": "Here, there's no mystery to chase. Smoker knows exactly what happened: Garp's favoritism cost him his arrest.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -529,7 +610,16 @@
    }
   },
   {
-   "text": "He's genuinely good at his job too. Pirate activity around Loguetown had already dropped sharply the moment Smoker first took charge of the post.",
+   "text": "That's a very different kind of man to have chasing Luffy across the sea.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Different kind of man chasing Luffy sea",
+    "fallback": "determined officer staring out across the ocean"
+   }
+  },
+  {
+   "text": "He's good at his job, too. Pirate activity around Loguetown dropped sharply once Smoker took charge of the post.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -538,7 +628,7 @@
    }
   },
   {
-   "text": "That competence is exactly why this particular loss stings so much worse than an ordinary escaped pirate ever would.",
+   "text": "That's why this loss stings far worse than an ordinary escaped pirate.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -547,7 +637,7 @@
    }
   },
   {
-   "text": "Losing a clean, by-the-book arrest to a superior's personal favoritism cuts directly against everything Smoker actually values about his own work.",
+   "text": "Losing a clean arrest to a superior's favoritism cuts against everything Smoker values about his work.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -556,7 +646,16 @@
    }
   },
   {
-   "text": "Tashigi notices the change in him almost immediately, describing him as colder and far less willing to explain his decisions afterward.",
+   "text": "I think that's the part that really gets under his skin, even more than losing Luffy himself ever could.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "What gets under Smoker skin",
+    "fallback": "proud officer bothered by an unfair loss"
+   }
+  },
+  {
+   "text": "Tashigi notices the change almost immediately. He's colder, and far less willing to explain his decisions.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -565,7 +664,7 @@
    }
   },
   {
-   "text": "She still follows him anyway, same as always, even without fully understanding what actually changed in him that day.",
+   "text": "She follows him anyway, even without understanding what changed in him that day.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -574,7 +673,7 @@
    }
   },
   {
-   "text": "Loyalty like that doesn't really ask too many questions at all. It just quietly stays, and that's exactly enough for Smoker right now.",
+   "text": "Loyalty like that doesn't ask many questions. It just stays, and right now that's enough for Smoker.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -583,7 +682,7 @@
    }
   },
   {
-   "text": "He requests a transfer deeper into the Grand Line anyway, chasing Luffy with the exact same intensity as before.",
+   "text": "He requests a transfer deeper into the Grand Line, chasing Luffy with the same intensity as before.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -592,7 +691,16 @@
    }
   },
   {
-   "text": "The difference is what's fueling it now: not awe at a mysterious parallel to Gol D. Roger, but plain resentment at being overruled.",
+   "text": "From the outside, nothing looks different at all, and that's what makes it so interesting.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nothing looks different outside",
+    "fallback": "same chase hiding a very different motive"
+   }
+  },
+  {
+   "text": "The difference is the fuel: not awe at a mysterious parallel to Gol D. Roger, but plain resentment at being overruled.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -610,7 +718,7 @@
    }
   },
   {
-   "text": "Years later, at Arabasta, the real story has Smoker siding with Luffy against Crocodile, out of a shared sense of justice.",
+   "text": "Years later at Arabasta, the real story has Smoker siding with Luffy against Crocodile, out of a shared sense of justice.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -619,7 +727,7 @@
    }
   },
   {
-   "text": "In this version, that alliance still happens, because Crocodile's crimes against Arabasta are exactly as real either way.",
+   "text": "In this version that alliance still happens, because Crocodile's crimes against Arabasta are just as real.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -628,7 +736,16 @@
    }
   },
   {
-   "text": "What's different is what Smoker is actually thinking while he fights alongside Luffy instead of against him.",
+   "text": "I find this the most interesting part of the whole What If, because on paper the actions stay completely identical.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Most interesting part actions identical",
+    "fallback": "same events with a changed meaning underneath"
+   }
+  },
+  {
+   "text": "What's different is what Smoker is thinking while he fights beside Luffy.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -637,7 +754,7 @@
    }
   },
   {
-   "text": "In the real story, Smoker respects Luffy's conviction. Here, Smoker is still quietly resentful of the entire Monkey D. family's special treatment.",
+   "text": "In the real story, Smoker respects Luffy's conviction. Here, he still quietly resents the Monkey D. family's special treatment.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -646,7 +763,7 @@
    }
   },
   {
-   "text": "He still does the right thing at Arabasta. He just does it with far less faith in the system he actually serves.",
+   "text": "He still does the right thing at Arabasta. He just does it with far less faith in the system he serves.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -655,7 +772,16 @@
    }
   },
   {
-   "text": "Smoker still personally witnesses Luffy declare his dream to become Pirate King out loud, same as he does in the original story.",
+   "text": "That's a quieter, more cynical Smoker, and honestly I think he's a more interesting character for it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Quiet cynical Smoker more interesting",
+    "fallback": "weary officer doing his duty without belief"
+   }
+  },
+  {
+   "text": "Smoker still hears Luffy declare out loud that he'll be Pirate King, same as in the original story.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -664,7 +790,7 @@
    }
   },
   {
-   "text": "That declaration lands differently on a man nursing a grudge than it does on a man still chasing an unanswered mystery.",
+   "text": "That declaration lands differently on a man nursing a grudge than on a man chasing a mystery.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -673,7 +799,7 @@
    }
   },
   {
-   "text": "Later, during the chaos at Punk Hazard, Smoker and Luffy end up allies again too, forced together by a far bigger threat.",
+   "text": "At Punk Hazard, Smoker and Luffy end up allies again, forced together by a far bigger threat.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -682,12 +808,21 @@
    }
   },
   {
-   "text": "That alliance still works exactly the same way it always did: not friendship, just two people who happen to want the same outcome.",
+   "text": "That alliance works the way it always did: not friendship, just two people who want the same outcome.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
     "search": "Alliance works same way not friendship",
     "fallback": "functional cooperation that never quite becomes real trust"
+   }
+  },
+  {
+   "text": "Same fight, same enemy, and a completely different reason for standing there.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Same fight same enemy different reason",
+    "fallback": "two fighters side by side for opposite reasons"
    }
   },
   {
@@ -700,7 +835,7 @@
    }
   },
   {
-   "text": "There's a quieter cost buried inside all of this, one that has nothing to do with Smoker at all.",
+   "text": "There's a quieter cost buried in all this, and it has nothing to do with Smoker.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -718,7 +853,7 @@
    }
   },
   {
-   "text": "In this version, Dragon never gets that moment either. He's simply absent, somewhere else entirely, missing it completely.",
+   "text": "Here, Dragon never gets that moment. He's somewhere else entirely, and he misses it.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -727,7 +862,7 @@
    }
   },
   {
-   "text": "Luffy still has no idea who his father even is at this point in the story, same as always.",
+   "text": "Luffy still has no idea who his father is at this point, same as always.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -736,7 +871,16 @@
    }
   },
   {
-   "text": "But in the real version, Garp at least knows Dragon was there, watching, even if Luffy never finds out.",
+   "text": "That's what makes this part sting, because the one person who would want to know has no way to.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "One person who would want to know",
+    "fallback": "father far away from a son who cannot know"
+   }
+  },
+  {
+   "text": "But in the real version, Garp at least knows Dragon was there watching, even if Luffy never finds out.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -745,7 +889,7 @@
    }
   },
   {
-   "text": "Here, Garp doesn't get that small comfort either. As far as he knows, his son wasn't even in Loguetown that day.",
+   "text": "Here, Garp doesn't get that comfort. As far as he knows, his son wasn't even in Loguetown that day.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -754,7 +898,7 @@
    }
   },
   {
-   "text": "Garp already disapproves of Dragon's entire path as a Revolutionary, same as he disapproves of Luffy choosing piracy over the Marines.",
+   "text": "Garp already disapproves of Dragon's path as a Revolutionary, just like he disapproves of Luffy choosing piracy over the Marines.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -763,7 +907,7 @@
    }
   },
   {
-   "text": "Without even that small, secondhand proof that Dragon still quietly watches over his own son, Garp's worry only grows heavier.",
+   "text": "Without even that secondhand proof that Dragon watches over his son, Garp's worry only grows heavier.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -772,7 +916,16 @@
    }
   },
   {
-   "text": "Sengoku still reveals Dragon's identity publicly at Marineford years later either way, since that reveal never depended on Loguetown at all.",
+   "text": "It's a tiny loss, but this is exactly the kind of buried detail a good What If exists to find and point at.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tiny loss what if exists to find",
+    "fallback": "small overlooked detail catching the light"
+   }
+  },
+  {
+   "text": "Sengoku still reveals Dragon's identity publicly at Marineford years later, because that reveal never depended on Loguetown.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -781,7 +934,7 @@
    }
   },
   {
-   "text": "Young Coby, still processing what he just watched, comes away from Loguetown with a very different first lesson about the Marines.",
+   "text": "Coby comes away from Loguetown with a very different first lesson about the Marines.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -799,7 +952,7 @@
    }
   },
   {
-   "text": "Here, all he actually sees is one powerful man overruling another, which quietly teaches him that rank decides everything, not justice.",
+   "text": "Here, all he sees is one powerful man overruling another, which teaches him that rank decides everything, not justice.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -808,7 +961,7 @@
    }
   },
   {
-   "text": "That's a small, easy-to-miss change with a long reach: the exact same boy, shaped by a slightly colder lesson.",
+   "text": "It's a small change with a long reach: the same boy, shaped by a slightly colder lesson.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -817,7 +970,16 @@
    }
   },
   {
-   "text": "Years later, that same Coby still ends up pleading for both sides to stop fighting at Marineford, same as always.",
+   "text": "I think that's the scariest kind of change, because nobody ever sees it happen, not even the boy it happens to.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Scariest kind of change nobody sees",
+    "fallback": "invisible shift settling into a young mind"
+   }
+  },
+  {
+   "text": "Years later, that same Coby still pleads for both sides to stop fighting at Marineford.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -826,7 +988,7 @@
    }
   },
   {
-   "text": "The plea just comes from someone who learned justice is complicated a few years earlier than he otherwise would have...",
+   "text": "The plea just comes from someone who learned that justice is complicated a few years sooner.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
@@ -844,7 +1006,7 @@
    }
   },
   {
-   "text": "So here's how the one change plays out: Luffy still reaches the Grand Line, just through Garp's favor instead of Dragon's wind.",
+   "text": "So here's how the one change plays out: Luffy still reaches the Grand Line, through Garp's favor instead of Dragon's wind.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -862,7 +1024,7 @@
    }
   },
   {
-   "text": "Smoker becomes just as obsessed with chasing Luffy as he ever was, but for a bitterer, far more personal reason this time around.",
+   "text": "Smoker stays just as obsessed with chasing Luffy, but for a bitterer, far more personal reason.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -871,7 +1033,16 @@
    }
   },
   {
-   "text": "Garp, for his own part, never once thinks of any of this as a big deal at all. To him, it's just another ordinary mess from his grandson.",
+   "text": "I'd argue that's the cruelest version of the rivalry, because it began with nothing personal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Cruelest version of rivalry nothing personal",
+    "fallback": "rivalry turning bitter over a slight"
+   }
+  },
+  {
+   "text": "Garp never thinks of any of this as a big deal. To him it's just another mess from his grandson.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -880,7 +1051,7 @@
    }
   },
   {
-   "text": "That mismatch, Garp's total indifference against Smoker's genuine humiliation, is exactly why the grudge sticks so hard in the first place.",
+   "text": "That mismatch, Garp's total indifference against Smoker's humiliation, is exactly why the grudge sticks.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -889,7 +1060,7 @@
    }
   },
   {
-   "text": "A legend who barely notices the damage he causes, and a dedicated officer stuck carrying every bit of it afterward.",
+   "text": "A legend who barely notices the damage he causes, and an officer stuck carrying all of it.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -898,7 +1069,16 @@
    }
   },
   {
-   "text": "Some fans will say this barely changes anything, since Luffy still ends up free and still reaches the Grand Line regardless.",
+   "text": "Like in the Ace survival story, the real damage isn't the headline event, it's who carries it afterward.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Real damage is who carries it afterward",
+    "fallback": "one person left holding the weight of an event"
+   }
+  },
+  {
+   "text": "Some fans will say this barely changes anything, since Luffy still ends up free and still reaches the Grand Line.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -907,7 +1087,7 @@
    }
   },
   {
-   "text": "That's a fair point on the surface. The destination doesn't change. Who Luffy owes that freedom to absolutely does.",
+   "text": "Fair point. The destination doesn't change. Who Luffy owes his freedom to absolutely does.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -916,7 +1096,7 @@
    }
   },
   {
-   "text": "And it's worth saying plainly: Luffy himself comes out of this completely unaware anything was ever even different at all.",
+   "text": "And Luffy himself comes out of this completely unaware that anything was different.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -925,7 +1105,7 @@
    }
   },
   {
-   "text": "He still sets sail with the exact same confidence, the exact same dream, and the exact same crew standing behind him.",
+   "text": "He sets sail with the same confidence, the same dream, and the same crew behind him.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -934,7 +1114,16 @@
    }
   },
   {
-   "text": "That's actually the most unsettling part of this whole exercise: the hero of the story never even notices how close the ending nearly went wrong.",
+   "text": "And that's why it works as a story: the cost stays completely invisible to the one person standing at the center.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Cost invisible to the person at the center",
+    "fallback": "hero sailing on unaware of the price"
+   }
+  },
+  {
+   "text": "That's the unsettling part: the hero of the story never notices how close it all came to going wrong.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -943,7 +1132,7 @@
    }
   },
   {
-   "text": "Every single consequence in this story lands on the people around Luffy, never on Luffy himself.",
+   "text": "Every consequence in this story lands on the people around Luffy, never on Luffy himself.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -952,25 +1141,25 @@
    }
   },
   {
-   "text": "In the real story, Garp also knows Dragon was there watching. That knowledge quietly softens how Garp handles everything that comes after.",
+   "text": "Count what shifted: Smoker trusts rank less, Coby trusts justice less, and Garp has one more thing to worry about.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Garp knowledge Dragon softens handling after",
-    "fallback": "quiet reassurance shaping how a grandfather lets go"
+    "search": "Three small cracks Smoker Coby Garp",
+    "fallback": "three people each carrying a quiet new doubt"
    }
   },
   {
-   "text": "Strip that reassurance away, and every future choice Garp makes about Luffy carries just a little more fear in it.",
+   "text": "Three people, three small cracks, and not one of them is Luffy.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Strip reassurance future choice more fear",
-    "fallback": "missing comfort adding weight to every future decision"
+    "search": "Three cracks none of them Luffy",
+    "fallback": "unseen damage resting on everyone but the hero"
    }
   },
   {
-   "text": "Owing your freedom to a father who loves you from a distance is different from owing it to a grandfather who outranks the man holding you.",
+   "text": "Owing your freedom to a father who loves you from afar is different from owing it to a grandfather who outranks your captor.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -979,7 +1168,7 @@
    }
   },
   {
-   "text": "One is a quiet act of love. The other is a Marine simply pulling rank on another Marine in front of his own men.",
+   "text": "One is a quiet act of love. The other is a Marine pulling rank on another Marine in front of his men.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -988,7 +1177,7 @@
    }
   },
   {
-   "text": "Both versions still end with Luffy free and sailing off toward the Grand Line. Only one of them leaves a lasting scar behind on someone else.",
+   "text": "Both versions end with Luffy free and sailing for the Grand Line. Only one leaves a scar on someone else.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -997,7 +1186,7 @@
    }
   },
   {
-   "text": "Smoker spends the rest of his career chasing a grudge instead of chasing a mystery, and that changes the shape of every fight after this one.",
+   "text": "Smoker spends his career chasing a grudge instead of a mystery, and that changes every fight after this one.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -1006,7 +1195,7 @@
    }
   },
   {
-   "text": "Change one storm, one wind, one absent father, and the whole story still arrives in the same place, carrying a very different weight.",
+   "text": "Change one storm, one wind, one absent father, and the story still arrives in the same place, carrying a different weight.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -1015,7 +1204,7 @@
    }
   },
   {
-   "text": "That's the actual value of asking this kind of question in the first place: not to rewrite the ending, but to see what it actually costs.",
+   "text": "That's the real value of asking this kind of question: not to rewrite the ending, but to see what it costs.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -1024,7 +1213,7 @@
    }
   },
   {
-   "text": "Luffy's story barely blinks. Everyone standing just outside the frame pays the real price for that one missing afternoon.",
+   "text": "Luffy's story barely blinks. Everyone standing just outside the frame pays for that one missing afternoon.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -1045,34 +1234,34 @@
  "chapters": [
   {
    "line": 0,
-   "title": "Three Things Had To Go Right"
+   "title": "Who Actually Pays For This"
   },
   {
    "line": 6,
    "title": "The Moment That Never Happened"
   },
   {
-   "line": 16,
+   "line": 18,
    "title": "The Rescue That Failed"
   },
   {
-   "line": 34,
+   "line": 39,
    "title": "The Marine Who Shows Up Himself"
   },
   {
-   "line": 52,
+   "line": 61,
    "title": "The Grudge That Replaces The Mystery"
   },
   {
-   "line": 64,
+   "line": 76,
    "title": "The Alliance For The Wrong Reason"
   },
   {
-   "line": 74,
+   "line": 89,
    "title": "What Luffy Never Got To Meet"
   },
   {
-   "line": 90,
+   "line": 108,
    "title": "The Verdict"
   }
  ],

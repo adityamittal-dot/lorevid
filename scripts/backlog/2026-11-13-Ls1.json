@@ -1,0 +1,153 @@
+{
+  "id": "2026-11-13-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Dragon's Loguetown storm wind is widely credited to him, but the wiki never confirms he caused it",
+  "title": "Nobody Has Proven Dragon Made That Storm",
+  "description": "Everyone blames Monkey D. Dragon for the wind that saved Luffy at Loguetown. The wiki says it's unconfirmed, and his Devil Fruit is still a mystery. Do you think it was on purpose?",
+  "hashtags": ["#onepiece", "#monkeyddragon", "#anime"],
+  "tags": ["one piece theory", "monkey d dragon", "dragon loguetown", "one piece loguetown storm", "dragon wind", "one piece revolutionary", "luffy saved loguetown", "dragon wind theory", "one piece loguetown explained"],
+  "hook_text": "DID DRAGON DO IT?",
+  "music_mood": "suspense",
+  "comment": "Did Dragon's wind save Luffy on purpose, or was it a lucky accident? Pick one.",
+  "related_long": "2026-11-13-L",
+  "end_text": "WHO REALLY MADE THE WIND?",
+  "pages": [
+    "Monkey D. Dragon",
+    "Smoker",
+    "Monkey D. Luffy"
+  ],
+  "lines": [
+    {
+      "text": "Everyone says Dragon made that storm at Loguetown.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Dragon Loguetown storm wind",
+        "fallback": "stormy coastal town, mysterious man in a long coat, anime style"
+      }
+    },
+    {
+      "text": "Smoker had Luffy pinned and cuffed, one step from a clean arrest.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Luffy Loguetown town square",
+        "fallback": "marine captain in a town square holding a young pirate down, anime style"
+      }
+    },
+    {
+      "text": "Chapter 100 says he would have succeeded without Dragon's interference.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Loguetown arrest Dragon interference",
+        "fallback": "marine captain with white smoke around his arm, startled expression, anime style"
+      }
+    },
+    {
+      "text": "Then a massive gust blows the Marines back, and Luffy is free.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Dragon wind blows Marines back Loguetown",
+        "fallback": "powerful gust of wind scattering marines across a town square, anime style"
+      }
+    },
+    {
+      "text": "But look at Dragon's wind in Goa too. Gusts and a lightning strike showed up nearby.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Goa Kingdom wind lightning",
+        "fallback": "revolutionary standing in a storm with lightning behind him, anime style"
+      }
+    },
+    {
+      "text": "The wiki's verdict is blunt: it's unconfirmed whether Dragon caused any of it.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Dragon wind unconfirmed",
+        "fallback": "mysterious revolutionary silhouette against a dark sky, question mark in the clouds, anime style"
+      }
+    },
+    {
+      "text": "His Devil Fruit is still unknown, so nobody can tie the wind to him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Monkey D. Dragon Devil Fruit unknown",
+        "fallback": "hooded revolutionary with a swirling wind aura, anime style"
+      }
+    },
+    {
+      "text": "Here's my read: that storm is fan theory until someone proves it.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Monkey D. Dragon storm fan theory",
+        "fallback": "fan theory board with a storm drawn over a town, anime style"
+      }
+    },
+    {
+      "text": "Fans say the timing is too perfect to be chance. Fair point.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Loguetown timing wind Luffy",
+        "fallback": "clock tower over a town during a storm, anime style"
+      }
+    },
+    {
+      "text": "But timing is not proof, and canon has never confirmed it.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Loguetown canon wind evidence",
+        "fallback": "open manga page with a storm panel, anime style"
+      }
+    },
+    {
+      "text": "So who made the wind? Canon still says nobody knows.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Loguetown storm mystery",
+        "fallback": "shadowy figure in a storm over a harbor, anime style"
+      }
+    },
+    {
+      "text": "And that's only half of why Dragon was in Loguetown at all.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dragon Loguetown Luffy bounty poster",
+        "fallback": "wanted poster of a young pirate on a town wall, anime style"
+      }
+    },
+    {
+      "text": "Which is why everyone still says Dragon's wind, even though nobody can prove it.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Monkey D. Dragon wind Loguetown",
+        "fallback": "revolutionary standing calm while a storm swirls around him, anime style"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Monkey_D._Dragon",
+    "https://onepiece.fandom.com/wiki/Smoker",
+    "https://onepiece.fandom.com/wiki/Smoker/History",
+    "https://www.sportskeeda.com/anime/one-piece-chapter-1099-teases-dragon-s-devil-fruit-powers"
+  ],
+  "self_check": {
+    "hook": "claim in line 1: everyone credits Dragon with the storm",
+    "loop": "last line leads back to line 1 with the unproven-credit idea",
+    "facts_verified": true
+  }
+}

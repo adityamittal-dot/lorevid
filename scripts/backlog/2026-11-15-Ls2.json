@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-15-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Dragon said he would never forgive Sabo if the Cobra accusation were true, which shows the Army runs on a code",
+ "title": "Dragon Would Never Forgive Sabo For This One Thing",
+ "description": "Dragon's warning about Sabo and King Cobra in chapter 1058, and what it says about the rules the Revolutionary Army lives by.",
+ "hashtags": [
+  "#dragon",
+  "#sabo",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "dragon sabo cobra",
+  "revolutionary army rules",
+  "one piece chapter 1058",
+  "sabo framed cobra",
+  "dragon one piece theory",
+  "revolutionary army code",
+  "one piece 1060",
+  "dragon vs sabo",
+  "revolutionary army dragon",
+  "sabo cobra frame"
+ ],
+ "hook_text": "DRAGON'S ONE RULE",
+ "music_mood": "emotional",
+ "comment": "Is Dragon right to judge Sabo before hearing him out, or should the Army have trusted him instantly?",
+ "related_long": "2026-11-15-L",
+ "end_text": "WHY THE ARMY OUTLASTS CREWS",
+ "pages": [
+  "Monkey D. Dragon",
+  "Sabo",
+  "Nefertari Cobra",
+  "Revolutionary Army"
+ ],
+ "lines": [
+  {
+   "text": "Dragon told the world he'd never forgive Sabo, and he meant it.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Dragon Revolutionary Army leader serious chapter 1058",
+    "fallback": "tattooed cloaked leader with a grim stare"
+   }
+  },
+  {
+   "text": "The news said Sabo had harmed King Cobra of Arabasta, and Dragon didn't wait for proof to say it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nefertari Cobra assassination news Sabo framed",
+    "fallback": "newspaper headline about a king and a masked revolutionary"
+   }
+  },
+  {
+   "text": "That's chapter 1058. He said no reason would change it, even if Sabo was his own second in command.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon would not forgive Sabo Cobra Koala",
+    "fallback": "leader speaking firmly to a red haired aide"
+   }
+  },
+  {
+   "text": "Cobra was a fair king, and Dragon says attacking a ruler like that is not what the Army exists for.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nefertari Cobra fair king Arabasta Vivi father",
+    "fallback": "kind old king with a mustache smiling in a palace"
+   }
+  },
+  {
+   "text": "Chapter 1060 clears Sabo, and Dragon is relieved. But he also notes how little Sabo cares about the accusation.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo innocent chapter 1060 Dragon relieved",
+    "fallback": "leader exhaling beside a bandaged man"
+   }
+  },
+  {
+   "text": "People say Dragon is just a warlord with a flag, willing to do anything. That's wrong, because he never calls for a Buster Call.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon World's Worst Criminal Revolutionary Army",
+    "fallback": "cloaked leader on a clifftop at night"
+   }
+  },
+  {
+   "text": "The Army has a code, and the first person it applies to is the man at the top of the line.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Sabo Ivankov Momoiro Island meeting",
+    "fallback": "leader and two aides in a private hall"
+   }
+  },
+  {
+   "text": "And why a code like that lasts longer than any captain's crew is the bigger question.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Revolutionary Army flag Baltigo Momoiro",
+    "fallback": "flag waving over a hidden island base"
+   }
+  },
+  {
+   "text": "Which is why Dragon told the world he'd never forgive Sabo",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon tattoo green cloak close up",
+    "fallback": "leader's face with diamond tattoo, serious"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Monkey_D._Dragon",
+  "https://onepiece.fandom.com/wiki/Sabo",
+  "https://onepiece.fandom.com/wiki/Chapter_1083"
+ ],
+ "self_check": {
+  "hook": "Contrarian claim naming Dragon and Sabo with chapter 1058",
+  "loop": "last line hands directly into line 1's clause",
+  "facts_verified": true
+ }
+}

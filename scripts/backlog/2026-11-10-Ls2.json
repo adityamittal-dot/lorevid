@@ -1,0 +1,140 @@
+{
+  "id": "2026-11-10-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Rocks D. Xebec once conquered Hachinosu, and Blackbeard now rules the same island, named his flagship the Saber of Xebec, and wants Hachinosu recognized as a nation, a side point of the crew-building story",
+  "title": "The Island Rocks Ruled Before Blackbeard Ever Did",
+  "description": "Rocks D. Xebec conquered the lawless island of Hachinosu and ruled over every criminal on it. Decades later, his son Blackbeard sits on that exact same island and named his flagship after his father. Is this a tribute, or a plan?",
+  "hashtags": [
+    "#onepiece",
+    "#blackbeard",
+    "#anime"
+  ],
+  "tags": [
+    "one piece hachinosu",
+    "blackbeard hachinosu",
+    "saber of xebec",
+    "rocks d xebec",
+    "one piece theory",
+    "blackbeard father",
+    "blackbeard kingdom",
+    "one piece pirate island"
+  ],
+  "hook_text": "SAME ISLAND, SAME THRONE",
+  "music_mood": "suspense",
+  "comment": "Is Teach copying Rocks on purpose, or did Hachinosu just happen to be the best hideout?",
+  "related_long": "2026-11-10-L",
+  "end_text": "IS BLACKBEARD JUST GREEDY?",
+  "pages": [
+    "Hachinosu",
+    "Rocks D. Xebec",
+    "Marshall D. Teach"
+  ],
+  "lines": [
+    {
+      "text": "Rocks D. Xebec once conquered the lawless island of Hachinosu.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Hachinosu island Rocks Xebec",
+        "fallback": "lawless island port with pirate banners"
+      }
+    },
+    {
+      "text": "He brought every criminal on it under his control and ruled there for years.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rocks Xebec Hachinosu ruler",
+        "fallback": "pirate captain overlooking a crowded island town"
+      }
+    },
+    {
+      "text": "Blackbeard's base today is that exact same island.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Blackbeard Hachinosu base island",
+        "fallback": "dark pirate throne room on an island"
+      }
+    },
+    {
+      "text": "He didn't just pick a convenient hideout. He ousted Ochoku, a former subordinate of Rocks.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Ochoku Hachinosu takeover",
+        "fallback": "new ruler taking a throne from an old one"
+      }
+    },
+    {
+      "text": "Teach also named his flagship the Saber of Xebec, a tribute to his father.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Blackbeard flagship Saber of Xebec",
+        "fallback": "grand pirate flagship with a dark sail"
+      }
+    },
+    {
+      "text": "Some say it's just a cool ship name. Fair, but look at what he's doing with the island.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard island plans Hachinosu nation",
+        "fallback": "pirate map spread across a table"
+      }
+    },
+    {
+      "text": "Teach wants Hachinosu recognized as an official nation, the Blackbeard Kingdom.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Blackbeard Kingdom Hachinosu Teach",
+        "fallback": "crown resting on a stone pedestal"
+      }
+    },
+    {
+      "text": "Here's my read: the island is the clearest proof the son inherited the plan.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Marshall D. Teach Hachinosu Rocks Xebec",
+        "fallback": "father and son silhouettes over an island"
+      }
+    },
+    {
+      "text": "And that's only half of why Teach wants a nation so badly.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Marshall D. Teach ambition world recognition",
+        "fallback": "ambitious pirate gazing toward a distant capital"
+      }
+    },
+    {
+      "text": "That's why the throne Blackbeard sits on was first his father's.",
+      "delivery": "slow",
+      "fx": "zoom",
+      "shot": {
+        "search": "Rocks Xebec Hachinosu throne",
+        "fallback": "empty throne in a dim pirate hall"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Hachinosu",
+    "https://onepiece.fandom.com/wiki/Rocky_Port_Incident",
+    "https://www.soapcentral.com/anime/who-defeated-ochoku-one-piece-explained",
+    "https://beebom.com/one-piece-hachinosu-pirate-island-explained/amp/",
+    "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  ],
+  "self_check": {
+    "hook": "hidden detail: same island, same throne, with the flagship name as the side point",
+    "loop": "last line leads into line 0 (Rocks conquered the island)",
+    "facts_verified": true
+  }
+}

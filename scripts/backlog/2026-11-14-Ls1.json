@@ -1,0 +1,135 @@
+{
+  "id": "2026-11-14-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Gaban's Kamudo stopped Imu's Stigma finish during their duel on Elbaph, and it cost him his left arm",
+  "title": "Gaban's Axes Stopped a God's Finishing Move",
+  "description": "Scopper Gaban's duel with Nerona Imu on Elbaph is the fight most fans skip past. His Kamudo blocked Imu's Stigma finish, and Gaban paid for it with his left arm in chapter 1190. Here's the moment that makes his old-man reputation harder to dismiss.",
+  "hashtags": ["#onepiece", "#elbaph", "#anime"],
+  "tags": [
+    "scopper gaban",
+    "one piece 1190",
+    "nerona imu",
+    "gaban kamudo",
+    "one piece elbaph arc",
+    "roger pirates explained",
+    "one piece imu",
+    "gaban vs imu"
+  ],
+  "hook_text": "OLD PIRATE VS A GOD",
+  "music_mood": "epic",
+  "comment": "Is Gaban's fight with Imu the stronger line on his résumé, or does Rayleigh still have the edge?",
+  "related_long": "2026-11-14-L",
+  "end_text": "WHO REALLY RANKS SECOND?",
+  "pages": [
+    "Scopper Gaban",
+    "Nerona Imu",
+    "Elbaph Arc"
+  ],
+  "lines": [
+    {
+      "text": "Scopper Gaban stopped a god's finishing move with his axes.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Scopper Gaban Kamudo black lightning",
+        "fallback": "old pirate with two axes, black lightning around the blades, anime style"
+      }
+    },
+    {
+      "text": "Luffy was pinned to a tree, and Imu was about to strike again.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Luffy Stigma",
+        "fallback": "pale villain with a sword of flame above a young captain pinned to a tree, anime style"
+      }
+    },
+    {
+      "text": "So Gaban jumped in and charged both axes with Supreme King Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban Supreme King Haki axes",
+        "fallback": "old pirate with two axes glowing with dark energy, anime style"
+      }
+    },
+    {
+      "text": "Black lightning ripped through the Adam Tree around the battlefield.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Scopper Gaban Adam Tree",
+        "fallback": "enormous sacred tree with black lightning crackling through its branches"
+      }
+    },
+    {
+      "text": "Huge branches came crashing down, and Imu had to block with two weapons.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Imu Honebami Toshiro Gaban",
+        "fallback": "two weapons clashing in a burst of sparks, anime style"
+      }
+    },
+    {
+      "text": "Then Gaban picked Luffy up by the shirt and scolded him for needing rescue.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban Luffy shirt",
+        "fallback": "old pirate lifting a young captain by his collar, anime style"
+      }
+    },
+    {
+      "text": "He lost his left arm for that move.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban left arm",
+        "fallback": "old pirate standing tall with one sleeve empty, dramatic light"
+      }
+    },
+    {
+      "text": "Think about that. A man that old held a god off to save Luffy.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban Imu duel",
+        "fallback": "old pirate facing a pale god across a shattered tree, anime style"
+      }
+    },
+    {
+      "text": "And that's just one fight. The real test is how it stacks up against Rayleigh's.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban Silvers Rayleigh",
+        "fallback": "two old pirates standing side by side, dramatic sky"
+      }
+    },
+    {
+      "text": "Because a god's finishing move got stopped by one old pirate's axes.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban axes",
+        "fallback": "old pirate with two axes, dramatic light behind him"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_1190",
+    "https://www.facebook.com/groups/990651914398297/posts/4205032836293506/",
+    "https://www.instagram.com/p/DbpjoV1NAiK/?hl=en",
+    "https://www.reddit.com/r/OnePiece/comments/1vkbfjd/what_if_imu_doesnt_know_ch_1190/"
+  ],
+  "self_check": {
+    "hook": "Names Gaban in the first three words and sets up a fight with a visible stake (a god's finishing move).",
+    "loop": "Last line opens with 'Because' and finishes the thought that line 1 started.",
+    "facts_verified": true
+  }
+}

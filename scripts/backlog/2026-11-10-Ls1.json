@@ -1,0 +1,148 @@
+{
+  "id": "2026-11-10-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Loki, a giant prince, repeatedly begged Rocks D. Xebec to join his crew as a teenager, got refused every time, and still idolizes him, a side point of Blackbeard's crew-building story",
+  "title": "The Giant Prince Who Begged To Join Rocks' Crew",
+  "description": "Before Blackbeard, Rocks D. Xebec had a devoted fan who never stopped asking to sail with him. Loki, the young giant prince of Elbaph, kept begging to join the Rocks Pirates and got turned down every time. He still says he was born in the wrong era.",
+  "hashtags": [
+    "#onepiece",
+    "#loki",
+    "#anime"
+  ],
+  "tags": [
+    "one piece loki",
+    "loki rocks xebec",
+    "one piece elbaf",
+    "rocks d xebec",
+    "one piece theory",
+    "blackbeard father",
+    "one piece elbaph arc",
+    "one piece giant prince"
+  ],
+  "hook_text": "HE WANTED IN",
+  "music_mood": "suspense",
+  "comment": "Is Blackbeard copying Rocks on purpose, or is he just doing what powerful pirates always do?",
+  "related_long": "2026-11-10-L",
+  "end_text": "IS BLACKBEARD JUST GREEDY?",
+  "pages": [
+    "Loki",
+    "Rocks D. Xebec",
+    "Marshall D. Teach"
+  ],
+  "lines": [
+    {
+      "text": "A giant prince begged to join Rocks D. Xebec's crew, again and again.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Loki young giant prince Rocks Xebec",
+        "fallback": "young giant prince pleading with a pirate captain"
+      }
+    },
+    {
+      "text": "Loki was just fifteen when he first met the pirate who became his idol.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Loki Elbaph young prince",
+        "fallback": "teenage giant looking up at a legendary captain"
+      }
+    },
+    {
+      "text": "Rocks said no every time, because he didn't want a child on his ship.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Rocks D. Xebec captain refuses Loki",
+        "fallback": "stern pirate captain shaking his head"
+      }
+    },
+    {
+      "text": "Loki never stopped admiring him. He still says he was born in the wrong era.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Loki admires Rocks Xebec wrong era",
+        "fallback": "wistful giant gazing at the sea"
+      }
+    },
+    {
+      "text": "People will say he was just a starstruck kid. Fair, but he kept asking anyway.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Loki starstruck kid Elbaph giant",
+        "fallback": "eager young giant with hopeful eyes"
+      }
+    },
+    {
+      "text": "Now flip it to Blackbeard, whose father sent him away to God Valley for safety.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Rocks Xebec family God Valley Teach",
+        "fallback": "distant island at dusk with a small boat"
+      }
+    },
+    {
+      "text": "Here's my read: Teach never stood beside his father, so he copied the crew instead.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Marshall D. Teach Blackbeard crew Rocks Xebec",
+        "fallback": "dark pirate studying an old captain's flag"
+      }
+    },
+    {
+      "text": "Loki wanted a place on that ship. Teach built his own from the same blueprint.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Blackbeard pirate ship crew Teach",
+        "fallback": "pirate ship sailing at night"
+      }
+    },
+    {
+      "text": "That's the difference between a fan and an heir.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Loki Teach contrast Rocks Xebec",
+        "fallback": "two silhouettes facing one captain"
+      }
+    },
+    {
+      "text": "And that's only half of why Blackbeard still carries his father's name everywhere.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Blackbeard Saber of Xebec flagship",
+        "fallback": "pirate flagship sailing under a dark sky"
+      }
+    },
+    {
+      "text": "That's why the giant prince who begged to join Rocks' crew still matters.",
+      "delivery": "slow",
+      "fx": "zoom",
+      "shot": {
+        "search": "Loki Rocks Xebec giant prince",
+        "fallback": "giant prince standing alone at the shore"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://beebom.com/one-piece-loki-finds-his-true-purpose-in-life-through-rocks/",
+    "https://beebom.com/one-piece-elbaf-loki-idol-revealed/",
+    "https://www.dexerto.com/anime/one-piece-chapter-1145-release-date-spoilers-3174701",
+    "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  ],
+  "self_check": {
+    "hook": "contrarian-free hidden detail: the giant prince who kept begging, then the side point that Blackbeard copied rather than idolized",
+    "loop": "last line leads into line 0 (giant prince begged to join)",
+    "facts_verified": true
+  }
+}

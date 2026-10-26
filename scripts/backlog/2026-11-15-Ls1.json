@@ -1,0 +1,133 @@
+{
+ "id": "2026-11-15-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Admiral Fujitora held back against Sabo on Dressrosa and effectively bet on the Revolutionary",
+ "title": "Fujitora Held Back Against Sabo For A Reason",
+ "description": "Admiral Fujitora versus Sabo on Dressrosa: why chapters 750 to 757 read like an admiral who chose not to win. My read on the gamble he talks about with Sabo.",
+ "hashtags": [
+  "#fujitora",
+  "#sabo",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "fujitora vs sabo",
+  "fujitora held back",
+  "sabo dressrosa",
+  "one piece fujitora gamble",
+  "one piece theory",
+  "sabo mera mera no mi",
+  "one piece chapter 757",
+  "fujitora gravity",
+  "one piece dressrosa",
+  "sabo vs fujitora"
+ ],
+ "hook_text": "HE HELD BACK?",
+ "music_mood": "suspense",
+ "comment": "Did Fujitora really hold back to protect Luffy, or was Sabo just that strong right out of the Colosseum?",
+ "related_long": "2026-11-15-L",
+ "end_text": "WHY SABO'S OATH LASTS",
+ "pages": [
+  "Sabo",
+  "Issho",
+  "Dressrosa Arc",
+  "Monkey D. Luffy"
+ ],
+ "lines": [
+  {
+   "text": "Fujitora went easy on Sabo, and chapter 757 shows it.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Fujitora Issho Sabo Dressrosa clash",
+    "fallback": "blind admiral with a cane facing a flaming revolutionary"
+   }
+  },
+  {
+   "text": "Sabo walks away with a few bruises, and he says himself he suspects the admiral was holding back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo suspects Fujitora holding back chapter 757",
+    "fallback": "man in a top hat studying a calm admiral"
+   }
+  },
+  {
+   "text": "Then he turns gravity sideways, and Sabo bursts into flames and charges straight through it.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Fujitora Gravito Moko horizontal gravity Sabo flames",
+    "fallback": "man charging through sideways gravity in fire"
+   }
+  },
+  {
+   "text": "Here's what I think people skip. Fujitora says he's willing to bet his life on this fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Fujitora bet his life fight Sabo",
+    "fallback": "admiral raising his cane in a solemn pose"
+   }
+  },
+  {
+   "text": "And the result is Sabo free to keep guarding Luffy, while the Marines stay stuck behind him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo blocks Marines New King's Plateau Luffy",
+    "fallback": "fiery man holding a bridge against soldiers"
+   }
+  },
+  {
+   "text": "People say he was just bluffing. But an admiral who wanted Sabo stopped doesn't wish him luck.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Fujitora Sabo respect Dressrosa end fight",
+    "fallback": "two warriors lowering their guard in the rubble"
+   }
+  },
+  {
+   "text": "Here's my read. Fujitora used a Revolutionary to hold the line, so he never had to chase Luffy himself.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Fujitora lets Luffy fight Doflamingo Birdcage",
+    "fallback": "admiral looking up at a giant cage of strings"
+   }
+  },
+  {
+   "text": "And that's only a sliver of why a man like Sabo keeps winning battles that whole crews lose.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo Revolutionary Army chief of staff flame",
+    "fallback": "man in a top hat, flames behind him"
+   }
+  },
+  {
+   "text": "Which is the only way to explain why",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Fujitora Issho smiling gravity",
+    "fallback": "admiral with a faint smile in the evening light"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Sabo",
+  "https://onepiece.fandom.com/wiki/Dressrosa_Arc",
+  "https://sportskeeda.com/anime/one-piece-episode-1081-how-sabo-became-flame-emperor"
+ ],
+ "self_check": {
+  "hook": "Contrarian hidden-detail claim naming Fujitora and Sabo with chapter 757",
+  "loop": "last line is an unfinished clause that hands straight into line 1",
+  "facts_verified": true
+ }
+}

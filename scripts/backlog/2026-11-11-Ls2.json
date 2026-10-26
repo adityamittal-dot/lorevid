@@ -1,0 +1,130 @@
+{
+  "id": "2026-11-11-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Basil Hawkins's secret life link passed damage to Eustass Kid and knocked his new metal arm loose during the Killer vs Hawkins fight; a side mechanic, not the pride thesis of the long",
+  "title": "Hawkins Sabotaged Eustass Kid's New Arm Mid-Battle",
+  "description": "Eustass Kid rebuilt his metal arm during the Onigashima raid, then lost it in a fight he was not even part of. Basil Hawkins had linked his life to Kid's, and the damage went straight to Kid. Here is the chapter-cited mechanic.",
+  "hashtags": ["#onepiece", "#eustasskid", "#hawkins"],
+  "tags": ["basil hawkins link", "eustass kid arm", "hawkins wara wara no mi", "one piece onigashima", "one piece 1029", "eustass kid hawkins", "hawkins damage transfer", "eustass kid metal arm", "one piece wano"],
+  "hook_text": "HAWKINS' HIDDEN LINK",
+  "music_mood": "suspense",
+  "comment": "Was Hawkins' secret link a smart trick or a betrayal Kid never deserved? Pick a side.",
+  "related_long": "2026-11-11-L",
+  "end_text": "STRENGTH OR FATAL FLAW?",
+  "pages": ["Eustass Kid", "Basil Hawkins", "Killer"],
+  "lines": [
+    {
+      "text": "Eustass Kid's brand new metal arm came off during a fight he wasn't even in.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Eustass Kid metal arm falls off Hawkins",
+        "fallback": "metal prosthetic arm clattering loose on a dark floor, anime style"
+      }
+    },
+    {
+      "text": "Basil Hawkins had linked his life to Kid's, so the damage passed straight to Kid.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Basil Hawkins life link Eustass Kid",
+        "fallback": "pirate captain with a glowing link tying two figures together, anime style"
+      }
+    },
+    {
+      "text": "Kid's oldest friend asked Hawkins what would happen if that damage had nowhere to go.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Basil Hawkins Onigashima fight tall fighter",
+        "fallback": "tall warrior facing a pirate with a wizard's hat, anime style"
+      }
+    },
+    {
+      "text": "Hawkins said it would go to Kid, and then hurt himself right then.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Basil Hawkins Onigashima wizard",
+        "fallback": "wizard pirate clutching his arm in a dark hall, anime style"
+      }
+    },
+    {
+      "text": "Kid's metal arm had nothing to absorb it, so it simply came loose.",
+      "delivery": "reveal",
+      "fx": "shake",
+      "shot": {
+        "search": "Eustass Kid metal arm Onigashima",
+        "fallback": "metal arm falling away from a pirate captain, anime style"
+      }
+    },
+    {
+      "text": "He had only just rebuilt that arm during the raid on Onigashima.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid builds new metal arm Onigashima",
+        "fallback": "pirate captain assembling a steel arm from scrap, anime style"
+      }
+    },
+    {
+      "text": "The arm was only repaired much later, long after the fight was over.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid repaired arm",
+        "fallback": "craftsman repairing a steel arm in a workshop, anime style"
+      }
+    },
+    {
+      "text": "Hawkins had secretly hooked Kid into that link during the Big Mom fight.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Basil Hawkins Big Mom Eustass Kid",
+        "fallback": "wizard pirate watching a rival fight a giant emperor, anime style"
+      }
+    },
+    {
+      "text": "My read: Hawkins' link was the sneakiest trick anyone pulled at Onigashima.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Basil Hawkins Onigashima sneaky",
+        "fallback": "sly wizard pirate smirking in a shadowy hall, anime style"
+      }
+    },
+    {
+      "text": "But why Hawkins never stood beside Kid again is a bigger question.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Basil Hawkins Eustass Kid rivals apart",
+        "fallback": "two pirate captains standing apart on opposite sides, anime style"
+      }
+    },
+    {
+      "text": "And a fight he wasn't even in is how Kid's brand new metal arm came off.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid metal arm Hawkins",
+        "fallback": "metal arm lying on the floor after a fight, anime style"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Eustass_Kid",
+    "https://www.dualshockers.com/one-piece-chapter-1029-spoilers-tease-hawkins-and-killers-fight/",
+    "https://daddyjim.ai/one-piece/manga-chapter/Chapter-1029"
+  ],
+  "self_check": {
+    "hook": "opens on Kid's arm falling off in a fight he was not in, a side mechanic",
+    "loop": "last line restates the opening image so it flows back into line 1",
+    "facts_verified": true
+  }
+}

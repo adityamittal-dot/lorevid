@@ -1,0 +1,135 @@
+{
+  "id": "2026-11-14-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Gaban spotted Zoro's Supreme King Haki in chapter 1152 and called him out for not noticing it himself",
+  "title": "Zoro Had Supreme King Haki and Never Noticed",
+  "description": "In chapter 1152, Scopper Gaban pointed out something Zoro had been carrying without realizing it: Supreme King Haki. Gaban's scolding says a lot about how seriously the old pirate takes that power. Here's the scene most fans skip.",
+  "hashtags": ["#zoro", "#onepiece", "#anime"],
+  "tags": [
+    "one piece zoro haki",
+    "zoro supreme king haki",
+    "scopper gaban",
+    "one piece 1152",
+    "roger pirates explained",
+    "one piece elbaf",
+    "zoro conqueror's haki",
+    "one piece zoro"
+  ],
+  "hook_text": "ZORO NEVER NOTICED",
+  "music_mood": "suspense",
+  "comment": "Was Gaban right to scold Zoro in front of Luffy, or was he being too harsh on his own crewmate?",
+  "related_long": "2026-11-14-L",
+  "end_text": "WHO REALLY RANKS SECOND?",
+  "pages": [
+    "Roronoa Zoro",
+    "Scopper Gaban",
+    "Haki"
+  ],
+  "lines": [
+    {
+      "text": "Zoro had Supreme King Haki, and he never even noticed.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Zoro Supreme King Haki",
+        "fallback": "green haired swordsman with three swords, dark aura, anime style"
+      }
+    },
+    {
+      "text": "In chapter 1152, Scopper Gaban told Luffy someone else in the crew had it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban Luffy Elbaph",
+        "fallback": "old pirate with white ponytail talking to a young captain, Elbaph castle"
+      }
+    },
+    {
+      "text": "Sanji assumed it was him. It wasn't.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Zoro Gaban",
+        "fallback": "blond cook and green haired swordsman standing side by side"
+      }
+    },
+    {
+      "text": "It was Zoro. Luffy had already sensed it, but Zoro had no clue.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Luffy Haki",
+        "fallback": "young captain and swordsman side by side, aura glowing"
+      }
+    },
+    {
+      "text": "Gaban called him out for being oblivious, and Zoro sheepishly apologized.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro apology Gaban",
+        "fallback": "embarrassed swordsman scratching his head, anime style"
+      }
+    },
+    {
+      "text": "The point was blunt. If you serve an Emperor, you control your Haki on purpose.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban Zoro Haki warning",
+        "fallback": "old pirate lecturing a swordsman, serious expression"
+      }
+    },
+    {
+      "text": "I think most fans skip that scene. It matters.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Scopper Gaban Elbaph",
+        "fallback": "two warriors talking on a giant tree branch"
+      }
+    },
+    {
+      "text": "Luffy knew, but Gaban was the one who said it out loud.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Scopper Gaban Zoro",
+        "fallback": "old pirate pointing at a swordsman, dramatic light"
+      }
+    },
+    {
+      "text": "But that's only the warning. What Gaban did next is what makes the rank debate hard.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Scopper Gaban Imu Elbaph",
+        "fallback": "old pirate standing ready for battle, dramatic sky"
+      }
+    },
+    {
+      "text": "Because Zoro's own power stayed hidden until an old pirate pointed it out.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Zoro Supreme King Haki Gaban",
+        "fallback": "green haired swordsman with dark aura, looking surprised"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Chapter_1152",
+    "https://www.reddit.com/r/OnePiece/comments/1lhkm8j/1152_spoilers_regarding_sanji_and_conquerors_haki/",
+    "https://www.facebook.com/kuroashisanji66/posts/onepiece1152-sanji-has-conquerors-haki-official-translation-gaban-doesnt-say-the/750156617683389/",
+    "https://www.facebook.com/groups/1100137108599312/posts/1236333628312992/"
+  ],
+  "self_check": {
+    "hook": "Names Zoro in the first line and the claim is checkable against chapter 1152.",
+    "loop": "Last line opens with 'Because' and explains the power that line 1 introduced.",
+    "facts_verified": true
+  }
+}

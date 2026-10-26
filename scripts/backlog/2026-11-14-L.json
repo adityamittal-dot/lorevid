@@ -3,9 +3,9 @@
  "format": "long",
  "series": "onepiece",
  "wiki": "onepiece.fandom.com",
- "topic": "Scopper Gaban's feats on Elbaph, including wounding Nerona Imu and revealing Zoro's Supreme King Haki, prove he really was the Roger Pirates' second strongest member, not their third",
+ "topic": "Scopper Gaban's feats on Elbaph, including landing a hit on Nerona Imu and revealing Zoro's Supreme King Haki, prove he really was the Roger Pirates' second strongest member, not their third",
  "title": "Scopper Gaban Really Was Roger's Second Strongest Pirate",
- "description": "Even the giants on Elbaph rank Scopper Gaban third strongest of the Roger Pirates, and Gaban furiously corrects them every single time. This is the chapter-cited case for why he's actually right: from clearing a mountain range with two axes to wounding the World Government's secret ruler in single combat, Gaban's resume stacks up directly against Rayleigh's own.\n\nFrom the Battle of Edd War to the warning he gave Zoro about his own hidden Haki, this traces exactly why Gaban deserves the rank he's spent his whole life fighting for.",
+ "description": "Even the giants on Elbaph rank Scopper Gaban third strongest of the Roger Pirates, and Gaban furiously corrects them every single time. This is the chapter-cited case for why he's actually right: from clearing a mountain range with two axes to landing a hit on the World Government's secret ruler in single combat, Gaban's resume stacks up directly against Rayleigh's own.\n\nFrom the Battle of Edd War to the warning he gave Zoro about his own hidden Haki, this traces exactly why Gaban deserves the rank he's spent his whole life fighting for.",
  "hashtags": [
   "#onepiece",
   "#elbaph",
@@ -33,16 +33,16 @@
  ],
  "lines": [
   {
-   "text": "Everyone believes Silvers Rayleigh was clearly the Roger Pirates' second strongest member.",
+   "text": "Scopper Gaban really was the Roger Pirates' second strongest member, not their third.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Rayleigh assumed second strongest Roger crew",
-    "fallback": "legendary first mate widely assumed to rank highest"
+    "search": "Scopper Gaban second strongest Roger Pirates",
+    "fallback": "legendary old axe warrior standing beside his captain"
    }
   },
   {
-   "text": "Chapter 1151 says otherwise: even the New Giant Warrior Pirates rank Scopper Gaban third, and Gaban himself refuses to accept it.",
+   "text": "Chapter 1151 shows Elbaph's giants ranking him third, and Gaban furiously refuses.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -51,7 +51,7 @@
    }
   },
   {
-   "text": "So who actually was the Roger Pirates' real second strongest fighter, Rayleigh, or the old man everyone keeps underestimating?",
+   "text": "So was Rayleigh truly second, or has everyone underestimated the old man?",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -60,34 +60,34 @@
    }
   },
   {
-   "text": "Gaban calls himself the Left Hand of the Pirate King for a reason, and the feats actually back him up.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Gaban Left Hand Pirate King feats",
-    "fallback": "self-given title backed by a lifetime of real feats"
-   }
-  },
-  {
-   "text": "He fought the World Government's secret ruler directly, and walked away having actually drawn blood from them.",
+   "text": "On Elbaph he fought the World Government's secret ruler and landed a real hit.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
-    "search": "Gaban fights Imu draws blood directly",
-    "fallback": "lone fighter actually wounding the world's hidden ruler"
+    "search": "Gaban fights Imu on Elbaph",
+    "fallback": "lone fighter standing against the world's hidden ruler"
    }
   },
   {
-   "text": "Here's the chapter-cited case for why Scopper Gaban deserves the rank he's been fighting for his entire life...",
+   "text": "I'll show you the axes, the mountain range, and the warning he gave Zoro.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban axes mountain range Zoro warning",
+    "fallback": "devastating axe strikes leveling an entire mountain range"
+   }
+  },
+  {
+   "text": "But one pair of titles shows where Gaban stood next to Rayleigh...",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Chapter cited case Gaban deserves rank",
-    "fallback": "overdue recognition decades in the making"
+    "search": "Left Hand Right Hand Pirate King titles",
+    "fallback": "two matching titles describing one captain's closest allies"
    }
   },
   {
-   "text": "Scopper Gaban served as the Roger Pirates' navigator, and his fame was said to rival Roger and Rayleigh's own.",
+   "text": "Gaban served as the Roger Pirates' navigator, and his fame was said to rival Roger's and Rayleigh's own.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -96,7 +96,7 @@
    }
   },
   {
-   "text": "Rayleigh is always called the Right Hand of the Pirate King. Gaban is always called the Left Hand.",
+   "text": "Everybody calls Rayleigh the Right Hand of the Pirate King. And Gaban is always the Left Hand.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -105,7 +105,16 @@
    }
   },
   {
-   "text": "Gaban doesn't care for small talk at all, famously cutting off a conversation about Shyarly's popularity the moment it started.",
+   "text": "Gaban has no patience for small talk.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban impatient small talk",
+    "fallback": "blunt, impatient personality with zero tolerance for idle chat"
+   }
+  },
+  {
+   "text": "He once cut off a conversation about Shyarly's popularity the second it started.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -114,16 +123,25 @@
    }
   },
   {
-   "text": "He's quick to get straight to the point too, once suggesting the crew stop a rampaging Kouzuki Oden before real damage was done.",
+   "text": "He gets straight to the point, too.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Gaban suggests stop Oden rampage quickly",
+    "search": "Gaban straight to the point",
     "fallback": "sharp instincts cutting through chaos before it escalates"
    }
   },
   {
-   "text": "He was also the first crewmate to voice real frustration with Oden once Oden actually joined the Roger Pirates for good.",
+   "text": "He once suggested the crew stop a rampaging Kouzuki Oden before real damage was done.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban suggests stop Oden rampage",
+    "fallback": "sharp instincts cutting through chaos before it escalates"
+   }
+  },
+  {
+   "text": "He was also the first crewmate to voice real frustration with Oden once Oden joined the Roger Pirates for good.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -132,7 +150,7 @@
    }
   },
   {
-   "text": "Gaban understood Roger better than almost anyone on that ship, knowing it was pointless trying to talk his captain out of a fight.",
+   "text": "He understood Roger better than almost anyone, and he knew it was pointless trying to talk his captain out of a fight.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -141,7 +159,7 @@
    }
   },
   {
-   "text": "He often played the voice of reason against an impulsive, headstrong Roger, who'd just provoke him right back for the effort.",
+   "text": "So he played the voice of reason against a headstrong Roger, who'd just provoke him right back for the effort.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -150,7 +168,16 @@
    }
   },
   {
-   "text": "Those two titles were never an accident. They describe two people standing at exactly the same level, just on opposite sides.",
+   "text": "That's a thankless job, and he took it anyway.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban thankless voice of reason",
+    "fallback": "patient lieutenant carrying a thankless role"
+   }
+  },
+  {
+   "text": "I don't think those two titles were an accident. They describe two people at the same level, just on opposite sides.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -159,7 +186,16 @@
    }
   },
   {
-   "text": "Gaban is proud of that standing too, correcting anyone who dares call him third strongest instead of second.",
+   "text": "That's my read, and the rest of the evidence leans the same way.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban evidence leans same way",
+    "fallback": "two matching titles implying equal standing"
+   }
+  },
+  {
+   "text": "And Gaban is proud of that standing. He corrects anyone who calls him third strongest instead of second.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -168,7 +204,16 @@
    }
   },
   {
-   "text": "He's also family-oriented in a way that doesn't quite fit the gruff old warrior image fans usually give him.",
+   "text": "And honestly, I get why: he never saw himself as a footnote.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban never a footnote",
+    "fallback": "proud veteran refusing to be overlooked"
+   }
+  },
+  {
+   "text": "He's also a family man, which doesn't fit the gruff old warrior image most fans give him.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -177,7 +222,7 @@
    }
   },
   {
-   "text": "He considered the Roger Pirates' young apprentices like sons, and genuinely cherishes his own partner Ripley and their son Colon.",
+   "text": "He treated the Roger Pirates' young apprentices like sons, and he cherishes his partner Ripley and their son Colon.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -186,7 +231,7 @@
    }
   },
   {
-   "text": "He even helped raise Shanks like a son, decades before Shanks ever crossed paths with a young Luffy at all.",
+   "text": "He even helped raise Shanks like a son, decades before Shanks ever met a young Luffy.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -195,25 +240,34 @@
    }
   },
   {
-   "text": "Even while critically wounded during a chaotic siege on Elbaph, he still struggled to correct the record on his own rank.",
+   "text": "It's easy to forget that side of him when you only picture the axes.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban gentle side axes",
+    "fallback": "warm family man behind a fearsome reputation"
+   }
+  },
+  {
+   "text": "Even badly hurt during the chaotic siege on Elbaph, he still struggled to correct the record on his own rank.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
-    "search": "Even wounded Gaban corrects record rank",
-    "fallback": "injured warrior still insisting on the correct ranking"
+    "search": "Gaban corrects record rank during siege",
+    "fallback": "stubborn warrior still insisting on the correct ranking"
    }
   },
   {
-   "text": "Think about that. A man bleeding out mid-battle still cares more about getting his rank right than about the wound itself.",
+   "text": "Think about that. Right in the middle of a battle, he cares more about getting his rank right than about his own injury.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Man mid-battle cares rank not wound",
-    "fallback": "stubborn pride outweighing even a serious injury"
+    "search": "Man mid-battle cares about rank",
+    "fallback": "stubborn pride outweighing a serious setback"
    }
   },
   {
-   "text": "That's not vanity for its own sake. That's a man who knows exactly what he actually did to earn that rank...",
+   "text": "That's not vanity. That's a man who knows exactly what he did to earn that rank. So what did he actually do?",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -222,7 +276,7 @@
    }
   },
   {
-   "text": "Early in his career, Gaban single-handedly defeated hundreds of enemy pirates while protecting an injured, recovering Roger.",
+   "text": "Early on, Gaban single-handedly beat hundreds of enemy pirates while protecting a recovering Roger.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -240,7 +294,16 @@
    }
   },
   {
-   "text": "That's exactly how he earned his epithet: Mountain-Eater, a nickname most fans barely even remember today.",
+   "text": "Picture that for a second: one man, two axes, and a whole mountain range left bare.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban two axes bare mountain range",
+    "fallback": "one warrior and a stripped mountain range"
+   }
+  },
+  {
+   "text": "That's how he earned his epithet, Mountain-Eater, a nickname most fans barely remember today.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -267,7 +330,16 @@
    }
   },
   {
-   "text": "Its name is even a clear echo of Roger's own signature move, Kamusari, which says plenty about how closely Gaban studied his captain.",
+   "text": "Adam is the sacred Treasure Tree of Elbaph, so that's no small thing to cut.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Treasure Tree Adam Elbaph sacred",
+    "fallback": "enormous sacred tree towering over Elbaph"
+   }
+  },
+  {
+   "text": "Its name echoes Roger's own signature move, Kamusari, which tells me how closely Gaban studied his captain.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -276,7 +348,16 @@
    }
   },
   {
-   "text": "At the Battle of Edd War, Shiki's entire armada threatened to destroy the Roger Pirates outright if they refused an alliance.",
+   "text": "Study your captain's best move that closely and you don't end up third by accident.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban studies Roger signature move",
+    "fallback": "a technique named in quiet tribute to an old captain"
+   }
+  },
+  {
+   "text": "At the Battle of Edd War, Shiki's entire armada threatened to destroy the Roger Pirates if they refused an alliance.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -285,7 +366,7 @@
    }
   },
   {
-   "text": "Gaban fought in that battle too, trying to keep a panicking Buggy calm while Roger refused Shiki's offer outright.",
+   "text": "Gaban fought in that battle too, trying to keep a panicking Buggy calm while Roger refused Shiki's offer.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -294,12 +375,21 @@
    }
   },
   {
-   "text": "The Roger Pirates survived that fight only because a storm sank half of Shiki's fleet in the middle of the battle.",
+   "text": "The Roger Pirates survived only because a storm sank half of Shiki's fleet in the middle of the battle.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
     "search": "Storm sinks Shiki fleet Roger Pirates survive",
     "fallback": "sudden storm turning the tide of an impossible battle"
+   }
+  },
+  {
+   "text": "I think people forget how close the Roger Pirates came to ending right there.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger Pirates close call Edd War",
+    "fallback": "a crew barely escaping an overwhelming fleet"
    }
   },
   {
@@ -339,6 +429,15 @@
    }
   },
   {
+   "text": "Notice who Roger needed in that moment: Gaban and Rayleigh, side by side.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban Rayleigh side by side Roger",
+    "fallback": "two lieutenants working together for their captain"
+   }
+  },
+  {
    "text": "Years after Roger's death, Gaban settled on Elbaph and became close with the giants there, known locally simply as Ya-san.",
    "delivery": "normal",
    "fx": "none",
@@ -348,7 +447,7 @@
    }
   },
   {
-   "text": "He helped try to save the children of the Walrus School when they were taken hostage, only failing when his own son was threatened.",
+   "text": "He tried to save the children of the Walrus School when they were taken hostage, and only failed when his own son was threatened.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -357,7 +456,7 @@
    }
   },
   {
-   "text": "Even in retirement, surrounded by people who respected him purely for his strength, Gaban never once stopped being the fighter Roger relied on.",
+   "text": "Even in retirement, he never stopped being the fighter Roger relied on.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -366,7 +465,7 @@
    }
   },
   {
-   "text": "Road, one of Elbaph's own giants, still knew him instantly as Ya-san, a reputation built on decades of quiet, local trust.",
+   "text": "Road, one of Elbaph's giants, knew him instantly as Ya-san.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -375,7 +474,16 @@
    }
   },
   {
-   "text": "He even introduced himself to Luffy's crew as the self-declared preacher of love, which somehow fits a man this contradictory perfectly.",
+   "text": "That kind of reputation takes decades of quiet local trust.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Road recognizes Gaban Ya-san",
+    "fallback": "quiet local legend recognized instantly by a young giant"
+   }
+  },
+  {
+   "text": "He even introduced himself to Luffy's crew as the self-declared preacher of love, which fits a man this contradictory perfectly.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -384,7 +492,16 @@
    }
   },
   {
-   "text": "None of that reads like a third-strongest résumé. It reads like someone who was there for every major fight Roger ever had...",
+   "text": "Honestly, I love that about him, because it makes the strength feel human.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban contradictions human side",
+    "fallback": "fearsome warrior with a surprisingly soft side"
+   }
+  },
+  {
+   "text": "None of that reads like a third-strongest résumé. So why does the world still rank him third?",
    "delivery": "slow",
    "fx": "none",
    "shot": {
@@ -411,6 +528,15 @@
    }
   },
   {
+   "text": "This is the same island where the giants rank him third.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph giants rank Gaban third",
+    "fallback": "giants of Elbaph repeating an old ranking"
+   }
+  },
+  {
    "text": "Imu personally admits it was a mistake ever letting the Roger Pirates survive God Valley, specifically because of threats like Gaban.",
    "delivery": "reveal",
    "fx": "none",
@@ -420,7 +546,7 @@
    }
   },
   {
-   "text": "That's not a throwaway compliment. That's the single most powerful being in the story calling Gaban a genuine mistake to leave alive.",
+   "text": "That's no throwaway compliment. The most powerful being in the story is calling Gaban a genuine mistake to leave alive.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -429,25 +555,43 @@
    }
   },
   {
-   "text": "The fight costs Gaban his entire left arm, but he still manages to actually wound Imu in the exchange.",
+   "text": "Think about who is saying that, and what it means.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Imu regrets leaving Gaban alive",
+    "fallback": "the highest possible compliment from the worst possible source"
+   }
+  },
+  {
+   "text": "The fight costs Gaban his entire left arm, but he still lands a real hit on Imu.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
-    "search": "Fight costs Gaban arm wounds Imu",
+    "search": "Fight costs Gaban arm lands hit on Imu",
     "fallback": "devastating trade costing an arm but landing a real hit"
    }
   },
   {
-   "text": "He does all of this specifically to buy time and save Luffy, already knowing exactly how steep that price would be.",
+   "text": "And remember, this is a man who walked in knowing his own arm was on the line.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban arm on the line Imu",
+    "fallback": "warrior accepting a heavy cost for a friend"
+   }
+  },
+  {
+   "text": "He does it to buy time and save Luffy, and he knows exactly how steep the price will be.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
     "search": "Gaban saves Luffy knowing steep price",
-    "fallback": "knowing sacrifice made without a moment of real hesitation"
+    "fallback": "knowing risk made without a moment of real hesitation"
    }
   },
   {
-   "text": "Before the clash, Gaban had already lost faith that Luffy was taking the title of Pirate King seriously enough to deserve it.",
+   "text": "Before the clash, Gaban had actually lost faith that Luffy took the Pirate King title seriously enough to deserve it.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -456,7 +600,7 @@
    }
   },
   {
-   "text": "He still fights for him anyway, telling Imu directly that his old crew is still waiting for Luffy to prove them right.",
+   "text": "He still fights for him, telling Imu his old crew is still waiting for Luffy to prove them right.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -465,7 +609,7 @@
    }
   },
   {
-   "text": "That's not blind loyalty. That's a calculated bet made by someone who's already watched one Pirate King earn the title from scratch.",
+   "text": "That's not blind loyalty. That's a calculated bet from someone who already watched one Pirate King earn the title from scratch.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -474,12 +618,21 @@
    }
   },
   {
-   "text": "Urging Luffy to leave Elbaph afterward, Gaban makes sure the bet actually survives the day, whatever happens to himself.",
+   "text": "Then he urges Luffy to leave Elbaph, making sure the bet survives the day, whatever happens to himself.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
     "search": "Gaban urges Luffy leave bet survives",
     "fallback": "selfless priority placed above his own immediate survival"
+   }
+  },
+  {
+   "text": "Hold onto that bet, because Rayleigh's side of the ledger looks very different.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh feats compared to Gaban",
+    "fallback": "two legends measured against each other"
    }
   },
   {
@@ -492,7 +645,25 @@
    }
   },
   {
-   "text": "Even Observation Haki tells the same story. Gaban can sense Haki from a great distance and use its rare Future Vision form too.",
+   "text": "Rayleigh's best feats are real, but the stakes behind them were smaller.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh feats smaller stakes",
+    "fallback": "legendary swordsman measured against bigger stakes"
+   }
+  },
+  {
+   "text": "Even Observation Haki tells the same story.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Observation Haki same story",
+    "fallback": "razor-sharp senses detecting threats from miles away"
+   }
+  },
+  {
+   "text": "Gaban can sense Haki from a great distance, and he can use the rare Future Vision form too.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -501,7 +672,7 @@
    }
   },
   {
-   "text": "That advanced Future Vision once showed him his own son Colon's end before it even happened, a vision he couldn't act on in time.",
+   "text": "That Future Vision once showed him his own son Colon's end before it happened, a vision he couldn't act on in time.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -519,16 +690,25 @@
    }
   },
   {
-   "text": "Gaban's resume now includes drawing blood from the actual ruler of the entire world. That's not a small gap to ignore...",
+   "text": "I'd say that matters, because most of the cast never gets anywhere near that level.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "rare Future Vision Observation Haki",
+    "fallback": "elite ability only a handful ever reach"
+   }
+  },
+  {
+   "text": "Gaban's résumé now includes landing a hit on the actual ruler of the world. So how does Rayleigh's best feat compare?",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Gaban resume includes wounding world ruler",
+    "search": "Gaban resume includes hit on world ruler",
     "fallback": "staggering feat that changes the entire conversation"
    }
   },
   {
-   "text": "Here's the direct comparison fans keep avoiding: Rayleigh fought Kizaru to a draw decades after the crew disbanded, Haki negated.",
+   "text": "Here's the comparison fans keep dodging. Rayleigh fought Kizaru to a draw decades after the crew disbanded, with Haki negated.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -537,16 +717,16 @@
    }
   },
   {
-   "text": "Gaban fought and wounded the actual ruler of the World Government, decades after the exact same disbandment.",
+   "text": "Gaban fought the actual ruler of the World Government and landed a hit, decades after that same disbandment.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
-    "search": "Gaban wounds World Government ruler same era",
+    "search": "Gaban hits World Government ruler same era",
     "fallback": "equally aging legend landing a hit on the world's secret ruler"
    }
   },
   {
-   "text": "Both of them are still operating at a monstrous level deep into old age. That part genuinely isn't in question.",
+   "text": "Both of them are still operating at a monstrous level deep into old age, and that part isn't in question.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -555,7 +735,16 @@
    }
   },
   {
-   "text": "The only real question is which fight actually says more about where someone ranks: a draw against an Admiral, or a wound on a god.",
+   "text": "So let's be fair to Rayleigh before going any further.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh fair comparison",
+    "fallback": "two respected legends compared fairly"
+   }
+  },
+  {
+   "text": "The only real question is which fight says more about rank: a draw against an Admiral, or a hit on a god.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -564,7 +753,7 @@
    }
   },
   {
-   "text": "Hajrudin and the other giants call Gaban third strongest anyway, based on old rumors instead of anything he's actually done lately.",
+   "text": "Hajrudin and the other giants call Gaban third strongest anyway, going off old rumors, not anything he's done lately.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -573,7 +762,16 @@
    }
   },
   {
-   "text": "That reputation likely comes from a simpler, older era, when Rayleigh's constant presence at Roger's side was simply easier to track.",
+   "text": "I wouldn't put much weight on a rumor when we've actually seen the fights.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "rumor versus seen fights",
+    "fallback": "old rumor outweighed by recent evidence"
+   }
+  },
+  {
+   "text": "I think that reputation comes from an older, simpler era, when Rayleigh's constant presence at Roger's side was easier to track.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -582,7 +780,7 @@
    }
   },
   {
-   "text": "Gaban, by contrast, wandered as a navigator, leaving fewer easy stories behind for the rest of the world to actually remember.",
+   "text": "Gaban wandered as a navigator, so he left fewer easy stories behind for the world to remember.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -591,7 +789,7 @@
    }
   },
   {
-   "text": "Gaban's own fury at that ranking isn't an old man being touchy. It's someone correcting a reputation stuck decades in the past.",
+   "text": "So his fury at that ranking isn't an old man being touchy. It's someone correcting a reputation stuck decades in the past.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -600,7 +798,16 @@
    }
   },
   {
-   "text": "Update the résumé with what he actually did on Elbaph, and third strongest simply doesn't hold up anymore...",
+   "text": "Honestly, that's the part that bugs me most as a fan.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban fury outdated reputation",
+    "fallback": "justified frustration at an outdated, lazy reputation"
+   }
+  },
+  {
+   "text": "Update the résumé with his Elbaph feats and third strongest stops making sense. So what was his bond with Shanks really like?",
    "delivery": "slow",
    "fx": "none",
    "shot": {
@@ -609,7 +816,16 @@
    }
   },
   {
-   "text": "Gaban's bond with Shanks runs deeper than most fans realize, going all the way back to the day the crew found him as a baby.",
+   "text": "Gaban's bond with Shanks runs deeper than most fans realize.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban bond Shanks deeper",
+    "fallback": "legendary bond beginning the day a baby was found"
+   }
+  },
+  {
+   "text": "It goes back to the day the crew found Shanks as a baby.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -618,7 +834,7 @@
    }
   },
   {
-   "text": "He physically consoled Shanks when Shanks felt ashamed about the circumstances of his own birth, telling him everyone has a purpose.",
+   "text": "He consoled Shanks when Shanks felt ashamed about the circumstances of his own birth, telling him everyone has a purpose.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -636,16 +852,25 @@
    }
   },
   {
-   "text": "When Garp told Gaban that Roger had fathered a son, Gaban was the one who warned Shanks that bloodline alone guarantees nothing.",
+   "text": "It's a small scene, but it shows Gaban treats Shanks like family.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Gaban warns Shanks bloodline guarantees nothing",
+    "search": "Gaban Shanks family drinks",
+    "fallback": "old friends sharing a quiet drink"
+   }
+  },
+  {
+   "text": "When Garp told Gaban that Roger had fathered a son, Gaban warned Shanks that a famous family line alone guarantees nothing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban warns Shanks family line guarantees nothing",
     "fallback": "blunt wisdom tempering a young man's high expectations"
    }
   },
   {
-   "text": "That's the same blunt honesty he'd later give Zoro: respect the bloodline or the title, but earn the actual power yourself.",
+   "text": "That's the same blunt honesty he'd later give Zoro: respect the family line or the title, but earn the actual power yourself.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -663,7 +888,16 @@
    }
   },
   {
-   "text": "He openly told Luffy he wouldn't be worthy of the title Pirate King unless he took his own dream seriously enough.",
+   "text": "It's a small moment, but it shows he saw Roger in Luffy right away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban sees Roger in Luffy",
+    "fallback": "familiar recklessness echoing across a generation"
+   }
+  },
+  {
+   "text": "He told Luffy flat out that he wouldn't deserve the title Pirate King unless he took his own dream seriously.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -672,7 +906,7 @@
    }
   },
   {
-   "text": "He also teased Luffy about Shanks loaning him the straw hat rather than just giving it to him outright, baiting him into a fight.",
+   "text": "He also teased Luffy about Shanks only lending him the straw hat, not giving it, to bait him into a fight.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -690,11 +924,20 @@
    }
   },
   {
-   "text": "Zoro and Luffy both lost their tempers at him, right up until he casually equipped his axes and showed them why that was a mistake...",
+   "text": "Zoro and Luffy both lost their tempers at him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro Luffy lose temper at Gaban",
+    "fallback": "overconfident challengers about to be reminded who they face"
+   }
+  },
+  {
+   "text": "Until he casually equipped his axes and showed them exactly why that was a mistake.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Zoro Luffy lose temper Gaban axes mistake",
+    "search": "Gaban equips axes Zoro Luffy",
     "fallback": "overconfident challengers quickly reminded of who they're actually facing"
    }
   },
@@ -717,6 +960,15 @@
    }
   },
   {
+   "text": "Zoro didn't even know about it himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Zoro unaware Supreme King Haki",
+    "fallback": "swordsman unaware of his own hidden power"
+   }
+  },
+  {
    "text": "Gaban is appalled that Zoro never noticed this himself, criticizing him directly for not taking his own power seriously enough.",
    "delivery": "punch",
    "fx": "none",
@@ -726,7 +978,16 @@
    }
   },
   {
-   "text": "He reminds Zoro bluntly that as Luffy's second, he should always be ready to back up his captain in a real fight.",
+   "text": "I love that detail, because he's scolding a swordsman who's far from weak.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban scolds strong Zoro",
+    "fallback": "a mentor scolding a very strong student"
+   }
+  },
+  {
+   "text": "He reminds Zoro that as Luffy's second, he should always be ready to back up his captain in a real fight.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -744,6 +1005,15 @@
    }
   },
   {
+   "text": "Notice he treats Haki as a craft, not luck.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Haki craft not luck",
+    "fallback": "disciplined training of a rare power"
+   }
+  },
+  {
    "text": "He criticizes Zoro specifically because someone serving under an Emperor of the Sea should already be meticulous about his own strength.",
    "delivery": "reveal",
    "fx": "none",
@@ -753,7 +1023,7 @@
    }
   },
   {
-   "text": "That single standard, demanding real mastery instead of raw talent alone, is the exact same standard Gaban held himself to for decades.",
+   "text": "Demanding real mastery over raw talent is the same standard Gaban held himself to for decades.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -762,7 +1032,7 @@
    }
   },
   {
-   "text": "That's not a passing comment from a random old giant-island local. That's a verified second strongest pirate passing down real knowledge.",
+   "text": "That's no passing comment from a random old islander. That's a second strongest pirate passing down real knowledge.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -780,6 +1050,15 @@
    }
   },
   {
+   "text": "That's the kind of eye you only get from standing at the top for decades.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban veteran eye at the top",
+    "fallback": "veteran who has stood at the top for decades"
+   }
+  },
+  {
    "text": "Rayleigh trained Luffy directly for two years. Gaban, in a single conversation, gave Zoro something just as valuable.",
    "delivery": "normal",
    "fx": "none",
@@ -789,16 +1068,25 @@
    }
   },
   {
-   "text": "One lesson took two years of patient training. The other took one sharp sentence from a man who'd already lived through everything Zoro was about to face.",
-   "delivery": "reveal",
+   "text": "One lesson took two years of patient training.",
+   "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "One lesson years other one sentence",
+    "search": "Rayleigh two years training Luffy",
     "fallback": "two radically different paces reaching the exact same destination"
    }
   },
   {
-   "text": "That's the real value of having someone who was actually there decades ago still standing on the front lines today...",
+   "text": "The other took one sharp sentence from a man who'd already lived through everything Zoro was about to face.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban one sentence Zoro lesson",
+    "fallback": "two radically different paces reaching the exact same destination"
+   }
+  },
+  {
+   "text": "That's what it's worth to have someone who was there decades ago still on the front lines. But does that settle the ranking?",
    "delivery": "slow",
    "fx": "none",
    "shot": {
@@ -807,7 +1095,7 @@
    }
   },
   {
-   "text": "So here's the actual verdict: Scopper Gaban really was the Roger Pirates' second strongest member, not their third.",
+   "text": "So here's my verdict: Scopper Gaban really was the Roger Pirates' second strongest member, not their third.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -816,7 +1104,7 @@
    }
   },
   {
-   "text": "Some fans will say rank doesn't even matter this late in the story, that it's just an old man's pride talking.",
+   "text": "Some fans will say rank doesn't matter this late in the story, that it's just an old man's pride talking.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -834,7 +1122,7 @@
    }
   },
   {
-   "text": "But Gaban correcting his rank mid-battle isn't about ego. It's the one thing he has left to prove after losing an arm for Luffy.",
+   "text": "But Gaban correcting his rank mid-battle isn't ego. I think it's the one thing he has left to prove after losing an arm.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -852,20 +1140,29 @@
    }
   },
   {
-   "text": "He used that one fight to wound a god, warn a swordsman, and save a future Pirate King, all at the same time.",
+   "text": "Think about how different those two windows were, and what each man did with his.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Gaban one fight wounds warns saves",
+    "search": "two windows prove themselves",
+    "fallback": "two legends given different chances"
+   }
+  },
+  {
+   "text": "He used that one fight to hit a god, warn a swordsman, and save a future Pirate King, all at once.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban one fight hits warns saves",
     "fallback": "a single fight accomplishing three separate legendary feats"
    }
   },
   {
-   "text": "Add in decades of raising Shanks, warning him about the weight of his own bloodline, and the picture only gets bigger.",
+   "text": "Add decades of raising Shanks and warning him that a family line guarantees nothing, and the picture only gets bigger.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Add decades raising Shanks warning bloodline",
+    "search": "Add decades raising Shanks warning family line",
     "fallback": "an already overwhelming resume growing even larger"
    }
   },
@@ -879,6 +1176,15 @@
    }
   },
   {
+   "text": "Look at who he shaped: Shanks, Zoro, Luffy, and the giants around him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban shaped Shanks Zoro Luffy",
+    "fallback": "one elder influencing a whole generation"
+   }
+  },
+  {
    "text": "That's not a third-strongest performance by any reasonable measure. That's a man finally proving what the rumors always undersold.",
    "delivery": "reveal",
    "fx": "none",
@@ -888,7 +1194,16 @@
    }
   },
   {
-   "text": "It's also worth saying plainly: none of this is a knock against Rayleigh, whose own legend never actually needed defending in the first place.",
+   "text": "I keep coming back to that, because it's the whole argument in one line.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban proving rumors undersold",
+    "fallback": "overdue proof finally catching up to an undersold reputation"
+   }
+  },
+  {
+   "text": "And to be clear, none of this is a knock against Rayleigh, whose legend never needed defending.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -897,7 +1212,7 @@
    }
   },
   {
-   "text": "Two people can stand at the very top of the exact same crew without either one needing to be pushed down to get there.",
+   "text": "Two people can stand at the top of the same crew without either one being pushed down.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -915,6 +1230,15 @@
    }
   },
   {
+   "text": "That's the line I keep thinking about when I look at the whole picture.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "whole picture Gaban rank",
+    "fallback": "the full picture of a lifelong argument"
+   }
+  },
+  {
    "text": "He lost an arm proving it, which is exactly the kind of price a second strongest pays and a third strongest never has to.",
    "delivery": "reveal",
    "fx": "none",
@@ -924,7 +1248,7 @@
    }
   },
   {
-   "text": "And if you want to see exactly what Gaban told Shanks about his own chances of becoming Pirate King, that's the next story.",
+   "text": "And if you want to hear what Gaban told Shanks about his own chances of becoming Pirate King, that's the next story.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -940,30 +1264,30 @@
   },
   {
    "line": 6,
-   "title": "The Left Hand Of The Pirate King"
+   "title": "Left Hand, Right Hand"
   },
   {
-   "line": 21,
+   "line": 27,
    "title": "What He Actually Did"
   },
   {
-   "line": 40,
+   "line": 53,
    "title": "The Day He Fought A God"
   },
   {
-   "line": 55,
+   "line": 75,
    "title": "Second To Nobody But Roger"
   },
   {
-   "line": 64,
+   "line": 87,
    "title": "The Man Who Raised Shanks"
   },
   {
-   "line": 74,
+   "line": 101,
    "title": "The Warning He Gave Zoro"
   },
   {
-   "line": 86,
+   "line": 118,
    "title": "The Verdict"
   }
  ],

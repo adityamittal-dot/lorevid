@@ -1,0 +1,138 @@
+{
+  "id": "2026-11-11-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Eustass Kid's metal box at Onigashima split Big Mom from her homies so Law could finish her; a side mechanic, not the pride thesis of the long",
+  "title": "Eustass Kid's Metal Box Split Big Mom From Her Homies",
+  "description": "Most people remember Law's boulder that knocked Big Mom off Onigashima. The setup that made it possible was Eustass Kid's metal box, which trapped her homie Zeus. Here is the chapter-cited sequence and why it was Kid's cleverest move in the raid.",
+  "hashtags": ["#onepiece", "#eustasskid", "#anime"],
+  "tags": ["eustass kid metal box", "eustass kid onigashima", "big mom zeus", "one piece onigashima", "one piece 1009", "law kid big mom", "eustass kid devil fruit", "big mom homies"],
+  "hook_text": "METAL BOX TRAP",
+  "music_mood": "hype",
+  "comment": "Was the metal box or Law's boulder the bigger reason Big Mom fell? Pick one.",
+  "related_long": "2026-11-11-L",
+  "end_text": "STRENGTH OR FATAL FLAW?",
+  "pages": ["Eustass Kid", "Charlotte Linlin", "Trafalgar D. Water Law"],
+  "lines": [
+    {
+      "text": "Eustass Kid built the metal box that pulled Big Mom's strongest homie away from her.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Eustass Kid metal box Onigashima Big Mom",
+        "fallback": "pirate with metal arm building a steel box on a rooftop, anime style"
+      }
+    },
+    {
+      "text": "Her homies made her nearly impossible to beat.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Charlotte Linlin homies Zeus Prometheus Napoleon",
+        "fallback": "Big Mom surrounded by her giant homies in the sky, anime style"
+      }
+    },
+    {
+      "text": "Kid and the other Supernovas agreed they had to split Big Mom from her homies, or they had no chance.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid Supernovas Onigashima rooftop fight",
+        "fallback": "rival pirates standing together on a burning rooftop, anime style"
+      }
+    },
+    {
+      "text": "Zoro handled Prometheus, and Napoleon was knocked out of her hand.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Roronoa Zoro Prometheus Onigashima",
+        "fallback": "swordsman facing a glowing homie in the sky, anime style"
+      }
+    },
+    {
+      "text": "Then Kid formed a metal box, and Law teleported Zeus straight inside it.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid metal box Trafalgar Law Zeus",
+        "fallback": "steel box glowing with lightning, anime style"
+      }
+    },
+    {
+      "text": "With Zeus locked away, Big Mom was disarmed and suddenly exposed.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Charlotte Linlin Big Mom exposed Onigashima",
+        "fallback": "Big Mom standing alone without her homies, anime style"
+      }
+    },
+    {
+      "text": "Kid grabbed her arm with his prosthetic and pushed her up into the sky.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Eustass Kid prosthetic arm grabs Big Mom",
+        "fallback": "metal arm gripping an emperor's arm mid-air, anime style"
+      }
+    },
+    {
+      "text": "That's when Law hit her with a boulder, and she fell off Onigashima.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Trafalgar Law boulder Big Mom falls Onigashima",
+        "fallback": "huge boulder striking an emperor high above the sea, anime style"
+      }
+    },
+    {
+      "text": "Most fans remember the boulder, but they forget the box that set it up.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid metal box Onigashima",
+        "fallback": "steel box floating beside a rooftop, anime style"
+      }
+    },
+    {
+      "text": "My read: that box was the cleverest move Kid made in the entire raid.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid Onigashima clever plan",
+        "fallback": "pirate captain grinning with a metal arm raised, anime style"
+      }
+    },
+    {
+      "text": "And that's only half of what Kid's metal could do against Emperors.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid metal golem Emperor",
+        "fallback": "giant metal golem facing an emperor, anime style"
+      }
+    },
+    {
+      "text": "That box is why Big Mom's strongest homie was pulled away from her in the first place.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Eustass Kid metal box Zeus",
+        "fallback": "steel box sealing a lightning cloud, anime style"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Eustass_Kid",
+    "https://onepiece.fandom.com/wiki/Chapter_1009"
+  ],
+  "self_check": {
+    "hook": "opens on Kid's metal box, a side mechanic, not the long's cold open",
+    "loop": "last line points back to the box that opens line 1",
+    "facts_verified": true
+  }
+}

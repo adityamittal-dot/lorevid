@@ -1,0 +1,131 @@
+{
+  "id": "2026-11-09-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Side point from the Kizaru long: at Marineford, Marco was one of only two pirates who pulled Kizaru into a real fight, and the stalemate with him is the clearest sign Kizaru's laziness was a choice",
+  "title": "Only Marco Pulled Kizaru Into A Real Fight",
+  "description": "Kizaru coasts through most fights, but at Marineford his strongest opponents got a different Admiral. This Short looks at his clash with Marco, the stalemate that followed, and the seastone cuffs that ended it. Did Marco earn that respect, or was Whitebeard the bigger test?",
+  "hashtags": ["#onepiece", "#kizaru", "#anime"],
+  "tags": ["kizaru marineford", "kizaru vs marco", "one piece marineford", "borsalino one piece", "one piece admirals", "marco one piece", "kizaru laziness", "marineford explained"],
+  "hook_text": "ONLY TWO PIRATES",
+  "music_mood": "suspense",
+  "comment": "Was Marco or Whitebeard the bigger test for Kizaru at Marineford?",
+  "related_long": "2026-11-09-L",
+  "end_text": "WHAT BROKE HIS CALM?",
+  "pages": ["Borsalino", "Marineford Arc", "Edward Newgate"],
+  "lines": [
+    {
+      "text": "Kizaru almost never fights anyone for real.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Borsalino lazy grin Marineford coat",
+        "fallback": "anime admiral in light-yellow suit with sunglasses, lazy grin, relaxed pose, anime style"
+      }
+    },
+    {
+      "text": "At Marineford, only Whitebeard and Marco pulled that out of him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino Marco Marineford fight",
+        "fallback": "anime admiral and phoenix-marked pirate clashing in a battle, anime style"
+      }
+    },
+    {
+      "text": "His first light beams went at Whitebeard, and Marco blocked them.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Marco blocks Borsalino light beam Marineford",
+        "fallback": "anime phoenix pirate blocking a yellow light beam with his arm, anime style"
+      }
+    },
+    {
+      "text": "Kizaru traded blows with Marco on equal footing, if only briefly.",
+      "delivery": "aside",
+      "fx": "shake",
+      "shot": {
+        "search": "Borsalino Marco equal footing Marineford",
+        "fallback": "anime admiral and pirate trading blows in mid-air, sparks, anime style"
+      }
+    },
+    {
+      "text": "Marco's regeneration cancelled much of his light, so the fight stalled.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Marco phoenix regeneration Marineford Borsalino",
+        "fallback": "anime phoenix-form pirate regenerating in golden flames, anime style"
+      }
+    },
+    {
+      "text": "Then Whitebeard was critically hurt, and Kizaru finally found his opening.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard Marineford Borsalino opening",
+        "fallback": "anime Marineford battlefield, a fallen giant pirate captain, dramatic light, anime style"
+      }
+    },
+    {
+      "text": "He caught Marco off guard and locked seastone cuffs on him.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Borsalino seastone handcuffs Marco",
+        "fallback": "anime admiral locking glowing seastone handcuffs on a pirate, anime style"
+      }
+    },
+    {
+      "text": "Here's my read: that's not laziness. That's a man picking his fights.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino calm grin Marineford war",
+        "fallback": "anime admiral in sunglasses surveying a battlefield, calm expression, anime style"
+      }
+    },
+    {
+      "text": "Strangers got the lazy version. Marco got the one who actually fought.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino Marco Marineford",
+        "fallback": "anime split view, lazy admiral on one side and focused admiral on the other, anime style"
+      }
+    },
+    {
+      "text": "And that's only half of why Kizaru held back against everyone else.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino Marineford war",
+        "fallback": "anime admiral walking away from a battle, dusk light, anime style"
+      }
+    },
+    {
+      "text": "Almost never, except when someone like Marco forced his hand.",
+      "delivery": "slow",
+      "fx": "zoom",
+      "shot": {
+        "search": "Borsalino Marco face off",
+        "fallback": "anime admiral and phoenix pirate facing each other in a standoff, anime style"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Borsalino",
+    "https://onepiece.fandom.com/wiki/Episode_458",
+    "https://daddyjim.ai/one-piece/manga-chapter/Chapter-554",
+    "https://www.sportskeeda.com/anime/why-kizaru-considered-one-piece-s-weakest-admiral-egghead-arc-explained"
+  ],
+  "self_check": {
+    "hook": "Kizaru almost never fights anyone for real, stated flatly, then a specific pirate pair in the next line.",
+    "loop": "Last line 'Almost never, except when someone like Marco forced his hand' leads into line 1.",
+    "facts_verified": true
+  }
+}

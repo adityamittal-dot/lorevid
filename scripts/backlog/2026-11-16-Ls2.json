@@ -1,0 +1,166 @@
+{
+ "id": "2026-11-16-Ls2",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Toji's last words about Megumi made Gojo the boy's guardian",
+ "title": "Toji's Final Words Handed Gojo A Son To Raise",
+ "description": "After Hollow Purple, Toji tells Gojo that Megumi will be sold to the Zenin clan. I think that was a handoff, not a warning. Chapters 75 and 59.",
+ "hashtags": [
+  "#toji",
+  "#megumi",
+  "#gojo",
+  "#jujutsukaisen"
+ ],
+ "tags": [
+  "toji fushiguro",
+  "megumi fushiguro",
+  "gojo megumi",
+  "toji last words",
+  "hidden inventory",
+  "jujutsu kaisen theory",
+  "toji megumi",
+  "jjk chapter 75"
+ ],
+ "hook_text": "A HANDOFF, NOT A WARNING",
+ "music_mood": "emotional",
+ "comment": "Was Toji's message about Megumi a handoff to Gojo, or just spite at the Zenin clan? Pick one.",
+ "related_long": "2026-11-16-L",
+ "end_text": "THE ONE MAN GOJO COULDN'T READ",
+ "pages": [
+  "Toji Fushiguro",
+  "Megumi Fushiguro",
+  "Satoru Gojo",
+  "Satoru Gojo vs. Toji Fushiguro"
+ ],
+ "lines": [
+  {
+   "text": "Toji's last words gave Gojo the one thing he never planned on.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Toji Fushiguro last words Gojo",
+    "fallback": "scarred man looking up at a white haired student"
+   }
+  },
+  {
+   "text": "Hollow Purple has just put Toji down in chapter 75.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Gojo Hollow Purple Toji chapter 75",
+    "fallback": "huge purple energy beam across a courtyard"
+   }
+  },
+  {
+   "text": "He thinks of his late wife, and of their son, Megumi.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Toji Fushiguro wife Megumi memory",
+    "fallback": "man picturing a small boy"
+   }
+  },
+  {
+   "text": "Then he tells Gojo that Megumi will be sold to the Zenin clan in a few years.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Toji tells Gojo Megumi Zenin clan",
+    "fallback": "tired man speaking to a student"
+   }
+  },
+  {
+   "text": "He says Gojo can do whatever he wants with that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Toji Gojo information Megumi chapter 75",
+    "fallback": "man giving a quiet look to a young sorcerer"
+   }
+  },
+  {
+   "text": "Here's the detail that gets me. Toji planned to sell Megumi himself, chapter 59.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Toji planned sell Megumi Zenin chapter 59",
+    "fallback": "father handing a boy to a clan elder"
+   }
+  },
+  {
+   "text": "So why hand a rival the warning that ruins the deal?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Toji Fushiguro Zenin clan deal",
+    "fallback": "stern man in an old estate"
+   }
+  },
+  {
+   "text": "The boy he meant to sell becomes the boy Gojo takes out of the Zenin clan's hands.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Megumi Zenin clan rescue",
+    "fallback": "tall teacher leading a boy out of an estate gate"
+   }
+  },
+  {
+   "text": "Gojo becomes Megumi's mentor and gives him a real chance. Chapter 59.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Megumi Fushiguro mentor",
+    "fallback": "blindfolded teacher with a quiet teenage student"
+   }
+  },
+  {
+   "text": "Maybe it was spite. But spite doesn't tell a rival where the child ends up.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Toji Fushiguro spite jujutsu world",
+    "fallback": "man glaring at an old clan hall"
+   }
+  },
+  {
+   "text": "I think it was the one decent thing he ever did.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Toji Megumi Fushiguro father son",
+    "fallback": "man and a young boy sitting together"
+   }
+  },
+  {
+   "text": "And that's only half of what Toji really did to Gojo.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Toji Gojo Hidden Inventory legacy",
+    "fallback": "two silhouettes under a glowing sky"
+   }
+  },
+  {
+   "text": "Because Toji's last words gave Gojo the one thing he never planned on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Toji last words Gojo Megumi",
+    "fallback": "white haired man looking at a boy"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro",
+  "https://daddyjim.ai/jujutsu-kaisen/manga-chapter/Chapter-75"
+ ],
+ "self_check": {
+  "hook": "Hidden-detail claim naming Toji and Gojo",
+  "loop": "last line leads back into line 1",
+  "facts_verified": true
+ }
+}

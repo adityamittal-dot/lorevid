@@ -1,0 +1,131 @@
+{
+  "id": "2026-11-09-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Side point from the Kizaru long: on Sabaody his first move was a call to Sentomaru, not a fight, and his sloppy Den Den Mushi and mangrove habits show the same pattern of caring about one person",
+  "title": "Kizaru's First Move On Sabaody Wasn't A Fight",
+  "description": "Before any battle on Sabaody, Kizaru tried to reach Sentomaru, the boy he trained. This Short looks at that first call, the pirate who shot at him, and why the question he asked afterward says more than his usual shrug. Was he really just careless, or was there a plan?",
+  "hashtags": ["#onepiece", "#kizaru", "#anime"],
+  "tags": ["kizaru sabaody", "kizaru sentomaru", "one piece sabaody arc", "borsalino one piece", "sentomaru one piece", "kizaru explained", "one piece admirals", "one piece sabaody"],
+  "hook_text": "FIRST MOVE ON SABAODY",
+  "music_mood": "suspense",
+  "comment": "Was Kizaru's Sabaody call to Sentomaru a plan, or just carelessness?",
+  "related_long": "2026-11-09-L",
+  "end_text": "WHAT BROKE HIS CALM?",
+  "pages": ["Borsalino", "Sabaody Archipelago", "Sentomaru"],
+  "lines": [
+    {
+      "text": "Kizaru's first move on Sabaody wasn't a punch at all.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Borsalino Sabaody arrival",
+        "fallback": "anime admiral in yellow suit landing on a Sabaody island, sunlight, anime style"
+      }
+    },
+    {
+      "text": "He tried calling Sentomaru first, and the call didn't go through.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino Den Den Mushi call Sabaody",
+        "fallback": "anime admiral holding a black Den Den Mushi snail phone to his ear, anime style"
+      }
+    },
+    {
+      "text": "Then a pirate fired straight at his head.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Borsalino pirate Sabaody gunfire",
+        "fallback": "anime pirate aiming a gun at an admiral on a Sabaody street, anime style"
+      }
+    },
+    {
+      "text": "The bullet passed right through him, and he barely reacted.",
+      "delivery": "reveal",
+      "fx": "shake",
+      "shot": {
+        "search": "Borsalino unfazed Sabaody",
+        "fallback": "anime admiral unbothered, bullet passing through his light body, anime style"
+      }
+    },
+    {
+      "text": "He walked over to the pirates and asked if they'd seen Sentomaru.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino Sentomaru Sabaody",
+        "fallback": "anime admiral asking a group of pirates a question, relaxed pose, anime style"
+      }
+    },
+    {
+      "text": "Here's my read: that question tells you who he was really looking for.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sentomaru Borsalino Sabaody",
+        "fallback": "anime admiral and young bodyguard with axe, tense gaze, anime style"
+      }
+    },
+    {
+      "text": "The pirates ran, and his beam flattened a whole Yarukiman Mangrove.",
+      "delivery": "aside",
+      "fx": "shake",
+      "shot": {
+        "search": "Yarukiman Mangrove Sabaody Borsalino",
+        "fallback": "anime giant mangrove tree toppling over a Sabaody street, dust cloud, anime style"
+      }
+    },
+    {
+      "text": "He called it an accident, then brushed it off like nothing happened.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino mangrove Sabaody",
+        "fallback": "anime admiral shrugging beside a fallen tree, lazy grin, anime style"
+      }
+    },
+    {
+      "text": "Same man who kept talking into the wiretap Den Den Mushi after being told.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Borsalino wiretap Den Den Mushi",
+        "fallback": "anime admiral speaking into a black Den Den Mushi on his wrist, anime style"
+      }
+    },
+    {
+      "text": "And that's only half of why Sentomaru still calls him uncle.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sentomaru Borsalino uncle",
+        "fallback": "anime young bodyguard with axe and admiral in yellow suit, warm lighting, anime style"
+      }
+    },
+    {
+      "text": "Which is why Kizaru's first move on Sabaody was a phone call, not a punch.",
+      "delivery": "slow",
+      "fx": "zoom",
+      "shot": {
+        "search": "Borsalino Den Den Mushi Sabaody",
+        "fallback": "anime admiral with a snail phone in a quiet Sabaody street, anime style"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Borsalino",
+    "https://onepiece.fandom.com/wiki/Sabaody_Archipelago",
+    "https://www.sportskeeda.com/anime/there-s-admiral-kizaru-meets-eye-one-piece-chapter-1091-proves",
+    "https://criticalhits.com.br/anime/one-piece-parte-coracoes-com-luta-entre-sentomaru-e-kizaru-no-episodio-1125/"
+  ],
+  "self_check": {
+    "hook": "Kizaru's first move on Sabaody wasn't a punch, stated as a surprise before the call and the bullet.",
+    "loop": "Last line 'Kizaru's first move on Sabaody was a phone call' leads into line 1's 'first move on Sabaody'.",
+    "facts_verified": true
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "id": "2026-11-13-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "In the anime, Smoker sends Luffy toward Gold Roger's scaffold without knowing who he is",
+  "title": "Smoker Pointed Luffy At Gold Roger's Scaffold",
+  "description": "In the anime, Smoker's first encounter with Luffy starts as a wrong turn. He sends a wanted rookie toward Gold Roger's scaffold without knowing who he is. Was that bad luck or a plan?",
+  "hashtags": ["#onepiece", "#smoker", "#anime"],
+  "tags": ["one piece theory", "smoker one piece", "smoker gold roger", "one piece loguetown anime", "luffy loguetown scaffold", "gold roger scaffold", "one piece episode 48", "one piece loguetown explained"],
+  "hook_text": "SMOKER HAD NO IDEA",
+  "music_mood": "suspense",
+  "comment": "Was Smoker's first mistake bad luck, or did he know exactly who Luffy was?",
+  "related_long": "2026-11-13-L",
+  "end_text": "WHO IS SMOKER HUNTING?",
+  "pages": [
+    "Smoker",
+    "Gol D. Roger",
+    "Monkey D. Luffy"
+  ],
+  "lines": [
+    {
+      "text": "Smoker pointed the most wanted rookie in East Blue straight at Gold Roger's scaffold.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Smoker Gold Roger scaffold Loguetown",
+        "fallback": "marine captain pointing down a stone street toward an old wooden platform, anime style"
+      }
+    },
+    {
+      "text": "He didn't know who Luffy was. He thought he was just a tourist.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Luffy tourist Loguetown",
+        "fallback": "young straw hat pirate smiling in a busy town street, anime style"
+      }
+    },
+    {
+      "text": "In the anime, their first meeting really starts with that wrong turn.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Luffy first meeting Loguetown anime",
+        "fallback": "marine captain looking at a young pirate with a suspicious squint, anime style"
+      }
+    },
+    {
+      "text": "Episode 48 has Luffy standing right where Roger once stood.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gold Roger scaffold Loguetown",
+        "fallback": "young pirate standing on an old wooden platform in a town square, anime style"
+      }
+    },
+    {
+      "text": "Then Buggy grabs him, and Smoker watches the whole thing unfold.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Buggy Luffy scaffold Loguetown",
+        "fallback": "clown pirate with a grin holding a young pirate over a platform, anime style"
+      }
+    },
+    {
+      "text": "Smoker remembers Roger's final day, twenty-two years earlier.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Gold Roger Loguetown flashback",
+        "fallback": "young marine watching a crowd gather around a scaffold, sepia tone, anime style"
+      }
+    },
+    {
+      "text": "Then Luffy's grin hits him. It's the same smile Roger once wore.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Luffy smile Gold Roger Smoker",
+        "fallback": "two smiling pirates side by side, one older, one young, anime style"
+      }
+    },
+    {
+      "text": "Here's my read: the anime makes that first encounter pure bad luck.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Smoker Loguetown wrong turn anime",
+        "fallback": "marine captain looking at a map with a confused expression, anime style"
+      }
+    },
+    {
+      "text": "In the manga, he doesn't know the Straw Hats exist until the scaffold moment.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Straw Hats manga Loguetown",
+        "fallback": "marine officer reading a wanted poster in a dim office, anime style"
+      }
+    },
+    {
+      "text": "Some fans say the anime flashback proves Smoker watched Roger in person.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker young Gold Roger flashback",
+        "fallback": "young marine as a child in a crowd, anime style"
+      }
+    },
+    {
+      "text": "The wiki says it isn't canon, so the flashback stays a fan debate.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Gold Roger canon debate",
+        "fallback": "open book with a question mark over a town square, anime style"
+      }
+    },
+    {
+      "text": "So the first meeting was luck, not a plan.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Luffy luck Loguetown",
+        "fallback": "marine captain shrugging beside a young pirate, anime style"
+      }
+    },
+    {
+      "text": "And that's only the first thing Smoker got wrong about Luffy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker Luffy rivalry Loguetown",
+        "fallback": "marine captain staring at a pirate across a street, anime style"
+      }
+    },
+    {
+      "text": "So the rookie got pointed at the scaffold, and nobody meant it.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Smoker Gold Roger scaffold Luffy",
+        "fallback": "young pirate in a straw hat on an old platform at dusk, anime style"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Smoker",
+    "https://onepiece.fandom.com/wiki/Smoker/History",
+    "https://onepiece.fandom.com/wiki/Chapter_96",
+    "https://daddyjim.ai/one-piece/episode/Episode-48"
+  ],
+  "self_check": {
+    "hook": "claim in line 1: Smoker sent the rookie to the scaffold",
+    "loop": "last line leads back to line 1 with the pointed-by-accident idea",
+    "facts_verified": true
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "2026-11-12-Ls2",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "The Valley of the End clone trick: Madara could tell wood clones apart, so why did Hashirama's clone still fool him; a side point from the long, not its answer",
+  "title": "Madara Could Spot a Clone. So How Was He Fooled?",
+  "description": "Madara Uchiha could tell a wood clone from the real thing, according to the chapters, so how did Hashirama fool him at the Valley of the End? Here is the tactical detail most fans forget. Full story on the channel.",
+  "hashtags": ["#naruto", "#madara", "#anime"],
+  "tags": ["naruto valley of the end", "madara wood clone", "hashirama vs madara", "naruto clone trick", "madara uchiha", "naruto theory", "naruto madara sharingan", "valley of the end explained"],
+  "hook_text": "HOW HE GOT FOOLED",
+  "music_mood": "suspense",
+  "comment": "Was the clone trick luck, or did Hashirama plan for Madara to run out of chakra?",
+  "related_long": "2026-11-12-L",
+  "end_text": "WHY HE NEVER STOPPED TRUSTING",
+  "pages": ["Madara Uchiha", "Hashirama Senju"],
+  "lines": [
+    {
+      "text": "Madara could spot a wood clone. So how did Hashirama fool him?",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Madara Uchiha Sharingan wood clone",
+        "fallback": "anime style, dark-haired Uchiha with a Sharingan narrowing his eyes at two identical wooden figures"
+      }
+    },
+    {
+      "text": "Chapter 577 says only Madara could tell a clone from the original.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Madara Uchiha Sharingan genjutsu",
+        "fallback": "anime style, glowing red Sharingan eye close-up, focused stare"
+      }
+    },
+    {
+      "text": "Hashirama's wood clones were nearly indistinguishable from himself.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hashirama Senju wood clone",
+        "fallback": "anime style, two identical long-haired wooden figures standing in a forest, lit by sunlight"
+      }
+    },
+    {
+      "text": "His flowering trees could knock opponents out with pollen, per chapter 621.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Hashirama Senju Wood Release trees",
+        "fallback": "anime style, giant flowering trees releasing glowing pollen over a battlefield"
+      }
+    },
+    {
+      "text": "And Madara's Wood Release matched his own, per chapter 609.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Madara Uchiha Wood Release",
+        "fallback": "anime style, Uchiha warrior summoning wooden roots from the ground, dramatic light"
+      }
+    },
+    {
+      "text": "Then the Valley of the End fight dragged on until both men were exhausted, per chapter 399.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Valley of the End Madara Hashirama fight",
+        "fallback": "anime style, two exhausted fighters on a cracked stone valley floor at dawn"
+      }
+    },
+    {
+      "text": "Here's my read: that exhaustion is the crack the clone trick needed.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Madara Uchiha tired battle",
+        "fallback": "anime style, a weary Uchiha leaning on a broken rock, heavy breathing, dusk"
+      }
+    },
+    {
+      "text": "Madara's sharp eyes meant nothing once his body gave out.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Madara Uchiha collapses Valley of the End",
+        "fallback": "anime style, a fallen Uchiha on a rocky ground, Sharingan dimmed, quiet and somber"
+      }
+    },
+    {
+      "text": "And that's only the tactical side of why the Valley still matters.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Valley of the End statues Madara Hashirama",
+        "fallback": "anime style, two giant stone statues facing each other across a canyon at sunset"
+      }
+    },
+    {
+      "text": "Which is why Madara could spot a wood clone, and still got fooled by one.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Madara Uchiha Sharingan wood clone",
+        "fallback": "anime style, dark-haired Uchiha with a Sharingan narrowing his eyes at two identical wooden figures"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://naruto.fandom.com/wiki/Madara_Uchiha",
+    "https://naruto.fandom.com/wiki/Valley_of_the_End",
+    "https://www.reddit.com/r/Naruto/comments/1chsy1i/tsunade_punched_the_real_madara_not_a_clone/"
+  ],
+  "self_check": {
+    "hook": "impossible-question hook with Madara named in line 1, no greeting",
+    "loop": "last line restates the opening claim as the consequence of the exhaustion payoff, leading back into line 1",
+    "facts_verified": true
+  }
+}

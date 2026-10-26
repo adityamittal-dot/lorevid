@@ -33,17 +33,17 @@
  ],
  "lines": [
   {
-   "text": "Hashirama once promised Madara he would protect their village from anyone who threatened it, even his own family.",
+   "text": "Hashirama never stopped trusting Madara, even after one vow forced him to end Madara's life.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Hashirama promise protect village Madara",
+    "search": "Hashirama never stopped trusting Madara",
     "fallback": "solemn vow spoken between two childhood friends"
    }
   },
   {
-   "text": "He meant every word of it, and decades later, that exact promise is what forced him to end his best friend's life.",
-   "delivery": "reveal",
+   "text": "He swore to protect the village from anyone who threatened it, his own family included, and he kept his word.",
+   "delivery": "normal",
    "fx": "none",
    "shot": {
     "search": "Promise forces Hashirama end Madara fight",
@@ -51,16 +51,16 @@
    }
   },
   {
-   "text": "So why did Hashirama still trust Madara, right up until the very last moment between them?",
-   "delivery": "normal",
+   "text": "So how does a man end his best friend's life and still call him a friend?",
+   "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Hashirama trusts Madara question last moment",
+    "search": "Hashirama ends best friend still calls friend",
     "fallback": "lingering trust tested by an old friendship"
    }
   },
   {
-   "text": "These two started as children skipping stones, not as the rivals history remembers them as.",
+   "text": "It starts with two boys skipping stones, long before history called them rivals.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -69,16 +69,16 @@
    }
   },
   {
-   "text": "Everything that happened after, the village, the betrayal, the final battle, traces back to that one broken promise...",
+   "text": "I'll show you the cease-fire he sent after being refused once, and the forgiveness he gave decades later...",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Everything traces back one broken promise",
+    "search": "Hashirama cease fire refused forgiveness decades later",
     "fallback": "entire history branching from a single fractured vow"
    }
   },
   {
-   "text": "Here's the full, chapter-cited story of the one friendship Hashirama refused to give up on...",
+   "text": "Because to see why, you have to meet them before they ever knew they were enemies...",
    "delivery": "slow",
    "fx": "none",
    "shot": {
@@ -87,7 +87,7 @@
    }
   },
   {
-   "text": "Hashirama was born into the Senju clan during the Warring States Period, the eldest of four brothers.",
+   "text": "First proof: Hashirama grew up a Senju in the Warring States Period, the eldest of four brothers, raised to fight Uchiha.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -141,7 +141,7 @@
    }
   },
   {
-   "text": "At first, both boys kept their clan names secret from each other, worried about exactly what the truth would mean.",
+   "text": "But the secret couldn't last. Each boy worked out the other's real name on his own.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -150,7 +150,7 @@
    }
   },
   {
-   "text": "Eventually, each one figured out the other's real name anyway: Hashirama was a Senju, Madara was an Uchiha.",
+   "text": "Hashirama was a Senju, Madara was an Uchiha, and there was no hiding it anymore, no matter how badly they wanted to.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -159,7 +159,7 @@
    }
   },
   {
-   "text": "By the rules of that war, that discovery meant it was now their duty to kill each other.",
+   "text": "By the rules of that war, that meant it was now their duty to end each other's lives.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -186,7 +186,7 @@
    }
   },
   {
-   "text": "He believed war simply didn't allow room for friendships like theirs to survive it intact.",
+   "text": "He believed war simply didn't allow room for friendships like theirs to survive it intact, and honestly, I can see why.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -213,8 +213,8 @@
    }
   },
   {
-   "text": "Every single time, Hashirama couldn't bring himself to finish someone he still secretly considered a friend.",
-   "delivery": "normal",
+   "text": "Madara couldn't beat him, no matter how hard he tried, and I think that gap ate at him every single time.",
+   "delivery": "reveal",
    "fx": "none",
    "shot": {
     "search": "Hashirama cannot finish considers friend",
@@ -240,8 +240,8 @@
    }
   },
   {
-   "text": "He still couldn't find it in himself to finish either one. Instead, he offered to unite their two clans for good.",
-   "delivery": "reveal",
+   "text": "A fading Izuna convinced Madara to refuse that offer and retreat, keeping the war alive.",
+   "delivery": "normal",
    "fx": "none",
    "shot": {
     "search": "Hashirama offers unite clans instead finishing",
@@ -258,7 +258,7 @@
    }
   },
   {
-   "text": "Hashirama still sent a cease-fire request anyway, even after being refused once already.",
+   "text": "Hashirama still sent a cease-fire request anyway, even after being refused once already. Think about how stubborn that is.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -312,7 +312,7 @@
    }
   },
   {
-   "text": "None of that restraint came from weakness. Hashirama was feared across the era as the God of Shinobi himself.",
+   "text": "And don't mistake that restraint for weakness, because the whole era feared him as the God of Shinobi himself.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -321,7 +321,7 @@
    }
   },
   {
-   "text": "His Wood Release let him summon entire forests, giant hands, and constructs strong enough to block Tailed Beast attacks outright.",
+   "text": "His Wood Release raised entire forests and giant hands, strong enough to block Tailed Beast attacks outright.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -330,7 +330,7 @@
    }
   },
   {
-   "text": "He could enter Sage Mode almost instantly, using his massive chakra reserves to greatly amplify every single one of his techniques.",
+   "text": "Here's the part people forget: he could slip into Sage Mode almost instantly, and every technique hit harder for it.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -339,7 +339,7 @@
    }
   },
   {
-   "text": "His signature move in that state, a barrage of wooden fists, was strong enough to strip Susanoo straight off the Nine-Tails.",
+   "text": "One barrage of wooden fists in that state was enough to strip Susanoo clean off the Nine-Tails.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -348,7 +348,7 @@
    }
   },
   {
-   "text": "He also carried unmatched skill in medical ninjutsu, able to heal serious wounds without even forming a single hand seal.",
+   "text": "He could heal serious injuries without forming a single hand seal, which is absurd for a frontline fighter.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -357,7 +357,7 @@
    }
   },
   {
-   "text": "His sealing techniques were versatile enough to store multiple weapons mid-battle and reinforce other people's sealing work entirely.",
+   "text": "His sealing work could store weapons mid-battle and even reinforce other people's seals, so he never ran out of tricks.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -366,7 +366,7 @@
    }
   },
   {
-   "text": "He alone managed to capture and contain eight of the nine free-roaming Tailed Beasts, entirely on his own.",
+   "text": "And he alone captured eight of the nine free-roaming Tailed Beasts. Nobody else has matched that.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -375,7 +375,7 @@
    }
   },
   {
-   "text": "Even Madara, armed with the Eternal Mangekyo Sharingan and the Nine-Tails both, openly admitted Hashirama was simply stronger.",
+   "text": "Even Madara, with the Eternal Mangekyo Sharingan and the Nine-Tails, admitted Hashirama was stronger. That admission matters a lot here.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -384,7 +384,7 @@
    }
   },
   {
-   "text": "Decades later, during the Fourth Great Ninja War, Kabuto still spoke of Hashirama's strength like it belonged to legend.",
+   "text": "Decades later, during the Fourth Great Ninja War, Kabuto still talked about Hashirama like a legend.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -393,7 +393,7 @@
    }
   },
   {
-   "text": "Nobody since, aside from Madara himself, has ever really come close to matching what Hashirama could actually do.",
+   "text": "I'd argue only Madara himself has ever come close to what Hashirama could do, and that's exactly why their fight matters.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -402,7 +402,7 @@
    }
   },
   {
-   "text": "He could also fight on par with skilled taijutsu users like Madara and Hiruzen, and cast genjutsu strong enough to trap a target in darkness.",
+   "text": "He matched Madara and Hiruzen in taijutsu, and his genjutsu could trap a target in darkness.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -411,7 +411,7 @@
    }
   },
   {
-   "text": "He was even fast enough to outrun the Nine-Tails itself during his final battle with Madara, dragging the fight toward the shoreline.",
+   "text": "He even outran the Nine-Tails in that last fight with Madara, dragging the battle toward the shoreline.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -420,7 +420,7 @@
    }
   },
   {
-   "text": "That's the part worth sitting with: the strongest shinobi alive kept choosing mercy over the easy, final option, again and again.",
+   "text": "So the strongest shinobi alive had the easy, final option in his hands again and again, and he kept choosing mercy.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -429,7 +429,7 @@
    }
   },
   {
-   "text": "A weaker man might call that restraint a weakness. For Hashirama, it was always the entire point of being that strong.",
+   "text": "A weaker man calls that weakness. For Hashirama, restraint was the entire point of being that strong.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -438,7 +438,7 @@
    }
   },
   {
-   "text": "Keep that in mind for everything that happens next, because it's about to get tested in the worst possible way...",
+   "text": "Hold onto that, because it's about to be tested in the worst possible way...",
    "delivery": "slow",
    "fx": "none",
    "shot": {
@@ -465,7 +465,7 @@
    }
   },
   {
-   "text": "From there, the two clans came together and founded a village of peace: Konohagakure.",
+   "text": "From there, the two clans came together and founded a village of peace: Konohagakure, the thing they dreamed about as boys.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -474,7 +474,7 @@
    }
   },
   {
-   "text": "Hashirama and Madara rekindled their childhood friendship completely, calling each other brothers once again.",
+   "text": "Hashirama and Madara rekindled their childhood friendship completely, calling each other brothers once again, and I find that genuinely moving.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -555,7 +555,7 @@
    }
   },
   {
-   "text": "True to that promise, Madara attacked Konohagakure again and again over the years that followed.",
+   "text": "True to that promise, Madara attacked Konohagakure again and again over the years that followed, which is the part fans never forgive.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -609,7 +609,7 @@
    }
   },
   {
-   "text": "Hashirama distracted him with that clone, then struck the real finishing blow from behind.",
+   "text": "Hashirama distracted him with that clone, then struck the real finishing blow from behind, and he clearly hated every second of it.",
    "delivery": "punch",
    "fx": "none",
    "shot": {
@@ -717,6 +717,42 @@
    }
   },
   {
+   "text": "He even convened a Kage Summit, offering to share Konoha's captured Tailed Beasts to balance power between the villages.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hashirama Kage Summit shares Tailed Beasts",
+    "fallback": "generous gesture trying to balance an unequal world"
+   }
+  },
+  {
+   "text": "The villages wanted payment, and the First Kazekage demanded money and territory instead of accepting a Tailed Beast as a gift.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "First Kazekage demands money territory instead",
+    "fallback": "transactional counter-demand undercutting a generous gesture"
+   }
+  },
+  {
+   "text": "Hashirama worried any deal they struck would only last a short while, but still believed future generations could build something lasting.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Hashirama worries deal believes future lasting",
+    "fallback": "cautious hope balanced against a harsh reality"
+   }
+  },
+  {
+   "text": "Even that disappointment never once convinced Hashirama to stop extending peace offers to people who had every reason to refuse them.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Disappointment never stops Hashirama offering peace",
+    "fallback": "repeated disappointment failing to end a lifelong habit"
+   }
+  },
+  {
    "text": "He called that philosophy the Will of Fire: protect the village like your own family, no matter the cost.",
    "delivery": "normal",
    "fx": "none",
@@ -733,51 +769,6 @@
    "shot": {
     "search": "Hashirama vow anyone threatens village unforgiven",
     "fallback": "solemn vow spoken to the one friend it was aimed at"
-   }
-  },
-  {
-   "text": "Hashirama also convened a Kage Summit later on, offering to share Konoha's captured Tailed Beasts to balance power between villages.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Hashirama Kage Summit shares Tailed Beasts",
-    "fallback": "generous gesture trying to balance an unequal world"
-   }
-  },
-  {
-   "text": "Even that generosity met resistance, as other villages demanded payment instead of simply accepting peace offered freely.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "Resistance villages demand payment peace offered",
-    "fallback": "generous offer meeting a world still driven by self-interest"
-   }
-  },
-  {
-   "text": "Hashirama worried any deal they struck would only last a short while, but still believed future generations could build something lasting.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Hashirama worries deal believes future lasting",
-    "fallback": "cautious hope balanced against a harsh reality"
-   }
-  },
-  {
-   "text": "The First Kazekage countered by demanding money and territory instead of simply accepting a Tailed Beast as a gift.",
-   "delivery": "normal",
-   "fx": "none",
-   "shot": {
-    "search": "First Kazekage demands money territory instead",
-    "fallback": "transactional counter-demand undercutting a generous gesture"
-   }
-  },
-  {
-   "text": "Even that disappointment never once convinced Hashirama to stop extending peace offers to people who had every reason to refuse them.",
-   "delivery": "reveal",
-   "fx": "none",
-   "shot": {
-    "search": "Disappointment never stops Hashirama offering peace",
-    "fallback": "repeated disappointment failing to end a lifelong habit"
    }
   },
   {
@@ -814,6 +805,15 @@
    "shot": {
     "search": "Hashirama praises Itachi devotion rivals own",
     "fallback": "highest praise given to a very different Uchiha"
+   }
+  },
+  {
+   "text": "And here's what I keep coming back to: the vow didn't die with him.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Hashirama vow outlives him",
+    "fallback": "a lifetime's promise outlasting the man who made it"
    }
   },
   {
