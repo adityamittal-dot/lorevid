@@ -1,0 +1,133 @@
+{
+  "id": "2026-10-27-Ls2",
+  "format": "short",
+  "series": "naruto",
+  "wiki": "naruto.fandom.com",
+  "topic": "Naruto's childhood pranks were a symptom of the isolation caused by Minato's sealing plan, not comic relief, and that same kid becomes the village's hero",
+  "title": "Naruto's Childhood Pranks Were Never About Being Funny",
+  "description": "Minato's final wish was for the village to treat his son like a hero. Most of Konoha ignored it instead, and that isolation explains every prank Naruto pulled as a kid. From the full story: Minato Sealed The Nine-Tails Inside Naruto On Purpose.",
+  "hashtags": [
+    "#naruto",
+    "#minato",
+    "#anime"
+  ],
+  "tags": [
+    "naruto theory",
+    "naruto childhood",
+    "naruto pranks explained",
+    "minato naruto",
+    "konoha village naruto",
+    "naruto isolation",
+    "naruto uzumaki",
+    "naruto shorts",
+    "naruto nine tails",
+    "naruto hero journey"
+  ],
+  "hook_text": "IT WASN'T A JOKE",
+  "music_mood": "emotional",
+  "comment": "Did Konoha fail Naruto, or was his isolation just the price of Minato's plan? Pick one.",
+  "related_long": "2026-10-27-L",
+  "pages": [
+    "Naruto Uzumaki",
+    "Minato Namikaze"
+  ],
+  "lines": [
+    {
+      "text": "Naruto's pranks as a kid were never about being funny.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "young Naruto pranks village",
+        "fallback": "mischievous child grinning after a prank"
+      }
+    },
+    {
+      "text": "Minato's final wish was for the village to treat his son like a hero, not a container.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Third Hokage honors Minato wish",
+        "fallback": "elderly leader addressing a worried village"
+      }
+    },
+    {
+      "text": "Most of Konoha ignores that request completely, for years.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Konoha villagers ignore request",
+        "fallback": "crowd of villagers whispering and glaring"
+      }
+    },
+    {
+      "text": "They don't know the full story, only that a monster tore through their home the night he was born.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Konoha destroyed night Nine-Tails attack",
+        "fallback": "ruined village streets at dawn"
+      }
+    },
+    {
+      "text": "Some villagers openly treat him like the Nine-Tails itself, not the boy carrying half of it.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "villagers fear young Naruto",
+        "fallback": "small child being avoided by adults on a street"
+      }
+    },
+    {
+      "text": "That isolation is the real reason behind every single prank he pulls as a kid.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "young Naruto isolated lonely",
+        "fallback": "lonely child sitting apart from playing classmates"
+      }
+    },
+    {
+      "text": "He's not causing chaos for fun. He's trying to get noticed by people who look away from him instead.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto craves acknowledgement lonely",
+        "fallback": "young boy watching others laugh together, excluded"
+      }
+    },
+    {
+      "text": "Years later, that same lonely kid becomes the one person the whole village depends on.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Naruto hero village depends",
+        "fallback": "confident young hero standing tall over a battlefield"
+      }
+    },
+    {
+      "text": "Because Naruto's pranks as a kid were never about being funny...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "young Naruto pranks mischief",
+        "fallback": "child grinning mischievously in an empty street"
+      }
+    }
+  ],
+  "sources": [
+    "https://naruto.fandom.com/wiki/Naruto_Uzumaki",
+    "https://naruto.fandom.com/wiki/Minato_Namikaze"
+  ],
+  "self_check": {
+    "hook": "line 1 names Naruto and the claim (pranks were never about being funny) inside 9 words",
+    "loop": "last line ('Naruto's pranks as a kid were never about being funny...') feeds straight into line 1's own phrasing",
+    "facts_verified": true
+  },
+  "published": {
+    "video_id": "n7KaUIZXZvA",
+    "publish_at": "2026-10-28T17:00:00Z",
+    "url": "https://youtu.be/n7KaUIZXZvA",
+    "comment": "Did Konoha fail Naruto, or was his isolation just the price of Minato's plan? Pick one.\nhttps://youtu.be/I0UrJRV-4bA",
+    "comment_posted": false
+  }
+}
