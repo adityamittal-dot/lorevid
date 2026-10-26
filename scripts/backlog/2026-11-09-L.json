@@ -125,7 +125,7 @@
    }
   },
   {
-   "text": "Decades ago, long before Egghead, a young Kizaru trained an orphaned boy named Sentomaru into Vegapunk's personal guard.",
+   "text": "Decades ago, long before Egghead, a young Kizaru trained a boy kicked out of his own village, Sentomaru, into Vegapunk's personal guard.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -188,20 +188,20 @@
    }
   },
   {
-   "text": "Years earlier, former Admiral and instructor Z accused Kizaru of leaning on his Devil Fruit for everything he does.",
+   "text": "Kizaru doesn't even need to be in charge: he'll take an order from a subordinate too, as long as he trusts them.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Z accuses Kizaru relying Devil Fruit",
-    "fallback": "stern old instructor confronting a former student"
+    "search": "Kizaru follows subordinate orders trust",
+    "fallback": "high-ranking officer deferring to a trusted junior"
    }
   },
   {
-   "text": "Kizaru's answer wasn't a denial. He just said he was still hard like a rock underneath it all...",
+   "text": "That's not weakness. That's a man making sure someone he actually respects is the one deciding, not him.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Kizaru says hard like rock Z",
+    "search": "Kizaru trusts respected officer decides",
     "fallback": "quiet confidence beneath a careless shrug"
    }
   },
@@ -314,7 +314,7 @@
    }
   },
   {
-   "text": "A man sharp enough to aim a laser beam through a held coin does not accidentally drop a tree on a city.",
+   "text": "A man precise enough to blast a small object from someone's hand at range doesn't accidentally drop a tree on a city.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -422,16 +422,16 @@
    }
   },
   {
-   "text": "He spends most of the war locked in that stalemate with Marco, never once breaking off to actually hunt Luffy down.",
+   "text": "He splits his time between that Marco stalemate and shooting straight at Luffy, trying to stop him before he reaches Ace.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Kizaru stalemate Marco avoids Luffy",
-    "fallback": "drawn-out stalemate avoiding the real target"
+    "search": "Kizaru shoots Luffy stops Ace rescue",
+    "fallback": "drawn-out stalemate turning into a direct chase"
    }
   },
   {
-   "text": "When Luffy finally gets within reach, Kizaru still takes the time to mock him for being too weak to save his brother.",
+   "text": "When Luffy finally breaks through anyway, Kizaru still takes the time to mock him for being too weak to save his brother.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -629,7 +629,7 @@
    }
   },
   {
-   "text": "Z, his old instructor, joined that fight and said it again: too much Devil Fruit.",
+   "text": "Z, his old instructor, joined the fight and called out the same old habit: too much Devil Fruit.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -638,7 +638,7 @@
    }
   },
   {
-   "text": "Same answer as before. Still hard like a rock underneath, no grudge, and he kept fighting.",
+   "text": "Kizaru's answer stayed the same: still hard like a rock underneath, no grudge, and he kept fighting.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -882,16 +882,16 @@
    }
   },
   {
-   "text": "Vegapunk's own satellite, Lilith, calls Kizaru a sad, cold-hearted man right to his face in the aftermath.",
+   "text": "Moments before that shot, Vegapunk himself had called Kizaru a sad, cold-hearted man, straight to his face.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Lilith calls Kizaru cold-hearted man",
+    "search": "Vegapunk calls Kizaru cold-hearted man",
     "fallback": "sharp accusation landing on a quiet target"
    }
   },
   {
-   "text": "Kizaru agrees with her. He says he wishes he'd brought darker sunglasses, just to hide what his face was doing.",
+   "text": "Kizaru agreed with him. He said he wished he'd brought darker sunglasses, just to hide what his face was doing.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -1107,30 +1107,30 @@
    }
   },
   {
-   "text": "Nobody who actually knows Kizaru walks away calling him a sad, cold-hearted man, even on his very worst day.",
+   "text": "Even Vegapunk, the friend who'd known him for twenty-six years, only saw the mask in that final moment.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Nobody who knows Kizaru calls cold-hearted",
-    "fallback": "close allies rejecting a harsh outside label"
+    "search": "Vegapunk sees only mask Kizaru final",
+    "fallback": "oldest friend reading only the surface"
    }
   },
   {
-   "text": "Only Lilith, a stranger to him, ever said that cold-hearted line out loud, and even Kizaru didn't fully argue with her.",
+   "text": "That's the one time it cracked in front of someone who actually mattered, and Kizaru still didn't argue the point.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Lilith stranger says cold-hearted Kizaru agrees",
-    "fallback": "outside judgment meeting a quiet half-agreement"
+    "search": "Kizaru mask cracks mattered no argument",
+    "fallback": "quiet half-agreement meeting a harsh verdict"
    }
   },
   {
-   "text": "That's the strangest part of this whole theory: the people closest to Kizaru never actually stopped trusting him.",
+   "text": "That's the saddest part of this whole theory: his oldest friend died thinking the mask was all there ever was.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "People closest Kizaru never stopped trusting",
-    "fallback": "unbroken trust surviving every careless decade"
+    "search": "Vegapunk final judgment Kizaru cold",
+    "fallback": "old friend's final judgment left unanswered"
    }
   },
   {

@@ -312,11 +312,11 @@
    }
   },
   {
-   "text": "In two years, that crew sank seventy-six ships, ruined five towns, and buried crimes the government erased completely.",
+   "text": "That crew overwhelmed Marine battleships on a regular basis, razed whole settlements, and even toppled an entire kingdom.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
-    "search": "Rocks crew sinks ships erases crimes",
+    "search": "Rocks crew overwhelms Marines razes kingdom",
     "fallback": "record of chaos the government chose to hide"
    }
   },

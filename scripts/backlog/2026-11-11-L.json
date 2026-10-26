@@ -960,7 +960,7 @@
    }
   },
   {
-   "text": "Kid even dislikes using weapons of mass destruction, though he's curious about them but preferring to face Emperors head-on with his own two hands.",
+   "text": "He once turned down buying Caesar Clown's weapon of mass destruction too, curious about the black market but never tempted to actually use one.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -1095,20 +1095,20 @@
    }
   },
   {
-   "text": "Kid lost an arm, a ship, and years of treasure to Shanks, but he still has Killer, and he still has his whole crew.",
+   "text": "Kid lost an arm, a ship, and years of treasure to Shanks, but he and Killer both walked away breathing.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Kid loses ship treasure keeps crew partner",
+    "search": "Kid loses ship treasure masked partner alive",
     "fallback": "devastating losses that still left something standing"
    }
   },
   {
-   "text": "Pride cost Eustass Kid nearly everything he owned at Elbaph. It just never once cost him the one thing he actually protects most.",
+   "text": "Pride cost Eustass Kid nearly everything he owned at Elbaph. It never touched the one person he actually built his whole crew around.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Pride costs almost everything protects crew",
+    "search": "Pride costs almost everything spares masked partner",
     "fallback": "painful cost sparing the one thing that matters most"
    }
   },

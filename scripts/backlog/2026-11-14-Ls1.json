@@ -65,12 +65,12 @@
       }
     },
     {
-      "text": "Huge branches came crashing down, and Imu had to block with two weapons.",
+      "text": "Huge branches came crashing down before Imu even managed to block the strike.",
       "delivery": "normal",
       "fx": "shake",
       "shot": {
-        "search": "Imu Honebami Toshiro Gaban",
-        "fallback": "two weapons clashing in a burst of sparks, anime style"
+        "search": "Imu blocks Gaban axes clash",
+        "fallback": "massive axe clash in a burst of sparks, anime style"
       }
     },
     {

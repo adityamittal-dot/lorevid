@@ -47,16 +47,16 @@
       }
     },
     {
-      "text": "Sanji assumed it was him. It wasn't.",
+      "text": "Gaban waved Luffy down right as he was about to leave for the final battle to say it.",
       "delivery": "aside",
       "fx": "none",
       "shot": {
-        "search": "Sanji Zoro Gaban",
-        "fallback": "blond cook and green haired swordsman standing side by side"
+        "search": "Gaban stops Luffy before battle",
+        "fallback": "old pirate waving down a young captain before he departs"
       }
     },
     {
-      "text": "It was Zoro. Luffy had already sensed it, but Zoro had no clue.",
+      "text": "It was Zoro, his own first mate, and Zoro had absolutely no clue.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
@@ -92,7 +92,7 @@
       }
     },
     {
-      "text": "Luffy knew, but Gaban was the one who said it out loud.",
+      "text": "Zoro's own crew never caught it. An old retired pirate did, in one conversation.",
       "delivery": "punch",
       "fx": "flash",
       "shot": {

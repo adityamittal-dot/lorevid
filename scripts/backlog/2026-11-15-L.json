@@ -1466,22 +1466,22 @@
    }
   },
   {
-   "text": "Chapter 1083 puts a number on it. Twelve nations take up arms, and eight of those uprisings succeed.",
+   "text": "Chapter 1083 confirms it: twelve nations take up arms, and eight of those uprisings actually succeed.",
    "delivery": "normal",
    "fx": "none",
-   "card": "CHAPTER 1083",
+   "card": "EIGHT-NATION REVOLUTION",
    "shot": {
-    "search": "Chapter 1083 Dragon twelve nations Eight-Nation Revolution",
+    "search": "Eight-Nation Revolution kingdoms uprising",
     "fallback": "map of kingdoms with eight glowing in green"
    }
   },
   {
-   "text": "Seven of those nations stop paying their tribute to the Holy Land, and stop exporting their resources as well.",
+   "text": "Lulusia Kingdom is one of those eight, a tiny detail that turns devastating later in this very story.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Heavenly Tribute nations refuse Revolutionary Army cargo",
-    "fallback": "trade ships turning away from a golden harbor"
+    "search": "Lulusia Kingdom revolution small nation",
+    "fallback": "small peaceful kingdom on the coastline"
    }
   },
   {
@@ -1494,7 +1494,7 @@
    }
   },
   {
-   "text": "They also attack the supply carriers headed for the Holy Land, to starve the nobles of resources. Dragon expects retaliation.",
+   "text": "Chapter 1082 confirms it: they also hit supply carriers headed for the Holy Land, and Dragon already expects retaliation for it.",
    "delivery": "normal",
    "fx": "none",
    "shot": {

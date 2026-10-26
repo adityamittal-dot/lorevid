@@ -16,7 +16,10 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
 - You (main session, Haiku 5.5): plan, hand out IDs, push. Never write or review scripts yourself.
 - Writers: `model: "sonnet"` for every long video and deep dive (Haiku longs failed the editor gate 6 of 6 on
   2026-10-16), `model: "haiku"` for Shorts. One writer per long video; it also writes the Shorts cut from it.
-- Editor: one `model: "sonnet"` pass per long video, reading only the finished script (no research).
+- Editor: one `model: "sonnet"` pass per long video, a **separate Agent call** from its writer. This is not optional.
+  The 2026-10-26 batch skipped it: all 9 longs carried "self-assessed (no subagent)" reviews, and one rested on a false
+  premise (Carrot at Egghead). `validate_script.py` now rejects a long whose Editor review is self-assessed. If the
+  Agent tool is unavailable in this session, stop and push nothing.
 
 ## Steps
 0. **Rescue first.** For every `scripts/rejected/<id>.json` whose `.log` only fails the editor gate ("editor review
@@ -25,7 +28,7 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
 1. Pick topics with `data/performance.md`'s "Long video retention" table open: copy what the top rows did, avoid
    what the bottom rows did. At most 1 What If in any 3 longs. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
    sorted(glob.glob('scripts/*/*.json'))[-60:]))"` (recent titles). Don't read WRITER.md yourself.
-2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Haiku
+2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Sonnet
    writer per long ID **in parallel** with: its IDs (the long + its Shorts as plan.py lists them: `<long-id>s1` and `<long-id>s2`; a `DEEP-DIVE` id gets WRITER.md's Sunday Deep Dive rules and `"deep": true`), its topic, the full topic list, and this
    brief:
    > Read WRITER.md once. Research from the wiki packs: `data/wiki/INDEX.md`, then `grep -n` the packs for the
@@ -37,13 +40,16 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    > `python validate_script.py` on both and fix all errors in a single Edit per file. Don't touch pronounce.json or
    > any other file. Don't commit. Reply only with the IDs and "ok" or the remaining errors.
 3. When a writer finishes, start one Sonnet editor for that long with this brief:
-   > Read WRITER.md section 6 (Long Video Rules) and scripts/backlog/<id>.json. First fix the opening: line 1 says
+   > Read WRITER.md section 6 (Long Video Rules), scripts/backlog/<id>.json and the notes' Fact check. First check
+   > the premise: is every character actually where and when the script puts them? If the premise is false, reply
+   > "FALSE PREMISE" and change nothing. Then grep `data/wiki/` packs for every chapter number and named event, and fix
+   > what doesn't match. Then fix the opening: line 1 says
    > the title's subject and claim, and chapter 1 (the cold open) is at most 110 words. Then rewrite only the weak lines
    > (flat hooks, written-not-spoken sentences, slow chapters) in one Edit pass, without adding new facts. Then add
-   > `## Editor review` to notes/<id>.md with honest scores written like `hook: 8/10`, rewriting until every score
+   > `## Editor review` to notes/<id>.md, starting with the line `Reviewer: independent editor`, with honest scores written like `hook: 8/10`, rewriting until every score
    > is 8+. If a chapter scores under 8, rewrite that whole chapter (you may restructure it), don't just tweak lines.
    > Never lower the bar to pass. Run `python validate_script.py scripts/backlog/<id>.json` until it passes. Reply only "ok" or the errors.
-4. Only commit scripts that pass `python validate_script.py`. A script that still fails after its editor pass: leave
+4. Drop any long whose editor replied "FALSE PREMISE" (and its Shorts) from the commit. Only commit scripts that pass `python validate_script.py`. A script that still fails after its editor pass: leave
    it out of the commit and list it in your reply. Never push a "WIP" commit. Commit once: `git add scripts/backlog notes && git commit -m "script: <ids>"`, then push to the branch this
    session is set up to use.
 5. Reply with `python plan.py status` and the pushed IDs. Nothing else.

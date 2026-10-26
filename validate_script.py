@@ -680,6 +680,17 @@ def main():
             err.append("Shorts cut from a long need 'end_text' (2-6 words, the on-screen teaser for the long video "
                        "shown over the last 3 s, e.g. 'WHY SHANKS REALLY CAME'); WRITER.md, Shorts -> long bridge")
 
+    # 13. The editor review must come from a separate editor agent (CLOUD_BATCH.md step 3), not the writer itself.
+    if fmt == "long":
+        notes_fp = os.path.join(repo_dir, "notes", f"{script_id}.md")
+        if os.path.exists(notes_fp):
+            with open(notes_fp, encoding="utf-8") as f:
+                review = f.read().split("## Editor review", 1)
+            # Scripts from 2026-11-09 on must carry the editor agent's marker line; older ones predate the rule.
+            if script_id >= "2026-11-09" and not (len(review) == 2 and "Reviewer: independent editor" in review[1]):
+                err.append("Editor review lacks 'Reviewer: independent editor'; a separate editor agent must review "
+                           "the long (CLOUD_BATCH.md step 3)")
+
     # 12. Search-first long titles: long views come from the subscriber feed and related videos, almost none from
     # search (362 of 15.7k views by 2026-10-26). The first 4 words carry a character or series a fan would type.
     if fmt == "long":
