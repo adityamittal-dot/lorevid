@@ -6,8 +6,22 @@
   "topic": "Dragon's Loguetown storm wind is widely credited to him, but the wiki never confirms he caused it",
   "title": "Nobody Has Proven Dragon Made That Storm",
   "description": "Everyone blames Monkey D. Dragon for the wind that saved Luffy at Loguetown. The wiki says it's unconfirmed, and his Devil Fruit is still a mystery. Do you think it was on purpose?",
-  "hashtags": ["#onepiece", "#monkeyddragon", "#anime"],
-  "tags": ["one piece theory", "monkey d dragon", "dragon loguetown", "one piece loguetown storm", "dragon wind", "one piece revolutionary", "luffy saved loguetown", "dragon wind theory", "one piece loguetown explained"],
+  "hashtags": [
+    "#onepiece",
+    "#monkeyddragon",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "monkey d dragon",
+    "dragon loguetown",
+    "one piece loguetown storm",
+    "dragon wind",
+    "one piece revolutionary",
+    "luffy saved loguetown",
+    "dragon wind theory",
+    "one piece loguetown explained"
+  ],
   "hook_text": "DID DRAGON DO IT?",
   "music_mood": "suspense",
   "comment": "Did Dragon's wind save Luffy on purpose, or was it a lucky accident? Pick one.",
@@ -119,7 +133,7 @@
       }
     },
     {
-      "text": "And that's only half of why Dragon was in Loguetown at all.",
+      "text": "Which raises the real question: why was Dragon in Loguetown at all?",
       "delivery": "normal",
       "fx": "none",
       "shot": {

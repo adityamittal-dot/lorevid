@@ -654,6 +654,27 @@ def main():
                     err.append(f"Short title is too close to its sibling {os.path.basename(sib)}; each Short gets a "
                                f"different side point of the long")
                     break
+        # The bridge line (second to last) must not reuse another Short's wording: the 2026-10-26 cloud batch copied
+        # WRITER.md's example "And that's only half of why..." into 8 of 12 Shorts, a mass-produced tell.
+        if len(lines) >= 2 and isinstance(lines[-2], dict):
+            mine = " ".join(re.findall(r"[a-z']+", str(lines[-2].get("text", "")).lower())[:4])
+            for sub in ["backlog", "queue"]:
+                for other_fp in glob.glob(os.path.join(repo_dir, "scripts", sub, "*s[0-9].json")):
+                    if os.path.realpath(other_fp) == canonical_self:
+                        continue
+                    try:
+                        with open(other_fp, encoding="utf-8") as f:
+                            ol = json.load(f).get("lines", [])
+                    except Exception:
+                        continue
+                    if len(ol) >= 2 and isinstance(ol[-2], dict) and mine and mine == " ".join(
+                            re.findall(r"[a-z']+", str(ol[-2].get("text", "")).lower())[:4]):
+                        err.append(f"bridge line (second to last) opens like {os.path.basename(other_fp)}'s "
+                                   f"('{mine}...'); word every bridge differently")
+                        break
+                else:
+                    continue
+                break
         end_text = p.get("end_text")
         if not isinstance(end_text, str) or not (2 <= len(end_text.split()) <= 6):
             err.append("Shorts cut from a long need 'end_text' (2-6 words, the on-screen teaser for the long video "

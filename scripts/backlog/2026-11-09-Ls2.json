@@ -6,14 +6,31 @@
   "topic": "Side point from the Kizaru long: on Sabaody his first move was a call to Sentomaru, not a fight, and his sloppy Den Den Mushi and mangrove habits show the same pattern of caring about one person",
   "title": "Kizaru's First Move On Sabaody Wasn't A Fight",
   "description": "Before any battle on Sabaody, Kizaru tried to reach Sentomaru, the boy he trained. This Short looks at that first call, the pirate who shot at him, and why the question he asked afterward says more than his usual shrug. Was he really just careless, or was there a plan?",
-  "hashtags": ["#onepiece", "#kizaru", "#anime"],
-  "tags": ["kizaru sabaody", "kizaru sentomaru", "one piece sabaody arc", "borsalino one piece", "sentomaru one piece", "kizaru explained", "one piece admirals", "one piece sabaody"],
+  "hashtags": [
+    "#onepiece",
+    "#kizaru",
+    "#anime"
+  ],
+  "tags": [
+    "kizaru sabaody",
+    "kizaru sentomaru",
+    "one piece sabaody arc",
+    "borsalino one piece",
+    "sentomaru one piece",
+    "kizaru explained",
+    "one piece admirals",
+    "one piece sabaody"
+  ],
   "hook_text": "FIRST MOVE ON SABAODY",
   "music_mood": "suspense",
   "comment": "Was Kizaru's Sabaody call to Sentomaru a plan, or just carelessness?",
   "related_long": "2026-11-09-L",
   "end_text": "WHAT BROKE HIS CALM?",
-  "pages": ["Borsalino", "Sabaody Archipelago", "Sentomaru"],
+  "pages": [
+    "Borsalino",
+    "Sabaody Archipelago",
+    "Sentomaru"
+  ],
   "lines": [
     {
       "text": "Kizaru's first move on Sabaody wasn't a punch at all.",
@@ -97,7 +114,7 @@
       }
     },
     {
-      "text": "And that's only half of why Sentomaru still calls him uncle.",
+      "text": "Remember that call, because it explains why Sentomaru still calls him uncle.",
       "delivery": "normal",
       "fx": "none",
       "shot": {

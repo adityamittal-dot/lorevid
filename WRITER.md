@@ -234,7 +234,10 @@ the long's question removes the reason to click the long.
   side points. `validate_script.py` rejects a Short title sharing 40%+ of its key words with the long's title,
   a line 1 that restates the long's cold open, or two sibling Shorts with near-identical titles.
 - **Bridge line.** Right after the payoff and before the loop line, one short line points at the bigger question the
-  Short didn't answer, in the narrator's voice, not as a call to action ("And that's only half of why Kuma did it.").
+  Short didn't answer, in the narrator's voice, not as a call to action. Word it fresh every time. The validator
+  rejects a bridge whose first 4 words match another queued Short's ("And that's only half..." was copied into 8
+  of 12 Shorts once). Shapes to vary: a question ("So why was Dragon in Loguetown at all?"), a hand-off ("Hold onto
+  that offer, because it's why he never gave up on Madara."), a contrast ("The box was the trick. The cost came later.").
   Never say "subscribe" or "check out my video".
 - **`end_text`** (required): the on-screen teaser for the long, shown over the last 3 s (schema above).
 - The description's first line and the first comment link the long automatically.
