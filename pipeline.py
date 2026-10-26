@@ -339,7 +339,8 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
     ass_path = None
     if fmt == "short":                                 # long videos burn captions per beat clip (step 3)
         ass_path = video.captions_ass(words, os.path.join(work, "captions.ass"), fmt,
-                                      hook_text=script.get("hook_text"), hook_secs=2.6)
+                                      hook_text=script.get("hook_text"), hook_secs=2.6,
+                                      end_text=script.get("end_text"))
 
     mood = script.get("music_mood", "chill")
     music_tracks = []

@@ -70,6 +70,21 @@ TITLE_STOPWORDS = {"what", "why", "how", "the", "and", "was", "were", "never", "
                    "boruto", "isn't", "wasn't", "didn't", "doesn't", "explained", "every", "really", "always"}
 
 
+# Search-first long titles: names that count as a searchable subject in the first 4 title words, on top of every
+# pronounce.json entry (English-spelled names like Shanks or Ace never need a pronounce entry).
+SEARCH_NAMES = {"one piece", "naruto", "boruto", "jjk", "jujutsu kaisen", "luffy", "zoro", "sanji", "nami", "usopp",
+                "robin", "franky", "brook", "chopper", "jinbe", "shanks", "ace", "sabo", "garp", "dragon", "buggy",
+                "blackbeard", "whitebeard", "roger", "rayleigh", "mihawk", "kaido", "big mom", "imu", "joy boy",
+                "law", "smoker", "koby", "crocodile", "doflamingo", "enel", "vegapunk", "bonney", "kuma", "loki",
+                "devil fruit", "devil fruits", "haki", "gear", "elbaf", "wano", "marineford", "gorosei", "itachi",
+                "sasuke", "kakashi", "minato", "jiraiya", "pain", "madara", "obito", "sakura", "hinata", "kawaki",
+                "gojo", "sukuna", "yuji", "megumi", "yuta", "eustass", "kid", "hashirama", "tobirama", "tsunade",
+                "orochimaru", "nagato", "kurama", "kushina", "garling", "god valley", "void century", "rocks",
+                "xebec", "akainu", "kizaru", "aokiji", "kuzan", "sengoku", "katakuri", "yamato", "oden", "hancock",
+                "gaban", "scopper", "kenjaku", "hakari", "maki", "todo", "domain expansion", "toji", "geto",
+                "nanami", "choso", "mahito", "every", "all", "each", "strongest"}
+
+
 def _banned_phrase_pattern(phrase):
     """Word-bounded, whitespace-flexible regex for one banned phrase. "remember " is handled separately
     (sentence-initial only), so it never reaches here as a generic pattern."""
@@ -601,8 +616,67 @@ def main():
                                f"pick a different character, event or angle")
                     break
 
+    # 11. A Short must not give away its long video (2026-10-26: Robin and Nagato longs, whose same-day Shorts
+    # repeated the long's title and thesis, got 14 and 5 views; Buggy's long, whose Shorts took side angles, got 946).
+    # The Short takes ONE side point of the long and leaves the long's main question open.
+    if fmt == "short" and p.get("related_long"):
+        parent = None
+        for sub in ["backlog", "queue", "done", "drafts"]:
+            fp = os.path.join(repo_dir, "scripts", sub, f"{p['related_long']}.json")
+            if os.path.exists(fp):
+                try:
+                    with open(fp, encoding="utf-8") as f:
+                        parent = json.load(f)
+                except Exception:
+                    pass
+                break
+        if parent:
+            pk, mk = _keys(parent.get("title", "")), _keys(p.get("title", ""))
+            if mk and pk and len(mk & pk) / len(mk | pk) >= 0.4:
+                err.append(f"Short title repeats its long video's title ('{parent.get('title')}'); a Short that answers "
+                           f"the long's question kills the long's clicks. Take one side point (WRITER.md, Shorts vs long)")
+            p_lines = [str(ln.get("text", "")) for ln in parent.get("lines", []) if isinstance(ln, dict)]
+            m1 = _keys(lines[0].get("text", "")) if lines and isinstance(lines[0], dict) else set()
+            for pl in p_lines[:3]:
+                k = _keys(pl)
+                if m1 and k and len(m1 & k) / len(m1 | k) >= 0.6:
+                    err.append("Short line 1 restates the long's cold open; open on the Short's own side point")
+                    break
+            for sib in glob.glob(os.path.join(repo_dir, "scripts", "*", f"{p['related_long']}s*.json")):
+                if os.path.realpath(sib) == canonical_self:
+                    continue
+                try:
+                    with open(sib, encoding="utf-8") as f:
+                        sk = _keys(json.load(f).get("title", ""))
+                except Exception:
+                    continue
+                if mk and sk and len(mk & sk) / len(mk | sk) >= 0.5:
+                    err.append(f"Short title is too close to its sibling {os.path.basename(sib)}; each Short gets a "
+                               f"different side point of the long")
+                    break
+        end_text = p.get("end_text")
+        if not isinstance(end_text, str) or not (2 <= len(end_text.split()) <= 6):
+            err.append("Shorts cut from a long need 'end_text' (2-6 words, the on-screen teaser for the long video "
+                       "shown over the last 3 s, e.g. 'WHY SHANKS REALLY CAME'); WRITER.md, Shorts -> long bridge")
+
+    # 12. Search-first long titles: long views come from the subscriber feed and related videos, almost none from
+    # search (362 of 15.7k views by 2026-10-26). The first 4 words carry a character or series a fan would type.
+    if fmt == "long":
+        names = set()
+        try:
+            with open(os.path.join(repo_dir, "pronounce.json"), encoding="utf-8") as f:
+                names = {k.lower() for k in json.load(f)}
+        except Exception:
+            pass
+        names |= SEARCH_NAMES
+        head = [w.strip("?!.,:'\"()").lower().removesuffix("'s") for w in title.split()[:4]]
+        head_text = " ".join(head)
+        if not any(w in names for w in head) and not any(n in head_text for n in names if " " in n):
+            err.append(f"long title '{title}' has no character or series name in its first 4 words; lead with what a "
+                       f"fan would search (WRITER.md, Titles: search first)")
+
     # One-line summary first
-    rate = 2.7 if fmt == "short" else 3.35      # long: speed 1.18 with tighter pauses, measured ~200 words a minute (2026-10-09-L: 2217 words, 11:03)
+    rate =2.7 if fmt == "short" else 3.35      # long: speed 1.18 with tighter pauses, measured ~200 words a minute (2026-10-09-L: 2217 words, 11:03)
     est_s = round(total_words / rate) if rate > 0 else 0
     print(f"{script_id} {fmt} {n_lines} lines, {total_words} words ~{est_s} s")
 

@@ -117,5 +117,6 @@
   "hook": "line 1 immediately sets the action (Akainu insulting Whitebeard), line 2 names the chapter to verify, lines 3-4 state the claim (Akainu aimed at Luffy, not Ace)",
   "loop": "last line leads back into line 1's setup ('Akainu insulted Whitebeard... and Akainu aimed past Ace to make sure'), matching the loop rule",
   "facts_verified": true
- }
+ },
+ "end_text": "WHY AKAINU CHASED ACE"
 }

@@ -217,7 +217,7 @@ def _ass_stamp(sec):
     return f"{h}:{m:02d}:{s_int:02d}.{cs:02d}"
 
 
-def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
+def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6, end_text=None, end_secs=3.0):
     os.makedirs(os.path.dirname(os.path.abspath(path)), exist_ok=True)
     is_short = fmt == "short"
     rx = 1080 if is_short else 1920
@@ -250,6 +250,20 @@ def captions_ass(words, path, fmt, hook_text=None, hook_secs=2.6):
         else:
             h_text = " ".join(h_words)
         lines.append(f"Dialogue: 1,0:00:00.00,{_ass_stamp(hook_secs)},Hook,,0,0,0,,{h_text}")
+
+    # Shorts -> long bridge: the last ~3 s name the long video at the top of the frame (where the hook sat), so the
+    # loop stays in the narration but a viewer who wants more knows the full video exists and what it answers.
+    if is_short and end_text and words:
+        e_words = end_text.upper().replace("{", "").replace("}", "").split()
+        if len(e_words) > 3:
+            mid = (len(e_words) + 1) // 2
+            e_text = " ".join(e_words[:mid]) + "\\N" + " ".join(e_words[mid:])
+        else:
+            e_text = " ".join(e_words)
+        last = words[-1][1]
+        start = max(hook_secs + 0.5, last - end_secs)
+        lines.append(f"Dialogue: 1,{_ass_stamp(start)},{_ass_stamp(last + 0.6)},Hook,,0,0,0,,"
+                     f"{{\\fs64\\c&H1ED2FF&}}FULL VIDEO ON THE CHANNEL{{\\r}}\\N{e_text}")
 
     if not words:
         with open(path, "w", encoding="utf-8") as f:

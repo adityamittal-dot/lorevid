@@ -31,7 +31,8 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    > Read WRITER.md once. Research from the wiki packs: `data/wiki/INDEX.md`, then `grep -n` the packs for the
    > facts and their [Ch. N] citations (WRITER.md section 4). Use **at most 4 WebSearch calls**, only for things newer
    > than the packs, and no WebFetch. Write the long JSON and notes with **one Write call each**, then each Short the same
-   > way, reusing the same research. Notes need Sources (3+ URLs from your searches), Angle, Self-review, and Fact
+   > way, reusing the same research. Each Short argues ONE side point of the long, never its headline answer, and
+   > carries `end_text` plus a bridge line (WRITER.md, "Shorts vs their long video"). Notes need Sources (3+ URLs from your searches), Angle, Self-review, and Fact
    > check (list each claim and the search result that supports it; drop any claim you couldn't support). Run
    > `python validate_script.py` on both and fix all errors in a single Edit per file. Don't touch pronounce.json or
    > any other file. Don't commit. Reply only with the IDs and "ok" or the remaining errors.

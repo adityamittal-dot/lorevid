@@ -143,6 +143,7 @@ Every script must match this schema exactly. `examples/short.json` is a complete
   "music_mood": "hype",
   "comment": "question posted as the first comment to spark replies",
   "related_long": null,
+  "end_text": "TEASER FOR THE LONG, 2-6 WORDS (Shorts with related_long only)",
   "pages": ["Roronoa Zoro", "Shepherd Sommers", "Elbaph Arc"],
   "lines": [
     {
@@ -169,6 +170,9 @@ Every script must match this schema exactly. `examples/short.json` is a complete
 - `wiki`: `"onepiece.fandom.com"`, `"naruto.fandom.com"`, or `"jujutsu-kaisen.fandom.com"`.
 - `music_mood`: `"hype"`, `"suspense"`, `"emotional"`, `"epic"`, or `"chill"`.
 - `related_long`: string ID (e.g. `"2026-09-28-L"`) for Shorts cut from a long video, else `null`.
+- `end_text`: required when `related_long` is set. 2-6 words shown over the Short's last 3 s under
+  "FULL VIDEO ON THE CHANNEL": the long's open question, never its answer (`WHY KUMA REALLY GAVE IT UP`). Both Shorts
+  of one long may share it. No death/violence words (it is on screen).
 - `chapters`: for long videos, at least 3 chapters, first line must be 0, line numbers strictly increasing; for shorts, use `[]`.
 - `thumbnail`: required for long videos; for shorts, use `null`.
 - `pages`: 2-5 exact wiki article titles (spaces, not underscores) the script is about. Every image on those articles
@@ -219,6 +223,34 @@ set `related_long` to the long's ID). Each is that long's single strongest momen
   payoff beat — not a trailer or a recap. Own hook, own payoff, own loop, and the loop rule above applies: its
   last line should lead into its own line 1, not repeat it. Its description and first comment link the full
   video (the pipeline adds this automatically; see section 7).
+
+### Shorts vs their long video (validator-enforced, 2026-10-26)
+Our long videos whose same-day Shorts repeated the long's title and thesis flopped: "Nico Robin Chose Blueno's Door
+On Purpose" (Short: "Robin Walked Through Blueno's Door On Purpose") got 14 views, Nagato's long got 5. Buggy's long,
+whose Shorts took side angles (the Chop-Chop sword immunity, Cross Guild's real brain), got 946. A Short that answers
+the long's question removes the reason to click the long.
+- **One side point, not the thesis.** Each Short takes ONE supporting scene, mechanic, or character beat from the
+  long and argues it fully. The long's headline question stays unanswered. The two Shorts of a long take different
+  side points. `validate_script.py` rejects a Short title sharing 40%+ of its key words with the long's title,
+  a line 1 that restates the long's cold open, or two sibling Shorts with near-identical titles.
+- **Bridge line.** Right after the payoff and before the loop line, one short line points at the bigger question the
+  Short didn't answer, in the narrator's voice, not as a call to action ("And that's only half of why Kuma did it.").
+  Never say "subscribe" or "check out my video".
+- **`end_text`** (required): the on-screen teaser for the long, shown over the last 3 s (schema above).
+- The description's first line and the first comment link the long automatically.
+
+### Subscriber conversion (Shorts)
+160k Shorts views had earned ~116 subscribers by 2026-10-26 (0.07%). Viewers subscribe to a *recurring thing*, not a single
+clip. Competitors who convert (Yeagerists, Joy Boy Theories) have recognisable recurring formats and a voice with
+opinions. So:
+- **Recurring formats with fixed names** in title or hook: "Every Straw Hat's ___ But One", "The ___ Nobody Noticed",
+  "Oda Planned This Since Chapter ___". Re-use a format that worked (see `data/performance.md` top rows).
+- **Take a side and own it in the first person** ("I honestly think...", "I can't figure out Nami's weakness, tell
+  me"). Joy Boy Theories' 260k Short ends on a genuine open question to the viewer; ours end on a loop. Use one
+  or the other per Short and alternate between them.
+- **Escalating list Shorts** (Yeagerists' 5.5M "I watched One Piece at 0.25x and found THIS"): 3-4 quick hidden
+  details, each with a chapter or episode, the biggest one saved for last and teased early ("the last one may reveal
+  the next Admiral"). Allowed up to 165 words, so keep each item to 1-2 lines.
 
 ### Cream Quality Bar (every Short must pass all of these)
 Our voice is synthetic, and fans scroll straight past AI-voice slop. The only way to stand out is writing that sounds like the smartest fan in the thread.
@@ -360,6 +392,27 @@ that video; push the others and say so in the summary. Record the final scores i
 
 ---
 
+## 6b. What Competitors Do That We Don't (research 2026-10-26)
+Recent uploads from the channels winning this niche, and what each one teaches:
+- **Yeagerists** (~1M views per long): broad-scope titles that cover a whole cast or series, not one scene: "How Each Emperor Crew
+  Works", "The Saddest Moment of Each One Piece Arc", "Top 15 Strongest Families Explained", "What If Roger Were Reborn
+  In Luffy's Era?" (1.4M). Their Shorts are superlative or list hooks: "This is the WORST devil fruit", "The most EVIL
+  character in One Piece", "4 Ways to Become Immortal".
+  **Lesson:** our long topics are too narrow ("Robin chose Blueno's door"). At least 1 long in 3 must be
+  a broad-scope format: `Every/All/Each ___ Explained`, `___ Ranked`, `The Entire Story of ___`, `___ In Every Arc`.
+- **Strawhatists** (100k-460k on What Ifs): a What If walks the story *in order, arc by arc* (Foosha → Ace and Sabo → East Blue
+  → Alabasta → Skypiea ...), with each arc changed by the one difference, and ends on a twist: the change makes things
+  worse. The viewer keeps watching to see the next arc. Our What Ifs argued abstractly and held 8-14%. **Lesson:** every
+  What If long uses the chronological arc-walk spine and names the arc in each chapter title.
+- **GrandLineReview** (140k-420k): chapter-number reactions within days of release ("Sanji Is Absolutely TERRIFYING!
+  (1196+)"), Oda-quote hooks ("Oda: 'Kaido Was a Mistake'", 152k as a Short), one emotional ALL-CAPS word.
+  **Lesson:** when a new chapter drops, the next free long or Short slot is a chapter reaction with the number in the
+  title (still no leaks), and an SBS/interview quote from Oda is a top Short hook.
+- **Joy Boy Theories / Zhoniin**: Shorts at 190-285 words (60-90 s) do fine when they are a list or a story. Long
+  Zhoniin chapter breakdowns run 8 min and get 80k+. Their voice is personal and opinionated ("IMO", "I honestly think").
+- **What they never do:** restate the long video's thesis in a Short, or open with a flat statement of a
+  minor plot detail.
+
 ## 7. Titles, Metadata, and Visual Sourcing
 
 ### Titles & Metadata
@@ -368,6 +421,9 @@ that video; push the others and say so in the summary. Record the final scores i
 - **Search first (long videos).** Our long videos get almost no search or home-page traffic (2026-10-16: 89 search
   views of 5.5k). Put the phrase a fan would type in the first 3-4 words (`Imu`, `Mihawk's Haki`, `Gear 5`,
   `Uchiha Massacre`), then the curiosity. Tags and the description's first sentence repeat that phrase.
+- **Search-first is enforced for long titles**: `validate_script.py` rejects a long title with no character, series
+  or searchable topic (`Devil Fruit`, `Haki`, `Void Century`, `Every`/`All`/`Strongest`) in the first 4 words. Lead with
+  what fans type: `Kuma's Sacrifice For Bonney Explained`, not `The Man Who Gave Up His Mind`.
 - **Long Titles**: <= 70 characters. What If: copy the proven pattern exactly, `What If <Character> <One Change>?`
   (`What If Zoro Was Executed?`, `What If Luffy Was Raised By Joy Boy?`). Theory: 2-6 punchy words, a statement, optional
   chapter tag (`Imu is a PARROT!`, `The Rules Just Changed... (1194)`). At most one ALL-CAPS word.
