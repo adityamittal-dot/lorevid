@@ -64,3 +64,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Shanks Let Blackbeard Walk Away From Marineford (https://youtu.be/Y6tWyxvhYo0) -> related video: Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new)
 - [ ] Shanks Stopped Marineford One Day Before It Started (https://youtu.be/Oqhcl3s2Meg) -> related video: Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new)
 - [ ] Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA) -> thumbnail B saved at output/2026-10-27-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Minato Rejected Kushina's Plan To End The Nine-Tails (https://youtu.be/1_XG34a4vGw) -> related video: Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA)
