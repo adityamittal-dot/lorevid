@@ -1,6 +1,6 @@
 # Kawaki
 
-Source: https://naruto.fandom.com/wiki/Kawaki (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Kawaki (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 is a boy who was originally raised by Kara, who experimented on him for years with plans of making him the perfect vessel of Isshiki Ōtsutsuki. He is eventually rescued by Konohagakure and adopted into the family of Naruto Uzumaki. His love for Naruto and his hatred for the Ōtsutsuki Clan ultimately leads to accidentally switching lives with his adoptive brother, Boruto, causing most of the world to think of him as .
 

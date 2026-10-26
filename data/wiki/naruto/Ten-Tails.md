@@ -1,6 +1,6 @@
 # Ten-Tails
 
-Source: https://naruto.fandom.com/wiki/Ten-Tails (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Ten-Tails (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 This  is the Tailed Beast incarnation of the God Tree previously cultivated by Isshiki Ōtsutsuki and Kaguya Ōtsutsuki; the latter having eaten its chakra fruit and later merged with the God Tree in a battle against her sons, Hagoromo and Hamura. It is regarded as the progenitor of chakra according to legend, and is tied to the tale of the Sage of Six Paths and the birth of shinobi. To end the beast's rampage, the Sage became the Ten-Tails' jinchūriki and later split its chakra into the nine tailed beasts to prevent it from causing further harm. Centuries later, its revival became the objective of Madara and Obito Uchiha, who both sought to become the beast's jinchūriki in order to further their objectives.
 

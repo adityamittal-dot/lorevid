@@ -1,6 +1,6 @@
 # Elbaph
 
-Source: https://onepiece.fandom.com/wiki/Elbaph (fetched 2026-10-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Elbaph (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 :The subject of this article is also called Elbaf.
 Elbaph [Ch. 1130] is a nation in the New World that is inhabited by giants, and is unaffiliated with the World Government. [Ch. 1135] Officially, Elbaph Island contains the Warland Kingdom, but the nation is commonly referred to by the general term "Elbaph". [Ch. 1132, Ep. 1162]

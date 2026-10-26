@@ -102,7 +102,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Sabo.md` | 60k | 118 |
 | onepiece | `data/wiki/onepiece/Sakazuki.md` | 60k | 184 |
 | onepiece | `data/wiki/onepiece/Sanji.md` | 11k | 31 |
-| onepiece | `data/wiki/onepiece/Scopper_Gaban.md` | 43k | 87 |
+| onepiece | `data/wiki/onepiece/Scopper_Gaban.md` | 44k | 87 |
 | onepiece | `data/wiki/onepiece/Shanks.md` | 53k | 214 |
 | onepiece | `data/wiki/onepiece/Shepherd_Sommers.md` | 24k | 49 |
 | onepiece | `data/wiki/onepiece/Shirahoshi.md` | 37k | 131 |
