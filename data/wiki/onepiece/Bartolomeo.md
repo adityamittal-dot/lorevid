@@ -1,6 +1,6 @@
 # Bartolomeo
 
-Source: https://onepiece.fandom.com/wiki/Bartolomeo (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Bartolomeo (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Bartolomeo the Cannibal [Ch. 706] is a Super Rookie, the captain of the Barto Club and the captain of the second ship of the Straw Hat Grand Fleet.
 Formerly a mob boss from the East Blue, Bartolomeo was inspired to become a pirate after witnessing Monkey D. Luffy's failed execution in Loguetown. He encountered Luffy on Dressrosa two years later while competing as a gladiator in the Corrida Colosseum, [Ch. 704, Ep. 633] and assisted the Straw Hat Pirates in overthrowing Donquixote Doflamingo. His status is currently unknown after he and his crew were sunk by the Red Hair Pirates. [Ch. 1126, Ep. 1156]

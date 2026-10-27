@@ -1,6 +1,6 @@
 # Eustass Kid
 
-Source: https://onepiece.fandom.com/wiki/Eustass_Kid (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Eustass_Kid (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Eustass "Captain" Kid [Ch. 594, Ep. 511] is a notorious pirate from the South Blue and the captain of the Kid Pirates. He is one of twelve pirates who are referred to as the "Worst Generation". [Ch. 664, Ep. 589]
 Kid first appeared at the Sabaody Archipelago at the same time Monkey D. Luffy and his crew arrived. Both were described as members of the "Eleven Supernovas", pirates who had congregated on the island who all had a bounty of more than 100,000,000. After briefly fighting alongside Luffy while escaping an attack by the Marines, he fled the archipelago and would later spectate the Summit War of Marineford alongside the other Supernovas.

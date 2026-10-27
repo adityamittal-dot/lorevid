@@ -1,6 +1,6 @@
 # Smoker
 
-Source: https://onepiece.fandom.com/wiki/Smoker (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Smoker (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Smoker the White Hunter is a Marine vice-admiral and the commander of G-5 Branch's Unit 01, as well as the overall Base Commander of the G-5 Marine base.
 Originally a ranking captain in Loguetown, Smoker became fixated on Monkey D. Luffy's Straw Hat Pirates for escaping his previously-unbroken authority, and—with his loyal subordinate Tashigi—quit his post to pursue them into the Grand Line. Since then, he has battled the Straw Hats repeatedly, in addition to many larger threats that won him new recognition and promotion through the Marine Ranks. [Ch. 212, Ep. 127]

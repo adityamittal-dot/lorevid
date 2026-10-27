@@ -1,6 +1,6 @@
 # Joy Boy
 
-Source: https://onepiece.fandom.com/wiki/Joy_Boy (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Joy_Boy (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Joy Boy was a man from the Great Kingdom born 900 years ago at the start of the Void Century, as well as the first pirate in history. An extremely relevant figure in the Void Century, Joy Boy was a chief opponent of the alliance that would eventually become the World Government in the Great War. He played an important role in the history of Fish-Man Island and left behind a vast treasure on the last island of the Grand Line, thus becoming a legendary figure in the world.
 Joy Boy's Devil Fruit allowed him to transform into the legendary "Sun God" Nika, causing him to become a key part of the figure's mythos. Following his death, this Devil Fruit eluded capture for eight centuries until being consumed by Monkey D. Luffy. When Luffy awakened the fruit 12 years later, Zunesha proclaimed that Joy Boy had returned. [Ch. 1044, Ep. 1071] In this form, Luffy has been given the "Joy Boy" moniker by Emet and Nerona Imu, who both personally knew the original man. [Ch. 1122, Ep. 1153] [Ch. 1125, Ep. 1155]

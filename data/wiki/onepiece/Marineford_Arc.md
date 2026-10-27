@@ -1,6 +1,6 @@
 # Marineford Arc
 
-Source: https://onepiece.fandom.com/wiki/Marineford_Arc (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Marineford_Arc (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Marineford Arc is the 22nd story arc of the manga and anime One Piece, and the fourth story arc of the Summit War Saga.
 Having failed to reach Ace before he was transferred, Luffy and his companions escape from Impel Down and travel to Marineford, the base of Marine Headquarters. With the odds stacked high against him, the imminent threat of Whitebeard, and the ulterior motives of pirates that wish to overthrow the Emperor, Luffy struggles to hold his own in this titanic clash of powers.

@@ -1,6 +1,6 @@
 # Nefertari D. Lili
 
-Source: https://onepiece.fandom.com/wiki/Nefertari_D._Lili (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Nefertari_D._Lili (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Nefertari D. Lili was the queen of the Arabasta Kingdom during the time of the Void Century, being one of the twenty monarchs credited with the founding of the World Government. However, Lili was the only one who chose not to become a World Noble and move to Mary Geoise; but before she could return to her home country, she mysteriously vanished. Aside from that, little is known about her except that she had a younger brother who succeeded her as the ruler of Arabasta in her absence.
 Lili is the earliest known carrier of the Will of D., being supposedly the main individual responsible for the presence of the poneglyphs around the world. For this reason, her actions could be considered a major driving force of the overall plot of the series.

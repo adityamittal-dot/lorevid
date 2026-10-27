@@ -1,6 +1,6 @@
 # Minato Namikaze
 
-Source: https://naruto.fandom.com/wiki/Minato_Namikaze (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Minato_Namikaze (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 was the  of Konohagakure. He was renowned and feared all over the world, across multiple nations as . He died during the Nine-Tailed Demon Fox's Attack, sacrificing his life to seal a half of the Nine-Tails into himself and the other half into his newborn son, Naruto Uzumaki.
 

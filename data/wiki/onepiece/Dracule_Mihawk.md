@@ -1,6 +1,6 @@
 # Dracule Mihawk
 
-Source: https://onepiece.fandom.com/wiki/Dracule_Mihawk (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Dracule_Mihawk (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Dracule "Hawk Eyes" Mihawk is a world-famous pirate currently recognized as the strongest swordsman in the world.
 Known as the "Marine Hunter" in his early career, Mihawk stood as one of the Seven Warlords of the Sea (the first to be revealed and formally introduced) until the group's dissolution, and was for a time the sole human resident of Kuraigana Island. Since then, he has become a founding executive of the Cross Guild, alongside fellow ex-Warlord Crocodile. [Ch. 1058, Ep. 1086]

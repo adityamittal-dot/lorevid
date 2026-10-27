@@ -1,6 +1,6 @@
 # Shibuya Incident Arc
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident_Arc (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident_Arc (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Shibuya Incident Arc is the sixth arc in Gege Akutami's Jujutsu Kaisen. It follows the entirety of the Shibuya Incident on October 31, 2018, when the alliance between cursed spirits and curse users forged by Mahito and Pseudo-Geto finally makes their move to seal Satoru Gojo.
 

@@ -1,6 +1,6 @@
 # Haki
 
-Source: https://onepiece.fandom.com/wiki/Haki (fetched 2026-10-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Haki (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Haki is a mysterious power that allows individuals to harness their own spiritual energy for various superhuman feats. As this energy manifests from willpower, it is theoretically accessible to all living creatures in the world; the vast majority, however, are unable to use it, either because they are unaware of its existence or due to lack of adequate training to achieve mastery. Haki users are common in the New World, rare in Paradise, and virtually non-existent in the four Blues.
 Current understandings of Haki define three distinct types, each tied to a different ability: sensing others' spiritual energy to anticipate their movements, producing a protective coating of energy from one's own body, and—for a certain group of "chosen ones"—overwhelming the willpower of others. [Ch. 519, Ep. 413] [Ch. 597, Ep. 516]
