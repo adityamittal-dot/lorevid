@@ -68,3 +68,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Naruto's Childhood Pranks Were Never About Being Funny (https://youtu.be/n7KaUIZXZvA) -> related video: Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA)
 - [ ] Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q) -> thumbnail B saved at output/2026-10-28-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Kuma's Shutdown Command Failed Because Of Bonney (https://youtu.be/29qqOgaGA50) -> related video: Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q)
+- [ ] Kuma's Devil Fruit Already Explained His Choice (https://youtu.be/PsHeDl5oOjc) -> related video: Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q)
