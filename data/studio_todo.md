@@ -71,3 +71,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Kuma's Devil Fruit Already Explained His Choice (https://youtu.be/PsHeDl5oOjc) -> related video: Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q)
 - [ ] Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y) -> thumbnail B saved at output/2026-10-29-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Doflamingo's Birdcage Trapped Himself, Not His Enemies (https://youtu.be/VSG3Bv8w4HQ) -> related video: Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y)
+- [ ] Law Let Doflamingo Capture Him On Purpose (https://youtu.be/NlB4WvST-O8) -> related video: Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y)
