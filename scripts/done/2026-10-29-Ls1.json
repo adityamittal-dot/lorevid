@@ -1,0 +1,152 @@
+{
+  "id": "2026-10-29-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "The Birdcage was built to trap Doflamingo's enemies, but it ends up exposing him instead",
+  "title": "Doflamingo's Birdcage Trapped Himself, Not His Enemies",
+  "description": "Doflamingo built the Birdcage to trap his enemies on Dressrosa, but it ends up trapping him inside a city that already knows his secret. Here's why his own technique backfires. Was the Birdcage ever really about the enemies, or himself?",
+  "hashtags": [
+    "#onepiece",
+    "#doflamingo",
+    "#dressrosa"
+  ],
+  "tags": [
+    "one piece theory",
+    "doflamingo",
+    "birdcage one piece",
+    "dressrosa arc",
+    "fujitora",
+    "sabo one piece",
+    "one piece analysis",
+    "donquixote doflamingo",
+    "one piece dressrosa"
+  ],
+  "hook_text": "HIS OWN TRAP",
+  "music_mood": "suspense",
+  "comment": "Does the Birdcage prove Doflamingo panicked, or was exposing his own lie always the risk he had to take? Pick one.",
+  "related_long": "2026-10-29-L",
+  "pages": [
+    "Donquixote Doflamingo",
+    "Dressrosa Arc",
+    "Fujitora"
+  ],
+  "lines": [
+    {
+      "text": "Doflamingo built the Birdcage to trap his enemies. It trapped him instead.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Doflamingo Birdcage Dressrosa technique",
+        "fallback": "pirate king summoning a cage of strings"
+      }
+    },
+    {
+      "text": "He sealed off all of Dressrosa so nobody could leave and no help could get in.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Birdcage walls Dressrosa island sealed",
+        "fallback": "giant cage of strings around an island"
+      }
+    },
+    {
+      "text": "So why did his own cage end up proving every lie he'd ever told?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo Dressrosa citizens lie",
+        "fallback": "crowd realizing a hidden lie"
+      }
+    },
+    {
+      "text": "The second it goes up, Doflamingo announces a twisted game to his own citizens.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo announcing game citizens Dressrosa",
+        "fallback": "king addressing a terrified crowd"
+      }
+    },
+    {
+      "text": "Take him down, or hand over his enemies for a reward, he tells them.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo bounty citizens Dressrosa reward",
+        "fallback": "wanted posters appearing across a city"
+      }
+    },
+    {
+      "text": "But most of those citizens just got their memories back from ten years as living toys.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dressrosa citizens toys memories returning",
+        "fallback": "toys transforming back into people"
+      }
+    },
+    {
+      "text": "And every one of them now remembers exactly who framed their king.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Dressrosa citizens remembering Riku framed",
+        "fallback": "crowd remembering a king's innocence"
+      }
+    },
+    {
+      "text": "Fujitora, the Admiral standing right next to him, starts doubting every word Doflamingo says.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Fujitora doubting Doflamingo Dressrosa",
+        "fallback": "admiral growing suspicious of an ally"
+      }
+    },
+    {
+      "text": "Sabo fights an Admiral to a standstill just to buy time to reach that palace.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Sabo fighting Fujitora standstill Dressrosa",
+        "fallback": "fighter holding off a powerful admiral"
+      }
+    },
+    {
+      "text": "The cage built to trap an island ends up trapping only the truth, right next to him.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Doflamingo trapped Birdcage truth Dressrosa",
+        "fallback": "tyrant trapped inside his own creation"
+      }
+    },
+    {
+      "text": "Because Doflamingo built that cage to trap his enemies...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo Birdcage Dressrosa technique",
+        "fallback": "pirate king summoning a cage of strings"
+      }
+    }
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Dressrosa_Arc",
+    "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo"
+  ],
+  "self_check": {
+    "hook": "line 1 states the claim (Birdcage trapping Doflamingo himself) in the first 2 seconds",
+    "loop": "last line restates the setup and leads straight into line 1's payoff",
+    "facts_verified": true
+  },
+  "end_text": "HOW LAW REALLY WON DRESSROSA",
+  "published": {
+    "video_id": "VSG3Bv8w4HQ",
+    "publish_at": "2026-10-30T14:30:00Z",
+    "url": "https://youtu.be/VSG3Bv8w4HQ",
+    "comment": "Does the Birdcage prove Doflamingo panicked, or was exposing his own lie always the risk he had to take? Pick one.\nhttps://youtu.be/Dld4uNlYq-Y",
+    "comment_posted": false
+  }
+}
