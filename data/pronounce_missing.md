@@ -141,3 +141,7 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Nikyu (2026-10-28-L)
 - Rosward (2026-10-28-L)
 - Sentomaru (2026-10-28-L)
+- Giolla (2026-10-29-L)
+- Kaidou (2026-10-29-L)
+- Kyros (2026-10-29-L)
+- Riku (2026-10-29-L)
