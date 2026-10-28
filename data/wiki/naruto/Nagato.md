@@ -1,6 +1,6 @@
 # Nagato
 
-Source: https://naruto.fandom.com/wiki/Nagato (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Nagato (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 was a shinobi of Amegakure and descendant of the Uzumaki clan. Forming Akatsuki alongside his friends (and fellow war orphans) Yahiko and Konan, Nagato dreamed of bringing peace to the violent shinobi world. However, following Yahiko's death, Nagato adopted the alias of  and, along with Konan, began leading the Akatsuki — an organisation that would force the world into peace using any means necessary.
 

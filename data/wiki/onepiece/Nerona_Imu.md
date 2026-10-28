@@ -1,6 +1,6 @@
 # Nerona Imu
 
-Source: https://onepiece.fandom.com/wiki/Nerona_Imu (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Nerona_Imu (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Saint Nerona Imu [Ch. 1187] is the King of the World who occupies the Empty Throne, giving him sole authority over the entirety of the World Government. [Ch. 908, Ep. 889] One of the First Twenty responsible for the creation of the World Government and the only one alive today, his status has been kept an absolute secret from the world at large for over 800 years since the Void Century. [Ch. 1085, Ep. 1119]
 With the ambition of finally bringing the Great War to a decisive conclusion, Imu directed his subordinates the Five Elders to procure Dr. Vegapunk's invention, the Mother Flame, [Ch. 1086, Ep. 1120] and ordered the Knights of God to annex Elbaph in an invasion that he eventually personally participated in. [Ch. 1137]

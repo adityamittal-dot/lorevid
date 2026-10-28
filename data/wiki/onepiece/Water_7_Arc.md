@@ -1,6 +1,6 @@
 # Water 7 Arc
 
-Source: https://onepiece.fandom.com/wiki/Water_7_Arc (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Water_7_Arc (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Water 7 Arc is the 15th story arc of the manga and anime One Piece, and the second story arc of the Water 7 Saga.
 The Straw Hats arrive at the oceanic metropolis of Water 7 to find a shipwright who can repair the Going Merry, as well as potentially join their crew. They soon become targeted by the Franky Family, the city's underground gang, and become involved in a plot within the Galley-La Company. Between the disappearance of Robin and a schism that develops between Luffy and Usopp, the crew begins to fall apart.

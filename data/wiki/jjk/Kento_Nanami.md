@@ -1,6 +1,6 @@
 # Kento Nanami
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Kento Nanami is a major supporting character in Jujutsu Kaisen. He was a former student of Tokyo Jujutsu High where he was an underclassman of Satoru Gojo and Suguru Geto. Nanami initially left Jujutsu High after graduating to become a salaryman, but returned four years later to continue working as a jujutsu sorcerer.
 While working as a Jujutsu High sorcerer, Nanami was ranked grade 1 and operated primarily out of the Tokyo campus. With Satoru's introduction, he also became a close mentor to Yuji Itadori.

@@ -1,6 +1,6 @@
 # God Valley Incident
 
-Source: https://onepiece.fandom.com/wiki/God_Valley_Incident (fetched 2026-10-27). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/God_Valley_Incident (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The God Valley Incident was a large-scale genocide and battle that took place on the island of God Valley 38 years ago. Initially, it was a standard Native Hunting Competition where the World Nobles slaughtered innocent civilians living on the island that also doubled as a purge against the Davy Family, a personal nemesis of the World Government.
 However, the event devolved into chaos due to the arrival of the Rocks Pirates and Roger Pirates, who came to the island to rescue their loved ones from being killed and/or enslaved. The shadowy King of the World and creator of the World Government, Nerona Imu, intervened in the conflict by possessing Jaygarcia Saturn of the Five Elders, and with the efforts of the Rocks Pirates, Roger Pirates, and Vice Admiral Monkey D. Garp, they simultaneously attacked this figure. However, Imu then transformed Rocks into a demon, forcing Roger and Garp to team up to stop him. This ultimately led to the death of Rocks and disbandment of his crew.
