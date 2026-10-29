@@ -1,6 +1,6 @@
 # Impel Down Arc
 
-Source: https://onepiece.fandom.com/wiki/Impel_Down_Arc (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Impel_Down_Arc (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Impel Down Arc is the 21st story arc of the manga and anime One Piece, and the third story arc of the Summit War Saga.
 Luffy puts finding his crew on hold in favor of rescuing his brother Ace from the underwater prison Impel Down. With Boa Hancock's help, he manages to infiltrate the facility. However, fulfilling his objective and escaping the hellish prison might be easier said than done.

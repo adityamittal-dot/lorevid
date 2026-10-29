@@ -1,6 +1,6 @@
 # Monkey D. Dragon
 
-Source: https://onepiece.fandom.com/wiki/Monkey_D._Dragon (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Monkey_D._Dragon (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Monkey D. Dragon, also known as the "Rebellious Dragon", is the supreme commander and founder of the Revolutionary Army (originally the Freedom Fighters). A former Marine, his disgust with the organization's actions in the God Valley Incident, and its brutality in the Ohara Incident led to him forming the Revolutionary Army to oppose the World Government in its entirety. Having campaigned toward its downfall for over thirty years, he is labeled the "World's Worst Criminal".
 Dragon is the father of Monkey D. Luffy and the son of Monkey D. Garp, and likewise was born and raised in the Goa Kingdom. He was also responsible for saving Sabo's life after a World Noble attack, eventually raising the boy into his second-in-command.

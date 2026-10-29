@@ -1,6 +1,6 @@
 # Buggy
 
-Source: https://onepiece.fandom.com/wiki/Buggy (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Buggy (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Buggy the Star Clown is the nominal president of Cross Guild, and one of the current Four Emperors dominating the New World. [Ch. 1058, Ep. 1086]
 Initially a Roger Pirates apprentice alongside Shanks, Buggy succeeded his disbanded mentors as a career pirate in the East Blue, in time becoming captain of the Buggy Pirates. One of the earliest enemies defeated by Monkey D. Luffy and the Straw Hat Pirates, revenge drove him to an alliance with "Iron Mace" Alvida and pursuit into the Grand Line. Since then, his fortunes have constantly, dramatically revolved: from imprisonment in Impel Down to entanglement in its first mass-breakout and the subsequent Summit War of Marineford, his escalating infamy won him entry to the Seven Warlords of the Sea, allowing him to launch the pirate mercenary organization Buggy's Delivery.
@@ -191,9 +191,9 @@ Buggy and Alvida comment on Luffy's actions in anime, and Buggy imagines that Ra
 During the flashback of Oden and the Roger Pirates before the start of the Third Act, Buggy's outfit is changed, being like the clothes he wore during the three-day confrontation against the Whitebeard Pirates a year earlier, but with a purple sash around his waist.
 
 #### Live-Action Differences
-Instead of driving the citizens out Orange Town and leaving the town intact, Buggy made them a captive audience in a big circus tent and destroyed Orange Town. After Buggy was defeated in Orange Town, he was captured by the Arlong Pirates who forced him to assist in tracking down Luffy.
-When The Straw Hats invaded Arlong Park he got his body back and fled.
-When Luffy got his first bounty, Buggy was as at a bar looking at the bounty poster and swore revenge. Then he met Alvida at the same bar.
+In the live-action series, Buggy is depicted as having taken Orange Town's citizens as a captive audience in a large circus tent, having destroying the town rather than forcing them to flee. He also is looking for the Grand Line map and captures the Straw Hat Pirates after learning they stole it from the 153rd Branch. Buggy attempts to torture Luffy for the location of the map, retrieving it after trying to drown him in seawater. Flashbacks of Buggy eating the Bara Bara no Mi are cut.
+After Buggy's defeat, he is shown retrieving his body parts from Orange Town, during which he is captured by the Arlong Pirates. Arlong forces Buggy to assist them in tracking down Luffy. Having planted an ear in Luffy's Straw Hat, Buggy leads them to Baratie, who take his head and leave his body in Arlong Park. Left behind at Baratie, Luffy makes an alliance with Buggy to lead them to Arlong Park in return for retrieving his body. Buggy flees the battle after being released by Sanji and Zoro. He is later shown viewing Luffy's first bounty at a bar and is approached by Alvida there, rather than whilst leaving the Island of Rare Animals.
+Buggy reunites with his crew off-screen. Rather than ambushing Luffy at the top of the execution platform, Buggy and Alvida hide themselves in amusements set up for "Victory Day", using seastone cuffs to restrain him rather than stocks. Buggy is subdued when he is struck by the lightning and indicated to have been captured off-screen by Smoker.
 
 #### Other Media
 *Buggy is one of the primary antagonists of One Piece Premier Show 2007 after he allies with Deacon to defeat the Straw Hat Pirates and find the treasure hidden beneath Atoll. A clone of Buggy is created by Bildy in Premier Show 2014 to fight the Straw Hat Pirates under the DX Marines. Buggy also acts as a secondary antagonist in One Piece Premier Show 2018 when the Bounties Pirates hire Buggy's Delivery to help them kill the kings of Levely.

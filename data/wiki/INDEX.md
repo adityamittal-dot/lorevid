@@ -50,7 +50,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Bartolomeo.md` | 48k | 132 |
 | onepiece | `data/wiki/onepiece/Borsalino.md` | 60k | 185 |
 | onepiece | `data/wiki/onepiece/Brook.md` | 7k | 6 |
-| onepiece | `data/wiki/onepiece/Buggy.md` | 50k | 164 |
+| onepiece | `data/wiki/onepiece/Buggy.md` | 51k | 164 |
 | onepiece | `data/wiki/onepiece/Charlotte_Katakuri.md` | 49k | 166 |
 | onepiece | `data/wiki/onepiece/Charlotte_Linlin.md` | 8k | 64 |
 | onepiece | `data/wiki/onepiece/Crocodile.md` | 45k | 155 |

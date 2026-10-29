@@ -1,6 +1,6 @@
 # Wano Country Arc
 
-Source: https://onepiece.fandom.com/wiki/Wano_Country_Arc (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Wano_Country_Arc (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Wano Country Arc is the 31st story arc of the manga and anime One Piece, both the first and only story arc of the Wano Country Saga, and the eighth story arc of the second half of the series.
 The Ninja-Pirate-Mink-Samurai Alliance gather their forces in Wano Country and prepare for their inevitable clash against the Beasts Pirates. The history of Kouzuki Oden and his ties to Wano Country, Whitebeard and Gol D. Roger are revealed, and the Alliance assaults Onigashima to take down the allied forces of Kaidou and Big Mom once and for all. The resulting battle, as well as the events during the recent Levely, cause the world to go through dramatic changes.

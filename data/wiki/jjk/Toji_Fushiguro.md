@@ -1,6 +1,6 @@
 # Toji Fushiguro
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Toji Fushiguro, né Toji Zenin, is a recurring character in the Jujutsu Kaisen series and the primary antagonist of the Gojo's Past Arc, as well as a minor antagonist in the Shibuya Incident Arc. He was a former member of the Zenin Clan and an infamous assassin known as the [[Jujutsu Sorcerer, [Ch. 67, Ep. 26] contracted by the Time Vessel Association among other groups throughout his time as a non-curse user. He was also Megumi Fushiguro's father and an enemy of Satoru Gojo.
 

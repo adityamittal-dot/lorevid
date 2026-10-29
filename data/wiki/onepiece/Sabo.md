@@ -1,6 +1,6 @@
 # Sabo
 
-Source: https://onepiece.fandom.com/wiki/Sabo (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Sabo (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 "Flame Emperor" Sabo is the Revolutionary Army's chief of staff, recognized as the No. 2 of the entire organization under Supreme Commander Monkey D. Dragon. He is also the sworn brother of the notorious pirates Monkey D. Luffy and the late Portgas D. Ace. [Ch. 585, Ep. 496]
 Raised in nobility by his parents Outlook III and Didit in the Goa Kingdom, Sabo ran away and met Ace and Luffy while living as a vagabond in Gray Terminal. He tried to set sail just a few months afterward to get away from his family, but had his ship destroyed by the World Noble Saint Jalmack. [Ch. 588, Ep. 502] He was saved by Dragon but lost his memory in the process, and so devoted his life to the service of the Revolutionary Army. However, his memories would return 10 years later after hearing about Ace's death. [Ch. 794, Ep. 737] Two years after regaining his memories, Sabo would reunite with Luffy and also carry Ace's legacy by consuming his Devil Fruit, the Mera Mera no Mi. [Ch. 731, Ep. 663] After storming the Holy Land during the most recent Levely with several other commanders of the Revolutionary Army, Sabo was framed for the assassination of Nefertari Cobra, increasing his notoriety across the world and sparking several rebellions.

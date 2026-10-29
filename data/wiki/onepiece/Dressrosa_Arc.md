@@ -1,6 +1,6 @@
 # Dressrosa Arc
 
-Source: https://onepiece.fandom.com/wiki/Dressrosa_Arc (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Dressrosa_Arc (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Dressrosa Arc is the 27th story arc of the manga and anime One Piece, both the second and last story arc of the Dressrosa Saga, and the fourth story arc of the second half of the series.
 The Straw Hat Pirates and Trafalgar Law, together with Kin'emon, Momonosuke and the captured Caesar Clown, travel to Dressrosa with the goal of taking down the nation's king, Warlord of the Sea Donquixote Doflamingo. However, they soon set into motion a series of world-changing events, as their actions interact unexpectedly with those of larger forces at play.

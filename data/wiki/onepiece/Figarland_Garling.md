@@ -1,6 +1,6 @@
 # Figarland Garling
 
-Source: https://onepiece.fandom.com/wiki/Figarland_Garling (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Figarland_Garling (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Saint Figarland Garling [Ch. 1125, Ep. 1155] is one of the Five Elders who publicly head the World Government, holding the title Warrior God of Science and Defense; prior to this, he held the position of Supreme Commander of the Knights of God. A World Noble who hails from the Figarland Family, Garling is the biological father of Knights commander Shamrock, [Ch. 1137] as well as the pirate Shanks of the Four Emperors. [Ch. 1138]
 Garling became the "champion" of God Valley during the battle that took place there 38 years ago. After the Egghead Incident, Garling was named an Elder to succeed Jaygarcia Saturn.

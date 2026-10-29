@@ -1,6 +1,6 @@
 # Rinnegan
 
-Source: https://naruto.fandom.com/wiki/Rinnegan (fetched 2026-10-28). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Rinnegan (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The  is reputed as the most exalted eye amongst the "Three Great Dōjutsu", [Naruto Ch. 373] the others being the Sharingan and the Byakugan, and the strongest dōjutsu. It is said that in times of disorder, one who wields the Rinnegan is sent down from the heavens to become either a "God of Creation" who will calm the world or a "God of Destruction" who will reduce everything to nothingness. The Rinnegan is characterised by concentric circles covering the eyeball.
 
