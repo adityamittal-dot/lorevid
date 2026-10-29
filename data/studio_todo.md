@@ -74,3 +74,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Law Let Doflamingo Capture Him On Purpose (https://youtu.be/NlB4WvST-O8) -> related video: Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y)
 - [ ] What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q) -> thumbnail B saved at output/2026-10-30-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Yamato's War With Kaidou Is Built On One Page (https://youtu.be/xVVkHxSvJmw) -> related video: What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q)
+- [ ] Momonosuke Already Refused Oden's Final Wish (https://youtu.be/6QTbdrERUMo) -> related video: What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q)
