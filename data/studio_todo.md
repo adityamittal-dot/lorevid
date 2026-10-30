@@ -77,3 +77,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Momonosuke Already Refused Oden's Final Wish (https://youtu.be/6QTbdrERUMo) -> related video: What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q)
 - [ ] Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA) -> thumbnail B saved at output/2026-10-31-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Nanami's One Edge On Mahito Was Gone By Shibuya (https://youtu.be/Yk3z3kRiFFw) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
+- [ ] Nanami's Rule For Sorcerers Came From One Loss (https://youtu.be/I93yqVdzBZ4) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
