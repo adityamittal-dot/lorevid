@@ -1,6 +1,6 @@
 # Kouzuki Oden
 
-Source: https://onepiece.fandom.com/wiki/Kouzuki_Oden (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Kouzuki_Oden (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Kouzuki Oden was the daimyo of Kuri in Wano Country and the son of the former shogun Kouzuki Sukiyaki, being a member of the Kouzuki Family. He was the husband of Kouzuki Toki and the father of Momonosuke and Hiyori. Additionally, he was the leader of a group of legendary and powerful samurai known as the Nine Red Scabbards, with all of them serving as his retainers and most trusted allies.
 For 5 years of his life, Oden set out to sea and became a pirate, serving as the 2nd division commander of the Whitebeard Pirates [Ch. 957, Ep. 958] and later becoming a member of the Roger Pirates. After finding Joy Boy's treasure on Laugh Tale, Oden journeyed home and made it his goal to open Wano's borders to the world by finally taking his father's place as shogun. [Ch. 968, Ep. 969] However, he met opposition from his usurper Kurozumi Orochi and the pirate Kaidou, who executed him 20 years before the present, in an event known as the Legendary Hour.

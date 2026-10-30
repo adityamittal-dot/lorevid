@@ -1,6 +1,6 @@
 # Sakazuki
 
-Source: https://onepiece.fandom.com/wiki/Sakazuki (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Sakazuki (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Sakazuki, formerly known by his admiral alias Akainu, is the current Fleet Admiral of the Marines, succeeding the previous Fleet Admiral, Sengoku. During the first half of the series, he was one of the three admirals, and was the last one out of the three to debut. [Ch. 550, Ep. 459] Upon becoming the Fleet Admiral, one of Sakazuki's first decisions was to relocate Marine Headquarters into the New World in preparation for the New Pirate Age. [Ch. 598, Ep. 517] Sakazuki is one of the most strident followers of Absolute Justice in the Marines, to the point where his extremism prompted his fellow admiral Aokiji to oppose his promotion to Fleet Admiral and resign from the Marines after this effort failed.
 In the manga, he was first mentioned by Nico Robin during the initial encounter with Aokiji. In the anime, he was mentioned earlier by Vice Admiral Jonathan during the anime-only G-8 Arc, which aired after he had been revealed in the manga. Due to his actions and role, including his involvement in the destruction of Ohara, murder of Portgas D. Ace during the Summit War and current status as the Fleet Admiral, Sakazuki is the main antagonist of the Marineford Arc and an overarching antagonist in the overall series, especially its second half.

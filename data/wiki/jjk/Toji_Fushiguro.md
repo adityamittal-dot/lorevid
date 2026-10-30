@@ -1,8 +1,8 @@
 # Toji Fushiguro
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Toji_Fushiguro (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
-Toji Fushiguro, né Toji Zenin, is a recurring character in the Jujutsu Kaisen series and the primary antagonist of the Gojo's Past Arc, as well as a minor antagonist in the Shibuya Incident Arc. He was a former member of the Zenin Clan and an infamous assassin known as the [[Jujutsu Sorcerer, [Ch. 67, Ep. 26] contracted by the Time Vessel Association among other groups throughout his time as a non-curse user. He was also Megumi Fushiguro's father and an enemy of Satoru Gojo.
+Toji Fushiguro, previously Toji Zenin, is a recurring character in the Jujutsu Kaisen series and the primary antagonist of the Gojo's Past Arc, as well as a minor antagonist in the Shibuya Incident Arc. He was a former member of the Zenin Clan and an infamous assassin known as the [[Jujutsu Sorcerer, [Ch. 67, Ep. 26] contracted by the Time Vessel Association among other groups throughout his time as a non-curse user. He was also Megumi Fushiguro's father and an enemy of Satoru Gojo.
 
 ### Appearance
 Toji is a tall, muscular man with mid-length straight black hair that reaches to his ears. His eyes are green, just like his son's, and he has thin black eyebrows and a scar across the right corner of his lips.
@@ -35,7 +35,7 @@ He also took on a special grade cursed spirit, Dagon, and single-handledly domin
 Shortly afterward, Toji confronted Megumi, and the latter compared Toji to a fully realized Maki. He also recognized Toji as a "monster" capable of taking out a special grade cursed spirit and assessed his shikigami were no match for him. [Ch. 113, Ep. 40] If Toji had not chosen to sacrifice himself, Megumi, too would have been another victim of Toji's rampage.
 
 #### Physical Prowess
-Master Weapons Specialist: The Sorcerer Killer is capable of employing a wide variety of weapons in battle. His entire fighting style is based around using weapons to substitute for jujutsu. He keeps a vast arsenal in his cursed spirit, allowing him to efficiently switch weapons out based on necessity.
+Master Weapons Specialist: The Sorcerer Killer is capable of employing a wide variety of weapons in battle. His entire fighting style is based around using weapons to substitute for jujutsu. He keeps a vast arsenal in his Inventory Curse, allowing him to efficiently switch weapons out based on necessity.
 Toji has used non-cursed tools such as swords to perform a sneak attack, so no cursed energy will be detected. Armed with a normal handgun, he's also an expert marksmen with extremely precise aim. [Ch. 72, Ep. 27] [Ch. 73, Ep. 28]
 The Sorcerer Killer can counter jujutsu users because he is also a master of wielding cursed tools. He's used a cursed tool broadsword to counter and slice open giant cursed spirits. [Ch. 71, Ep. 27] [Ch. 73, Ep. 28] Toji has employed knives and daggers, sometimes one in each hand. [Ch. 72, Ep. 27] Additionally he employs his special grade cursed tool: The Inverted Spear of Heaven with a mastery worthy of that ranking. He could capitalize on the dagger's powerful nullification technique to negate even the most powerful sorcerer's abilities.
 Toji successfully complements his physical gifts with high adaptability and dexterity with all his weapons. By attaching a chain to the Inverted Spear of Heaven, Toji changed his entire fighting style to suit a long ranged battle. [Ch. 75, Ep. 28] When he first confronted Dagon, Toji took Playful Cloud, a weapon that Megumi stated was difficult to use, from Maki and used it to its maximum potential. [Ch. 110, Ep. 39]

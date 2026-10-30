@@ -1,6 +1,6 @@
 # Sukuna
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Sukuna (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Sukuna (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Ryomen Sukuna, more often referred to as simply Sukuna, is the main antagonist of the Jujutsu Kaisen series. He was history's strongest jujutsu sorcerer, regarded as the undisputed King of Curses.
 According to legend, Sukuna was an Imaginary Demon born over a thousand years ago during the Heian Era, the Golden Age of Jujutsu. In truth, he was an undefeated human sorcerer also known as the Disgraced One, [Ch. 199] having felled countless other sorcerers that challenged him. After accepting a proposal from Kenjaku to participate in the Culling Game, [Ch. 158, Ep. 54] Sukuna continued existing after death by transforming himself into a cursed object, remaining in a state in which his cursed energy and soul was split into his twenty indestructible fingers.

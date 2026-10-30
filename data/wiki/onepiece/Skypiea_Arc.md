@@ -1,6 +1,6 @@
 # Skypiea Arc
 
-Source: https://onepiece.fandom.com/wiki/Skypiea_Arc (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Skypiea_Arc (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Skypiea Arc is the 13th story arc of the manga and anime One Piece, and both the second and last story arc of the Sky Island Saga.
 The Straw Hats arrive on the Sky Island Skypiea and learn of its connections to Jaya and Mont Blanc Noland's tale of a lost city of gold. As the crew embarks in search of treasure, they become entangled in a three-way war between the native Skypieans, the vengeful Shandians, and the land's cruel "God", Enel.

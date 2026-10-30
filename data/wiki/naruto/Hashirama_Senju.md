@@ -1,6 +1,6 @@
 # Hashirama Senju
 
-Source: https://naruto.fandom.com/wiki/Hashirama_Senju (fetched 2026-10-29). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Hashirama_Senju (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 was a member and leader of the famed Senju clan and a reincarnation and descendant of Asura Ōtsutsuki. He himself was hailed as the "God of Shinobi" for his unmatched ninja prowess. Hashirama sought peace for the shinobi world, and to that end founded Konohagakure with his clan, his childhood friend and rival: Madara Uchiha, and the Uchiha clan. He later became the  of Konohagakure. Although he was not able to achieve peace during his lifetime, his legacy and vision for the world continued to shape the village and the entire shinobi world even after his death.
 
