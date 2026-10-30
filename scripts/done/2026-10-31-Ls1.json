@@ -1,0 +1,147 @@
+{
+  "id": "2026-10-31-Ls1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Nanami's one proven edge over Mahito, surviving a direct hit in chapter 23, is exactly what Shibuya spends chapters stripping away before the rematch",
+  "title": "Nanami's One Edge On Mahito Was Gone By Shibuya",
+  "description": "Nanami Kento only ever beat Mahito once, back in chapter 23, and that one detail explains everything that happens later. Shibuya spends chapters 92 through 120 stripping away the exact advantage that saved him then, before Mahito ever gets a second shot at him. From the full story: Nanami Was Never Supposed To Survive Shibuya.",
+  "hashtags": [
+    "#nanami",
+    "#mahito",
+    "#jjk",
+    "#jujutsukaisen"
+  ],
+  "tags": [
+    "jjk theory",
+    "nanami kento mahito",
+    "jujutsu kaisen shibuya incident",
+    "nanami vs mahito",
+    "idle transfiguration",
+    "jujutsu kaisen theory",
+    "nanami kento",
+    "mahito jjk",
+    "shibuya incident arc",
+    "jjk shorts",
+    "nanami survives"
+  ],
+  "hook_text": "HIS ONE EDGE, GONE",
+  "music_mood": "suspense",
+  "comment": "Was Nanami's fate sealed the moment Gojo got sealed away, or did his own choices put him there? Pick one.",
+  "related_long": "2026-10-31-L",
+  "pages": [
+    "Kento Nanami",
+    "Mahito",
+    "Shibuya Incident Arc"
+  ],
+  "lines": [
+    {
+      "text": "Nanami beat Mahito exactly once. Shibuya made sure it never happened again.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Nanami Mahito Shibuya confrontation",
+        "fallback": "weary swordsman facing a smiling curse spirit in a wrecked station"
+      }
+    },
+    {
+      "text": "In chapter 23, Mahito landed a direct hit on Nanami's soul, and nobody who'd taken that hit before ever walked away.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mahito Idle Transfiguration hand Nanami",
+        "fallback": "clawed curse hand reaching toward a swordsman"
+      }
+    },
+    {
+      "text": "Nanami did. That one detail is the whole reason Mahito called him exceptionally strong.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami survives Mahito respect",
+        "fallback": "weary swordsman still standing after a brutal hit"
+      }
+    },
+    {
+      "text": "Carry that fact into Shibuya, because the story spends eight chapters erasing it...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Shibuya Incident approaching",
+        "fallback": "swordsman walking toward a chaotic city street"
+      }
+    },
+    {
+      "text": "Dagon takes his eye in chapter 106. Jogo burns half his body in chapter 120.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Nanami Dagon Jogo injuries Shibuya",
+        "fallback": "swordsman scorched and battered mid battle"
+      }
+    },
+    {
+      "text": "His whole team ends up too hurt to stand beside him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Maki Naobito incapacitated Shibuya",
+        "fallback": "two fallen fighters lying in a dark hallway"
+      }
+    },
+    {
+      "text": "By the time Mahito finds him again, the body that survived him once has nothing left to survive with.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami weary alone Mahito waiting",
+        "fallback": "exhausted swordsman facing a calm curse spirit"
+      }
+    },
+    {
+      "text": "No eye. No team. Half his skin already gone.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami injured alone Shibuya station",
+        "fallback": "battered swordsman standing in wreckage"
+      }
+    },
+    {
+      "text": "This isn't bad luck. It's the manga spending chapters removing the one reason Nanami ever survived Mahito before.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami theory Shibuya removes advantage",
+        "fallback": "swordsman standing against overwhelming odds"
+      }
+    },
+    {
+      "text": "Because Nanami beat Mahito exactly once...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Nanami Mahito first encounter chapter 23",
+        "fallback": "swordsman confronting a stitched curse in an alley"
+      }
+    }
+  ],
+  "sources": [
+    "https://jujutsu-kaisen.fandom.com/wiki/Kento_Nanami",
+    "https://jujutsu-kaisen.fandom.com/wiki/Mahito",
+    "https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident_Arc"
+  ],
+  "self_check": {
+    "hook": "line 1 names Nanami and the claim (beat Mahito once, Shibuya made sure it never happened again)",
+    "loop": "last line ('Nanami beat Mahito exactly once...') feeds straight into line 1's own phrasing",
+    "facts_verified": true
+  },
+  "end_text": "NANAMI'S FULL SHIBUYA STORY",
+  "published": {
+    "video_id": "Yk3z3kRiFFw",
+    "publish_at": "2026-11-01T14:30:00Z",
+    "url": "https://youtu.be/Yk3z3kRiFFw",
+    "comment": "Was Nanami's fate sealed the moment Gojo got sealed away, or did his own choices put him there? Pick one.\nhttps://youtu.be/81EPU4XrEmA",
+    "comment_posted": false
+  }
+}
