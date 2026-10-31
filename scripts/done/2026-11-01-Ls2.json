@@ -1,0 +1,132 @@
+{
+  "id": "2026-11-01-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Joy Boy's broken promise to Fish-Man Island over Noah still hasn't been resolved eight hundred years later",
+  "title": "Joy Boy Broke A Promise Nobody's Ever Finished",
+  "description": "Eight hundred years ago, Joy Boy made a deal with Fish-Man Island involving a colossal ship called Noah, then broke his end of it. Fish-Man Island is still waiting. From the full story: The Void Century: Everything Joy Boy Left Behind.",
+  "hashtags": [
+    "#onepiece",
+    "#joyboy",
+    "#anime"
+  ],
+  "tags": [
+    "one piece theory",
+    "joy boy explained",
+    "noah one piece",
+    "fish man island arc",
+    "poseidon one piece",
+    "void century one piece",
+    "one piece shorts",
+    "appointed time one piece"
+  ],
+  "hook_text": "THE UNFINISHED PROMISE",
+  "music_mood": "suspense",
+  "comment": "Will Fish-Man Island's wait for Noah ever actually pay off, or was it always one-sided? Pick one.",
+  "related_long": "2026-11-01-L",
+  "pages": [
+    "Joy Boy",
+    "Fish-Man Island Arc"
+  ],
+  "lines": [
+    {
+      "text": "Joy Boy made one promise eight hundred years ago that still isn't finished.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Joy Boy promise Fish-Man Island",
+        "fallback": "silhouetted ancient figure making a solemn vow underwater"
+      }
+    },
+    {
+      "text": "He struck a deal with Fish-Man Island, involving a colossal ship called Noah.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Joy Boy Noah ship deal",
+        "fallback": "massive ancient ship being pulled by sea creatures"
+      }
+    },
+    {
+      "text": "Then, for reasons nobody's ever explained, he simply failed to keep his end of it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Joy Boy breaks promise unexplained",
+        "fallback": "silhouetted figure turning away from an unfinished task"
+      }
+    },
+    {
+      "text": "He wrote an apology straight onto a Poneglyph, promising someone else would finish what he started.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Joy Boy apology Poneglyph Sea Forest",
+        "fallback": "ancient hand carving an apology into underwater stone"
+      }
+    },
+    {
+      "text": "Fish-Man Island has spent the next eight hundred years quietly guarding that ship, just waiting.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Fish-Man Island guards Noah centuries",
+        "fallback": "underwater kingdom guarding an ancient ship for generations"
+      }
+    },
+    {
+      "text": "It almost ends for good during the Fish-Man Island arc, when Luffy is asked to destroy Noah himself.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy asked destroy Noah Fish-Man Island",
+        "fallback": "young pirate facing a difficult choice over an ancient ship"
+      }
+    },
+    {
+      "text": "A group of Sea Kings catch the ship just in time, and carry it off to be repaired instead.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Sea Kings catch Noah repair",
+        "fallback": "sea creatures carrying a damaged ship to safety"
+      }
+    },
+    {
+      "text": "Not even Vegapunk knows exactly when this appointed time is actually supposed to arrive.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "appointed time unknown Vegapunk",
+        "fallback": "ancient ship waiting silently in an underwater forest"
+      }
+    },
+    {
+      "text": "Because Joy Boy made one promise eight hundred years ago that still isn't finished...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Joy Boy promise Fish-Man Island vow",
+        "fallback": "ancient figure's unfinished vow still waiting underwater"
+      }
+    }
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Joy_Boy",
+    "https://onepiece.fandom.com/wiki/Void_Century"
+  ],
+  "self_check": {
+    "hook": "line 1 names Joy Boy and the claim (made a promise still unfinished) inside 13 words",
+    "loop": "last line ('Joy Boy made one promise eight hundred years ago that still isn't finished...') feeds straight into line 1's own phrasing",
+    "facts_verified": true
+  },
+  "end_text": "EVERYTHING JOY BOY LEFT BEHIND",
+  "published": {
+    "video_id": "NZKXkDxHwz8",
+    "publish_at": "2026-11-02T17:00:00Z",
+    "url": "https://youtu.be/NZKXkDxHwz8",
+    "comment": "Will Fish-Man Island's wait for Noah ever actually pay off, or was it always one-sided? Pick one.\nhttps://youtu.be/1h-0nNkIsTM",
+    "comment_posted": false
+  }
+}
