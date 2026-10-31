@@ -1,6 +1,6 @@
 # Uchiha Clan Downfall
 
-Source: https://naruto.fandom.com/wiki/Uchiha_Clan_Downfall (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Uchiha_Clan_Downfall (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The , also called the , [Naruto Ch. 474] was the near-complete massacre of the Uchiha clan, perpetrated by Itachi Uchiha and — unbeknownst to most — a man claiming to be Madara Uchiha.
 

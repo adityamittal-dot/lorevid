@@ -1,6 +1,6 @@
 # Enel
 
-Source: https://onepiece.fandom.com/wiki/Enel (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Enel (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 :The subject of this article is sometimes called "Eneru" or "Ener".
 Enel is the former tyrannical "God" of Skypiea who established a theocracy around himself.

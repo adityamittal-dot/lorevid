@@ -1,6 +1,6 @@
 # Edward Newgate
 
-Source: https://onepiece.fandom.com/wiki/Edward_Newgate (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Edward_Newgate (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Edward Newgate, more commonly known as "Whitebeard", was a legendary pirate and the captain of the Whitebeard Pirates. Widely known as the "Strongest Man in the World", he was considered the "Man Closest to One Piece" after Gol D. Roger's death.
 Growing up as an orphan on the island of Sphinx, Newgate went on to become a pirate, eventually joining the legendary Rocks Pirates. Sometime after the Rocks Pirates' disbanding, he went on to form his own crew, taking on the nickname "Whitebeard" and eventually becoming one of the Four Emperors that rule over the New World. He shared a friendly rivalry with Roger, to whom he lent one of his crewmates, Kouzuki Oden, so that Oden could help Roger discover the final island of the Grand Line, a goal that Whitebeard had no interest in. Following Roger's death, Whitebeard became recognized as the strongest man in the world, a fact complimented by having the highest active bounty whilst alive, and the second highest known bounty of any pirate in history.

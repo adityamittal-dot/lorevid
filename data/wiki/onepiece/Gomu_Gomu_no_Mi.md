@@ -1,6 +1,6 @@
 # Gomu Gomu no Mi
 
-Source: https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that grants the user's body the properties of rubber, effectively making them a Rubber Human.
 Originally, the fruit was called the Hito Hito no Mi, Model: Nika and classified as a Mythical Zoan-type fruit that allows one to transform into the legendary "Sun God" Nika (and gain his rubbery attributes), before being renamed and reclassified by the World Government to hide the truth. [Ch. 1044, Ep. 1071] In the present, only a few are aware of the fruit's true nature, and its existence was never known to be recorded anywhere. [Ch. 1069, Ep. 1100]

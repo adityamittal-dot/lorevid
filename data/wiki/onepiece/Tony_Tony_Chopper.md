@@ -1,6 +1,6 @@
 # Tony Tony Chopper
 
-Source: https://onepiece.fandom.com/wiki/Tony_Tony_Chopper (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Tony_Tony_Chopper (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Tony Tony Chopper, also known as "Cotton Candy Lover" Chopper, is the doctor of the Straw Hat Pirates and one of the Senior Officers of the Straw Hat Grand Fleet. He is the sixth member of the crew and the fifth to join, doing so at the end of the Drum Island Arc. He was temporarily forced to join the Foxy Pirates during the Long Ring Long Land Arc but was quickly returned to Luffy's crew.
 Chopper is a Reindeer that ate the Hito Hito no Mi, a Devil Fruit that allows its user to transform into a human hybrid at will. He was taught medicine on Drum Island by his two parental figures, Doctors Hiriluk and Kureha. Chopper aims to travel all across the world in the hopes of accomplishing his dream of being able to cure any disease.

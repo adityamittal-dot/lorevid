@@ -1,6 +1,6 @@
 # Gaara
 
-Source: https://naruto.fandom.com/wiki/Gaara (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Gaara (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 is a shinobi of Sunagakure and the youngest of the Three Sand Siblings. He was made the jinchūriki of the One-Tailed Shukaku before he was born, causing the villagers of Suna to fear him as a monster. With nobody to connect to, Gaara grew up hating the world and looking out only for himself, giving his life meaning by killing anyone he came across. After being defeated by Naruto Uzumaki — a jinchūriki like himself who found strength in his friendships — Gaara began emulating him. He later became Suna's  so that he can protect the village and all those who live there, dispelling the fears he cast on the villagers.
 

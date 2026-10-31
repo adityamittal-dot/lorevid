@@ -1,6 +1,6 @@
 # Mahito
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Mahito (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Mahito (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Mahito is a major antagonist in the Jujutsu Kaisen series. He is an unregistered special grade cursed spirit allied with Kenjaku. He is also the leader of his own group, consisting of Jogo, Hanami, and Dagon. His group's ultimate goal is the eradication of humanity and ultimately replacing the population with cursed spirits.
 

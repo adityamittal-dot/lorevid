@@ -1,6 +1,6 @@
 # Whole Cake Island Arc
 
-Source: https://onepiece.fandom.com/wiki/Whole_Cake_Island_Arc (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Whole_Cake_Island_Arc (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Whole Cake Island Arc, also referred to as the Totto Land Arc, is the 29th story arc of the manga and anime One Piece, the second story arc of the Whole Cake Island Saga, and the sixth story arc of the second half of the series.
 Luffy, Nami, Chopper, Brook, and the minks Pekoms, Pedro, and Carrot head to Whole Cake Island, where Big Mom of the Four Emperors resides. Nicknamed the Sanji Retrieval Team, the group seeks to rescue their crewmate Sanji from his arranged marriage with Charlotte Pudding, set up to finalize a political alliance between the Charlotte Family and the Vinsmoke Family. However, during their operation, they become involved in a plot to assassinate Big Mom herself.

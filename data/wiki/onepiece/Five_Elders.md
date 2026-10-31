@@ -1,6 +1,6 @@
 # Five Elders
 
-Source: https://onepiece.fandom.com/wiki/Five_Elders (fetched 2026-10-30). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Five_Elders (fetched 2026-10-31). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Five Elders [Ch. 907, Ep. 887] are a council of the five highest-ranking Celestial Dragons [Ch. 1086, Ep. 1120] collectively titled the "Highest Authorities of the World Government". Publicly claimed to oversee and wield the greatest authority over the entire world at large, they are secretly subordinate to the government's shadow ruler Nerona Imu, the true King of the World and occupant of the Empty Throne. [Ch. 908, Ep. 889] [Ch. 1084, Ep. 1118] [Ch. 1085, Ep. 1119] They are almost always found residing in the Room of Authority in Pangaea Castle.
 The Five Elders (in particular Jaygarcia Saturn) are the main antagonists of the Egghead Arc. Due to their status, longstanding actions both indirect and direct, and their profound plot involvement, they can be considered among the main antagonists of the Final Saga as well as the One Piece series as a whole.
