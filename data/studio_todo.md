@@ -79,3 +79,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Nanami's One Edge On Mahito Was Gone By Shibuya (https://youtu.be/Yk3z3kRiFFw) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
 - [ ] Nanami's Rule For Sorcerers Came From One Loss (https://youtu.be/I93yqVdzBZ4) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
 - [ ] The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM) -> thumbnail B saved at output/2026-11-01-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Joy Boy Is The One Person Imu Still Fears (https://youtu.be/-DmJNulftsA) -> related video: The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM)
