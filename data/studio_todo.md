@@ -82,3 +82,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Joy Boy Is The One Person Imu Still Fears (https://youtu.be/-DmJNulftsA) -> related video: The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM)
 - [ ] Joy Boy Broke A Promise Nobody's Ever Finished (https://youtu.be/NZKXkDxHwz8) -> related video: The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM)
 - [ ] Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II) -> thumbnail B saved at output/2026-11-02-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Akainu Aimed Past Ace At Luffy (https://youtu.be/F-SrHFPMXyE) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
