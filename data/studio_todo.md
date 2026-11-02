@@ -88,4 +88,3 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Luffy Covered His Secret With Respect (https://youtu.be/A-SMnKqvTNU) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
 - [ ] The Moment Katakuri's Family Failed Him (https://youtu.be/-QW_9DMaw68) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
 - [ ] Why Itachi Never Used Tsukuyomi On Naruto (https://youtu.be/-BhlD-14tcc) -> thumbnail B saved at output/2026-10-18-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] One-time: in Studio, set playlists 'One Piece Theories', 'Naruto & Boruto Theories', 'Jujutsu Kaisen Theories' to "Set as official series playlist" (the Data API can't)
