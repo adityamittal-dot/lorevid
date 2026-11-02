@@ -1,0 +1,146 @@
+{
+  "id": "2026-11-23-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "In chapter 1059, Blackbeard choked Hancock, and her only answer was a warning about his own crew",
+  "title": "Hancock Bluffed Blackbeard While He Choked Her",
+  "description": "In chapter 1059, Blackbeard had Boa Hancock by the throat and tried to steal her Mero Mero no Mi. Her only answer was a warning about the petrified crew he never cared about. I think that bluff says more about her loyalty than any speech. Was it a bluff or a real threat?",
+  "hashtags": [
+    "#hancock",
+    "#onepiece",
+    "#blackbeard",
+    "#anime"
+  ],
+  "tags": [
+    "boa hancock",
+    "blackbeard hancock",
+    "marshall d teach",
+    "hancock mero mero no mi",
+    "one piece 1059",
+    "hancock chapter 1059",
+    "one piece theory",
+    "hancock blackbeard"
+  ],
+  "hook_text": "HER BLUFF WAS THE TRUTH",
+  "music_mood": "suspense",
+  "comment": "Was Hancock's warning to Blackbeard a bluff or a real threat? Pick one.",
+  "related_long": "2026-11-23-L",
+  "end_text": "WHERE HER VOW GOES NEXT",
+  "pages": [
+    "Boa Hancock",
+    "Marshall D. Teach",
+    "Silvers Rayleigh"
+  ],
+  "lines": [
+    {
+      "text": "Blackbeard had Boa Hancock by the throat, and she still had one card to play.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Blackbeard chokes Boa Hancock",
+        "fallback": "pirate with a black beard holding an empress by the throat"
+      }
+    },
+    {
+      "text": "Chapter 1059. Teach came for her and her Mero Mero no Mi.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Teach Amazon Lily Hancock Mero Mero",
+        "fallback": "dark pirate attacking an island beach"
+      }
+    },
+    {
+      "text": "He choked her and shut her power off, so for once she had no move left.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Teach shuts off Hancock power",
+        "fallback": "empress gasping in a chokehold"
+      }
+    },
+    {
+      "text": "Her card was a warning: take my life, and your petrified crew stays stone forever.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Hancock warns Teach petrified crew",
+        "fallback": "empress glaring at a pirate captain"
+      }
+    },
+    {
+      "text": "Teach's reply is the tell. He told her he does not even care about his crewmates.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Marshall D. Teach crew Hancock",
+        "fallback": "pirate captain smirking with a cold look"
+      }
+    },
+    {
+      "text": "Two of his Titanic Captains, Catarina Devon and Vasco Shot, were still stone.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Catarina Devon Vasco Shot petrified",
+        "fallback": "two pirates turned to stone on a beach"
+      }
+    },
+    {
+      "text": "Then Rayleigh walked in, and Teach backed off without the fruit.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Silvers Rayleigh Amazon Lily arrival",
+        "fallback": "old swordsman walking onto a beach"
+      }
+    },
+    {
+      "text": "Rayleigh admitted Teach would beat him in a real fight, because of Rayleigh's age.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Rayleigh Teach fight",
+        "fallback": "old swordsman facing a dark pirate"
+      }
+    },
+    {
+      "text": "My read: her bluff worked because Teach feared Rayleigh more than he cared about his crew.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Teach fears Rayleigh",
+        "fallback": "pirate captain glancing back in fear"
+      }
+    },
+    {
+      "text": "Whether that bluff was a vow or just survival is the question I'm still weighing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Hancock Luffy Amazon Lily",
+        "fallback": "empress standing on a beach at dusk"
+      }
+    },
+    {
+      "text": "Blackbeard had her by the throat, and her only weapon was a warning about a crew he never cared about.",
+      "delivery": "punch",
+      "fx": "flash",
+      "shot": {
+        "search": "Blackbeard chokes Boa Hancock",
+        "fallback": "pirate with a black beard holding an empress by the throat"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Marshall_D._Teach"
+  ],
+  "self_check": {
+    "hook": "Line 1 names Boa Hancock and the choke, then says she still had a card to play.",
+    "loop": "Last line restates the choke from line 1 and names her only weapon, flowing back to the opening.",
+    "facts_verified": true
+  }
+}
