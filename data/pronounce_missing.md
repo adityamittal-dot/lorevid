@@ -182,3 +182,7 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Zepo (2026-11-01-L)
 - Momonga (2026-11-02-L)
 - Squard (2026-11-02-L)
+- Flampe (2026-11-03-L)
+- Joscarpone (2026-11-03-L)
+- Linlin (2026-11-03-L)
+- Mirro-World (2026-11-03-L)

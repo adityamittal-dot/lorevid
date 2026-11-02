@@ -84,3 +84,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II) -> thumbnail B saved at output/2026-11-02-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Akainu Aimed Past Ace At Luffy (https://youtu.be/F-SrHFPMXyE) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
 - [ ] Akainu Weaponized A 20-Year Grudge (https://youtu.be/JVcyjGwE648) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
+- [ ] Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU) -> thumbnail B saved at output/2026-11-03-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
