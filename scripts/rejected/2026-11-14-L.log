@@ -1,0 +1,5 @@
+2026-11-14-L long 136 lines, 2433 words ~726 s
+WARN: line 48: narration has 27 words (warn: exceeds 24 words)
+WARN: line 50: narration has 25 words (warn: exceeds 24 words)
+WARN: line 59: narration has 27 words (warn: exceeds 24 words)
+ERROR: long words count 2433 outside allowed range [1800, 2400]
