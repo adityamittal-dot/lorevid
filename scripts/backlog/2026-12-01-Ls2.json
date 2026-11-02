@@ -1,0 +1,40 @@
+{
+ "id": "2026-12-01-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Big Mom tried to swap Lola's twin Chiffon in for the Loki wedding and Loki saw through it (side point of the curse long)",
+ "title": "Big Mom Tried To Fool Loki With Lola's Twin Sister",
+ "description": "Big Mom wanted an alliance with the giants, so she tried to fool the prince of Elbaph with Lola's twin sister. Chapter 858 plants the whole story. Was Loki sharp, or just stubborn?",
+ "hashtags": ["#bigmom", "#loki", "#onepiece", "#anime"],
+ "tags": ["big mom loki", "charlotte lola loki", "charlotte chiffon", "one piece 858", "whole cake island", "elbaph arc", "one piece loki", "one piece theory"],
+ "hook_text": "BIG MOM'S FAILED SWAP",
+ "music_mood": "hype",
+ "comment": "Did Loki spot the swap because he is sharp, or because he really loved Lola? Pick one.",
+ "related_long": "2026-12-01-L",
+ "end_text": "THE CURSE BEFORE ELBAPH",
+ "pages": ["Loki", "Charlotte Linlin", "Charlotte Lola", "Charlotte Chiffon"],
+ "lines": [
+  {"text": "Big Mom tried to fool a giant prince with a twin sister, and it failed.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Charlotte Linlin Loki twin", "fallback": "huge matriarch plotting at a banquet"}},
+  {"text": "Chapter 858. Big Mom wants an alliance with the giants.", "delivery": "normal", "fx": "none", "shot": {"search": "Charlotte Linlin Whole Cake Island giants", "fallback": "giant empress at a cake palace"}},
+  {"text": "Her plan is a wedding. Lola is the bride, Loki the groom.", "delivery": "normal", "fx": "none", "shot": {"search": "Charlotte Lola Loki wedding", "fallback": "bride and a giant prince beside a church"}},
+  {"text": "Lola wants no part of it, so she runs.", "delivery": "normal", "fx": "none", "shot": {"search": "Charlotte Lola runs away wedding", "fallback": "bride in a veil sprinting down a road"}},
+  {"text": "Big Mom doesn't cancel. She sends Lola's twin, Chiffon, to stand in her place.", "delivery": "punch", "fx": "none", "shot": {"search": "Charlotte Chiffon Lola twin", "fallback": "two identical sisters in white dresses"}},
+  {"text": "Same face, same dress, same plan.", "delivery": "aside", "fx": "none", "shot": {"search": "Charlotte Chiffon bride", "fallback": "bride with a nervous smile"}},
+  {"text": "Loki sees through it, and the whole wedding collapses.", "delivery": "reveal", "fx": "shake", "shot": {"search": "Loki sees through Chiffon", "fallback": "giant prince frowning at a bride"}},
+  {"text": "Here's the detail people forget. He fell for Lola at first sight, and refused her twin.", "delivery": "normal", "fx": "none", "shot": {"search": "Loki Charlotte Lola first sight", "fallback": "giant prince staring at a young woman"}},
+  {"text": "Maybe he only caught it because he knew Lola's face. Fair. He still turned her sister down.", "delivery": "normal", "fx": "none", "shot": {"search": "Loki refuses Chiffon marriage", "fallback": "giant prince shaking his head"}},
+  {"text": "Chapter 1131 shows his habit: Loki bluffs when he must, so he smells a bluff.", "delivery": "normal", "fx": "none", "shot": {"search": "Loki chains bluff Luffy", "fallback": "chained giant grinning at a young pirate"}},
+  {"text": "My read: Loki doesn't accept substitutes, in love or in anything else.", "delivery": "reveal", "fx": "none", "shot": {"search": "Loki dogahaha grin", "fallback": "grinning giant prince with his tongue out"}},
+  {"text": "So why did Big Mom want the giants on her side so badly?", "delivery": "normal", "fx": "none", "shot": {"search": "Charlotte Linlin Elbaph past", "fallback": "huge woman gazing at a snowy kingdom"}},
+  {"text": "Which is how an Emperor ended up trying to fool a giant prince...", "delivery": "punch", "fx": "none", "shot": {"search": "Charlotte Linlin Chiffon Loki", "fallback": "huge matriarch plotting at a banquet"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Loki",
+  "https://sportskeeda.com/anime/why-big-mom-hate-lola-one-piece-explained",
+  "https://www.dexerto.com/anime/one-piece-everything-we-know-about-prince-loki-2975477"
+ ],
+ "self_check": {"hook": "Hidden detail: Big Mom's twin swap; line 1 names Big Mom and Loki", "loop": "last line leads back into line 1", "facts_verified": true}
+}

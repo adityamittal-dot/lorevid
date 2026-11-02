@@ -1,0 +1,159 @@
+{
+  "id": "2026-12-02-Ls2",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Yuta's cold act toward Yuji was a favour to Gojo",
+  "title": "Yuta Okkotsu Faked The Whole Yuji Showdown For Gojo",
+  "description": "When Yuta returned to Jujutsu High, he looked like a threat to Yuji. The wiki says it was an act, and Gojo asked him to play it.",
+  "hashtags": [
+    "#yuta",
+    "#jujutsukaisen",
+    "#anime"
+  ],
+  "tags": [
+    "yuta okkotsu",
+    "yuta vs yuji",
+    "jujutsu kaisen chapter 143",
+    "jjk theory",
+    "gojo yuta",
+    "yuta gojo",
+    "jujutsu kaisen explained",
+    "yuta rika",
+    "yuji itadori",
+    "yuta okkotsu explained",
+    "jjk chapter 137"
+  ],
+  "hook_text": "THE ACT GOJO ASKED FOR",
+  "music_mood": "chill",
+  "comment": "Is Yuta's loyalty to Gojo a strength or a blind spot?",
+  "related_long": "2026-12-02-L",
+  "end_text": "WHO WAS GOJO'S REAL THREAT",
+  "pages": [
+    "Yuta Okkotsu",
+    "Yuji Itadori",
+    "Satoru Gojo"
+  ],
+  "lines": [
+    {
+      "text": "Yuta Okkotsu lied to Yuji's face, and Gojo asked him to.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Yuta Okkotsu Yuji Itadori fight",
+        "fallback": "a cold swordsman facing a pink haired boy"
+      }
+    },
+    {
+      "text": "Chapter 137. Yuta comes back to Jujutsu High looking cold and deadly serious.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu returns Jujutsu High",
+        "fallback": "a swordsman at a school gate"
+      }
+    },
+    {
+      "text": "He claims it's revenge for Toge's arm.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu Toge Inumaki",
+        "fallback": "a swordsman remembering a worried friend"
+      }
+    },
+    {
+      "text": "Yuji, Choso and Naoya all feel his cursed energy and panic, chapter 139.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuji Choso Naoya Yuta Okkotsu",
+        "fallback": "three fighters frozen by a huge presence"
+      }
+    },
+    {
+      "text": "Then he puts Yuji down hard, and apologizes.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Yuta Okkotsu Yuji Itadori apologizes",
+        "fallback": "a swordsman kneeling beside a fallen boy"
+      }
+    },
+    {
+      "text": "Then he restarts Yuji's heart with his own positive energy.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu heals Yuji reverse cursed technique",
+        "fallback": "a sorcerer glowing as he heals a boy"
+      }
+    },
+    {
+      "text": "The whole show was meant to fool the higher-ups.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu higher-ups Jujutsu High",
+        "fallback": "stern elders watching from the shadows"
+      }
+    },
+    {
+      "text": "He had never even met Yuji. He did it because Gojo asked.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru Yuta Okkotsu asks",
+        "fallback": "a teacher asking a student for a favour"
+      }
+    },
+    {
+      "text": "In Africa, chapter 143, Gojo is surprised to hear Yuta joking again.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru Yuta Okkotsu Africa",
+        "fallback": "a smiling teacher and student outdoors"
+      }
+    },
+    {
+      "text": "A student who trusts you that much isn't coming for your spot.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu Gojo Satoru trust",
+        "fallback": "a student bowing to his teacher"
+      }
+    },
+    {
+      "text": "So what was Yuta actually there to be for Gojo?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu Shinjuku",
+        "fallback": "a young swordsman entering a ruined city"
+      }
+    },
+    {
+      "text": "Because Yuta Okkotsu lied to Yuji's face, and Gojo asked him to...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu Yuji Gojo",
+        "fallback": "a swordsman smiling at his teacher"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu",
+    "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo",
+    "https://sportskeeda.com/anime/gojo-yuta-swapped-bodies-shinjuku-arc-jujutsu-kaisen-chapter-262-reveals"
+  ],
+  "self_check": {
+    "hook": "Hidden-detail claim naming Yuta and Gojo",
+    "loop": "Last line restates line 1 and flows into it",
+    "facts_verified": true
+  }
+}

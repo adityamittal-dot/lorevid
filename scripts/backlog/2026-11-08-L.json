@@ -1,0 +1,2558 @@
+{
+ "id": "2026-11-08-L",
+ "format": "long",
+ "deep": true,
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Sukuna's full story from the Heian Era to the end of the Shinjuku Showdown, argued around one blind spot: the strongest sorcerer in history never understood what Yuji was",
+ "title": "Sukuna Explained: The King of Curses' Full Story",
+ "description": "Sukuna is Jujutsu Kaisen's King of Curses, the strongest sorcerer in history. This is his full story in order: the Heian Era legend, his deal with Kenjaku, the finger Yuji Itadori swallowed, Shibuya, the takeover of Megumi, the fight against Satoru Gojo, and the raid that finally caught up with him.\n\nEvery chapter number comes from the wiki, so jump to any part of Sukuna's power, techniques and history you came here for. The thread running through all of it is one blind spot, and by the end I think you will see why it mattered more than any technique he owned.",
+ "hashtags": [
+  "#jujutsukaisen",
+  "#sukuna",
+  "#jjk",
+  "#anime"
+ ],
+ "tags": [
+  "sukuna explained",
+  "sukuna full story",
+  "king of curses",
+  "ryomen sukuna",
+  "sukuna backstory",
+  "sukuna full power",
+  "jujutsu kaisen sukuna",
+  "sukuna vs gojo",
+  "sukuna and kenjaku",
+  "sukuna vs yuji",
+  "jjk explained",
+  "sukuna history"
+ ],
+ "music_mood": "epic",
+ "comment": "Was Sukuna's real weakness his arrogance, or the fact he never understood anyone who fought for something other than himself? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Sukuna",
+  "Yuji Itadori",
+  "Megumi Fushiguro",
+  "Satoru Gojo",
+  "Kenjaku",
+  "Shinjuku Showdown Arc"
+ ],
+ "lines": [
+  {
+   "text": "Sukuna was the King of Curses, unbeaten for a thousand years, and what finally broke him wasn't power at all.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sukuna true form four arms",
+    "fallback": "towering four-armed sorcerer king looming over a ruined city"
+   }
+  },
+  {
+   "text": "Here is Sukuna's whole story, from the Heian Era to Shinjuku, with a chapter number behind every claim.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji Itadori incarnation",
+    "fallback": "dark spirit rising behind a teenage boy"
+   }
+  },
+  {
+   "text": "So how does history's strongest sorcerer lose to a teenager he never once took seriously?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji Itadori confrontation",
+    "fallback": "tyrant staring down a determined teenager"
+   }
+  },
+  {
+   "text": "My answer is one blind spot, and it was sitting inside his own vessel from chapter 1.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna smirk Malevolent Shrine",
+    "fallback": "smirking king in a shrine of blades"
+   }
+  },
+  {
+   "text": "It starts a thousand years ago, with a man most fans still picture as a demon...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Heian Era",
+    "fallback": "ancient Japanese capital under a red sky"
+   }
+  },
+  {
+   "text": "Forget the legend for a second, because the legend gets the most important fact about Sukuna wrong.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Heian Era legend",
+    "fallback": "old scroll painting of a four-armed demon"
+   },
+   "card": "THE LEGEND"
+  },
+  {
+   "text": "Stories call him a demon born in the Heian Era, an imaginary monster with four arms and two faces.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna four arms two faces",
+    "fallback": "monstrous four-armed figure in ancient robes"
+   }
+  },
+  {
+   "text": "The wiki is blunt about it: he was a human sorcerer, undefeated, whom people called the Disgraced One in chapter 199.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Disgraced One chapter 199",
+    "fallback": "grim ancient sorcerer sitting on a throne"
+   },
+   "card": "CHAPTER 199"
+  },
+  {
+   "text": "That matters, because a human has a childhood, and a childhood leaves marks that a monster would never carry.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna young childhood memory",
+    "fallback": "lonely child standing in an empty ancient hall"
+   }
+  },
+  {
+   "text": "Hold on to that, because chapter 237 drops a hint that even Sukuna resented the way he was raised.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna chapter 237 resentment",
+    "fallback": "brooding king looking at the ground"
+   }
+  },
+  {
+   "text": "In the Golden Age of Jujutsu, every sorcerer alive was sharpening their skills for the sole purpose of taking him down.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Heian sorcerers Sukuna fight",
+    "fallback": "ancient sorcerers charging a lone figure"
+   }
+  },
+  {
+   "text": "He beat thousands of them, and every loss only sharpened him, which is a frightening way to build a legend.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Heian Era dominance",
+    "fallback": "lone warrior standing among defeated rivals"
+   }
+  },
+  {
+   "text": "Chapters 219 and 238 give the clearest scoreboard: he took on the Sun, Moon, and Stars Squad all by himself.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Sun Moon and Stars Squad",
+    "fallback": "elite ancient squad facing a four-armed king"
+   }
+  },
+  {
+   "text": "Then he did the same to the Five Empty Generals, the most elite fighters the Fujiwara Clan had to offer.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Five Empty Generals Fujiwara",
+    "fallback": "five armored generals standing in formation"
+   }
+  },
+  {
+   "text": "Those defeats terrified Japan's authorities so badly that they were willing to hold festivals in his honor.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Heian festival honor",
+    "fallback": "festival lanterns and bowing nobles in ancient Japan"
+   }
+  },
+  {
+   "text": "Think about that: the government of the age was throwing celebrations for the one man nobody could stop.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Heian Era king",
+    "fallback": "king receiving offerings from frightened officials"
+   }
+  },
+  {
+   "text": "And the body behind all of it was unmistakable: four arms, four eyes, and a second mouth across his stomach.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sukuna true form mouth stomach",
+    "fallback": "four-armed man with a mouth on his torso"
+   }
+  },
+  {
+   "text": "He could use all four arms independently, with two making hand signs while the mouth on his stomach chanted nonstop.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna four arms hand signs chant",
+    "fallback": "four-armed sorcerer weaving hand signs"
+   },
+   "card": "FOUR ARMS"
+  },
+  {
+   "text": "Even his archery was flawless, which we only learn when Yuji's own domain shows him hitting the bullseye.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna archery bow target",
+    "fallback": "archer drawing a bow at a target"
+   }
+  },
+  {
+   "text": "He also took in a child named Uraume, first to chill his food, and eventually as a loyal subordinate.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Uraume young",
+    "fallback": "pale child bringing food to a towering king"
+   }
+  },
+  {
+   "text": "So the first thing to understand is that the King of Curses wasn't born a monster in somebody's story.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Heian Era portrait",
+    "fallback": "stoic ancient king with tattoos"
+   }
+  },
+  {
+   "text": "He was a man who won every fight he ever took, and nothing in his life ever forced him to change.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna undefeated Heian",
+    "fallback": "victorious warrior in a silent battlefield"
+   }
+  },
+  {
+   "text": "Even Satoru Gojo, the strongest sorcerer of the modern age, admits a fight against him would be difficult.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Satoru Gojo Sukuna difficult fight",
+    "fallback": "white-haired sorcerer eyeing a looming rival"
+   }
+  },
+  {
+   "text": "Hundreds of years of sorcerers tried to catch up to him, and none of them could reach his level.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna strongest sorcerer in history",
+    "fallback": "king standing above a sea of challengers"
+   }
+  },
+  {
+   "text": "The wiki calls him egocentric, hedonistic, and exceptionally sadistic, and that personality never changes across a thousand years.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna smirk personality",
+    "fallback": "grinning king lounging on a throne"
+   }
+  },
+  {
+   "text": "He likens human beings to insects, and he admits he cannot comprehend why the weak cling so desperately to life.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna insects humans chapter 214",
+    "fallback": "king looking down at tiny distant figures"
+   }
+  },
+  {
+   "text": "He also claims to have no dreams, goals, or aspirations, while the sorcerers fighting him have them and grow stronger because of it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna no dreams goals",
+    "fallback": "king shrugging while heroes train in the distance"
+   }
+  },
+  {
+   "text": "Yet the wiki is careful to say none of this is stupidity, because he is highly intelligent and manipulative underneath the swagger.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna intelligent manipulative",
+    "fallback": "king smiling with calculating eyes"
+   }
+  },
+  {
+   "text": "He barely follows the modern world, and in chapter 112 he glances at a smartphone and calls it a phone with a camera.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna smartphone Nanako chapter 112",
+    "fallback": "king squinting at a glowing phone screen"
+   }
+  },
+  {
+   "text": "But a man like that doesn't just fade away when his body gives out, and Sukuna had a plan for that...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Kenjaku Heian",
+    "fallback": "two ancient sorcerers sharing a quiet bargain"
+   }
+  },
+  {
+   "text": "The plan had a name attached to it, and that name is Kenjaku, a sorcerer who had already been alive for ages.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Heian Era Sukuna",
+    "fallback": "stitched-scalp sorcerer smiling in candlelight"
+   }
+  },
+  {
+   "text": "In chapter 158, we learn that Sukuna accepted a proposal from Kenjaku to take part in the Culling Game.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Kenjaku proposal Culling Game",
+    "fallback": "ancient king listening to a smiling schemer"
+   },
+   "card": "CHAPTER 158"
+  },
+  {
+   "text": "That sounds like a strange thing for the strongest sorcerer alive to agree to, so ask what Kenjaku actually offered him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Sukuna agreement",
+    "fallback": "smiling schemer offering a king a secret deal"
+   }
+  },
+  {
+   "text": "The offer was survival, because Kenjaku knew how to turn a sorcerer into a cursed object after they were gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku cursed object Sukuna fingers",
+    "fallback": "glowing mummified finger in a dark box"
+   }
+  },
+  {
+   "text": "Chapter 228 says it flatly: Kenjaku is the only person who knows how, and Sukuna didn't know it in the Heian Era.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku chapter 228 Sukuna knowledge",
+    "fallback": "schemer teaching a king a forbidden technique"
+   },
+   "card": "CHAPTER 228"
+  },
+  {
+   "text": "So the King of Curses, who learned everything just by seeing it, had to rely on someone else for the one trick that mattered.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Kenjaku Heian discussion",
+    "fallback": "tyrant reluctantly leaning on a clever ally"
+   }
+  },
+  {
+   "text": "The result is the thing the whole series is built on: his soul and cursed energy split across twenty indestructible fingers.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna twenty fingers cursed objects",
+    "fallback": "twenty glowing mummified fingers scattered across a map"
+   }
+  },
+  {
+   "text": "According to the Angel inside Hana Kurusu in chapter 220, Sukuna later picked up the idea of splitting his soul after experiencing it once.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Hana Kurusu Angel chapter 220",
+    "fallback": "glowing angelic figure explaining a secret to a girl"
+   }
+  },
+  {
+   "text": "That detail will matter later, so file it away, because it is how he ends up jumping bodies at the worst possible moment.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna soul transfer finger",
+    "fallback": "glowing finger being passed between two silhouettes"
+   }
+  },
+  {
+   "text": "Notice something about the deal itself: Sukuna isn't scheming for power, because he already had more than anyone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna thinking throne",
+    "fallback": "king resting his chin on his fist"
+   }
+  },
+  {
+   "text": "Each of the twenty fingers holds a piece of his cursed energy and soul, which is why one swallowed finger changes everything.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna finger cursed energy soul",
+    "fallback": "glowing finger radiating dark energy"
+   }
+  },
+  {
+   "text": "The fingers are described as indestructible, so nobody could simply destroy the problem, and they had to be collected instead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna indestructible fingers",
+    "fallback": "stone box holding a glowing finger that will not break"
+   }
+  },
+  {
+   "text": "And the arrangement wasn't only with Kenjaku, since Uraume was also left waiting, loyal to their master across the centuries.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uraume Sukuna loyal waiting",
+    "fallback": "pale figure waiting patiently beside a sealed box"
+   }
+  },
+  {
+   "text": "He agreed to hold on to existence itself, and I think that says he simply enjoyed fighting too much to stop.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna smirk fight",
+    "fallback": "grinning tyrant cracking his knuckles"
+   }
+  },
+  {
+   "text": "That fits the personality the wiki describes, a glutton for fighting who draws out fights with strong opponents on purpose.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna glutton fighting personality",
+    "fallback": "king savoring a fight with a cruel smile"
+   }
+  },
+  {
+   "text": "Kenjaku needed that bargain to hold, and chapter 221 shows how far Sukuna will go to keep it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Sukuna Gojo hunt",
+    "fallback": "schemer standing behind a towering protector"
+   }
+  },
+  {
+   "text": "In chapter 221, Sukuna protects Kenjaku from Gojo, and agrees not to fight Kenjaku until their agreement is finished.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna protects Kenjaku Gojo chapter 221",
+    "fallback": "king blocking an attacker to protect an ally"
+   }
+  },
+  {
+   "text": "That is the only time we see a Sukuna that honors a bargain, and it tells you how seriously he took this one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Kenjaku binding agreement",
+    "fallback": "two figures shaking hands in shadow"
+   }
+  },
+  {
+   "text": "More than a thousand years pass, the fingers get scattered, and the King of Curses waits as a collection of cursed objects.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna fingers cursed object sealed",
+    "fallback": "sealed finger resting in a stone box"
+   }
+  },
+  {
+   "text": "Nothing about this waiting looks like a man at peace, though, because a cursed object is still awake in its own way.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna finger cursed energy glow",
+    "fallback": "faintly glowing relic in a dark room"
+   }
+  },
+  {
+   "text": "So here's the question nobody asks: what kind of person swallows a finger like that on purpose?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori swallows Sukuna finger",
+    "fallback": "teenager holding up a withered finger"
+   }
+  },
+  {
+   "text": "Because in June 2018, that is exactly what a teenager in Sendai does...",
+   "delivery": "slow",
+   "fx": "zoom",
+   "shot": {
+    "search": "Yuji Itadori eats Sukuna finger chapter 1",
+    "fallback": "teenager swallowing a glowing relic"
+   }
+  },
+  {
+   "text": "Chapter 1, episode 1: Yuji makes one choice in Sendai, and the whole series turns on it.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Megumi cursed spirit school",
+    "fallback": "two students cornered by a monster at night"
+   },
+   "card": "JUNE 2018"
+  },
+  {
+   "text": "Yuji has just met Megumi Fushiguro that same day, and a curse has both of them cornered.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Megumi Fushiguro cornered",
+    "fallback": "tired student protecting another from a monster"
+   }
+  },
+  {
+   "text": "Yuji swallows one of Sukuna's fingers so he can exorcise the curse, and in the process he saves them both.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori swallows finger Megumi",
+    "fallback": "boy gulping a relic as a monster looms"
+   }
+  },
+  {
+   "text": "There is only a slim chance that a finger eater becomes a vessel, and Sukuna takes the body immediately.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna incarnates Yuji Itadori",
+    "fallback": "dark markings spreading over a boy's face"
+   }
+  },
+  {
+   "text": "He wakes up in a stranger's body and, within minutes, he is enjoying how fragile everyone around him is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna awakens Yuji body",
+    "fallback": "grinning boy with second pair of eyes opening"
+   }
+  },
+  {
+   "text": "From that moment he calls Yuji a brat, and he treats Yuji's stomach like a rented room.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji cheek mouth taunt",
+    "fallback": "extra mouth appearing on a boy's cheek"
+   }
+  },
+  {
+   "text": "He can grow an eye and a fanged mouth on Yuji's cheek just to taunt him without taking over.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji cheek mouth",
+    "fallback": "fanged mouth grinning from a teen's cheek"
+   }
+  },
+  {
+   "text": "Then comes chapter 8, where he shows exactly how he thinks, and it's the first piece of evidence in my argument.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji heart chapter 8",
+    "fallback": "king holding a glowing heart"
+   },
+   "card": "CHAPTER 8"
+  },
+  {
+   "text": "Sukuna takes Yuji's heart hostage, tearing it out to force a binding vow before he agrees to anything.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji heart binding vow",
+    "fallback": "king gripping a beating heart in his fist"
+   }
+  },
+  {
+   "text": "That moment tells you he's far from a mindless brute, because he's using a vow as a weapon on day one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna binding vow Yuji",
+    "fallback": "smirking tyrant offering a contract"
+   }
+  },
+  {
+   "text": "Then he fights Megumi in the Eishu Detention Center, and Megumi is a grade 2 sorcerer with a famous technique.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna vs Megumi Fushiguro chapter 9",
+    "fallback": "dark-haired student summoning shadows against a rival"
+   }
+  },
+  {
+   "text": "Sukuna overwhelms him anyway, even while weakening himself on purpose so Yuji can't just switch back in.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Megumi fight",
+    "fallback": "tyrant easily dodging a summoned beast"
+   }
+  },
+  {
+   "text": "Megumi's Great Serpent is destroyed, and he is ready to bring out Mahoraga before Yuji manages to take control back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Great Serpent destroyed Sukuna",
+    "fallback": "giant shadow serpent shattering in a corridor"
+   }
+  },
+  {
+   "text": "The wiki adds that Sukuna even implied Megumi could have beaten the other special grade curse himself, instead of fleeing from it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Megumi special grade implied",
+    "fallback": "king speaking to a battered student with a grin"
+   }
+  },
+  {
+   "text": "But look at what Sukuna says afterward: he's impressed, and he hints Megumi's talent was worth a longer look.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna impressed Megumi Fushiguro",
+    "fallback": "king smiling at a fallen student with interest"
+   }
+  },
+  {
+   "text": "That is the first seed of the plan that pays off in chapter 212, and he plants it before anyone notices.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna interest Megumi Ten Shadows",
+    "fallback": "dark gaze fixed on a student's shadow"
+   }
+  },
+  {
+   "text": "Meanwhile, even with only a few fingers, he pushes cursed spirits around like they're furniture.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Finger Bearer fight",
+    "fallback": "king casually knocking away a huge monster"
+   }
+  },
+  {
+   "text": "Against Mahito's group in chapter 28, four fingers are enough for him to resist Idle Transfiguration completely.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Mahito Idle Transfiguration",
+    "fallback": "patchwork curse failing to touch a smirking king"
+   }
+  },
+  {
+   "text": "Mahito walks away terrified and fascinated, and this is where the curses decide Sukuna's revival is worth everything.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahito Sukuna terrified fascinated",
+    "fallback": "patchwork curse staring at a smiling king with awe"
+   }
+  },
+  {
+   "text": "That decision leads straight to Shibuya, which is where the series changes, and where Sukuna becomes a real threat.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shibuya Incident Arc Sukuna",
+    "fallback": "burning city street under a dark curtain"
+   }
+  },
+  {
+   "text": "Mahito is the reason, since he came to believe Sukuna's revival would surely bring about an Age of Curses, according to chapter 32.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahito Age of Curses chapter 32",
+    "fallback": "patchwork curse gazing at a dark horizon"
+   }
+  },
+  {
+   "text": "For the first stretch of the story, notice that Sukuna mostly watches, tests, and plans.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna inside Yuji innate domain",
+    "fallback": "king lounging on a throne of bones"
+   }
+  },
+  {
+   "text": "Inside Yuji's body he has an entire domain of his own, with a throne and a field of ruin.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna innate domain Yuji",
+    "fallback": "king sitting in a vast sea of ruins"
+   }
+  },
+  {
+   "text": "Yuji can walk into it, and in chapter 11 Sukuna beats him with a single kick, completely unbothered.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna kick Yuji innate domain chapter 11",
+    "fallback": "king kicking a teenager across a field"
+   }
+  },
+  {
+   "text": "One reason this works at all is that Yuji can contain Sukuna with no ill effects.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori perceives souls Sukuna",
+    "fallback": "boy glancing at glowing soul shapes"
+   }
+  },
+  {
+   "text": "The wiki adds that Yuji resists poison because Sukuna's finger is considered lethal, so his body started adapting on day one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori poison resistance chapter 26",
+    "fallback": "boy shrugging off a green haze"
+   }
+  },
+  {
+   "text": "Gojo even places Yuji alongside Yuta Okkotsu and Kinji Hakari as the three students who might surpass his own strength, in chapter 11.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Yuji Yuta Hakari potential chapter 11",
+    "fallback": "white-haired teacher smiling at three students"
+   }
+  },
+  {
+   "text": "Megumi was the one who told Yuji to let Sukuna out in chapter 7, to exorcise the special grade curse.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Yuji Eishu Detention Center chapter 7",
+    "fallback": "student signaling a friend in a dim corridor"
+   }
+  },
+  {
+   "text": "That plan backfired, and it handed Sukuna temporary control of Yuji's body, which is how the fight with Megumi even started.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna takes control Yuji body chapter 8",
+    "fallback": "dark aura rising from a boy in a corridor"
+   }
+  },
+  {
+   "text": "Look closely and you'll see the pattern forming: Yuji keeps losing to Sukuna, and Sukuna keeps not taking him seriously.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji innate domain",
+    "fallback": "king looking down at a struggling boy"
+   }
+  },
+  {
+   "text": "Keep that pattern in mind, because it's the engine of this entire story, and it gets much worse in Shibuya...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Shibuya Incident Sukuna awakens",
+    "fallback": "dark aura erupting in a crowded station"
+   }
+  },
+  {
+   "text": "Sixteen fingers is how many Yuji has swallowed when Sukuna wakes in Shibuya, and the whole city feels it.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Sukuna awakens Shibuya Jogo fingers",
+    "fallback": "overwhelming cursed energy flooding a city street"
+   },
+   "card": "16 FINGERS"
+  },
+  {
+   "text": "In chapter 111, Jogo pulls out ten of Sukuna's fingers and announces that it's time for Sukuna to wake up.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jogo feeds Yuji Sukuna fingers chapter 111",
+    "fallback": "volcano spirit forcing relics into a boy's mouth"
+   }
+  },
+  {
+   "text": "Sukuna wakes with Jogo and the girls Nanako and Mimiko in front of him, and treats none of them as a threat.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Jogo one second chapter 112",
+    "fallback": "king staring down kneeling attackers"
+   }
+  },
+  {
+   "text": "Chapter 112 shows a Sukuna who simply doesn't care who he is talking to, whether it's a special grade curse or a child.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Nanako Mimiko Jogo",
+    "fallback": "king standing over cowering attackers"
+   }
+  },
+  {
+   "text": "The wiki describes his cursed energy as comparable to Gojo's, but far more sinister, and it shows up in every scene.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna cursed energy Shibuya",
+    "fallback": "ominous aura spreading from a smirking figure"
+   }
+  },
+  {
+   "text": "Then comes the Jogo fight, chapters 114 to 116, and it's the clearest picture of the gap between them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna vs Jogo Maximum Meteor",
+    "fallback": "volcano spirit charging a fiery blast against a king"
+   }
+  },
+  {
+   "text": "Jogo sets the area on fire, and Sukuna dodges his Maximum: Meteor and walks out of it unscathed.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Jogo Maximum Meteor Sukuna dodge",
+    "fallback": "massive meteor striking while a figure walks away unharmed"
+   }
+  },
+  {
+   "text": "He even asks why Jogo isn't using his domain, and Jogo answers that he'd lose a clash of domains.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Jogo domain question",
+    "fallback": "king curiously tilting his head at a burning enemy"
+   }
+  },
+  {
+   "text": "So Sukuna decides to beat Jogo at his own specialty and produces fire of his own.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna fire Jogo specialty",
+    "fallback": "king conjuring flames from his hand"
+   }
+  },
+  {
+   "text": "Jogo is shocked, because he thought Sukuna's technique was all about slashing things, and instead he sees a flame.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jogo shocked Sukuna fire",
+    "fallback": "volcano spirit stunned by an enemy's flame"
+   }
+  },
+  {
+   "text": "The gap here is enormous: Jogo is a special grade curse, and Sukuna treats him like a warm-up.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Jogo human weak",
+    "fallback": "king speaking calmly to a fading spirit"
+   }
+  },
+  {
+   "text": "In chapter 116, Sukuna ends the fight with Jogo's own specialty, and then does something unexpected.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Jogo ending chapter 116",
+    "fallback": "king standing in a burnt field"
+   }
+  },
+  {
+   "text": "He tells Jogo that he should be proud, and that Jogo is strong compared to the opponents of his own era.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna praises Jogo proud",
+    "fallback": "king speaking quietly to a fading rival"
+   }
+  },
+  {
+   "text": "It is worth saying how big the gap was, since with sixteen fingers he punched Jogo through skyscraper after skyscraper.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna punches Jogo through buildings chapter 115",
+    "fallback": "fist breaking through glass towers one after another"
+   }
+  },
+  {
+   "text": "Chapter 118 adds that he was punched through five buildings himself and was completely fine, so durability was never his weakness either.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna punched through five buildings Mahoraga",
+    "fallback": "king rising unharmed from rubble"
+   }
+  },
+  {
+   "text": "That's a compliment, and it's one of the few times the King of Curses respects someone because they actually fought him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jogo cries Sukuna",
+    "fallback": "tearful volcano spirit looking up at a king"
+   }
+  },
+  {
+   "text": "Keep that in mind, because the same Sukuna who praises a defeated curse is enraged by anyone who pities him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna angry pity",
+    "fallback": "furious king glaring at an outstretched hand"
+   }
+  },
+  {
+   "text": "Then Megumi summons Mahoraga as a last resort, and Sukuna shows up, healing Megumi because he has something planned.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna heals Megumi Mahoraga",
+    "fallback": "king kneeling beside an injured student"
+   }
+  },
+  {
+   "text": "Mahoraga is a divine general that adapts to everything, and the wiki says no one has ever beaten it alone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahoraga Divine General Sukuna",
+    "fallback": "eight-handled sword general standing in a ruined street"
+   }
+  },
+  {
+   "text": "Sukuna studies it, realizes Mahoraga can see his technique, and decides an outsider has to be the one to exorcise it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna studies Mahoraga adaptation",
+    "fallback": "king calmly watching a wheel turn above a giant"
+   }
+  },
+  {
+   "text": "In chapter 118, he opens his domain, with a two-hundred-meter reach that cuts everything inside it.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Sukuna Malevolent Shrine Mahoraga",
+    "fallback": "shrine of blades materializing in a ruined street"
+   },
+   "card": "MALEVOLENT SHRINE"
+  },
+  {
+   "text": "He turned Mahoraga's own regeneration against it, waiting for the adaptation to kick in and then changing the attack.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Mahoraga defeated domain",
+    "fallback": "giant general shattering inside a shrine of blades"
+   }
+  },
+  {
+   "text": "No user of the Ten Shadows Technique, and no Gojo with Limitless and the Six Eyes, had ever done that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna defeats Mahoraga",
+    "fallback": "king standing alone among shattered stone"
+   }
+  },
+  {
+   "text": "Afterward he carries Megumi to Shoko and Masamichi to be healed, because he has plans for that body and wants it intact.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna carries Megumi Shoko Masamichi",
+    "fallback": "king carrying an unconscious student through rubble"
+   }
+  },
+  {
+   "text": "Notice the part people skip: his domain has no outer barrier, and he still keeps the guaranteed hit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Malevolent Shrine open barrier domain",
+    "fallback": "open-air shrine with blades cutting a city"
+   }
+  },
+  {
+   "text": "The wiki says only Sukuna and Kenjaku can do that, like painting on air instead of a canvas.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Domain Expansion Malevolent Shrine no barrier",
+    "fallback": "painter drawing on thin air"
+   }
+  },
+  {
+   "text": "Then Yuji wakes up and sees what his body did, and this is the cruelest moment of the whole Shibuya arc.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori breaks down chapter 119",
+    "fallback": "teenager collapsing in a ruined street"
+   }
+  },
+  {
+   "text": "Sukuna points at the damage and tells Yuji to look at what he did, before handing the body back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji Shibuya damage",
+    "fallback": "king gesturing to a destroyed district"
+   }
+  },
+  {
+   "text": "In chapter 127 Yuji says he can't forgive himself, and that what he thought was his conviction was just an excuse.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Todo chapter 127 guilt",
+    "fallback": "tearful teenager confessing to a tall friend"
+   }
+  },
+  {
+   "text": "Nanami is gone, Nobara is hurt, and Yuji believes his hands did it, which is exactly the guilt Sukuna's whole nature feeds on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Todo Shibuya despair",
+    "fallback": "boy staring at his hands in a ruined street"
+   }
+  },
+  {
+   "text": "That crushing guilt is the first real crack in Sukuna's plan, though he doesn't see it yet.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori guilt Shibuya",
+    "fallback": "boy staring at his own hands"
+   }
+  },
+  {
+   "text": "Because the more Sukuna hurts Yuji, the more Yuji grows into something Sukuna can't classify.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori determined Sukuna",
+    "fallback": "determined teenager with burning eyes"
+   }
+  },
+  {
+   "text": "Meanwhile, Sukuna walked away from Shibuya with one more thing: a growing obsession with the boy who wouldn't break...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna watching Yuji",
+    "fallback": "king staring from the shadows at a teenager"
+   }
+  },
+  {
+   "text": "Skip ahead to the Culling Game, and the King of Curses is still waiting for the perfect body.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Culling Game Sukuna Yuji",
+    "fallback": "colony city under a sealed barrier"
+   }
+  },
+  {
+   "text": "Kenjaku is running his ritual, a Culling Game meant to merge Tengen with the people of Japan.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Culling Game Kenjaku Tengen merger",
+    "fallback": "sealed colonies glowing around Japan"
+   }
+  },
+  {
+   "text": "It's called the Great Merger in chapter 216, and the wiki says it would affect over one hundred million people.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Merger Kenjaku Tengen",
+    "fallback": "countless souls streaming into a glowing barrier"
+   },
+   "card": "GREAT MERGER"
+  },
+  {
+   "text": "Notice how far Kenjaku has to go: he even needs the game to end before the merger can begin.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku binding vow end permanent",
+    "fallback": "schemer binding himself with a glowing vow"
+   }
+  },
+  {
+   "text": "The rule he adds ends the game once everyone except Kenjaku, Uraume, and Sukuna is eliminated.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Culling Game rules Kenjaku Uraume Sukuna",
+    "fallback": "list of rules glowing on a floating screen"
+   }
+  },
+  {
+   "text": "So Sukuna has been written into the finale of someone else's script, and he knows it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Kenjaku Culling Game finale",
+    "fallback": "king watching a puppeteer from the shadows"
+   }
+  },
+  {
+   "text": "But the real problem for Sukuna is that Yuji's body is a poor fit for everything he wants.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna frustrated Yuji body",
+    "fallback": "king straining against a boy's smaller frame"
+   }
+  },
+  {
+   "text": "Yuji's vessel can't use Sukuna's technique properly, since in Yuji's body he's missing most of his fingers.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna limited Yuji body fingers",
+    "fallback": "king chained inside a small shell"
+   }
+  },
+  {
+   "text": "Meanwhile, Megumi has the Ten Shadows Technique, a prized inheritance of the Zenin clan, and Sukuna has noticed since chapter 9.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Fushiguro Ten Shadows Technique",
+    "fallback": "student forming a shadow shikigami hand sign"
+   }
+  },
+  {
+   "text": "In chapter 212, he executes a plan he's been sitting on for months.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Megumi possession chapter 212",
+    "fallback": "dark aura pouring into a student"
+   },
+   "card": "CHAPTER 212"
+  },
+  {
+   "text": "He tears off Yuji's pinky, turns it into a cursed object, and force-feeds it to Megumi to move his soul.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji pinky Megumi finger",
+    "fallback": "king forcing a glowing finger into a student's mouth"
+   }
+  },
+  {
+   "text": "That's the trick Kenjaku taught him, the soul-splitting trick, and he applies it to a body he has wanted for months.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna transfers soul Megumi",
+    "fallback": "glowing soul sliding from one body to another"
+   }
+  },
+  {
+   "text": "The wiki also says Sukuna grasps cursed techniques so well that he can work out how one functions after seeing it once or twice.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna analyzes cursed technique",
+    "fallback": "king studying an opponent with a calm smile"
+   }
+  },
+  {
+   "text": "He realized Megumi's potential just by seeing it once, then made a binding vow with Yuji and waited for the right moment.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna binding vow Yuji Megumi plan",
+    "fallback": "king waiting patiently with a thin smile"
+   }
+  },
+  {
+   "text": "Notice how patient he is, because he waited for the exact moment Yuji's guard dropped before moving.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna patient plan Megumi",
+    "fallback": "waiting predator watching its prey"
+   }
+  },
+  {
+   "text": "Yuji gets pierced through the gut and punched across the city with a single blow, and he still fights back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Megumi punches Yuji chapter 213",
+    "fallback": "teenager flying across rooftops after a punch"
+   }
+  },
+  {
+   "text": "Yuji loses his pinky finger and the extra eyes and markings that came with Sukuna, because Sukuna moved out of him entirely.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori loses pinky chapter 212",
+    "fallback": "boy staring at his bandaged hand"
+   }
+  },
+  {
+   "text": "Maki Zenin stands up to a sixteen-finger Sukuna in chapter 215, trading hand-to-hand blows and even shaking off a direct hit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Zenin Sukuna hand-to-hand chapter 215",
+    "fallback": "woman trading punches with a four-eyed king"
+   }
+  },
+  {
+   "text": "Then Sukuna turns on Hana Kurusu with a trick: he borrows Megumi's memories and acts like the boy is back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Hana Kurusu hug Megumi",
+    "fallback": "girl hugging someone while a dark smile forms"
+   }
+  },
+  {
+   "text": "She hugs him, and he hurts her badly in return, proving he isn't just strong, he's cruel at close range.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Hana Kurusu Sukuna Megumi chapter 213",
+    "fallback": "girl recoiling from a student with a hidden grin"
+   }
+  },
+  {
+   "text": "Notice that this fight has none of Sukuna's old swagger, because the new body is something he has to learn.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Megumi body learning",
+    "fallback": "king testing a new body's limits"
+   }
+  },
+  {
+   "text": "In chapter 214, he tells Yuji he can't understand why the weak cling to life instead of accepting their suffering.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna speaks to Yuji chapter 214",
+    "fallback": "king speaking coldly to an exhausted teenager"
+   }
+  },
+  {
+   "text": "Later, in chapter 251, Megumi's soul is plunged into despair after Sukuna forces him to kill Yorozu in Tsumiki's body.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Tsumiki Yorozu chapter 251",
+    "fallback": "student collapsing in grief inside a dark void"
+   }
+  },
+  {
+   "text": "That despair is the weapon, because Sukuna shows he is willing to demoralize Megumi's will even in an openly desperate attempt to live.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna demoralizes Megumi chapter 268",
+    "fallback": "dark hand pressing on a student's fading light"
+   }
+  },
+  {
+   "text": "That sounds like a philosophy, but I read it as a confession of what he can't process.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna philosophy insects humans",
+    "fallback": "king looking down at tiny figures"
+   }
+  },
+  {
+   "text": "Yuji vows he'll eat anything to take him down and free Megumi, and a month of preparation begins.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori vow eat anything Sukuna",
+    "fallback": "determined boy clenching his fist in a ruined hallway"
+   }
+  },
+  {
+   "text": "That month builds the people who will face him: Yuji trains, and a team forms around the raid.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori training Kusakabe Yuta",
+    "fallback": "students training hard in a gym"
+   }
+  },
+  {
+   "text": "Yuji learns reverse cursed technique and sharpens his reinforcement under Kusakabe and Yuta, per chapter 259.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori reverse cursed technique",
+    "fallback": "boy glowing with healing energy"
+   }
+  },
+  {
+   "text": "Maki, Todo, Choso, Hana and Yuta all end up in that raid, and every one of them matters.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuta Okkotsu plan raid Sukuna chapter 261",
+    "fallback": "serious swordsman proposing a bold plan"
+   }
+  },
+  {
+   "text": "All of it points at one date in the story, and the man at the center is not any of them...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Satoru Gojo Shinjuku",
+    "fallback": "white-haired sorcerer walking toward a city"
+   }
+  },
+  {
+   "text": "December 24th, 2018 is the day of Gojo and Sukuna's clash, per the Culling Game timeline.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Satoru Gojo vs Sukuna Shinjuku",
+    "fallback": "two powerful figures facing off across a wrecked street"
+   },
+   "card": "DECEMBER 24"
+  },
+  {
+   "text": "On the page, Gojo was the one person who could actually challenge Sukuna, and he states it plainly.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Satoru Gojo confident Sukuna",
+    "fallback": "white-haired sorcerer smiling confidently"
+   }
+  },
+  {
+   "text": "The wiki describes Gojo as the fastest sorcerer alive, capable of expanding his domain at least five times in a single day.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Satoru Gojo fastest domain five times",
+    "fallback": "white-haired sorcerer outpacing everyone"
+   }
+  },
+  {
+   "text": "He says it would be easy for him to overthrow the jujutsu society, if he actually wanted to.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Satoru Gojo overthrow higher-ups",
+    "fallback": "white-haired sorcerer calmly facing elders"
+   }
+  },
+  {
+   "text": "In the wiki's words, Gojo claimed he could defeat Sukuna at full power, and that is the whole stake of this fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Sukuna full power claim",
+    "fallback": "blindfolded sorcerer pointing toward a rival"
+   }
+  },
+  {
+   "text": "In chapter 221, Gojo returns and finds Sukuna protecting Kenjaku, and the fight finally begins around chapter 223.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo returns Sukuna chapter 221",
+    "fallback": "white-haired sorcerer arriving to confront a king"
+   }
+  },
+  {
+   "text": "Gojo opens with Hollow Technique: Purple at 200 percent, and Sukuna defends at the last second.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Gojo Hollow Purple 200 percent Sukuna",
+    "fallback": "huge purple sphere erasing the ground"
+   },
+   "card": "HOLLOW PURPLE"
+  },
+  {
+   "text": "He loses both hands to it, and reverse cursed technique brings them back almost immediately.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna loses hands Hollow Purple",
+    "fallback": "king regrowing his hands after a blast"
+   }
+  },
+  {
+   "text": "That is a huge feat, and it also shows how little Gojo's best opening move did against a regenerating king.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna regenerates hands",
+    "fallback": "king flexing newly restored hands"
+   }
+  },
+  {
+   "text": "Gojo's own side has run the numbers, and the numbers are brutal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kashimo Sukuna cursed energy chapter 225",
+    "fallback": "lightning sorcerer watching two titans fight"
+   }
+  },
+  {
+   "text": "Yuta says Sukuna has double the cursed energy that he has, or more, which is a staggering number.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuta Okkotsu Sukuna double cursed energy",
+    "fallback": "swordsman looking astonished at enormous power"
+   }
+  },
+  {
+   "text": "I think that makes Gojo's confidence matter even more, because he claimed he could win anyway.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Sukuna Shinjuku fight",
+    "fallback": "white-haired sorcerer looking determined at a battlefield"
+   }
+  },
+  {
+   "text": "Sukuna's first domain in the fight is Malevolent Shrine, and it overpowers Gojo's Unlimited Void.",
+   "delivery": "reveal",
+   "fx": "shake",
+   "shot": {
+    "search": "Malevolent Shrine overpowers Unlimited Void",
+    "fallback": "dark shrine of blades cracking a starry void"
+   },
+   "card": "DOMAIN CLASH"
+  },
+  {
+   "text": "Chapter 225 is where Sukuna's Malevolent Shrine overpowers Unlimited Void, and for once Gojo is the one on the back foot here.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Malevolent Shrine opens chapter 225",
+    "fallback": "shrine rising beside a starry sphere"
+   }
+  },
+  {
+   "text": "That had never happened to Gojo before, and the wiki describes him taking countless hits from the shrine.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Malevolent Shrine blades",
+    "fallback": "sorcerer under a rain of blades in a dark shrine"
+   }
+  },
+  {
+   "text": "Why does it work? Because the Shrine's sure-hit reaches outside the barrier, and Unlimited Void doesn't protect from outside attacks.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Dismantle breaks Unlimited Void",
+    "fallback": "blade strikes cracking a spherical barrier"
+   }
+  },
+  {
+   "text": "Gojo's answer is to use reverse cursed technique at full throttle, healing every cut instantly without slowing down.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo reverse cursed technique full output",
+    "fallback": "sorcerer glowing with healing energy under attack"
+   }
+  },
+  {
+   "text": "The wiki says he did this without showing pain, and that bought him time to recover his technique.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo recovers cursed technique",
+    "fallback": "sorcerer calmly recovering under pressure"
+   }
+  },
+  {
+   "text": "Then he used Simple Domain to open a gap, and I think that's his best piece of improvisation in the fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Simple Domain Sukuna",
+    "fallback": "sorcerer shielded by a small ring of light"
+   }
+  },
+  {
+   "text": "Both of them also forcibly healed their exhausted techniques by damaging the engraving in their brains.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Sukuna heal technique brain engraving",
+    "fallback": "two sorcerers clutching their heads as light flickers"
+   }
+  },
+  {
+   "text": "That is the kind of detail that shows how many layers these two have, far beyond power levels.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Sukuna reverse cursed technique",
+    "fallback": "two powerful sorcerers healing themselves"
+   }
+  },
+  {
+   "text": "In chapter 227, Gojo changes the conditions of his domain, and even Kusakabe, an expert on barriers, is astonished.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo domain conditions chapter 227 Kusakabe",
+    "fallback": "veteran swordsman astonished by a glowing barrier"
+   },
+   "card": "CHAPTER 227"
+  },
+  {
+   "text": "Then in chapter 232, Gojo lands a Black Flash when Sukuna least expects it, and it knocks him unconscious.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Black Flash Sukuna chapter 232",
+    "fallback": "black lightning striking a king's face"
+   },
+   "card": "BLACK FLASH"
+  },
+  {
+   "text": "Gojo also did what Yuji and Maki could not, which is injure Sukuna critically using martial arts alone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo hand-to-hand Sukuna",
+    "fallback": "white-haired sorcerer striking a king in close combat"
+   }
+  },
+  {
+   "text": "Sukuna's own Dismantle and Cleave can cut skyscrapers in half, and Yuta's Cleave only left minor cuts on Sukuna's face in chapter 250.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Dismantle Cleave skyscraper",
+    "fallback": "thin blades splitting a tower in half"
+   }
+  },
+  {
+   "text": "Kashimo watches Sukuna shift between Domain Amplification and his technique without a flaw, and he is astonished.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kashimo astonished Sukuna Domain Amplification",
+    "fallback": "lightning sorcerer watching a king shift techniques"
+   }
+  },
+  {
+   "text": "Sukuna can even keep his own heart beating with cursed energy after it is pierced, which the wiki notes in chapter 252.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna heart cursed energy chapter 252",
+    "fallback": "king smirking with a glowing chest"
+   }
+  },
+  {
+   "text": "So at this point of the fight, Gojo is winning, and I think anyone watching would have bet on it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo winning Sukuna",
+    "fallback": "sorcerer standing over a stunned king"
+   }
+  },
+  {
+   "text": "By the end, Sukuna will have expanded his domain three times in this one fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna domain three times Gojo",
+    "fallback": "king raising a domain again with a grin"
+   }
+  },
+  {
+   "text": "Even so, the wiki says his cursed energy only dropped to Yuta's level, which was enough for two more domains.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna cursed energy chapter 250",
+    "fallback": "king with a steady aura after a long fight"
+   }
+  },
+  {
+   "text": "That's the thing about this duel: Gojo has to be perfect for every second, and Sukuna only has to be right once.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Sukuna Shinjuku showdown tension",
+    "fallback": "two fighters circling each other in rubble"
+   }
+  },
+  {
+   "text": "Gojo never shows signs of tiring either, and the wiki says he reinforced himself and activated techniques over and over without running dry.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo reinforcement techniques Sukuna",
+    "fallback": "sorcerer glowing steadily during a long fight"
+   }
+  },
+  {
+   "text": "Gojo then fires an unlimited Hollow Purple in chapter 234, and it wipes out Mahoraga and a large part of Shinjuku.",
+   "delivery": "normal",
+   "fx": "flash",
+   "shot": {
+    "search": "Gojo unlimited Hollow Purple Mahoraga",
+    "fallback": "enormous purple blast flattening a city district"
+   }
+  },
+  {
+   "text": "The wiki says that Hollow Purple destroyed Mahoraga completely and decimated a large area of Shinjuku.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hollow Purple destroys Mahoraga Shinjuku",
+    "fallback": "crater where a city district used to be"
+   }
+  },
+  {
+   "text": "Sukuna survives it barely, standing with severe injuries and one chance left to turn the match around.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna survives Hollow Purple chapter 235",
+    "fallback": "battered king struggling to stand in rubble"
+   }
+  },
+  {
+   "text": "This is the moment the fight is decided, and what Sukuna does next is make a binding vow.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna binding vow World Cutting Cutting",
+    "fallback": "king clenching his fist as glowing chains form"
+   }
+  },
+  {
+   "text": "He makes a vow that lets him bypass the conditions of the world-cutting technique and fire it, per chapter 255's recap.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna binding vow World Cutting",
+    "fallback": "king clenching his fist as glowing chains form"
+   }
+  },
+  {
+   "text": "In chapter 236, it lands when Gojo least expects it, and the strongest sorcerer of the modern age is cut in two.",
+   "delivery": "reveal",
+   "fx": "shake",
+   "shot": {
+    "search": "Gojo defeated chapter 236 Sukuna",
+    "fallback": "white-haired sorcerer staring in disbelief as a cutting approaches"
+   },
+   "card": "CHAPTER 236"
+  },
+  {
+   "text": "Keep that image in mind, because Sukuna won the fight he was supposed to lose on paper.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna victory Gojo",
+    "fallback": "king standing alone in a ruined city"
+   }
+  },
+  {
+   "text": "Stack up everything in this fight and you'll notice Gojo never lost on power, he lost on one moment.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Sukuna final moment",
+    "fallback": "sorcerer realizing too late"
+   }
+  },
+  {
+   "text": "That is a very Sukuna way to win: patient, opportunistic, and smart enough to turn a single mistake into a victory.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna smirk victory",
+    "fallback": "grinning king with his arms crossed"
+   }
+  },
+  {
+   "text": "But the King of Curses has just erased the one person who respected him as an equal, and he doesn't know it yet...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Gojo aftermath",
+    "fallback": "king staring at the empty space where a rival stood"
+   }
+  },
+  {
+   "text": "With Gojo gone, the raid on Sukuna moves into its next phase, and the next sorcerers in line are far weaker.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ryomen Sukuna raid sorcerers",
+    "fallback": "group of sorcerers assembling for a final stand"
+   }
+  },
+  {
+   "text": "That's exactly where Hajime Kashimo steps in, a sorcerer from 400 years ago who entered the Culling Game just to fight Sukuna.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hajime Kashimo Sukuna challenge",
+    "fallback": "lightning-clad sorcerer facing a tired king"
+   }
+  },
+  {
+   "text": "In chapter 237, Kashimo pressures Sukuna so hard that he is forced to finish his incarnation.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kashimo Mythical Beast Amber Sukuna",
+    "fallback": "lightning beast pushing a king backward"
+   },
+   "card": "CHAPTER 237"
+  },
+  {
+   "text": "He asks Sukuna a question that fits our theme: was Sukuna born the strongest, or did he earn it?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kashimo question Sukuna strongest",
+    "fallback": "lightning sorcerer asking a king a quiet question"
+   }
+  },
+  {
+   "text": "Kashimo also asks if true strength means solitude, if it's a cross the strongest must carry.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kashimo Sukuna solitude",
+    "fallback": "lonely warrior kneeling before a king"
+   }
+  },
+  {
+   "text": "In chapter 238, Sukuna answers that connecting with others by showing your strength is a kind of love.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Kashimo love answer chapter 238",
+    "fallback": "king speaking gently to a defeated challenger"
+   }
+  },
+  {
+   "text": "The wiki adds that Sukuna sees responding in kind to sorcerers who sharpened themselves to kill him as his way of connection.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna connection sorcerers sharpened",
+    "fallback": "king surrounded by challengers with a calm face"
+   }
+  },
+  {
+   "text": "That might be the most honest thing he says in the whole story, and also the most revealing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna honest Kashimo",
+    "fallback": "king with a rare quiet expression"
+   }
+  },
+  {
+   "text": "The wiki adds that he considers love worthless and hates the idea of needing another person to satisfy him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna love worthless",
+    "fallback": "king scoffing at an outstretched hand"
+   }
+  },
+  {
+   "text": "His idea of a relationship is a fight, and his idea of respect is making someone's best effort matter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna respect opponents fight",
+    "fallback": "king nodding to a kneeling rival"
+   }
+  },
+  {
+   "text": "Which means he has no way to read someone who doesn't fight him to win a relationship at all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna confused Yuji",
+    "fallback": "king puzzled at a boy who refuses to fight like others"
+   }
+  },
+  {
+   "text": "And that matters, because Yuji's cursed energy came from pieces of Sukuna himself, and he kept a huge pool even after Sukuna left.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori cursed energy pool",
+    "fallback": "boy glowing with dark energy"
+   }
+  },
+  {
+   "text": "That's Yuji, and he's about to become Sukuna's biggest problem, one chapter at a time.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Sukuna raid chapter 246",
+    "fallback": "determined boy racing toward a tall king"
+   }
+  },
+  {
+   "text": "With his full body unlocked, Sukuna can outrun Yuji, and he's using hand-to-hand and Black Flash on the raid.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Black Flash Maki chapter 253",
+    "fallback": "black lightning punch sending a woman flying"
+   }
+  },
+  {
+   "text": "His first Black Flash lands on Maki Zenin in chapter 253, and he'll land seven in the whole battle.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Black Flash Maki Zenin",
+    "fallback": "black sparks surrounding a king's fist"
+   },
+   "card": "7 BLACK FLASHES"
+  },
+  {
+   "text": "He hits Larue next, then Maki again, then Choso, then Yuji, then Todo, and then Hana.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Black Flash Larue Choso Todo",
+    "fallback": "king landing black lightning punches on different targets"
+   }
+  },
+  {
+   "text": "Yuji answers with seven consecutive Black Flashes of his own, which breaks Nanami's old record of four.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori seventh Black Flash Sukuna chapter 257",
+    "fallback": "teenager hitting with black lightning repeatedly"
+   },
+   "card": "CHAPTER 257"
+  },
+  {
+   "text": "Gojo's own Black Flash record, which topped Nanami's total, was eventually surpassed by Yuji, as chapter 256 notes.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Gojo Black Flash record chapter 256",
+    "fallback": "black lightning crackling around a teenager's fist"
+   }
+  },
+  {
+   "text": "That string of hits disrupts Sukuna's connection with Megumi's soul and lowers his cursed energy output and control.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Black Flash Sukuna weakened",
+    "fallback": "black sparks cracking a king's guard"
+   }
+  },
+  {
+   "text": "Larue's Cutie Honey distracts the King in chapter 256, and that gives Yuji the opening for his very first Black Flash against him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Larue Cutie Honey Sukuna chapter 256",
+    "fallback": "cheerful sorcerer waving a distraction at a king"
+   }
+  },
+  {
+   "text": "I think this is where the story proves its theory: the weaker man on paper, the one he dismisses, keeps landing blows.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Sukuna fight",
+    "fallback": "teenager landing a clean hit on a stunned king"
+   }
+  },
+  {
+   "text": "Even so, Sukuna fights back with improvised binding vows that remove everyone from the battlefield except Yuji.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna domain binding vow chapter 258",
+    "fallback": "king raising a domain as allies disappear"
+   },
+   "card": "CHAPTER 258"
+  },
+  {
+   "text": "Those vows let him expand his domain without lowering its output, and he tilts the fight right back.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna domain expansion Yuji alone",
+    "fallback": "king smiling inside a freshly opened shrine"
+   }
+  },
+  {
+   "text": "Later, in chapter 260, Todo's Boogie Woogie provides the distraction for Yuji's eighth Black Flash, landing right on Sukuna's chest.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Todo Boogie Woogie Yuji eighth Black Flash",
+    "fallback": "tall fighter clapping his hands as a punch lands"
+   }
+  },
+  {
+   "text": "Chapter 258 shows what Sukuna does when cornered: he's flexible, clever, and ruthless about the rules.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna cornered improvises",
+    "fallback": "king rewriting the rules mid-fight"
+   }
+  },
+  {
+   "text": "Meanwhile, Yuta decides he needs Sukuna's technique, and in chapter 267 Yuji gives up his left ring finger.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuta Okkotsu copies Sukuna technique",
+    "fallback": "swordsman eating a finger to copy a technique"
+   }
+  },
+  {
+   "text": "The wiki says Yuta used Yuji's finger to copy Sukuna's technique, giving the raid a new weapon.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuta Okkotsu Yuji ring finger Sukuna technique",
+    "fallback": "swordsman preparing to copy a deadly technique"
+   }
+  },
+  {
+   "text": "Megumi, trapped inside, regains his will after Yuji reaches him, and holds Sukuna in place with his own technique.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Fushiguro holds Sukuna chapter 266",
+    "fallback": "shadow hands gripping a king from within"
+   }
+  },
+  {
+   "text": "That moment turns the raid, because it proves Sukuna's greatest hold on Megumi was despair, and despair can be reversed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Fushiguro regains will Sukuna",
+    "fallback": "student rising with new resolve inside a dark void"
+   }
+  },
+  {
+   "text": "And the final fight, the one that ended the King, happens in a place that belongs to Yuji alone...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori domain expansion",
+    "fallback": "teenager opening a glowing domain over a field"
+   }
+  },
+  {
+   "text": "Yuji's Domain Expansion is chapter 265, and he doesn't use it to hurt Sukuna, he uses it to show him a place.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori domain expansion Sukuna childhood",
+    "fallback": "quiet rice field under an afternoon sky"
+   },
+   "card": "CHAPTER 265"
+  },
+  {
+   "text": "Sukuna wanders through Yuji's childhood memories, with grasshoppers in the rice fields and the town he grew up in.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori childhood domain Sukuna",
+    "fallback": "king walking alone through a peaceful field"
+   }
+  },
+  {
+   "text": "The wiki says Yuji felt pity for him, and offered him one last chance to surrender out of mercy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji offers Sukuna mercy surrender",
+    "fallback": "teenager reaching out a hand to an angry king"
+   }
+  },
+  {
+   "text": "That's the thing the King of Curses can't handle: he's enraged by pity, because his identity is built on being strongest.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna enraged pity Yuji",
+    "fallback": "furious king glaring at a kind teenager"
+   }
+  },
+  {
+   "text": "Offering mercy to Sukuna tells him he's weak, and in his own mind, nothing could be worse than that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna angry chapter 265",
+    "fallback": "king gritting his teeth in rage"
+   }
+  },
+  {
+   "text": "Chapter 248 gives the clearest hint: Yuji challenges Sukuna's worldview just by being his opposite.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori opposite Sukuna chapter 248",
+    "fallback": "two silhouettes standing back to back in light and shadow"
+   },
+   "card": "CHAPTER 248"
+  },
+  {
+   "text": "The wiki says that fills Sukuna with a hatred he can't describe, unlike anything he has felt before.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna hatred Yuji",
+    "fallback": "king trembling with unexplained fury"
+   }
+  },
+  {
+   "text": "Add the fact that Yuji is the grandson of Sukuna's reincarnated twin brother, as chapter 257 and volume 29 note.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Sukuna twin brother grandson",
+    "fallback": "two faces side by side connected by a faint line"
+   }
+  },
+  {
+   "text": "Chapter 248 stresses the point: Yuji wins no argument with Sukuna, he just keeps being the opposite of him, again and again.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Sukuna opposite",
+    "fallback": "boy standing firm against a looming king"
+   }
+  },
+  {
+   "text": "Even knowing that, Sukuna refuses to treat Yuji as a threat, which is the blind spot I've been pointing at all along.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna dismisses Yuji",
+    "fallback": "king waving off a teenager with a smirk"
+   }
+  },
+  {
+   "text": "He also admits in chapter 237 that his own upbringing left resentment, which is the closest he gets to describing what shaped him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna resentment upbringing chapter 237",
+    "fallback": "king staring at an old memory"
+   }
+  },
+  {
+   "text": "He understood power, he understood technique, and he understood strategy, but he never understood what Yuji was fighting for.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji ideology",
+    "fallback": "king staring at a boy he cannot read"
+   }
+  },
+  {
+   "text": "So when the final blows come, they come from the people he never counted: Nobara, Todo, and Yuta.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nobara Todo Yuta Sukuna final fight",
+    "fallback": "three allies appearing behind a teenager"
+   }
+  },
+  {
+   "text": "In chapter 267, an unexpected Resonance from Nobara weakens Sukuna, and Yuji hits him with Divergent Fist.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Nobara Resonance Sukuna chapter 267",
+    "fallback": "hammer and nails striking a king from behind"
+   },
+   "card": "RESONANCE"
+  },
+  {
+   "text": "Then comes Yuji's ninth and final Black Flash, and the wiki says that is the blow that ends the fight.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Yuji Itadori ninth Black Flash Sukuna",
+    "fallback": "black lightning striking a king's chest"
+   },
+   "card": "9 BLACK FLASHES"
+  },
+  {
+   "text": "Yuji separates Sukuna from Megumi's soul, and Sukuna can only tell him his attempts at leveling with him were a farce.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna defeated Yuji chapter 268",
+    "fallback": "king fading while a teenager stands over him"
+   }
+  },
+  {
+   "text": "Even in defeat, he refuses mercy, and he calls it a long-standing farce rather than admit Yuji got through.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna refuses mercy chapter 268",
+    "fallback": "defeated king turning away from an outstretched hand"
+   }
+  },
+  {
+   "text": "The wiki calls this his refusal of mercy on the verge of defeat, because accepting it would mean admitting Yuji won.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna refuses mercy Yuji",
+    "fallback": "king turning his face away"
+   }
+  },
+  {
+   "text": "Yuji, for his part, says the way someone dies doesn't matter, and that treating lives as worthless is the thing he can't stand.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori worldview life value",
+    "fallback": "boy speaking quietly in a sunlit field"
+   }
+  },
+  {
+   "text": "He also now believes that living a mundane life still leaves value behind in the memories that continue after someone is gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori memories mundane life",
+    "fallback": "boy looking at drifting fragments of memory"
+   }
+  },
+  {
+   "text": "Megumi's will returns at the same time, and he says he'll go back to living for others before Sukuna is stripped away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Fushiguro free of Sukuna",
+    "fallback": "student standing straight with a quiet resolve"
+   }
+  },
+  {
+   "text": "After the separation, Megumi carries three scars matching the eyes of Sukuna's incarnated form, per chapter 268.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Fushiguro scars face chapter 268",
+    "fallback": "dark-haired student with three faint scars on his face"
+   }
+  },
+  {
+   "text": "Notice what that means: the King of Curses, even beaten, left a permanent mark on the one body he coveted.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi scars Sukuna mark",
+    "fallback": "student touching a scar beneath his eye"
+   }
+  },
+  {
+   "text": "It's a small detail, but it says the incarnation was never a clean takeover, and neither was the loss.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Fushiguro after Sukuna",
+    "fallback": "tired student looking at the sky"
+   }
+  },
+  {
+   "text": "Megumi is free of him afterward, but the three scars he carries are a permanent reminder of the King who lived inside him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Megumi Fushiguro scars reminder",
+    "fallback": "student looking at his reflection quietly"
+   }
+  },
+  {
+   "text": "The last piece of the Culling Game falls with him too, since the Great Merger was prevented, according to chapter 270.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Merger prevented chapter 270",
+    "fallback": "glowing barrier collapsing into quiet light"
+   }
+  },
+  {
+   "text": "Tengen's remains were left in Sukuna, so with his defeat the ritual lost its purpose.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tengen vestiges Sukuna remains",
+    "fallback": "faint barrier energy fading from a fallen figure"
+   }
+  },
+  {
+   "text": "Kenjaku's failsafe moved Tengen's remains into Sukuna and gave him the authority to end the Culling Game, per chapter 248.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Culling Game authority rule",
+    "fallback": "king holding a glowing rule scroll"
+   }
+  },
+  {
+   "text": "So Kenjaku's whole ritual dies with Sukuna's defeat, but the King of Curses still has one last place to go...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku plan failure Sukuna",
+    "fallback": "schemer watching his plan fall apart"
+   }
+  },
+  {
+   "text": "Sukuna's story doesn't end on the battlefield, because chapter 271 follows him into the passageway for souls.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna passageway of souls chapter 271",
+    "fallback": "king walking alone through a pale endless corridor"
+   },
+   "card": "CHAPTER 271"
+  },
+  {
+   "text": "There, Mahito accuses him of lying to himself about wanting revenge on those who scorned him long ago.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahito Sukuna chapter 271 passageway",
+    "fallback": "patchwork curse taunting a king in a pale hall"
+   }
+  },
+  {
+   "text": "Sukuna doesn't deny it, which is the first time we see him choose honesty over pride.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna accepts Mahito accusation",
+    "fallback": "king quietly nodding in a pale hall"
+   }
+  },
+  {
+   "text": "He even says that if he hadn't feared the flames of his own curse, he might have taken a less destructive path.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna confession less destructive path",
+    "fallback": "king reflecting with tired eyes"
+   }
+  },
+  {
+   "text": "The wiki adds that he seems open to changing his ways if he is reincarnated, and he accepts his loss.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna accepts loss reincarnation",
+    "fallback": "king stepping calmly toward a bright light"
+   }
+  },
+  {
+   "text": "That is the closest this story gets to a redemption.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna passageway reflection",
+    "fallback": "king looking toward a faint light"
+   }
+  },
+  {
+   "text": "Mahito, on the other hand, calls him soft for choosing a different path, and stays stuck in the passage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahito Sukuna going soft",
+    "fallback": "patchwork curse mocking a departing king"
+   }
+  },
+  {
+   "text": "Mahito, the wiki says, laments that he will be the only one stuck there.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahito sixty-eight years later passage",
+    "fallback": "patchwork curse lingering in a pale hall"
+   }
+  },
+  {
+   "text": "That contrast says a lot, because the curses who worshipped Sukuna never grasped the thing that finally moved him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mahito Sukuna contrast",
+    "fallback": "two silhouettes parting ways in a pale hall"
+   }
+  },
+  {
+   "text": "Uraume, the child he once took in, is the one other soul who followed him from his own era.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uraume Sukuna loyal",
+    "fallback": "pale figure waiting beside a king"
+   }
+  },
+  {
+   "text": "Look back at Kashimo asking whether strength means being alone, because the ending suggests Sukuna decided other people couldn't matter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kashimo Sukuna alone",
+    "fallback": "lonely king on a hilltop"
+   }
+  },
+  {
+   "text": "So here is my verdict on how the strongest sorcerer in history was beaten: he was never beaten by strength.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna defeated Yuji",
+    "fallback": "king kneeling before a determined teenager"
+   }
+  },
+  {
+   "text": "The first piece of evidence is chapter 8, where he treated Yuji's life as a bargaining chip.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji bargaining chip",
+    "fallback": "king holding a heart as a trade"
+   }
+  },
+  {
+   "text": "The second is Shibuya, where he used Yuji's body and then handed it back, expecting guilt to finish the job.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji guilt Shibuya",
+    "fallback": "king smirking at a broken boy"
+   }
+  },
+  {
+   "text": "The third is the Gojo fight, where he won, and then trusted that every other sorcerer was just more of the same.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna after Gojo fight",
+    "fallback": "king surveying new challengers with contempt"
+   }
+  },
+  {
+   "text": "The fourth is the final fight, where pity from the one person he refused to respect was the thing he could not survive.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna pity Yuji final",
+    "fallback": "king staring at an outstretched hand with fury"
+   }
+  },
+  {
+   "text": "Now the strongest counter-argument: some fans say Sukuna lost because he was weakened by the vessel swap and Gojo's damage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna weakened Gojo damage",
+    "fallback": "battered king breathing hard in rubble"
+   }
+  },
+  {
+   "text": "That's fair, and the wiki confirms he was hurt, but he still had enough cursed energy for two more domains.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna cursed energy two more domains",
+    "fallback": "king with a steady aura despite marks"
+   }
+  },
+  {
+   "text": "Power was never the problem, so the blind spot argument still holds, and I think it's the better explanation.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna Yuji final blow",
+    "fallback": "teenager landing a final strike on a king"
+   }
+  },
+  {
+   "text": "There is one more irony worth saying out loud: the King of Curses wanted to be remembered as someone nobody could beat.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sukuna legacy king of curses",
+    "fallback": "statue of a four-armed king in ruins"
+   }
+  },
+  {
+   "text": "Instead, the thing that finished him was a teenage boy who swallowed his finger in Sendai.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori Sukuna finger first meeting",
+    "fallback": "teenager holding a withered finger at night"
+   }
+  },
+  {
+   "text": "In the end, Sukuna fell to a boy he never understood.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Yuji Itadori mercy Sukuna",
+    "fallback": "teenager extending a hand toward a defeated king"
+   }
+  },
+  {
+   "text": "If you want the other side of that story, how Yuta's copy of Sukuna's technique turned the raid, that is the next story.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuta Okkotsu Sukuna copy",
+    "fallback": "swordsman holding a copied technique in his hand"
+   }
+  }
+ ],
+ "chapters": [
+  {
+   "line": 0,
+   "title": "The Claim"
+  },
+  {
+   "line": 5,
+   "title": "The Man Behind The Myth"
+  },
+  {
+   "line": 30,
+   "title": "A Deal With Kenjaku"
+  },
+  {
+   "line": 52,
+   "title": "A Finger In Sendai"
+  },
+  {
+   "line": 83,
+   "title": "Shibuya Changes Everything"
+  },
+  {
+   "line": 116,
+   "title": "The Body He Wanted"
+  },
+  {
+   "line": 146,
+   "title": "Gojo Versus The King"
+  },
+  {
+   "line": 188,
+   "title": "What The King Believed"
+  },
+  {
+   "line": 218,
+   "title": "The Last Domain"
+  },
+  {
+   "line": 247,
+   "title": "What Was Left"
+  }
+ ],
+ "thumbnail": {
+  "text": "UNDEFEATED?",
+  "highlight": "UNDEFEATED",
+  "search": "Sukuna smirk",
+  "search2": "Yuji Itadori angry",
+  "device": "split"
+ },
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Sukuna",
+  "https://jujutsu-kaisen.fandom.com/wiki/Chapter_227",
+  "https://sportskeeda.com/anime/the-entire-yuji-vs-sukuna-fight-jujutsu-kaisen-s-shinjuku-showdown-arc-explained"
+ ],
+ "self_check": {
+  "hook": "Line 1 names Sukuna and states the claim that power alone did not end the King of Curses, then asks how a boy beat him by line 3.",
+  "loop": "The final line points to a related story rather than looping.",
+  "facts_verified": true
+ }
+}

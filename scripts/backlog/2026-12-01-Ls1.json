@@ -1,0 +1,41 @@
+{
+ "id": "2026-12-01-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Rocks turned Loki away every time he asked to join, and that refusal shaped Loki's whole path (side point of the curse long)",
+ "title": "Rocks Turned Loki Away Every Single Time (1158)",
+ "description": "Loki begged to join Rocks on every visit and heard no every time. Chapter 1158 shows how that refusal shaped the giant prince. Do you think Rocks was cruel or protecting him?",
+ "hashtags": ["#loki", "#rocks", "#onepiece", "#anime"],
+ "tags": ["loki rocks", "rocks d xebec", "one piece 1158", "one piece loki", "elbaph arc", "one piece theory", "loki backstory", "one piece 1180"],
+ "hook_text": "ROCKS SAID NO",
+ "music_mood": "emotional",
+ "comment": "Did Rocks refuse Loki out of cruelty, or because he saw the curse in him? Pick one.",
+ "related_long": "2026-12-01-L",
+ "end_text": "WHERE LOKI'S CURSE BEGAN",
+ "pages": ["Loki", "Rocks D. Xebec", "Elbaph Arc"],
+ "lines": [
+  {"text": "Loki begged Rocks to take him aboard, and Rocks said no every single time.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Loki Rocks D. Xebec begs join", "fallback": "giant teen kneeling before a pirate captain"}},
+  {"text": "Chapter 1158 shows how often it happened.", "delivery": "normal", "fx": "none", "shot": {"search": "Loki Rocks Pirates Elbaph visit", "fallback": "pirate ship docked beside a giant castle"}},
+  {"text": "Rocks came to recruit King Harald. Never the boy.", "delivery": "normal", "fx": "none", "shot": {"search": "Rocks D. Xebec Harald recruit", "fallback": "pirate captain talking to a giant king"}},
+  {"text": "Loki waited every visit anyway.", "delivery": "slow", "fx": "none", "shot": {"search": "Loki young waiting Rocks", "fallback": "giant boy watching a ship arrive"}},
+  {"text": "He even challenged Rocks to a duel, and got beaten badly for it.", "delivery": "normal", "fx": "shake", "shot": {"search": "Loki challenges Rocks duel", "fallback": "boy giant facing a pirate captain with a club"}},
+  {"text": "Another time, he told Rocks he thought the pirate was Nika.", "delivery": "normal", "fx": "none", "shot": {"search": "Loki Nika Rocks D. Xebec", "fallback": "child pointing at a glowing sun symbol"}},
+  {"text": "Rocks never gave him a yes, and never came back.", "delivery": "normal", "fx": "none", "shot": {"search": "Loki newspaper Rocks exploits", "fallback": "giant reading a newspaper alone at night"}},
+  {"text": "Then, thirty eight years ago, he reads about God Valley and weeps openly.", "delivery": "slow", "fx": "none", "shot": {"search": "God Valley Incident Rocks Pirates", "fallback": "newspaper with a burning island on the front"}},
+  {"text": "Some fans say Rocks was just using him. I don't buy it.", "delivery": "aside", "fx": "none", "shot": {"search": "Rocks D. Xebec grin", "fallback": "dark haired pirate captain grinning"}},
+  {"text": "A man who wanted a tool would have said yes the first time.", "delivery": "reveal", "fx": "none", "shot": {"search": "Rocks D. Xebec Loki refuses", "fallback": "pirate captain shaking his head at a boy"}},
+  {"text": "Chapter 1180 backs that up. When Imu names Rocks, Loki listens like a student.", "delivery": "normal", "fx": "none", "card": "", "shot": {"search": "Imu Loki Rocks Elbaph", "fallback": "horned giant staring at a pale ruler"}},
+  {"text": "My read: being turned away was the proof that Rocks was worth following.", "delivery": "reveal", "fx": "none", "shot": {"search": "Loki Sun God declaration", "fallback": "giant prince before a rising sun"}},
+  {"text": "But why was a cursed prince so desperate for approval?", "delivery": "normal", "fx": "none", "shot": {"search": "Loki accursed prince Elbaph", "fallback": "lonely giant child in a snowy castle"}},
+  {"text": "Ask Loki, and he'll say he begged Rocks to take him aboard...", "delivery": "punch", "fx": "none", "shot": {"search": "Loki Rocks D. Xebec Elbaph", "fallback": "giant teen kneeling before a pirate captain"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Loki",
+  "https://www.sportskeeda.com/anime/who-loki-one-piece-explained",
+  "https://comic-watch.com/comic-book-reviews/one-piece-chapter-1193-still-practicing"
+ ],
+ "self_check": {"hook": "Contrarian hidden detail on Rocks refusing Loki; line 1 names Loki and Rocks", "loop": "last line leads back into line 1", "facts_verified": true}
+}

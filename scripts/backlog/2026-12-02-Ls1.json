@@ -1,0 +1,160 @@
+{
+  "id": "2026-12-02-Ls1",
+  "format": "short",
+  "series": "jjk",
+  "wiki": "jujutsu-kaisen.fandom.com",
+  "topic": "Gojo was sealed by a one minute loophole inside his own head, not by a stronger sorcerer",
+  "title": "Gojo's Sealing Needed Only One Minute Of Memories",
+  "description": "Gojo's defeat in Shibuya was a loophole: the sealing cube only needed one minute to pass inside his brain. Here is how Geto's face did what no technique could.",
+  "hashtags": [
+    "#gojo",
+    "#jujutsukaisen",
+    "#anime"
+  ],
+  "tags": [
+    "gojo sealed",
+    "jujutsu kaisen shibuya",
+    "gojo satoru geto",
+    "jjk theory",
+    "gojo unlimited void",
+    "gojo satoru",
+    "jujutsu kaisen theory",
+    "gojo geto",
+    "shibuya incident",
+    "jujutsu kaisen explained",
+    "gojo prison realm"
+  ],
+  "hook_text": "ONE MINUTE IN HIS HEAD",
+  "music_mood": "suspense",
+  "comment": "Was Gojo's sealing his own fault for being too trusting, or a perfect plan he couldn't have stopped?",
+  "related_long": "2026-12-02-L",
+  "end_text": "WHO WAS GOJO'S REAL THREAT",
+  "pages": [
+    "Satoru Gojo",
+    "Shibuya Incident Arc",
+    "Prison Realm",
+    "Suguru Geto"
+  ],
+  "lines": [
+    {
+      "text": "Gojo wasn't sealed by someone stronger. He was sealed by one minute of memories.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Gojo Satoru Shibuya station Geto",
+        "fallback": "a blindfold-free white haired man staring at a stranger in a subway"
+      }
+    },
+    {
+      "text": "Shibuya station, chapter 89. Gojo opens Unlimited Void for just 0.2 seconds.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Gojo Unlimited Void Shibuya platform",
+        "fallback": "a flash of cosmic light filling a subway platform"
+      }
+    },
+    {
+      "text": "That freezes everyone on Platform B5F.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru Platform B5F frozen",
+        "fallback": "frozen monsters in a glowing white space"
+      }
+    },
+    {
+      "text": "Then he spends 299 seconds clearing every transfigured human off it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru transfigured humans station",
+        "fallback": "a fast white haired fighter in a subway"
+      }
+    },
+    {
+      "text": "And right after, a man in Geto's face just walks out into the open.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Geto Kenjaku Gojo Shibuya",
+        "fallback": "a robed man stepping toward a tired sorcerer"
+      }
+    },
+    {
+      "text": "The sealing cube needs Gojo within four meters for one full minute.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Prison Realm Gojo Satoru cube",
+        "fallback": "a small ornate cube floating in a hand"
+      }
+    },
+    {
+      "text": "But the wiki says that minute only has to pass inside his brain.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru Geto memories brain",
+        "fallback": "a man stunned by a familiar face"
+      }
+    },
+    {
+      "text": "So the fake Geto just lets him look, and the memories do the rest.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Gojo Satoru Geto Suguru memories",
+        "fallback": "two young students laughing, shown as a faded memory"
+      }
+    },
+    {
+      "text": "Gojo knows it's an imposter. The minute still runs.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru imposter Geto Shibuya",
+        "fallback": "a shocked man staring at a stranger wearing a friend's face"
+      }
+    },
+    {
+      "text": "Here's my read: grief was the loophole, and no technique could have blocked it.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru Geto grief",
+        "fallback": "a lonely man looking at an old photograph"
+      }
+    },
+    {
+      "text": "So where was Yuta Okkotsu while that minute ran?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Yuta Okkotsu Africa Miguel",
+        "fallback": "a young swordsman training far from home"
+      }
+    },
+    {
+      "text": "Because Gojo wasn't sealed by someone stronger, he was sealed by one minute of memories...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gojo Satoru sealed Shibuya",
+        "fallback": "a sealed black cube in a dark station"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident_Arc",
+    "https://www.dexerto.com/anime/jujutsu-kaisen-how-was-gojo-sealed-2304272",
+    "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo"
+  ],
+  "self_check": {
+    "hook": "Contrarian claim naming Gojo in the first sentence",
+    "loop": "Last line restates the hook claim and flows into line 1",
+    "facts_verified": true
+  }
+}
