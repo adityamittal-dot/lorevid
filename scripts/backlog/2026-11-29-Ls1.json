@@ -1,0 +1,147 @@
+{
+ "id": "2026-11-29-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Whitebeard's Haki Worked While He Slept",
+ "title": "Whitebeard's Haki Worked While He Slept",
+ "description": "Whitebeard used Observation Haki in his sleep in chapter 552. Here is why that detail matters, and what Chinjao and Luffy add. Which side are you on?",
+ "hashtags": [
+  "#haki",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "whitebeard haki",
+  "one piece haki",
+  "observation haki",
+  "one piece 552",
+  "whitebeard sleeping",
+  "one piece theory",
+  "luffy unconscious haki",
+  "haki explained"
+ ],
+ "hook_text": "HAKI WHILE ASLEEP",
+ "music_mood": "suspense",
+ "comment": "Is Haki a reflex of the body, or does the person still choose even when asleep? Pick one.",
+ "related_long": "2026-11-29-L",
+ "end_text": "WHAT HE WAS HOLDING",
+ "pages": [
+  "Edward Newgate",
+  "Portgas D. Ace",
+  "Haki"
+ ],
+ "lines": [
+  {
+   "text": "Whitebeard's Haki kept working while he was fast asleep.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Whitebeard Observation Haki sleeping",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Chapter 552. Ace sneaks in to attack him while the old man naps.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Ace Moby Dick sleeping",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Whitebeard never wakes up, yet Observation Haki lets him defend himself anyway.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Ace Observation Haki",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Chapter 719 does it again with Chinjao, who faints and still wears Armament Haki on his head.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Chinjao Armament Haki fainted",
+    "fallback": "anime style scene of Chinjao with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Chapter 924, Luffy is knocked out cold by Kaido, and Supreme King Haki bursts out of him anyway.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Luffy Kaido unconscious Haki",
+    "fallback": "anime style scene of Luffy with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "The strongest argument against me is that it's only a reflex, like a sneeze.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Newgate Haki",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "But a reflex doesn't pick a target. Haki picked Ace, and it picked Kaido's men.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Ace Haki sleeping",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "So someone was still choosing, with nobody awake to do the choosing.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Kaido henchmen Haki",
+    "fallback": "anime style scene of Luffy with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Haki isn't something the body performs. It's something the person keeps holding.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Newgate Haki Marineford",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "So what was Whitebeard holding that never switched off, even in his sleep?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Newgate old age",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Which is why, in chapter 552, Whitebeard's Haki kept working while he was fast asleep.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Ace Observation Haki",
+    "fallback": "anime style scene of Whitebeard with glowing aura, dramatic lighting, no text"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Haki",
+  "https://onepiece.fandom.com/wiki/Edward_Newgate",
+  "https://onepiece.fandom.com/wiki/Koby"
+ ],
+ "self_check": {
+  "hook": "flat claim in line 1",
+  "loop": "last line leads back into line 1",
+  "facts_verified": true
+ }
+}

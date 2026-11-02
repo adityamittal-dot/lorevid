@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-24-Ls1",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Maki's lack of cursed energy makes her immune to domain expansions in chapter 198",
+ "title": "Why No Domain Expansion Can Hit Maki Zenin",
+ "description": "Naoya's domain should have been a sure thing. Here's the rule in chapter 198 that makes Maki Zenin the one sorcerer a domain can't pin down. Do you think Sukuna has an answer?",
+ "hashtags": [
+  "#maki",
+  "#jujutsukaisen",
+  "#anime"
+ ],
+ "tags": [
+  "maki zenin",
+  "maki domain expansion",
+  "jujutsu kaisen chapter 198",
+  "maki vs naoya",
+  "maki heavenly restriction",
+  "jjk theory",
+  "maki vs sukuna",
+  "jujutsu kaisen maki",
+  "toji fushiguro",
+  "zenin clan"
+ ],
+ "hook_text": "DOMAINS CAN'T HIT HER",
+ "music_mood": "suspense",
+ "comment": "Can Sukuna beat Maki without a sure hit domain, or does she win by default? Pick one.",
+ "related_long": "2026-11-24-L",
+ "end_text": "WHERE HER POWER REALLY CAME FROM",
+ "pages": [
+  "Maki Zenin",
+  "Naoya Zenin",
+  "Domain Expansion",
+  "Toji Fushiguro"
+ ],
+ "lines": [
+  {
+   "text": "Naoya Zenin cast a domain on Maki Zenin, and it did nothing.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Naoya Zenin domain expansion Maki",
+    "fallback": "huge dark barrier closing around a lone woman"
+   }
+  },
+  {
+   "text": "A domain is supposed to be the one attack you can't dodge.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Domain Expansion sure-hit barrier",
+    "fallback": "glowing barrier forming around two fighters"
+   }
+  },
+  {
+   "text": "So why does chapter 198 say Maki is just immune?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Zenin chapter 198",
+    "fallback": "calm woman standing inside a glowing dome"
+   }
+  },
+  {
+   "text": "First, a domain is a barrier made of cursed energy, and Maki has none.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Zenin no cursed energy",
+    "fallback": "woman surrounded by empty air, no aura"
+   }
+  },
+  {
+   "text": "Barriers treat her like a building. They just flow around her.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki barrier building Domain Expansion",
+    "fallback": "force field passing around a stone pillar"
+   }
+  },
+  {
+   "text": "Second, the sure hit has nothing to lock onto, because there's no cursed energy to find.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Domain Expansion sure-hit Maki immune",
+    "fallback": "projectiles sliding past a motionless woman"
+   }
+  },
+  {
+   "text": "The best counter is that Naoya's speed should still beat her. It didn't.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Naoya Zenin Projection Sorcery speed",
+    "fallback": "blond man blurring across a ruined colony"
+   }
+  },
+  {
+   "text": "She studied his technique in chapter 151, then took him apart in chapter 197.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki defeats Naoya Sakurajima",
+    "fallback": "woman standing over a defeated spirit"
+   }
+  },
+  {
+   "text": "So the domain that was meant to end her was the weakest card he held.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Naoya Zenin frustrated",
+    "fallback": "angry spirit staring at a calm woman"
+   }
+  },
+  {
+   "text": "But being invisible to a domain doesn't explain how she got there. That took a twin and a rule.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mai Maki Zenin twins",
+    "fallback": "twin sisters facing each other in soft light"
+   }
+  },
+  {
+   "text": "A domain couldn't hit Maki, and that's why Naoya Zenin cast a domain on Maki Zenin and it did nothing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Naoya Zenin Maki Zenin",
+    "fallback": "angry spirit staring at a calm woman"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin",
+  "https://www.sportskeeda.com/anime/jujutsu-kaisen-chapter-198-leaked-spoilers-reveal-naoya-s-domain-expansion-true-nature-maki-s-sword",
+  "https://deltiasgaming.com/?p=152848"
+ ],
+ "self_check": {
+  "hook": "Opens on the surprising result: a domain did nothing.",
+  "loop": "Final line flows back into line 1.",
+  "facts_verified": true
+ }
+}

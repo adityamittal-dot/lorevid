@@ -1,0 +1,149 @@
+{
+ "id": "2026-11-30-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Sanji's eyebrows flip direction only while his Germa modifications are active, and revert afterwards",
+ "title": "Sanji's Eyebrows Flip When Germa Wakes Up",
+ "description": "Sanji's eyebrows flipped in chapters 1031, 1077 and 1107, and each time they snapped back. What does Oda's eyebrow gauge actually track?",
+ "hashtags": [
+  "#sanji",
+  "#onepiece",
+  "#germa",
+  "#anime"
+ ],
+ "tags": [
+  "sanji eyebrows",
+  "sanji germa modifications",
+  "one piece 1031",
+  "one piece 1107",
+  "sanji kizaru",
+  "one piece theory",
+  "sanji germa",
+  "one piece sanji theory",
+  "sanji brows"
+ ],
+ "hook_text": "THE EYEBROW GAUGE",
+ "music_mood": "epic",
+ "comment": "Do Sanji's flipped eyebrows mean Germa blood is taking over, or that he now controls it?",
+ "related_long": "2026-11-30-L",
+ "end_text": "WHO HOLDS THE SWITCH?",
+ "pages": [
+  "Sanji",
+  "Queen",
+  "Kizaru"
+ ],
+ "lines": [
+  {
+   "text": "Sanji's eyebrows flip, and Oda never lets it last.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sanji eyebrows flipped Germa",
+    "fallback": "close up of curled eyebrows on a blond cook"
+   }
+  },
+  {
+   "text": "His normal curl runs clockwise, to the right. His siblings' curl the other way.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Ichiji Niji Yonji eyebrows",
+    "fallback": "three brothers with matching curled brows"
+   }
+  },
+  {
+   "text": "Chapter 1031, fighting Queen in Wano, his dormant modifications awaken, and the brows flip to match theirs.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Sanji Queen Wano awakening",
+    "fallback": "cook facing a huge armored enemy"
+   }
+  },
+  {
+   "text": "Chapter 1044, he wakes up and they're back to normal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji wakes Onigashima",
+    "fallback": "cook opening his eyes"
+   }
+  },
+  {
+   "text": "Chapter 1077, S-Shark at Egghead. They flip again, and revert after the fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji S-Shark Egghead",
+    "fallback": "cook kicking a shark faced robot"
+   }
+  },
+  {
+   "text": "Chapter 1107. He deflects Kizaru's laser with a kick, and they flip a third time.",
+   "delivery": "punch",
+   "fx": "flash",
+   "shot": {
+    "search": "Sanji kicks Kizaru laser",
+    "fallback": "cook deflecting a beam of light with his leg"
+   }
+  },
+  {
+   "text": "That's the detail people missed. Three flips, and every flip is switched off again.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Kizaru Egghead eyebrows",
+    "fallback": "cook staring up at a glowing admiral"
+   }
+  },
+  {
+   "text": "Some fans say that just means the power burns out. I don't buy it, because the brows come back every time, by choice or not.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Germa Raid Suit",
+    "fallback": "cook in a black armored suit"
+   }
+  },
+  {
+   "text": "My read: the Germa body is a switch, not a leash.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Vinsmoke modification awakening",
+    "fallback": "cook with glowing outline"
+   }
+  },
+  {
+   "text": "But a switch only matters if he's willing to flip it for himself.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji serious Elbaph",
+    "fallback": "cook looking down in thought"
+   }
+  },
+  {
+   "text": "Because Sanji's eyebrows flip, and Oda never lets it last.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji eyebrows Kizaru",
+    "fallback": "close up of a cook's face in light"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Sanji",
+  "https://onepiece.fandom.com/wiki/Egghead_Arc",
+  "https://fandomwire.com/one-piece-chapter-1196-oda-officially-sets-up-sanjis-new-transformation/"
+ ],
+ "self_check": {
+  "hook": "Hidden detail hook, character first, ten words",
+  "loop": "Last line is line 1 with a lead-in word, so it flows back",
+  "facts_verified": true
+ }
+}

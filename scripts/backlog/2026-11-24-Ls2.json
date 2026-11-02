@@ -1,0 +1,150 @@
+{
+ "id": "2026-11-24-Ls2",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Maki's grade 4 rank was held down by her clan, per chapter 40",
+ "title": "Maki Zenin Was Held At Grade 4 On Purpose",
+ "description": "Gojo and Mei Mei both say Maki should be at least grade 2 in chapter 40. Here is why she wasn't, and what it says about her clan. Was the rank a mistake or a punishment?",
+ "hashtags": [
+  "#maki",
+  "#jujutsukaisen",
+  "#anime"
+ ],
+ "tags": [
+  "maki zenin",
+  "maki grade 4",
+  "jujutsu kaisen chapter 40",
+  "zenin clan",
+  "maki goodwill event",
+  "jjk theory",
+  "maki vs mai",
+  "jujutsu kaisen maki",
+  "mei mei",
+  "maki ranking"
+ ],
+ "hook_text": "GRADE 4 WAS A LIE",
+ "music_mood": "emotional",
+ "comment": "Was the Zenin clan right to fear Maki, or did they just hate being wrong? Pick one.",
+ "related_long": "2026-11-24-L",
+ "end_text": "WHERE HER POWER REALLY CAME FROM",
+ "pages": [
+  "Maki Zenin",
+  "Zenin Clan",
+  "Kasumi Miwa",
+  "Mei Mei"
+ ],
+ "lines": [
+  {
+   "text": "Maki Zenin was never really grade 4, and her teachers knew it.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Maki Zenin grade 4",
+    "fallback": "student looking at a ranking board"
+   }
+  },
+  {
+   "text": "Chapter 40 is where two sorcerers say it out loud.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Gojo Mei Mei chapter 40",
+    "fallback": "white haired teacher beside a woman in a crow themed jacket"
+   }
+  },
+  {
+   "text": "Gojo and Mei Mei agree she should be grade 2 at least.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Mei Mei Maki rank",
+    "fallback": "two sorcerers discussing a student"
+   }
+  },
+  {
+   "text": "She can handle a grade 2 curse with ease, so the number made no sense.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Zenin grade 2 curse",
+    "fallback": "woman swinging a spear at a monster"
+   }
+  },
+  {
+   "text": "The reason is the clan. Tension with the Zenin family stalled her promotion.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Zenin clan Maki Ogi",
+    "fallback": "stern elders in a traditional hall"
+   }
+  },
+  {
+   "text": "Same chapter, the Goodwill Event. She beats Kasumi Miwa, a sword user, with plain aikido.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Miwa Goodwill Event katana",
+    "fallback": "woman disarming a sword wielder"
+   }
+  },
+  {
+   "text": "So the skeptic says rank reflects power, and a girl without cursed energy deserves grade 4.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Zenin skeptic rank",
+    "fallback": "official shaking his head"
+   }
+  },
+  {
+   "text": "Except rank is about what you can exorcise, and she was already doing grade 2 work.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Zenin exorcise curse",
+    "fallback": "woman defeating a curse spirit"
+   }
+  },
+  {
+   "text": "The clan didn't misjudge her. It kept the number low because a low number kept her small.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Zenin clan Maki leaves",
+    "fallback": "girl walking away from an estate gate"
+   }
+  },
+  {
+   "text": "She had the skill long before any twin's gift. So what did that gift change?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mai Maki Zenin",
+    "fallback": "twin sisters in dark robes"
+   }
+  },
+  {
+   "text": "Because the rank was a lie, and Maki Zenin was never really grade 4.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Maki Zenin smirk",
+    "fallback": "confident woman with a spear"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Maki_Zenin",
+  "https://myanimelist.net/character/164482",
+  "https://otakusnotes.com/2021-power-of-maki-zenin-in-jujutsu-kaisen-explained"
+ ],
+ "self_check": {
+  "hook": "Opens with a contrarian claim about her rank.",
+  "loop": "Last line leads back into line 1.",
+  "facts_verified": true
+ }
+}

@@ -1,0 +1,148 @@
+{
+ "id": "2026-11-30-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Sanji breaks his legs-only rule against Wanze in chapter 370 by calling the train kitchen a kitchen",
+ "title": "Sanji's Kitchen Loophole Beat Wanze's Ramen Armor",
+ "description": "Sanji's legs only rule has one loophole, and chapter 370 shows exactly how he uses it against the CP7 chef Wanze on the Puffing Tom. Is Sanji's rule a limit or a choice?",
+ "hashtags": [
+  "#sanji",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "sanji wanze",
+  "sanji legs only rule",
+  "one piece 370",
+  "sanji knives",
+  "water 7 arc",
+  "one piece theory",
+  "sanji fighting style",
+  "sanji black leg",
+  "one piece wanze"
+ ],
+ "hook_text": "THE KITCHEN LOOPHOLE",
+ "music_mood": "suspense",
+ "comment": "Is Sanji's legs only rule a real limit, or a choice he can drop whenever he wants?",
+ "related_long": "2026-11-30-L",
+ "end_text": "WHAT THE LEASH HIDES",
+ "pages": [
+  "Sanji",
+  "Wanze",
+  "Water 7 Arc"
+ ],
+ "lines": [
+  {
+   "text": "Sanji's legs only rule has one loophole, and it's a kitchen.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sanji Wanze Puffing Tom",
+    "fallback": "cook facing a noodle-armored chef on a train"
+   }
+  },
+  {
+   "text": "Chapter 370. Sanji meets Wanze, a CP7 chef on the Puffing Tom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Wanze CP7 chef Puffing Tom",
+    "fallback": "grinning chef in noodle armor on a train"
+   }
+  },
+  {
+   "text": "Wanze makes ramen armor, and a kick would just get stuck in it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Wanze ramen armor",
+    "fallback": "chef wrapped in noodles"
+   }
+  },
+  {
+   "text": "For Sanji that's a real problem. Hands are for cooking, so his whole style is legs only.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Black Leg Style kick",
+    "fallback": "cook mid-kick in a black suit"
+   }
+  },
+  {
+   "text": "So he pulls out knives and says he's in a kitchen, and he's cutting up food.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sanji knives Wanze ramen armor",
+    "fallback": "cook slicing noodle armor with kitchen knives"
+   }
+  },
+  {
+   "text": "Rule bypassed. Armor gone. Wanze goes flying through the cars.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Sanji kicks Wanze through train cars",
+    "fallback": "cook kicking a chef down a train"
+   }
+  },
+  {
+   "text": "Here's the detail most people forgot. The wiki notes that knife work is tied to Sanji's distant past.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji knife fighting flashback",
+    "fallback": "cook holding a knife in thought"
+   }
+  },
+  {
+   "text": "I think the rule was never a limit. It's a choice, and he picks the loophole the moment food is on the line.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji cooking serious",
+    "fallback": "cook stirring a pot with fierce focus"
+   }
+  },
+  {
+   "text": "Look at Whole Cake Island. Bobbin takes a bite of his bento, and Sanji kicks him into a wall at once.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji kicks Bobbin bento",
+    "fallback": "cook kicking a guard over a lunch box"
+   }
+  },
+  {
+   "text": "So what is that choice protecting him from?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji thinking cigarette smoke",
+    "fallback": "cook staring ahead with smoke"
+   }
+  },
+  {
+   "text": "Because Sanji's legs only rule has one loophole...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Black Leg kitchen",
+    "fallback": "cook in a kitchen at night"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Water_7_Arc",
+  "https://onepiece.fandom.com/wiki/Whole_Cake_Island_Arc",
+  "https://en.wikipedia.org/wiki/Sanji_(One_Piece)"
+ ],
+ "self_check": {
+  "hook": "Contrarian claim: Sanji's rule has a loophole, in 10 words, named character first",
+  "loop": "Final line starts the same sentence as line 1, so it flows back into it",
+  "facts_verified": true
+ }
+}

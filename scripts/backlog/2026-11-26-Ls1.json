@@ -1,0 +1,38 @@
+{
+ "id": "2026-11-26-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Mihawk explained how Supreme King Haki works during the timeskip and Zoro dismissed it as a riddle; chapter 1194 pays it off",
+ "title": "Mihawk Gave Zoro His Haki Secret As A Riddle",
+ "description": "Zoro called Mihawk's Supreme King Haki lesson a riddle, and chapter 1194 proves it was a setup. Here is the detail about the dinner table line that most fans forgot.",
+ "hashtags": ["#zoro", "#mihawk", "#onepiece", "#anime"],
+ "tags": ["zoro supreme king haki", "mihawk zoro training", "one piece 1194", "zoro conqueror's haki", "one piece theory", "zoro mihawk lesson", "one piece elbaph", "straw hat trio"],
+ "hook_text": "MIHAWK'S RIDDLE",
+ "music_mood": "epic",
+ "comment": "Was Mihawk really teaching Zoro Supreme King Haki, or did Zoro figure it out alone? Pick one.",
+ "related_long": "2026-11-26-L",
+ "end_text": "WHO ELSE GOT A RIDDLE?",
+ "pages": ["Roronoa Zoro", "Dracule Mihawk", "Shepherd Sommers"],
+ "lines": [
+  {"text": "Mihawk told Zoro how Supreme King Haki works, and Zoro thought it was a riddle.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Mihawk Zoro Supreme King Haki riddle", "fallback": "hawk eyed master speaking to a skeptical swordsman"}},
+  {"text": "First lesson: coat your swords in Haki, and no drinking until you can.", "delivery": "normal", "fx": "none", "shot": {"search": "Mihawk teaches Zoro Haki Kuraigana", "fallback": "master and student training in a gothic castle"}},
+  {"text": "Second lesson: Supreme King Haki itself, which Zoro wrote off as nonsense.", "delivery": "normal", "fx": "none", "shot": {"search": "Zoro doubts Mihawk Supreme King Haki", "fallback": "swordsman scratching his head"}},
+  {"text": "Third, at the dinner table: every user of it shares a strong sense of self.", "delivery": "normal", "fx": "none", "shot": {"search": "Mihawk Zoro Perona dinner table", "fallback": "three people eating in a gothic dining hall"}},
+  {"text": "Now jump to chapter 1194. Shepherd Sommers says Zoro has the Haki but can't control it.", "delivery": "normal", "fx": "shake", "shot": {"search": "Sommers Zoro Supreme King Haki chapter 1194", "fallback": "noble knight mocking a swordsman"}},
+  {"text": "Zoro recalls Mihawk, adds Gaban's advice, and sends Haki through all three swords.", "delivery": "normal", "fx": "none", "shot": {"search": "Zoro three swords Haki black lightning", "fallback": "swordsman with three glowing black swords"}},
+  {"text": "Nobody connects this: the dinner line wasn't about power. It was about who Zoro had to become.", "delivery": "reveal", "fx": "none", "shot": {"search": "Zoro Mihawk lesson self", "fallback": "swordsman closing his eyes in thought"}},
+  {"text": "Maybe he was rambling? Mihawk knows the steps to awaken it, chapter 1194.", "delivery": "normal", "fx": "none", "shot": {"search": "Mihawk Yoru Haki chapter 1194", "fallback": "hawk eyed swordsman holding a black blade"}},
+  {"text": "So I think Mihawk didn't teach Zoro how to beat Haki. He taught him the self he needed to hold it.", "delivery": "reveal", "fx": "none", "shot": {"search": "Zoro Mihawk Sommers", "fallback": "master and student silhouettes"}},
+  {"text": "Zoro wasn't the only one handed a riddle during the timeskip, though.", "delivery": "normal", "fx": "none", "shot": {"search": "Straw Hats timeskip training Sanji Luffy", "fallback": "pirates training apart on different islands"}},
+  {"text": "Which only makes sense if Mihawk told Zoro how Supreme King Haki works...", "delivery": "normal", "fx": "none", "shot": {"search": "Mihawk Zoro Supreme King Haki", "fallback": "hawk eyed master and swordsman"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://fandomwire.com/one-piece-chapter-1194-zoro-left-eye-open-mihawk-flashback/",
+  "https://comic-watch.com/comic-book-reviews/one-piece-chapter-1194-all-things-are-in-flux/amp",
+  "https://onepiece.fandom.com/wiki/Dracule_Mihawk"
+ ],
+ "self_check": {"hook": "Line 1 opens with Mihawk and Zoro and a hidden-detail claim.", "loop": "Final line completes line 1's sentence.", "facts_verified": true}
+}

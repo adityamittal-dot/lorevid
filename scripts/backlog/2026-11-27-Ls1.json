@@ -1,0 +1,139 @@
+{
+ "id": "2026-11-27-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Ohara's scholars saved their research by putting their books into a lake, a side point of the Void Century silence story",
+ "title": "Ohara's Scholars Hid Their Books In A Lake",
+ "description": "Ohara's scholars lost their island but their books survived in a lake, Vegapunk, Dragon and the Elbaph giants found them. One Piece Egghead arc detail explained.",
+ "hashtags": [
+  "#onepiece",
+  "#nicorobin",
+  "#anime"
+ ],
+ "tags": [
+  "one piece ohara",
+  "ohara lake of books",
+  "vegapunk ohara",
+  "one piece 1066",
+  "nico robin ohara",
+  "one piece theory",
+  "void century",
+  "one piece egghead"
+ ],
+ "hook_text": "OHARA WON ANYWAY",
+ "music_mood": "emotional",
+ "comment": "Did Ohara lose, or did its scholars win the only way they could?",
+ "related_long": "2026-11-27-L",
+ "end_text": "WHO KEPT THE VOID QUIET",
+ "pages": [
+  "Ohara",
+  "Vegapunk",
+  "Nico Robin",
+  "Egghead Arc"
+ ],
+ "lines": [
+  {
+   "text": "Ohara's scholars lost their island and still won, and almost nobody notices how.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars Clover library",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "A few months after the Buster Call, Vegapunk visited what was left of Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Ohara ruins",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "He found a lake packed to the brim with books.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Vegapunk Ohara lake books",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Those were the scholars' final acts, and Shaka tells it as Ohara's victory.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shaka Vegapunk Robin Egghead",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Then it gets better. Giants from Elbaph were dredging that lake, led by a giant covered in bandages.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Elbaph giants lake books",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "So the books never went to the Government. They went to a scientist, a rebel and the giants.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Dragon giants",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Vegapunk read every one of them, and told his employers nothing. That is chapter 1066's quiet bombshell.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk reading books lab",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "People say Ohara lost, because the island is gone. But the island was never the point.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara ruins Buster Call",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "So if the books were safe, why did the world still forget a whole century?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century Poneglyph world",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "And that lake is exactly why",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara lake books Robin",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Egghead_Arc",
+  "https://onepiece.fandom.com/wiki/Void_Century",
+  "https://thelibraryofohara.com/2023/05/21/chapter-secrets-chapter-1084-in-depth-analysis"
+ ],
+ "self_check": {
+  "hook": "Contrarian claim: Ohara won",
+  "loop": "last line leads into line 1",
+  "facts_verified": true
+ }
+}

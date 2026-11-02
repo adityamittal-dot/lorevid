@@ -1,0 +1,158 @@
+{
+ "id": "2026-11-25-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Sakazuki exposed the Five Elders for spreading a false story to protect Doflamingo",
+ "title": "Sakazuki Caught The Elders Lying For Doflamingo",
+ "description": "After Dressrosa, Sakazuki confronted the Five Elders over a false story that protected Doflamingo. I think that fight shows who the Government really protects. Do you agree?",
+ "hashtags": [
+  "#sakazuki",
+  "#doflamingo",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "sakazuki five elders",
+  "doflamingo resignation",
+  "one piece theory",
+  "dressrosa",
+  "fujitora",
+  "five elders",
+  "world government",
+  "one piece lore"
+ ],
+ "hook_text": "THE ELDERS LIED",
+ "music_mood": "suspense",
+ "comment": "Did the Elders protect Doflamingo because he was useful, or because he was one of their own? Pick one.",
+ "related_long": "2026-11-25-L",
+ "end_text": "WHAT HOLY LAND OFFERS",
+ "pages": [
+  "Sakazuki",
+  "Five Elders",
+  "Donquixote Doflamingo",
+  "Fujitora"
+ ],
+ "lines": [
+  {
+   "text": "Sakazuki caught the Five Elders lying to the whole world for Doflamingo.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sakazuki Five Elders Doflamingo",
+    "fallback": "admiral in a white coat confronting five elders"
+   }
+  },
+  {
+   "text": "Doflamingo's Warlord resignation was announced to everyone, and it was false.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Doflamingo resignation Warlord news",
+    "fallback": "headline about a king giving up his throne"
+   }
+  },
+  {
+   "text": "Law spotted it first. He said only a World Noble should be able to pull that off.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Law Doflamingo World Noble Dressrosa",
+    "fallback": "tattooed surgeon frowning"
+   }
+  },
+  {
+   "text": "The Elders had helped spread the lie, to protect Doflamingo's empire.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Room of Authority",
+    "fallback": "five old men in dark robes"
+   }
+  },
+  {
+   "text": "Sakazuki asked why the whole world had to be misled for one pirate.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki angry Five Elders",
+    "fallback": "fleet admiral with a furious face"
+   }
+  },
+  {
+   "text": "The Elders said the Marines are only the World Government's public face.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Marines public face",
+    "fallback": "elders waving off a standing admiral"
+   }
+  },
+  {
+   "text": "He called them puppets of the Celestial Dragons, and they blamed him for Kuzan joining Blackbeard.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Sakazuki Five Elders Kuzan Blackbeard",
+    "fallback": "admiral and elders arguing"
+   }
+  },
+  {
+   "text": "Then Fujitora announced Doflamingo's defeat before the Elders knew, so nobody could bury it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Fujitora announces Doflamingo defeat",
+    "fallback": "blind admiral addressing the world"
+   }
+  },
+  {
+   "text": "Some say damage control. But that doesn't ignore the Fleet Admiral who wears the shame.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki Fleet Admiral shame Elders",
+    "fallback": "admiral gritting his teeth"
+   }
+  },
+  {
+   "text": "Here is my read: Doflamingo was worth more to them than their own Fleet Admiral.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Doflamingo Joker underworld broker",
+    "fallback": "smiling man in sunglasses in shadow"
+   }
+  },
+  {
+   "text": "If protection isn't the prize, what is?",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Mary Geoise Pangaea Castle",
+    "fallback": "white holy palace above clouds"
+   }
+  },
+  {
+   "text": "And once you see that, you understand exactly what happened when",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Sakazuki Dressrosa",
+    "fallback": "elders and an admiral in tense silence"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Five_Elders",
+  "https://onepiece.fandom.com/wiki/Dressrosa_Arc",
+  "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo"
+ ],
+ "self_check": {
+  "hook": "Line 1 names Sakazuki, the Elders and Doflamingo and states the confrontation.",
+  "loop": "The last line ends on 'when' and flows into line 1.",
+  "facts_verified": true
+ }
+}

@@ -1,0 +1,147 @@
+{
+ "id": "2026-11-29-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Koby Heard Every Voice At Marineford",
+ "title": "Koby Heard Every Voice At Marineford",
+ "description": "Koby awakened Observation Haki at Marineford with no training, in chapters 579 and 594. The detail about what he did with it is why fans call him the future of the Marines.",
+ "hashtags": [
+  "#haki",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "koby haki",
+  "one piece koby",
+  "observation haki",
+  "one piece 594",
+  "koby marineford",
+  "one piece theory",
+  "haki awakening",
+  "haki explained"
+ ],
+ "hook_text": "KOBY NEVER TRAINED",
+ "music_mood": "suspense",
+ "comment": "Did Koby awaken Haki from fear, or from refusing to look away? Pick one.",
+ "related_long": "2026-11-29-L",
+ "end_text": "WHAT OPENED HIS EARS",
+ "pages": [
+  "Koby",
+  "Marineford Arc",
+  "Haki"
+ ],
+ "lines": [
+  {
+   "text": "Koby never learned Haki. Marineford forced it into his head.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Koby Marineford Observation Haki",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Chapter 579. He wakes up in the middle of the war, still weak.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Marineford wakes up war",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Suddenly he hears every person on the battlefield, like voices inside his own skull.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Marineford voices Haki",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Chapter 594 gives it a name. Observation Haki, awakened by shock, with zero training.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Observation Haki Marineford",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "So he screams at both sides to stop throwing lives away for a war with no purpose left.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Koby Marineford screaming stop",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Helmeppo is jealous. Koby never even knew Haki existed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Helmeppo Haki jealous",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "The easy objection is that it was only trauma, and fear alone woke him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Garp Marine Headquarters",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "But plenty of terrified Marines stood on that field. Only one refused to look away.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Marineford Marines battlefield",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Years later he shatters Pizarro's giant island hand with advanced Armament Haki, in chapter 1088.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Honesty Impact Pizarro",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "He heard strangers that day. So what opened Luffy's ears, back when nobody had taught him anything?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Luffy Alvida Shells Town",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  },
+  {
+   "text": "Which is why Koby never learned Haki, and Marineford forced it into his head.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Koby Marineford Observation Haki",
+    "fallback": "anime style scene of Koby with glowing aura, dramatic lighting, no text"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Haki",
+  "https://onepiece.fandom.com/wiki/Edward_Newgate",
+  "https://onepiece.fandom.com/wiki/Koby"
+ ],
+ "self_check": {
+  "hook": "flat claim in line 1",
+  "loop": "last line leads back into line 1",
+  "facts_verified": true
+ }
+}
