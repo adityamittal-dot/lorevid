@@ -509,9 +509,11 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
         }
 
         # The long video's link also opens the Short's first comment, same as the description (section 8).
+        # 2026-11-02: Shorts barely funnel into longs, so the link leads with a CTA and is posted even without a comment.
         comment_text = script.get("comment")
-        if related_long_url and comment_text:
-            comment_text = f"{comment_text}\n{related_long_url}"
+        if related_long_url:
+            cta = f"Full breakdown here \u2192 {related_long_url}"
+            comment_text = f"{cta}\n\n{comment_text}" if comment_text else cta
 
         video_id = upload.upload(
             video=final_mp4,

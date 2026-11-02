@@ -26,7 +26,7 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    scored"), `git mv` it back to `scripts/backlog/` and give it to a Sonnet editor (step 3). That's far cheaper than
    writing it again, and its Shorts are already written. Then count it as done and skip its ID below.
 1. Pick topics with `data/performance.md`'s "Long video retention" table open: copy what the top rows did, avoid
-   what the bottom rows did. At most 1 What If in any 3 longs. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
+   what the bottom rows did. At most 1 What If in any 3 longs. At least half the longs react to a recent chapter/episode or trending arc (`data/trends.md`, release dates in channel.json); the rest are evergreen analysis. Run `python plan.py next 20` and `python -c "import json,glob;print('\n'.join(json.load(open(f))['title'] for f in
    sorted(glob.glob('scripts/*/*.json'))[-60:]))"` (recent titles). Don't read WRITER.md yourself.
 2. Pick the topics yourself up front, one line each, all different and not in the recent titles. Then start one Sonnet
    writer per long ID **in parallel** with: its IDs (the long + its Shorts as plan.py lists them: `<long-id>s1` and `<long-id>s2`; a `DEEP-DIVE` id gets WRITER.md's Sunday Deep Dive rules and `"deep": true`), its topic, the full topic list, and this

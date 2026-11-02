@@ -280,7 +280,7 @@ Our voice is synthetic, and fans scroll straight past AI-voice slop. The only wa
 
 **Before pushing, ask for each Short**: would a fan who has read every chapter learn something, or want to argue? If neither, rewrite it.
 
-### Long Video Rules (12-15 min, 2300-3000 words, 110-300 lines)
+### Long Video Rules (9-11 min, 1800-2400 words, 90-240 lines; shortened 2026-11-02 because viewers drop off sharply by the 25% mark)
 What wins in long form right now (studied 2026-10-02): Facadify, "What If Luffy Was Raised By Joy Boy?" (233k views in
 6 days, 17 min); Strawhatists, "What If Luffy, Ace & Sabo Were Reborn With Their Memories" (140k, 15 min);
 GrandLineReview, "The Rules Just Changed... (1194)" (538k) and "Imu is a PARROT!" (443k, 17 min). The two What If

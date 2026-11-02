@@ -161,15 +161,9 @@
       "note": "35-60 s vertical: one sharp claim or story beat, evidence, payoff, last line loops into the first"
     },
     "long": {
-      "words": [
-        2300,
-        3000
-      ],
-      "lines": [
-        110,
-        300
-      ],
-      "note": "11.5-15 min (~200 wpm, 2300-3000 words): analysis/theory breakdown by default, What If at most 1 in 3; deliver the title's promise in the first 10 s"
+      "words": [1800, 2400],
+      "lines": [90, 240],
+      "note": "9-12 min (~200 wpm, 1800-2400 words): analysis/theory breakdown by default, What If at most 1 in 3; deliver the title's promise in the first 10 s"
     },
     "deep": {
       "words": [

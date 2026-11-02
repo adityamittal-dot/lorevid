@@ -32,7 +32,7 @@ BANNED_AI_PATTERNS = [
 
 DEFAULT_LIMITS = {
     "short": {"min_lines": 8, "max_lines": 22, "min_words": 95, "max_words": 165},
-    "long": {"min_lines": 110, "max_lines": 300, "min_words": 2450, "max_words": 3000},
+    "long": {"min_lines": 90, "max_lines": 240, "min_words": 1800, "max_words": 2400},
 }
 
 # Fallback if channel.json has no "banned_phrases" (it does by default; see channel.json). Long videos only:
