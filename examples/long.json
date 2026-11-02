@@ -36,7 +36,7 @@
  ],
  "lines": [
   {
-   "text": "What if Zoro never remembered the one thing Mihawk taught him on Kuraigana Island?",
+   "text": "What if Zoro never remembered the one lesson Mihawk taught him?",
    "delivery": "punch",
    "fx": "zoom",
    "shot": {
@@ -45,7 +45,7 @@
    }
   },
   {
-   "text": "Not swordsmanship. Not footwork. One lesson about what happens when his rage takes over.",
+   "text": "Not swordsmanship. Not footwork. The lesson about his rage.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -54,7 +54,7 @@
    }
   },
   {
-   "text": "Without it, I don't think Zoro loses to Shepherd Sommers. I think he disappears into something worse.",
+   "text": "Without it, I don't think Zoro loses to Sommers. He disappears instead.",
    "delivery": "reveal",
    "fx": "none",
    "shot": {
@@ -63,7 +63,7 @@
    }
   },
   {
-   "text": "And if Zoro goes down like that, Elbaph doesn't just lose its strongest swordsman.",
+   "text": "If Zoro goes down, Elbaph loses more than its strongest swordsman.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -72,7 +72,7 @@
    }
   },
   {
-   "text": "It loses the only person built to slow down what Imu already sent to kill them.",
+   "text": "It loses the person built to slow what Imu sent after them.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -91,7 +91,7 @@
    "card": "CHAPTER 1194"
   },
   {
-   "text": "Zoro made a promise back in chapter 55, right after Luffy saved his life on the Baratie.",
+   "text": "Zoro made a promise in chapter 55, after Luffy saved his life...",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -100,7 +100,7 @@
    }
   },
   {
-   "text": "I will never lose again, he said. Not a boast. A rule he built his whole fighting style around.",
+   "text": "I will never lose again, he said. A rule his style is built around.",
    "delivery": "slow",
    "fx": "none",
    "shot": {
@@ -109,7 +109,7 @@
    }
   },
   {
-   "text": "But to see why one fight against Sommers threatens that whole rule, we have to start one chapter earlier.",
+   "text": "But to see why one fight against Sommers threatens that rule, we start one chapter earlier...",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -253,7 +253,7 @@
    }
   },
   {
-   "text": "Chapter after chapter, Sommers keeps smiling, and Zoro keeps bleeding out his stamina for nothing.",
+   "text": "Chapter after chapter, Sommers keeps smiling, and Zoro keeps draining his stamina for nothing.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
@@ -667,11 +667,11 @@
    }
   },
   {
-   "text": "Sanji reaches the fight just as Zoro's Haki starts bleeding visibly off his own skin.",
+   "text": "Sanji reaches the fight just as Zoro's Haki starts flickering visibly off his own skin.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
-    "search": "Zoro Haki bleeding skin",
+    "search": "Zoro Haki flickering skin",
     "fallback": "swordsman with aura tearing at his body"
    }
   },
@@ -753,7 +753,7 @@
    "fx": "none",
    "shot": {
     "search": "Zoro removed from battlefield",
-    "fallback": "wounded swordsman carried from the front"
+    "fallback": "tired swordsman carried from the front"
    }
   },
   {
@@ -817,7 +817,7 @@
    "fx": "none",
    "shot": {
     "search": "Sanji carrying Zoro Enies Lobby",
-    "fallback": "cook carrying a wounded swordsman"
+    "fallback": "cook carrying a tired swordsman"
    }
   },
   {
@@ -880,7 +880,7 @@
    "fx": "none",
    "shot": {
     "search": "Zoro mid-recovery weak point",
-    "fallback": "wounded swordsman resting"
+    "fallback": "tired swordsman resting"
    }
   },
   {
@@ -934,7 +934,7 @@
    "fx": "none",
    "shot": {
     "search": "Zoro recovering distant battlefield",
-    "fallback": "wounded swordsman resting far from the front"
+    "fallback": "tired swordsman resting far from the front"
    }
   },
   {
@@ -987,7 +987,7 @@
    "delivery": "normal",
    "fx": "shake",
    "shot": {
-    "search": "Brook Soul Solid sacrifice",
+    "search": "Brook Soul Solid technique",
     "fallback": "skeleton warrior protecting a retreat"
    }
   },
@@ -1014,7 +1014,7 @@
    "delivery": "slow",
    "fx": "none",
    "shot": {
-    "search": "Brook Rumbar Pirates death",
+    "search": "Brook Rumbar Pirates memory",
     "fallback": "ghost ship crew fading away"
    }
   },
@@ -1028,7 +1028,7 @@
    }
   },
   {
-   "text": "Some fans will argue Loki could have covered the king instead, since he's closer to Harald by blood.",
+   "text": "Some fans will argue Loki could have covered the king instead, since he's more closely related to Harald.",
    "delivery": "normal",
    "fx": "none",
    "shot": {
