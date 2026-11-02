@@ -370,7 +370,7 @@ def render(clips, segs, narration_wav, out, fmt, ass=None, music=None, sfx_event
         next_idx += 1
         fc_parts.append(f"[1:a]asplit=2[narr_main][narr_sc]")
         if music_leveled:
-            # music.bed() already sits 6-9 dB under the voice and is faded; duck ~4-6 dB under words so the
+            # music.bed() already sits 9-13 dB under the voice and is faded; duck ~4-6 dB under words so the
             # music stays audible in every gap, like the niche's top Shorts (bed 5-8 dB under the voice)
             fc_parts.append(
                 f"[{music_idx}:a]anull[m_pre];"

@@ -40,7 +40,7 @@ TRACKS = [
 MOODS = ["hype", "suspense", "emotional", "epic", "chill"]
 REPO_DIR = os.path.abspath(os.path.dirname(__file__))
 LIB = os.path.join(REPO_DIR, "music", "library")
-BED_BELOW_VOICE = {"short": 6.0, "long": 9.0}   # dB under the narration's loudness, before ducking
+BED_BELOW_VOICE = {"short": 9.0, "long": 13.0}  # dB under (lowered 2026-11-02: music was too loud); the narration's loudness, before ducking
 
 
 def _library_urls():
