@@ -1,0 +1,148 @@
+{
+ "id": "2026-11-27-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Queen Lili's wiped record and surviving letter, a side point of the Void Century silence story",
+ "title": "Nefertari Lili Vanished From Every Record But One",
+ "description": "Nefertari Lili, queen of Arabasta, was wiped from the records after the Void Century. One letter survives, and Imu still blames her in chapter 1085.",
+ "hashtags": [
+  "#onepiece",
+  "#nicorobin",
+  "#anime"
+ ],
+ "tags": [
+  "nefertari lili",
+  "one piece lili",
+  "imu lili",
+  "one piece 1084",
+  "one piece 1085",
+  "arabasta queen",
+  "void century",
+  "one piece theory"
+ ],
+ "hook_text": "ERASED BUT ONE THING",
+ "music_mood": "suspense",
+ "comment": "Is Imu angry at Lili because of what she did, or because of what she knew?",
+ "related_long": "2026-11-27-L",
+ "end_text": "WHAT THE QUEEN LEFT BEHIND",
+ "pages": [
+  "Nefertari D. Lili",
+  "Imu",
+  "Void Century",
+  "Poneglyph"
+ ],
+ "lines": [
+  {
+   "text": "Nefertari Lili vanished from every record, and one scrap of paper proves she existed.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Nefertari D. Lili Arabasta queen",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "She was the queen of Arabasta eight hundred years ago, one of twenty royals who beat the Great Kingdom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nefertari Lili queen Arabasta",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Lili chose to go home instead, and that choice is where it gets strange.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Lili Arabasta home",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "She never arrived. Her records were wiped out and her younger brother took her throne.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili Arabasta throne",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "The only proof left is a letter she left behind. Chapter 1084 brings it up.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Cobra Lili letter chapter 1084",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Cobra asks the Five Elders about her, and they say she did make it home, but the records are gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Cobra Five Elders Mary Geoise",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Which is the tell. If she went home, someone erased her.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Lili record erased",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Then Imu steps out in chapter 1085 and blames her for scattering the Poneglyphs across the world.",
+   "delivery": "reveal",
+   "fx": "shake",
+   "shot": {
+    "search": "Imu Empty Throne Lili",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "Here's my read: the stones the Government bans are what's left of her mistake.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph stone Robin",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "A whole queen gone from the page. So what was on that page worth the trouble?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Lili Arabasta queen portrait",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  },
+  {
+   "text": "And that is the reason",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century Poneglyph Robin",
+    "fallback": "anime style ancient stone tablet in a dark ruined library, moody light"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Egghead_Arc",
+  "https://onepiece.fandom.com/wiki/Void_Century",
+  "https://thelibraryofohara.com/2023/05/21/chapter-secrets-chapter-1084-in-depth-analysis"
+ ],
+ "self_check": {
+  "hook": "Hidden detail: one record survived",
+  "loop": "last line leads into line 1",
+  "facts_verified": true
+ }
+}

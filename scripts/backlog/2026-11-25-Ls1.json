@@ -1,0 +1,159 @@
+{
+ "id": "2026-11-25-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Shanks leaving the Devoted Blades is why Harald got promoted and ended up under Imu's Covenant",
+ "title": "Shanks Walked Out And Harald Paid The Price",
+ "description": "Shanks left the Devoted Blades of God, and a giant king ended up owned by Imu's Covenant in his place. Is Harald's chain Shanks' fault, or the Government's?",
+ "hashtags": [
+  "#shanks",
+  "#harald",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "shanks devoted blade",
+  "harald knights of god",
+  "one piece theory",
+  "depths covenant",
+  "one piece 1169",
+  "imu covenant",
+  "elbaph",
+  "shanks figarland"
+ ],
+ "hook_text": "SHANKS LEFT A DEBT",
+ "music_mood": "suspense",
+ "comment": "Is Harald's fate on Shanks for walking out, or entirely on the Government that built the trap? Pick one.",
+ "related_long": "2026-11-25-L",
+ "end_text": "WHAT THE HOLY LAND REALLY WANTS",
+ "pages": [
+  "Shanks",
+  "Harald",
+  "Knights of God",
+  "Figarland Garling"
+ ],
+ "lines": [
+  {
+   "text": "Shanks walked out of Mary Geoise, and a giant king got stuck holding the leash.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "image": "",
+    "search": "Shanks Figarland Devoted Blade",
+    "fallback": "young red haired noble leaving a white palace"
+   }
+  },
+  {
+   "text": "Harald served the Government for eighteen years, hoping to win Elbaph a place in it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Harald Elbaph king World Government",
+    "fallback": "giant king in dark armor kneeling"
+   }
+  },
+  {
+   "text": "Five years later, Shanks of the Figarland Family joined the same ranks.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Figarland Devoted Blades of God",
+    "fallback": "young red haired man in a black uniform"
+   }
+  },
+  {
+   "text": "He was on track for knighthood after one year. Harald needed ten more.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks promotion Knights of God",
+    "fallback": "two warriors, one young, one giant, before a throne"
+   }
+  },
+  {
+   "text": "Then Shanks worked against the Government in Fisher Tiger's raid, and left.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Fisher Tiger raid Mary Geoise",
+    "fallback": "young swordsman running through a white palace"
+   }
+  },
+  {
+   "text": "With Shanks gone, Harald was promoted and got Imu's Depths Covenant.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Harald Imu Depths Covenant",
+    "fallback": "dark ruler touching a kneeling giant"
+   }
+  },
+  {
+   "text": "People say Harald chose that. He signed up for peace, not a leash.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Harald peace Elbaph giants",
+    "fallback": "giant king looking over his peaceful village"
+   }
+  },
+  {
+   "text": "When Imu ordered him to turn Elbaph into a fighting force, he objected.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Harald Imu order Elbaph army",
+    "fallback": "giant king refusing a dark figure"
+   }
+  },
+  {
+   "text": "Imu used the Covenant to take control anyway, in chapter 1169.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu controls Harald Covenant",
+    "fallback": "glowing marks spreading over a giant king"
+   }
+  },
+  {
+   "text": "So Shanks' escape is why a peaceful giant king got owned.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Shanks Red Force Four Emperors",
+    "fallback": "red haired pirate emperor on a ship"
+   }
+  },
+  {
+   "text": "Shanks found the exit. I want to know what everyone else found.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mary Geoise Pangaea Castle",
+    "fallback": "white holy palace above the clouds"
+   }
+  },
+  {
+   "text": "Mary Geoise never loses a seat, it just hands the leash to someone who can't refuse, because",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Knights of God Covenant Imu",
+    "fallback": "empty throne in a dark hall"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Knights_of_God",
+  "https://onepiece.fandom.com/wiki/Harald",
+  "https://onepiece.fandom.com/wiki/Figarland_Garling"
+ ],
+ "self_check": {
+  "hook": "Line 1 names Shanks and the cost somebody else paid, with no mention of the long's rumor.",
+  "loop": "The last line ends on 'because' and flows straight into line 1.",
+  "facts_verified": true
+ }
+}

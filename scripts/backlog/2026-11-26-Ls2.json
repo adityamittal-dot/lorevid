@@ -1,0 +1,39 @@
+{
+ "id": "2026-11-26-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Ivankov's lesson in chapter 1196 reframes Sanji's habit of taking hits for love as the real weakness Killingham exploits",
+ "title": "Sanji's Real Weakness Was Never His Kindness",
+ "description": "Chapter 1196 returns to Sanji's training with Ivankov and names the weakness Killingham keeps using. Here is why it was never about being too kind.",
+ "hashtags": ["#sanji", "#onepiece", "#ivankov", "#anime"],
+ "tags": ["sanji weakness", "sanji ivankov", "one piece 1196", "sanji killingham", "one piece theory", "sanji conqueror's haki", "one piece elbaph", "straw hat trio"],
+ "hook_text": "SANJI'S REAL WEAKNESS",
+ "music_mood": "emotional",
+ "comment": "Is Sanji's habit of taking hits a weakness or his greatest strength? Pick one.",
+ "related_long": "2026-11-26-L",
+ "end_text": "WHAT SANJI BECAME",
+ "pages": ["Sanji", "Emporio Ivankov", "Elbaph Arc"],
+ "lines": [
+  {"text": "Sanji's real weakness was never his kindness. It was how he spent it.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Sanji Killingham fight Elbaph", "fallback": "blond cook battered but standing"}},
+  {"text": "In chapter 1196, Oda returns to Sanji's two years training under Ivankov in Kamabakka.", "delivery": "normal", "fx": "none", "shot": {"search": "Ivankov Sanji Kamabakka Kingdom training", "fallback": "flamboyant queen training a blond cook"}},
+  {"text": "The lesson isn't about kicks. It's that a man who doesn't love himself can't love anyone else.", "delivery": "normal", "fx": "none", "shot": {"search": "Ivankov lesson Sanji self love", "fallback": "teacher gently lecturing a young cook"}},
+  {"text": "Sanji's habit is throwing himself in front of every hit and calling that love.", "delivery": "normal", "fx": "none", "shot": {"search": "Sanji takes hit protecting friends", "fallback": "cook shielding friends with his body"}},
+  {"text": "Killingham spots it at once and taunts him that Conqueror's Haki will never be his.", "delivery": "normal", "fx": "shake", "shot": {"search": "Killingham taunts Sanji", "fallback": "young knight with a spear sneering"}},
+  {"text": "He even throws a twisted Ivankov at him.", "delivery": "normal", "fx": "none", "shot": {"search": "Killingham Ivankov nightmare Sanji", "fallback": "distorted queen figure looming over a cook"}},
+  {"text": "Now the detail people forgot. Sanji disowned the Vinsmokes twice, chapters 870 and 903.", "delivery": "normal", "fx": "none", "shot": {"search": "Sanji Vinsmoke family Whole Cake Island", "fallback": "cook facing his cold family of royals"}},
+  {"text": "Both times he refused to be treated as a tool, and both times he chose the crew.", "delivery": "normal", "fx": "none", "shot": {"search": "Sanji rejects Germa Judge", "fallback": "cook turning his back on a royal father"}},
+  {"text": "Call it loyalty, but loyalty with no self left makes you a human wall.", "delivery": "normal", "fx": "none", "shot": {"search": "Sanji human wall Straw Hats", "fallback": "cook standing alone against a huge attack"}},
+  {"text": "Ivankov wasn't scolding him. Protection only counts if Sanji is still standing.", "delivery": "reveal", "fx": "none", "shot": {"search": "Sanji standing Ivankov flashback", "fallback": "cook rising slowly with a serious look"}},
+  {"text": "What happens when Sanji finally believes that changes his place in this crew.", "delivery": "normal", "fx": "none", "shot": {"search": "Sanji Straw Hats crew Elbaph", "fallback": "cook standing in front of his crew"}},
+  {"text": "And that's why the thing everyone called his weakness was never his kindness...", "delivery": "normal", "fx": "none", "shot": {"search": "Sanji kind cook Baratie", "fallback": "smiling cook serving a meal"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://fandomwire.com/one-piece-chapter-1196-oda-officially-sets-up-sanjis-new-transformation/",
+  "https://www.dexerto.com/anime/one-piece-chapter-1197-release-date-major-spoilers-3422520/",
+  "https://onepiece.fandom.com/wiki/Sanji"
+ ],
+ "self_check": {"hook": "Contrarian claim in line 1 with Sanji named.", "loop": "Final line completes line 1's sentence.", "facts_verified": true}
+}

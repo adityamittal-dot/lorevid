@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-28-Ls2",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Kakashi's strongest form in chapter 689 was Obito's spirit working through him and vanished when the spirit left",
+ "title": "Kakashi's Strongest Form Lasted One Battle",
+ "description": "In chapter 689 Kakashi gets dual Mangekyo, Susanoo and intangible strikes from Obito's spirit, then loses all of it. Is borrowed power really strength? Chapters 674, 689 and the wiki explain.",
+ "hashtags": ["#kakashi", "#naruto", "#susanoo", "#anime"],
+ "tags": ["kakashi susanoo", "kakashi dual mangekyo", "kakashi chapter 689", "obito spirit kakashi", "naruto theory", "kakashi strongest form", "kamui lightning cutter", "kakashi copy ninja"],
+ "hook_text": "BORROWED POWER",
+ "music_mood": "epic",
+ "comment": "Was dual-Mangekyo Kakashi his real peak, or just Obito's power on loan? Pick one.",
+ "related_long": "2026-11-28-L",
+ "end_text": "WHO REALLY OWNS IT?",
+ "pages": ["Kakashi Hatake", "Obito Uchiha", "Susanoo"],
+ "lines": [
+  {"text": "Kakashi's strongest form lasted exactly one battle.", "delivery": "punch", "fx": "none", "shot": {"search": "Kakashi Susanoo dual Mangekyo", "fallback": "armoured spirit forming around a silver haired ninja"}},
+  {"text": "It happens in chapter 689, and it isn't really his.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi Obito spirit chapter 689", "fallback": "ghost of a boy standing behind a ninja"}, "card": "CHAPTER 689"},
+  {"text": "Kakashi loses his Sharingan back in chapter 674.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi loses Sharingan empty eye", "fallback": "ninja with a closed scarred left eye"}},
+  {"text": "Then Obito's spirit settles inside him, carrying both Mangekyo.", "delivery": "slow", "fx": "zoom", "shot": {"search": "Obito spirit inside Kakashi both Mangekyo", "fallback": "ghost merging into a silver haired ninja"}},
+  {"text": "Those eyes hold Six Paths chakra, so Kakashi feels no strain at all.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi Mangekyo Six Paths chakra", "fallback": "ninja glowing with golden chakra and spiral eyes"}},
+  {"text": "He phases his whole body through Kamui, then pairs it with his Lightning Cutter.", "delivery": "normal", "fx": "shake", "shot": {"search": "Kakashi Kamui Lightning Cutter intangible", "fallback": "ninja with a lightning hand phasing through attacks"}},
+  {"text": "Then comes Susanoo, honed into a Complete Body.", "delivery": "punch", "fx": "none", "shot": {"search": "Kakashi Susanoo Perfect body", "fallback": "giant armoured spirit around a ninja"}},
+  {"text": "Compare that with his own Mangekyo, which cost him for over a decade.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi Mangekyo Sharingan cost", "fallback": "tired ninja with a failing red eye"}},
+  {"text": "The moment Obito's spirit returns to the afterlife, every one of those abilities is gone.", "delivery": "slow", "fx": "none", "shot": {"search": "Obito spirit leaves Kakashi", "fallback": "ghost fading into light beside a ninja"}},
+  {"text": "Some say that proves Kakashi is nothing without Obito.", "delivery": "normal", "fx": "none", "shot": {"search": "Obito Kakashi Sharingan gift", "fallback": "scarred man looking at an old friend"}},
+  {"text": "I read it the other way. Power you can't keep isn't a skill, it's a loan.", "delivery": "reveal", "fx": "none", "shot": {"search": "Kakashi Hatake Sharingan thinking", "fallback": "silver haired ninja looking serious"}},
+  {"text": "Kakashi's real strength was the slow version nobody could lend him.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi Kamui training Mangekyo", "fallback": "silver haired ninja training with a red eye"}},
+  {"text": "Hold onto that loan, because the eye he did keep is the one Madara decided to steal.", "delivery": "normal", "fx": "none", "shot": {"search": "Madara Uchiha Kakashi Mangekyo stolen", "fallback": "old warlord holding a glowing red eye"}},
+  {"text": "Because the strongest form Kakashi ever had was the one he never owned, so...", "delivery": "slow", "fx": "none", "shot": {"search": "Kakashi Susanoo Obito spirit", "fallback": "armoured spirit dissolving into light"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Kakashi_Hatake",
+  "https://naruto.fandom.com/wiki/Obito_Uchiha",
+  "https://naruto.fandom.com/wiki/Madara_Uchiha",
+  "https://fictionhorizon.com/how-did-kakashi-get-the-mangekyo-sharingan-when-did-he-first-use-it/"
+ ],
+ "self_check": {"hook": "Verdict-style claim in line 1.", "loop": "Last line leads into line 1.", "facts_verified": true}
+}

@@ -1,0 +1,42 @@
+{
+ "id": "2026-11-28-Ls1",
+ "format": "short",
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Kakashi keeps his transplanted Sharingan covered because a non-Uchiha cannot switch it off and pays chakra for every second",
+ "title": "The Real Reason Kakashi Kept His Eye Covered",
+ "description": "Kakashi keeps his Sharingan covered for a reason most fans skip: as a non-Uchiha he can't turn it off, and it drains him constantly. Chapters 16, 459 and 12 explain the price. Which side do you take?",
+ "hashtags": ["#kakashi", "#naruto", "#sharingan", "#anime"],
+ "tags": ["kakashi sharingan", "why kakashi covers his eye", "kakashi headband", "naruto theory", "kakashi obito", "sharingan chakra drain", "naruto chapter 16", "copy ninja"],
+ "hook_text": "WHY HE HIDES IT",
+ "music_mood": "suspense",
+ "comment": "Is Kakashi's covered eye the price of Obito's gift, or proof he's the stronger Sharingan user? Pick one.",
+ "related_long": "2026-11-28-L",
+ "end_text": "WHOSE EYE IS IT?",
+ "pages": ["Kakashi Hatake", "Sharingan", "Obito Uchiha"],
+ "lines": [
+  {"text": "Kakashi covers his Sharingan for a reason nobody talks about.", "delivery": "punch", "fx": "none", "shot": {"search": "Kakashi Hatake Sharingan headband covered", "fallback": "masked ninja with a headband over his left eye"}},
+  {"text": "It isn't style. It's a chakra bill.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi Sharingan chakra tired", "fallback": "silver haired ninja looking exhausted"}},
+  {"text": "Obito's eye came with a catch for anyone who isn't an Uchiha.", "delivery": "normal", "fx": "none", "shot": {"search": "Obito Uchiha goggles Kakashi Sharingan", "fallback": "boy with goggles holding out his hand"}},
+  {"text": "It never switches off. Chapter 459 spells that out.", "delivery": "punch", "fx": "zoom", "shot": {"search": "Kakashi Sharingan always active", "fallback": "one red eye glowing under a headband"}, "card": "CHAPTER 459"},
+  {"text": "A real Uchiha keeps a Sharingan running on almost nothing.", "delivery": "normal", "fx": "none", "shot": {"search": "Sasuke Uchiha Sharingan calm", "fallback": "dark haired ninja with calm red eyes"}},
+  {"text": "Kakashi burns chakra just by opening that left eye.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi lifts headband Sharingan", "fallback": "masked ninja lifting a headband to show a red eye"}},
+  {"text": "That's why chapter 16 shows him uncovering it only when Zabuza forces his hand.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi Zabuza Sharingan Land of Waves", "fallback": "masked ninja facing a swordsman in the mist"}, "card": "CHAPTER 16"},
+  {"text": "Use it long and he's bedridden for days.", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi hospital bed Sharingan", "fallback": "silver haired ninja resting in a hospital bed"}},
+  {"text": "After the Gaara rescue, Guy actually has to carry him out on his back.", "delivery": "aside", "fx": "none", "shot": {"search": "Guy carries Kakashi piggyback", "fallback": "muscular ninja carrying a tired friend on his back"}},
+  {"text": "People say that's just Obito's eye being too strong.", "delivery": "normal", "fx": "none", "shot": {"search": "Obito Uchiha Sharingan strong", "fallback": "scarred man with a spiral eye"}},
+  {"text": "But a transplant doesn't explain who pays for it. That's always Kakashi, never Obito.", "delivery": "reveal", "fx": "none", "shot": {"search": "Kakashi Hatake Sharingan tired Obito", "fallback": "tired ninja covering his eye with one hand"}},
+  {"text": "And he still became the Copy Ninja with it, chapter 12, over a thousand techniques.", "delivery": "normal", "fx": "flash", "shot": {"search": "Kakashi Copy Ninja thousand jutsu", "fallback": "silver haired ninja mirroring a jutsu"}, "card": "CHAPTER 12"},
+  {"text": "So who really owns an eye that one man gave and the other man pays for?", "delivery": "slow", "fx": "none", "shot": {"search": "Kakashi Obito Rin Team Minato", "fallback": "two boys and a girl standing together"}},
+  {"text": "So every time that headband slides down, here's what it hides:", "delivery": "normal", "fx": "none", "shot": {"search": "Kakashi headband slides Sharingan", "fallback": "masked ninja sliding a headband off one eye"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://naruto.fandom.com/wiki/Kakashi_Hatake",
+  "https://naruto.fandom.com/wiki/Sharingan",
+  "https://naruto.fandom.com/wiki/Obito_Uchiha",
+  "https://gamerant.com/naruto-why-kakashi-never-revealed-his-mangekyo-sharingan-before-shippuden/"
+ ],
+ "self_check": {"hook": "Hidden-detail hook in line 1 about the covered eye.", "loop": "Last line leads into line 1.", "facts_verified": true}
+}
