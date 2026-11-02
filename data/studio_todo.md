@@ -86,3 +86,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Akainu Weaponized A 20-Year Grudge (https://youtu.be/JVcyjGwE648) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
 - [ ] Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU) -> thumbnail B saved at output/2026-11-03-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Luffy Covered His Secret With Respect (https://youtu.be/A-SMnKqvTNU) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
+- [ ] The Moment Katakuri's Family Failed Him (https://youtu.be/-QW_9DMaw68) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
