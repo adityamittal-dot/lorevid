@@ -15,7 +15,7 @@
  "end_text": "WHY HE LEFT LUFFY ALONE",
  "pages": ["Silvers Rayleigh", "Charlotte Katakuri", "Monkey D. Luffy"],
  "lines": [
-  {"text": "Rayleigh asked Luffy one question that only Katakuri could answer.", "delivery": "punch", "fx": "none", "shot": {"search": "Rayleigh Luffy Katakuri", "fallback": "old pirate asking a boy a question"}},
+  {"text": "Rayleigh maybe asked Luffy one question only Katakuri could answer.", "delivery": "punch", "fx": "none", "shot": {"search": "Rayleigh Luffy Katakuri", "fallback": "old pirate asking a boy a question"}},
   {"text": "During the timeskip, Rayleigh teaches Observation Haki with a blindfold and a hundred dodges.", "delivery": "normal", "fx": "none", "shot": {"search": "Luffy blindfold Observation Haki training", "fallback": "blindfolded boy dodging attacks"}},
   {"text": "Then he adds a throwaway line: some people can see a glimpse of the future.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Rayleigh future sight Observation Haki", "fallback": "figure seeing a glowing vision ahead"}},
   {"text": "He asks Luffy what he'd do if he ever faced one of them.", "delivery": "reveal", "fx": "none", "shot": {"search": "Rayleigh asks Luffy question", "fallback": "boy thinking hard"}},

@@ -15,7 +15,7 @@
  "end_text": "WHY RAYLEIGH WALKED AWAY",
  "pages": ["Silvers Rayleigh", "Gomu Gomu no Mi", "Dressrosa Arc", "Monkey D. Luffy"],
  "lines": [
-  {"text": "Rayleigh answered Luffy's Gear 4 question with a warning, not a technique.", "delivery": "punch", "fx": "none", "shot": {"search": "Rayleigh warns Luffy Gear 4", "fallback": "old man warning a boy gravely"}},
+  {"text": "I think Rayleigh answered Luffy's Gear 4 question with a warning, not a technique.", "delivery": "punch", "fx": "none", "shot": {"search": "Rayleigh warns Luffy Gear 4", "fallback": "old man warning a boy gravely"}},
   {"text": "In the timeskip, Luffy builds Gear 4 and asks how to hit harder with it.", "delivery": "normal", "fx": "none", "shot": {"search": "Luffy Gear 4 Boundman", "fallback": "inflated rubber boy with dark armor lines"}},
   {"text": "Rayleigh gives no move, only a warning about the consequences.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Rayleigh Luffy Gear 4 consequences", "fallback": "serious old man and a worried boy"}},
   {"text": "Then comes Dressrosa, chapter 786, and Luffy's first Gear 4 fight against Doflamingo.", "delivery": "normal", "fx": "shake", "shot": {"search": "Luffy Gear 4 Doflamingo Dressrosa", "fallback": "inflated rubber boy facing a flamboyant pirate"}},

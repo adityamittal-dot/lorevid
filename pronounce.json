@@ -27,6 +27,10 @@
   "Ah-mee-oo-dah-keh",
   "ɑmiudˈɑkɛ"
  ],
+ "Aoi": [
+  "Ah-oh-ee",
+  "ˈɑOi"
+ ],
  "Aokiji": [
   "Ah-oh-kee-jee",
   "ˌɑOkˈiʤi"
@@ -70,6 +74,10 @@
  "Chidori": [
   "Chee-doh-ree",
   "ʧidˈOɹi"
+ ],
+ "Chiyo": [
+  "Chee-yoh",
+  "ʧˈijO"
  ],
  "Choso": [
   "Choh-soh",
@@ -127,6 +135,10 @@
   "Dor-ree",
   "dˈɔɹi"
  ],
+ "Dosu": [
+  "Doh-soo",
+  "dˈOsu"
+ ],
  "Dressrosa": [
   "Dress-ROH-sah",
   "drɛsrˈOsɑ"
@@ -183,6 +195,10 @@
   "Foo-kah-sah-koo",
   "fukˈɑsɑku"
  ],
+ "Fumihiko": [
+  "Foo-mee-hee-koh",
+  "fˌumihˈikO"
+ ],
  "Fushiguro": [
   "Foo-shee-goo-roh",
   "fˌuʃiɡˈuɹO"
@@ -198,6 +214,10 @@
  "Galley-La": [
   "Gal-ee-lah",
   "ɡˈæliˌlɑ"
+ ],
+ "Gamabunta": [
+  "Gah-mah-boon-tah",
+  "ɡˌɑməbˈʊntə"
  ],
  "Garp": [
   "Garp",
@@ -255,6 +275,10 @@
   "Hye-bah-rah",
   "hˌIbˈɑɹə"
  ],
+ "Hajime": [
+  "Hah-jee-meh",
+  "hɑdʤˈimɛ"
+ ],
  "Hajrudin": [
   "Hah-jroo-din",
   "hɑʤɹˈudɪn"
@@ -266,6 +290,10 @@
  "Haki": [
   "Hah-kee",
   "hˈɑki"
+ ],
+ "Hana": [
+  "Hah-nah",
+  "hˈɑnɑ"
  ],
  "Hanami": [
   "Hah-nah-mee",
@@ -447,6 +475,10 @@
   "Kah-moo-ee",
   "kˈɑmui"
  ],
+ "Kankuro": [
+  "Kahn-koo-roh",
+  "kɑŋkˈuɹO"
+ ],
  "Kannabi": [
   "Kah-nah-bee",
   "kɑnˈɑbi"
@@ -458,6 +490,10 @@
  "Karasu": [
   "Kah-rah-soo",
   "kɑɹˈɑsu"
+ ],
+ "Karura": [
+  "Kah-roo-rah",
+  "kɑɹˈuɹə"
  ],
  "Kashii": [
   "Kah-shee",
@@ -494,6 +530,10 @@
  "Killingham": [
   "Kill-ing-ham",
   "kˈɪlɪŋhæm"
+ ],
+ "Kimimaro": [
+  "Kee-mee-mah-roh",
+  "kˌimimˈɑɹO"
  ],
  "Kinemon": [
   "Kee-neh-mon",
@@ -562,6 +602,10 @@
  "Kuroobi": [
   "Koo-roh-oh-bee",
   "kˌuɹOˈObi"
+ ],
+ "Kurusu": [
+  "Koo-roo-soo",
+  "kˈuɹusu"
  ],
  "Kusakabe": [
   "Koo-sah-kah-bay",
@@ -651,6 +695,10 @@
   "Mee-koh-toh",
   "mikˈOtO"
  ],
+ "Mimiko": [
+  "Mee-mee-koh",
+  "mimˈikO"
+ ],
  "Minato": [
   "Mee-nah-toh",
   "minˈɑtO"
@@ -698,6 +746,10 @@
  "Nami": [
   "Nah-mee",
   "nˈɑmi"
+ ],
+ "Nanako": [
+  "Nah-nah-koh",
+  "nɑnˈɑkO"
  ],
  "Nanami": [
   "Nah-nah-mee",
@@ -822,6 +874,10 @@
  "Rankyaku": [
   "Rahn-kyah-koo",
   "ɹɑŋkjˈɑku"
+ ],
+ "Rasa": [
+  "Rah-sah",
+  "ɹˈɑsə"
  ],
  "Rasengan": [
   "Rah-sen-gahn",
@@ -983,13 +1039,25 @@
   "Soo-koo-nah",
   "sukˈunə"
  ],
+ "Suna": [
+  "Soo-nah",
+  "sˈunə"
+ ],
  "Susanoo": [
   "Soo-sah-noh-oh",
   "sˌusɑnˈOO"
  ],
+ "Takaba": [
+  "Tah-kah-bah",
+  "tɑkˈɑbɑ"
+ ],
  "Tashigi": [
   "Tah-shee-gee",
   "tɑʃˈiɡi"
+ ],
+ "Temari": [
+  "Teh-mah-ree",
+  "tɛmˈɑɹi"
  ],
  "Tengen": [
   "Ten-gen",
@@ -1087,6 +1155,10 @@
   "Yah-mee",
   "jˈɑmi"
  ],
+ "Yashamaru": [
+  "Yah-shah-mah-roo",
+  "jˌɑʃəmˈɑɹu"
+ ],
  "Yomi": [
   "Yoh-mee",
   "jˈOmi"
@@ -1142,37 +1214,5 @@
  "Zunesha": [
   "Zoo-neh-shah",
   "zunˈɛʃə"
- ],
- "Hajime": [
-  "Hah-jee-meh",
-  "hɑdʤˈimɛ"
- ],
- "Hana": [
-  "Hah-nah",
-  "hˈɑnɑ"
- ],
- "Kurusu": [
-  "Koo-roo-soo",
-  "kˈuɹusu"
- ],
- "Aoi": [
-  "Ah-oh-ee",
-  "ˈɑOi"
- ],
- "Takaba": [
-  "Tah-kah-bah",
-  "tɑkˈɑbɑ"
- ],
- "Fumihiko": [
-  "Foo-mee-hee-koh",
-  "fˌumihˈikO"
- ],
- "Nanako": [
-  "Nah-nah-koh",
-  "nɑnˈɑkO"
- ],
- "Mimiko": [
-  "Mee-mee-koh",
-  "mimˈikO"
  ]
 }

@@ -38,7 +38,7 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    > carries `end_text` plus a bridge line (WRITER.md, "Shorts vs their long video"). Notes need Sources (3+ URLs from your searches), Angle, Self-review, and Fact
    > check (list each claim and the search result that supports it; drop any claim you couldn't support). Run
    > `python validate_script.py` on both and fix all errors in a single Edit per file. Don't touch pronounce.json or
-   > any other file. Don't commit. Reply only with the IDs and "ok" or the remaining errors.
+   > any other file. List every name not in pronounce.json as a `New names:` line in the notes. Don't commit. Reply only with the IDs and "ok" or the remaining errors.
 3. When a writer finishes, start one Sonnet editor for that long with this brief:
    > Read WRITER.md section 6 (Long Video Rules), scripts/backlog/<id>.json and the notes' Fact check. First check
    > the premise: is every character actually where and when the script puts them? If the premise is false, reply
@@ -50,6 +50,7 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    > is 8+. If a chapter scores under 8, rewrite that whole chapter (you may restructure it), don't just tweak lines.
    > Never lower the bar to pass. Run `python validate_script.py scripts/backlog/<id>.json` until it passes. Reply only "ok" or the errors.
 4. Drop any long whose editor replied "FALSE PREMISE" (and its Shorts) from the commit. Only commit scripts that pass `python validate_script.py`. A script that still fails after its editor pass: leave
-   it out of the commit and list it in your reply. Never push a "WIP" commit. Commit once: `git add scripts/backlog notes && git commit -m "script: <ids>"`, then push to the branch this
+   it out of the commit and list it in your reply. Never push a "WIP" commit. Append each committed script's `New names:` to
+   `data/pronounce_missing.md` as `- Name (<id>)`. Commit once: `git add scripts/backlog notes data/pronounce_missing.md && git commit -m "script: <ids>"`, then push to the branch this
    session is set up to use.
 5. Reply with `python plan.py status` and the pushed IDs. Nothing else.
