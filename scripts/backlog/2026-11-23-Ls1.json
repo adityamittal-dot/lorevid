@@ -1,0 +1,157 @@
+{
+"id": "2026-11-23-Ls1",
+"format": "short",
+"series": "onepiece",
+"wiki": "onepiece.fandom.com",
+"topic": "Hancock gambled her Warlord seat on one kick at Smoker in chapter 560",
+"title": "Hancock Bet Her Warlord Seat On One Kick",
+"description": "In chapter 560, Hancock snapped Smoker's jitte while he warned her about her Warlord status. I think that kick was a real gamble, not a joke. Was she bluffing or sure?",
+"hashtags": [
+"#hancock",
+"#onepiece",
+"#smoker",
+"#anime"
+],
+"tags": [
+"boa hancock",
+"hancock smoker",
+"one piece 560",
+"hancock kick",
+"warlord of the sea",
+"marineford",
+"one piece theory",
+"hancock haki"
+],
+"hook_text": "THE KICK WAS A BET",
+"music_mood": "suspense",
+"comment": "Was Hancock bluffing about her beauty saving her Warlord seat, or did she know the Navy needed her? Pick one.",
+"related_long": "2026-11-23-L",
+"end_text": "WHAT SHE REALLY SWORE",
+"pages": [
+"Boa Hancock",
+"Smoker",
+"Marineford Arc",
+"Monkey D. Luffy"
+],
+"lines": [
+{
+"text": "Hancock's kick at Smoker was the riskiest thing a Warlord did all war.",
+"delivery": "punch",
+"fx": "zoom",
+"shot": {
+"search": "Hancock kicks Smoker Marineford",
+"fallback": "empress kicking a smoky marine officer"
+}
+},
+{
+"text": "Chapter 559. Smoker has Luffy pinned under his Seastone jitte.",
+"delivery": "normal",
+"fx": "none",
+"shot": {
+"search": "Smoker pins Luffy jitte",
+"fallback": "marine with two cigars pinning a boy"
+}
+},
+{
+"text": "Hancock kicks him off, and her Haki lets her touch a Logia.",
+"delivery": "normal",
+"fx": "shake",
+"shot": {
+"search": "Hancock Haki Smoker kick",
+"fallback": "black haki kick hitting a smoke man"
+}
+},
+{
+"text": "He asks why a Warlord isn't doing her duty. She doesn't even answer.",
+"delivery": "normal",
+"fx": "none",
+"shot": {
+"search": "Smoker asks Hancock Warlord duty",
+"fallback": "marine glaring at an empress"
+}
+},
+{
+"text": "Then in chapter 560 she snaps his jitte in half with Perfume Femur.",
+"delivery": "punch",
+"fx": "flash",
+"shot": {
+"search": "Hancock Perfume Femur jitte broken",
+"fallback": "metal weapon breaking in two"
+}
+},
+{
+"text": "Smoker warns her the Navy may take her Warlord title.",
+"delivery": "normal",
+"fx": "none",
+"shot": {
+"search": "Smoker warns Hancock Warlord title",
+"fallback": "marine pointing at an empress"
+}
+},
+{
+"text": "She answers that her beauty will keep it safe. That's the line everyone laughs at.",
+"delivery": "normal",
+"fx": "none",
+"shot": {
+"search": "Hancock beauty Warlord Smoker",
+"fallback": "empress flipping her hair confidently"
+}
+},
+{
+"text": "Mihawk, Kuma, Moria and Doflamingo were all standing right there. She was replaceable.",
+"delivery": "normal",
+"fx": "none",
+"shot": {
+"search": "Warlords Marineford Mihawk Doflamingo Moria Hancock",
+"fallback": "row of warlords on a war field"
+}
+},
+{
+"text": "So that was a real bet, and I think she knew it when her foot swung.",
+"delivery": "reveal",
+"fx": "zoom",
+"shot": {
+"search": "Hancock Luffy Smoker protect",
+"fallback": "empress standing in front of a boy"
+}
+},
+{
+"text": "Her island's shield was the price tag, and she paid it for Luffy.",
+"delivery": "normal",
+"fx": "none",
+"shot": {
+"search": "Hancock Amazon Lily Warlord",
+"fallback": "empress thinking about her island"
+}
+},
+{
+"text": "But the title wasn't the only thing she put on the line for him.",
+"delivery": "reveal",
+"fx": "none",
+"shot": {
+"search": "Hancock Luffy Impel Down Marineford",
+"fallback": "empress walking beside a boy in a straw hat"
+}
+},
+{
+"text": "Hancock's kick at Smoker was the riskiest thing a Warlord did, and it wasn't even her biggest bet.",
+"delivery": "normal",
+"fx": "none",
+"shot": {
+"search": "Hancock kicks Smoker",
+"fallback": "empress mid kick with a fierce look"
+}
+}
+],
+"chapters": [],
+"thumbnail": null,
+"sources": [
+"https://onepiece.fandom.com/wiki/Smoker",
+"https://onepiece.fandom.com/wiki/Marineford_Arc"
+],
+"self_check": {
+"hook": "Line 1 names Hancock and claims the kick was a gamble.",
+"loop": "Last line restates the opening claim and flows back into line 1.",
+"facts_verified": true
+}
+}

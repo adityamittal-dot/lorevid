@@ -1,0 +1,2748 @@
+{
+ "id": "2026-11-22-L",
+ "format": "long",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "deep": true,
+ "topic": "Ohara's books were never just history: they were proof, seed and bait, and the chain from the lake to Elbaph shows why the Government keeps coming for them",
+ "title": "Ohara Explained: Why Its Books Were Never Just History",
+ "description": "Ohara Explained: the full story of the Ohara Incident, Professor Clover's last sentence, the lake of saved books, and the road from Saul and Vegapunk to the Owl Library on Elbaph. This deep dive argues that the books were never just history, and tracks every chapter that proves it.\n\nWe cover the Buster Call, Kuzan and Sakazuki, Nico Robin, the Void Century and the Great Kingdom. Why do you think the World Government fears these books: the Great Kingdom's name, or the founding story?\n\n0:00 Burned For A Question\n0:30 The Island That Read\n2:56 A Crime Called Curiosity\n4:58 The Phone Call\n7:04 Fire, Ice And One Ship\n9:20 The Lake Nobody Checked\n11:29 The Girl Who Kept Reading\n13:40 Stone Versus Paper\n15:33 Who Carried The Torch\n17:49 What Shaka Said\n20:02 The Official Excuse\n21:58 The Owl Library\n24:28 The Real Weapon",
+ "hashtags": [
+  "#ohara",
+  "#onepiece",
+  "#nicorobin",
+  "#anime"
+ ],
+ "tags": [
+  "ohara explained",
+  "ohara incident",
+  "one piece ohara",
+  "ohara books",
+  "professor clover",
+  "nico robin ohara",
+  "void century explained",
+  "great kingdom one piece",
+  "owl library elbaph",
+  "one piece theory",
+  "buster call ohara",
+  "jaguar d saul"
+ ],
+ "hook_text": "",
+ "music_mood": "emotional",
+ "comment": "Are Ohara's books the Government's real fear, or is the Great Kingdom's name the thing Imu cannot let Robin read? Pick one.",
+ "related_long": null,
+ "pages": [
+  "Ohara",
+  "Nico Robin",
+  "Clover",
+  "Jaguar D. Saul",
+  "Owl Library",
+  "Void Century"
+ ],
+ "lines": [
+  {
+   "text": "Ohara's books were never just history, and the Marines burned a whole island to prove it.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nico Robin Ohara Tree of Knowledge",
+    "fallback": "anime scholars in a giant tree library full of books at sunset"
+   }
+  },
+  {
+   "text": "Everyone says Ohara burned for forbidden pages. Chapter 1066 says the pages survived, and I think that's why Elbaph is under attack.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars library Clover",
+    "fallback": "anime scholars in a giant tree library full of books at sunset"
+   },
+   "card": "CHAPTER 1066"
+  },
+  {
+   "text": "So what were those books really, and how did a lake of wet paper outlast a Buster Call?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara lake books Clover",
+    "fallback": "anime scholars in a giant tree library full of books at sunset"
+   }
+  },
+  {
+   "text": "The answer starts with one sentence that a man was shot before he could finish...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Saul Elbaph Owl Library",
+    "fallback": "anime scholars in a giant tree library full of books at sunset"
+   }
+  },
+  {
+   "text": "I'll follow the books from a burning island to Elbaph. First, why were scholars treated like an invasion fleet?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Ohara books memorized",
+    "fallback": "anime scholars in a giant tree library full of books at sunset"
+   }
+  },
+  {
+   "text": "Ohara looks harmless: a small island in the West Blue whose whole identity is a library built inside a tree.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara West Blue island Tree of Knowledge",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Vegapunk later calls Professor Clou D. Clover an eccentric, respected adventurer, so charismatic that Ohara became the holy land of archaeology.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Ohara archaeologist",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   },
+   "card": "CLOU D. CLOVER"
+  },
+  {
+   "text": "Their obsession is the island's own Poneglyph, and the missing history of the Blue Planet it might hold.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara archaeologists Poneglyph study",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Poneglyphs are stone blocks scattered across the Grand Line, and Clover called them unbreakable.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph stone Ohara",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "The text on them covers the Void Century, and the way to Laugh Tale.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Poneglyph ancient script Void Century",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Reading that script is a crime in the eyes of the World Government, and chapter 392 says so plainly.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government Poneglyph research crime",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   },
+   "card": "CHAPTER 392"
+  },
+  {
+   "text": "So the scholars work in secret for years. And they still crack the ancient script.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars secret research",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Think about how rare that is. Almost nobody else alive could read it.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara archaeologists Poneglyph decipher",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Growing up among them is a little girl named Nico Robin, daughter of the archaeologist Nico Olvia.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin child Ohara",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "She ate the Hana Hana no Mi when she was small, and she is curious about everything the adults do.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Hana Hana no Mi child",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Chapter 397 shows how she learns the script at eight years old, simply by spying on the research team.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin spying archaeologists Ohara",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   },
+   "card": "CHAPTER 397"
+  },
+  {
+   "text": "Hold onto that picture. A child teaching herself to read what the world forbids.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Olvia Ohara reunion",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "After Ohara, that same eight-year-old carries a bounty of 79,000,000, purely for what she can read.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin bounty poster child",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "And remember, these scholars are not rebels. They are people who want to know how the world works.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara Tree of Knowledge library",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Which makes what the Government does next feel even stranger.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars debate",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "There are three kinds of Poneglyph. Nine Historical ones hold forgotten history and messages from ancient people.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph Historical nine stones",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Seventeen Instructional stones give directions to the Historical ones, and four red Road Poneglyphs point toward Laugh Tale.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph Instructional seventeen",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Chapter 395 calls the stone indestructible, so nobody can smash it. The scholars can only study it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph indestructible stone Ohara",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "What they can do is write, copy and argue, and that is a very different kind of danger.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars notes copies Poneglyph",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "So Ohara fills a library with documents and copies. Paper travels in a way a block of stone never will.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tree of Knowledge library Ohara shelves",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "File that away. It is the first clue to what the Marines were really afraid of.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara library shelves Marines",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Clover has a reputation for stirring up trouble, even Dragon admits it, and that is why the Government's propaganda about him sticks.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Ohara reputation trouble",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "These were people trying to recover a century that the entire world had agreed to forget.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars hunt forgotten history",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Most people sense a gap in the historical record. Almost nobody knows that filling it is even possible.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century gap record unaware",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Their method is careful: study the island's stone, compare notes, send researchers out for the others. That is exactly why they are dangerous.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara Poneglyph Tree of Knowledge study",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Because the real trouble was not the one Poneglyph they already had, but all the ones they didn't...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Poneglyph study",
+    "fallback": "anime island village with a giant tree library and scholars reading"
+   }
+  },
+  {
+   "text": "Here's their problem. One Poneglyph can't rebuild a lost century, and Ohara had no access to the others.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars Poneglyph limited access",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "So Nico Olvia and thirty-three other archaeologists set sail to hunt for more stones, knowing it was illegal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Olvia expedition sails",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "The Marines intercept them, and Olvia is the only member of that expedition left standing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Olvia Marines intercept ship",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Here is the detail people skip. The Marines go through the belongings of the dead researchers and trace the team straight back to Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Marines belongings trace Ohara",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Then a CP9 unit is sent to investigate. Chapter 393 says the Government never trusted these scholars to begin with.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "CP9 Ohara investigate",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Their knowledge made the Government uneasy long before, and the illegal research finally handed it an excuse.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "World Government Ohara excuse",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Olvia escapes with help from Jaguar D. Saul, a giant serving as a Marine Vice Admiral. That's chapter 396.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jaguar D. Saul Olvia escape",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Saul, remember that name, because this whole story ends up standing on his shoulders.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jaguar D. Saul giant Marine",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Saul is Robin's best friend, and he refuses to join the attack on Ohara. That is why Kuzan ends up freezing him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Saul Robin D initial meaning",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "A Vice Admiral who will not fire on his friend's home. Hold that thought, because it comes back at Elbaph.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Clou D. Clover Saul D",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Olvia makes it back to Ohara in time to warn the other scholars that the Marines are coming.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Olvia returns Ohara warn comrades",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "But CP9 is already on the island, and the Government has its excuse in hand.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars Marines arrive",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Clover is taken, and now the story turns on a single phone call.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover captured CP9",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Not a battle, not an order shouted across a field. A phone call from the top of the world.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Den Den Mushi Clover",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Olvia's survival matters. Without her warning, the scholars of Ohara might never have known what was coming.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Olvia sole survivor expedition",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "The Government didn't need new evidence of wrongdoing. It needed a reason to act, and a crime gave it one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government Ohara watched scholars",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "The same law catches others later. The Nox Expedition set out thirteen years ago for Nekomamushi and became outlaws for seeking Poneglyphs.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nox Expedition Pedro Poneglyph",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Pedro earned a bounty for it. Looking for the stones is enough to make you a criminal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pedro bounty Nox pirates",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Researching and deciphering them is a crime punishable by death. That wording shows how seriously the Government takes it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph research crime punishable",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "Ohara's scholars were never pirates. They were academics treated as criminals for reading.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara archaeologists academics criminals",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "And what Clover said into that phone is why I'm convinced the books were never the point...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Five Elders call",
+    "fallback": "anime ship of scholars sailing into a stormy sea at dawn"
+   }
+  },
+  {
+   "text": "With Clover captured, the Five Elders call him on a Den Den Mushi and confront him over his research.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Den Den Mushi Clover",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "The Elders are not worried policemen. They are the highest authority of the World Government, and they can order a Buster Call.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Ohara order",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "Clover was defiant. He did not beg, did not deny anything, and did not apologise.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover defiant Elders",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "He pointed out the coincidence between the Void Century and the founding of the World Government itself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Void Century World Government founding",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "Then he says he knows the Great Kingdom existed, the one that once stood against that government.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Clover Great Kingdom Elders",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "He has the name, and Clover himself says that name holds the key to the whole Void Century.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Kingdom Void Century name",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "Before he could say it aloud, Peter gave an order and Spandine shot him.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Spandine shoots Clover Ohara",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   },
+   "card": "SPANDINE"
+  },
+  {
+   "text": "Think about that. A man was silenced mid-word, and an entire island was erased for what he almost said.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Clover shot silence name",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "The Elders even acknowledged Clover's merits, though they called his vision distorted. They respected the mind and feared the conclusion.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elders Clover distorted vision",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "Then the Elders ordered Ohara and every resident wiped out, declaring a Buster Call. That order is chapter 395.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Buster Call declared",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "And chapter 395 also shows Clover revealing what the Tree of Knowledge had helped him discover.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara Tree of Knowledge burning",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "Now here is my read. A government protecting a treasure would hide the map and let people wander.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century Poneglyph danger",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "But a government that silences a sentence is protecting a motive. It is hiding why it exists.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government Void Century secret",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "The Great Kingdom was destroyed by the Twenty Kingdoms, who later became the World Government.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Kingdom war twenty kingdoms",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "That is the coincidence Clover named. The victors wrote the world, then erased the war from it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover coincidence World Government",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "It's telling that the Elders took this call themselves. Ohara was not handled by some junior officer.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Elders recognized merits",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "Spandine, father of Spandam, is the one who fired. Keep that name in mind, because his son turns up at Enies Lobby.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Spandine Clover shot Ohara",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "And the order comes from Peter, on the Elders' side of the call. That makes it a decision from the very top.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Peter Five Elders order Spandine",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "The call itself is the scariest part. Nobody on that line pretended to be fair.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Elders Den Den Mushi call",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "From the Elders' chair, erasing an island of scholars was a tidy answer to one sentence.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elders Ohara wiped out order",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "And the name he was about to say, the one that holds the key, is still unknown to us.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover final words name kingdom",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "So the books are not a record of something old. They are evidence in a case that never closed...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara books Great Kingdom",
+    "fallback": "anime scholar in cuffs speaking into a snail phone before robed elders"
+   }
+  },
+  {
+   "text": "Then came the Buster Call, and the fleet that arrived was not subtle.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Buster Call Ohara Marines fleet",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Five Vice Admirals lead the bombardment, and two of them are Sakazuki and Kuzan. Chapter 397 puts Kuzan right there.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki Kuzan Vice Admirals Ohara",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Civilians and Marine soldiers boarded an evacuation ship to leave the island.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara evacuation ship civilians",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Sakazuki blew that ship apart, reasoning that a single scholar might be hiding aboard. Chapter 397.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Sakazuki evacuation ship Ohara",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "His logic was brutal and simple. If one scholar escaped carrying the knowledge, the entire mission failed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki absolute justice Ohara",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Kuzan called him a fool for overdoing things, and that disgust never faded between them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan calls Sakazuki fool",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "And Kuzan did something else. He gave young Robin a small boat and an ice trail to escape.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Aokiji Robin boat ice trail",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "He even sabotaged the Marine ships that were about to chase her. Ask yourself who benefits from that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan sabotages Marine ships Robin",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Kuzan said later he respected Saul's will, and felt it was his duty to watch over Robin until she found her place.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan respects Saul will Robin",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "So an eight-year-old floats away from a burning home, alone, with a bounty already on her name.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Robin child boat sea Ohara",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "The island was wiped out along with all its inhabitants, with Robin the only one who escaped.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara destroyed entire island",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "There's a grim footnote at Enies Lobby. Everything on Ohara fell except the ground under Spandine's feet.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Spandine ground Ohara Enies Lobby",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "And Saul was left behind in that inferno, and for years the world assumed he was gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Saul Ohara left behind",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "From the Marines' point of view this was a clean result. No scholars, no tree, no research.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara Marines victory",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "They believed the books burned with the island.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara library burning Tree",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Kuzan follows orders, but he shows a mercy other officers don't, and Ohara is where it shows most.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Aokiji Kuzan compassionate Marine",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "That disgust lasts. Years later the two duel for ten days over who becomes Fleet Admiral, and Sakazuki wins.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan Sakazuki duel Fleet Admiral",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "After Ohara, Sakazuki was promoted to Admiral and given the name Akainu. The Government rewarded the man who overdid it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki Akainu promoted Ohara",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "As Fleet Admiral he can order a Buster Call on any island he deems a threat, at any time.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki Fleet Admiral Buster Call authority",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "That is the policy Ohara created. Absolute justice, with no room for a lake.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Buster Call authority island threat",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "The bounty on an eight-year-old is the Government telling the world that a child's ability is a crime.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin bounty 79 million eight",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "They burned everything that looked like a library. I think they never thought to check the water.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara fire Buster Call fleet",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Note who was aboard that ship. Civilians and Marines, both treated as acceptable losses.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki ship civilians Marines aboard",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "Kuzan and Saul were close friends, and Kuzan still froze him. Keep that in mind, because Saul is not dead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan Saul friend Marine",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "But that belief had one gap, and it was sitting in plain sight in the middle of the island...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara lake books Marines",
+    "fallback": "anime warships bombarding a burning island at night with an ice trail on the sea"
+   }
+  },
+  {
+   "text": "In the center of Ohara sits a lake, and the scholars filled it with books. That changed how I read the whole incident.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars throw books lake",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "I think they hoped the water would protect what the flames couldn't.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara lake books window",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "A few months later Vegapunk visits the ruins to pay his respects, and he finds that lake packed with books.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk visits Ohara ruins flowers",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Shaka retells this in chapter 1066, and his word for it is victory.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Vegapunk Ohara lake books",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Hearing this, Robin realizes what her mother and her old friends intended, and she breaks down.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin tears Ohara mother books",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "The scholars could not save themselves, so they saved the one thing the Government wanted gone.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Robin crying Egghead Shaka",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Some months after the incident, Jaguar D. Saul led a team of giants from Elbaph to retrieve what survived.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Saul giants Elbaph Ohara books",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Think about the risk. They went back to an island the Government had just erased.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Giants retrieve Ohara books",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "After every book was recovered, the giants took them to the Owl Library to be kept safe. That's chapter 1066.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Owl Library Elbaph books",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Roughly two years later, a clone of Vegapunk visited Elbaph discreetly and was allowed to read every salvaged book.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Elbaph Owl Library read",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "He memorized them all. Shaka says all that knowledge is now stored in his brain.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk memorized books brain",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "And Vegapunk chose never to tell the higher-ups that Ohara had succeeded in protecting its books.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government never knew Vegapunk",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Which is a huge deal for a man employed by the people who ordered the fire.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk secret World Government",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Dragon also stands in those ruins, aged thirty-three, and he leaves with a different plan than grief.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Ohara ruins visit",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Before that year ended, Dragon, Kuma and Ivankov founded the Revolutionary Army.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Revolutionary Army founded",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "So here is my claim. A history book is something you read after the fight ends.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara lake books Clover",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "These were books packed and delivered like ammunition, through twenty years of silence.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara books lake salvaged",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "The Marines never touched that lake. I think they never grasped that it held the real prize.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Marines left lake books",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "The scholars understood their enemy better than he understood them. Fire hunts a visible library, and it ignores a lake.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars last act books lake",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Vegapunk calls it Ohara's victory. He is the one man who saw the lake and read the books.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Ohara victory books",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "Vegapunk's visit came months later, which tells me the lake sat untouched while the Government moved on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk visited Ohara months later",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "The giants carried the books across the sea to Elbaph, out of the Government's reach.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Giants Saul books carried Elbaph",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "And the clone's visit came roughly two years after, which is patience on a scale the Marines never expected.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph Owl Library two years Vegapunk",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "But the girl who could read the stone itself was still alone on the run...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Ohara survivor alone",
+    "fallback": "anime lake filled with floating books beside burnt ruins"
+   }
+  },
+  {
+   "text": "After Ohara, Robin became the Devil Child, hunted for the ability to read a stone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Devil Child bounty",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "During her years on the run she kept deciphering Poneglyphs wherever she could find one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Poneglyph deciphered running",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Chapter 202 in Alabasta shows how real that ability is, as she reads the stone and Cobra is stunned.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Alabasta Poneglyph chapter 202",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Nefertari Cobra could not believe that a way to tie the threads of history together existed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Cobra Robin tie threads history",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "At Enies Lobby, Spandam tells Robin his father Spandine led Ohara's destruction, and she is furious.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Spandam Robin Enies Lobby bridge",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "The Straw Hats declare war on the Government to rescue her, and her bounty rises to 80,000,000.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats Enies Lobby assault",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Her bounty climbs from 79 million to 80 million, and every bit of it still traces back to Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Straw Hats Enies Lobby",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "At Sabaody, Rayleigh tells Robin that Roger solved the mysteries of the Poneglyphs and offers to tell her.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh Robin Sabaody Void Century",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Robin refuses. She wants to find the answers herself.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Robin declines Rayleigh offer",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Rayleigh admits something interesting: his crew were not proper historians like the Ohara archaeologists. Chapter 507.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh not historians Ohara",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   },
+   "card": "CHAPTER 507"
+  },
+  {
+   "text": "Roger found the Poneglyphs because he could hear the voice of all things, but he wasn't reading them like a scholar.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gol D. Roger Poneglyph voice",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Even Gaban's page says the Roger crew might have interpreted the same truth differently without Ohara-level knowledge.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gaban Void Century interpret",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "That is the piece I want you to hold. Finding the truth and understanding it are two different jobs.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara archaeologists interpret Poneglyph",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "On Fish-Man Island, Robin reads the lone Poneglyph in the Sea Forest and finds an apology from Joy Boy to Poseidon.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Fish-Man Island Sea Forest",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "When Neptune learns she survived Ohara, he tells her the royal family's story about Joy Boy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Neptune Robin Ohara Joy Boy",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "People forget this one. An Ohara survivor, not a pirate, is the person who reads Joy Boy's letter.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Poseidon apology Poneglyph",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Everything that makes Robin useful on that island was built in a library by people who are gone.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Ohara training Poneglyph",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "She is not just carrying her mother's memory. She is carrying the training the Government tried to end.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin mother Olvia memory",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "At Water 7 she leaves the crew for a while, afraid her presence endangers them. Same fear, different island.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Water 7 left crew",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "They answered by crossing the world to bring her back. Ohara's survivor finally had people who saw her as a friend.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Straw Hats Enies Lobby rescue",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "On Skypiea she reads the Shandoran Poneglyph, and the Shandia shaman weeps because their ancestors' wish was fulfilled.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Skypiea Poneglyph Shandia",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Centuries of guarding a stone, paid off by one reader.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shandia Poneglyph Robin passed information",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "She is one of only two living people known to read them, alongside Kouzuki Sukiyaki, chapter 1053.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Sukiyaki only readers alive",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Still, one reader cannot change a world. Somebody else had to carry the other half...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara survivors Robin alone",
+    "fallback": "anime young woman archaeologist reading a glowing stone block in ruins"
+   }
+  },
+  {
+   "text": "Now the stone itself, because it explains why Ohara put everything on paper.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph Kouzuki stonemasons Wano",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Eight hundred years ago the Kouzuki Family of Wano invents indestructible steles to record history that can't be destroyed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kouzuki Family stonemasons Poneglyphs",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "They can't be broken, not even by explosions. So the Government cannot simply erase the stones.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph indestructible explosion",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "What it can do is control who reads them, and it makes deciphering them a crime punishable by death.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government Poneglyph scattered",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Here's the loophole. Nekomamushi explains that a Poneglyph's text can be printed onto paper, like woodblock printing. Chapter 818.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nekomamushi Poneglyph rubbing paper",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "A rubbing lacks the stone's indestructibility, but it travels. It can be hidden, carried, memorized.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Poneglyph rubbing paper copy",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Roger himself copied Big Mom's Road Poneglyph in chapter 853, so copying was part of how his voyage worked.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Roger copy Big Mom Road Poneglyph",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Ohara's scholars worked from the same idea: stone for permanence, paper for movement.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara archaeologists copies Poneglyph",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "That's why chapter 1114 says Vegapunk learned from documents and copies salvaged from Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk salvaged documents copies Ohara",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "So the Government faces a problem force can't solve. The stone survives, and the paper moves.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "World Government cannot destroy Poneglyph",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Kouzuki Oden can read the script because his family passed it down.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden Kouzuki Poneglyph reader Roger",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Oden's log is how we know Roger learned about the Void Century, the Will of D. and the Ancient Weapons.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden Roger Laugh Tale Void Century",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   },
+   "card": "ANCIENT WEAPONS"
+  },
+  {
+   "text": "From what Oden learned, he concluded that Wano must open to the world before Joy Boy returns.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Oden Wano open before Joy Boy",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Chapter 1053 is the one that confirms Sukiyaki can still read it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kouzuki Sukiyaki Poneglyph reader",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Two readers left alive. The law could not erase the stones, and it could not fully erase the readers either.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Sukiyaki only readers",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "The Rio Poneglyph is the message carried by all nine Historical Poneglyphs, and finding it means deciphering them all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rio Poneglyph nine Historical",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "To get there you need the Instructional stones' directions, the Road Poneglyphs, and a reader who can tie them together.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Instructional Poneglyph clues locations",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Every one of those steps is a job for a scholar. A treasure hunter alone gets lost.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Poneglyph reader library",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Which is why Ohara's real treasure was never one stone. It was the method for reading them all.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara library scholars method",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "The Government can't burn the stones, so it has to burn the method.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara method books Government fear",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "And a method, once saved in a lake, is the hardest thing in the world to wipe out...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara books method Elbaph",
+    "fallback": "anime ancient stone steles carved with glowing script beside rolled paper scrolls"
+   }
+  },
+  {
+   "text": "Start with Dragon, because his disgust with the Marines grew out of the God Valley Incident and their brutality at Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Monkey D. Dragon Ohara ruins",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "He knew Clover, and he refused to believe the Government's line that Clover planned to destroy the world.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Clover respect",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Clover's loss pushed Dragon to abandon his stance against war and build a movement that opposed the corrupt world.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Dragon Revolutionary Army Clover",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "The Revolutionary Army calls Robin the Light of the Revolution, and Dragon ordered his men to protect her.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Robin Light of Revolution",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "For over ten years he has taken a deep interest in the sole survivor of the Ohara scholars.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Robin protection Revolutionaries",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Now Vegapunk. He was Clover's friend, one of the few people who knew his true name.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Clover friend",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "He was devastated by the Buster Call and the propaganda that followed, and he laid flowers at the ruins.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Clover Buster Call devastated",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Chapter 1114 reveals the result. He secretly learned to read Poneglyphs from documents and copies salvaged from Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Poneglyph learn Ohara documents",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   },
+   "card": "CHAPTER 1114"
+  },
+  {
+   "text": "Vegapunk and Dragon shared respect for Clover, and worked to make sure his loss was not for nothing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Dragon respect Clover",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "That connection kept running. Dragon even recommended Vegapunk to Kuma, who needed a cure for Bonney.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Vegapunk Kuma Bonney",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Meanwhile the Government decides to remove Vegapunk and sends CP0, because it fears he knows too much.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Government CP0 Vegapunk",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "The fear was justified. He had studied every book the Ohara scholars saved, and learned about the Ancient Kingdom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk studied Ohara books Ancient Kingdom",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "So Ohara's legacy runs through three people: a reader, an army's founder, and a scientist. Keep that trio in mind.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara Robin Dragon Vegapunk",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "The Void Century page makes the pattern explicit. All three canon Buster Calls tie back to the Void Century.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century three Buster Calls",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Ohara and Enies Lobby because Robin was there, Egghead because Vegapunk stood beside her.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Buster Call Ohara Enies Lobby Egghead",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Egghead is the same story, just with the lights on and the books in someone's head.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Egghead Buster Call Robin Vegapunk",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "The Government calls Dragon a terrorist. I'd say Ohara and God Valley are what made him one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Revolutionary Army Ohara reason",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "He left the Marines after God Valley, thirty-eight years ago. That detail is chapter 1166.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon left Marines God Valley",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Vegapunk lives a double life: building weapons for the people who ordered the fire, and carrying on Clover's research in secret.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Clover legacy continue research",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Dragon has campaigned against the Government for over thirty years. Ohara gave that campaign its face.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon army thirty years campaign",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Robin worked with Dragon and the Revolutionaries in the two years after Sabaody, so this connection is not just a rumor.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Robin worked together two years",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "Dragon grew concerned when a report said she'd been captured at Sabaody, and asked Koala if she was all right.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Koala Robin captured concern",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "The Light of the Revolution isn't a nickname. It's an asset he protects.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon watch Robin Light Revolution",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "And at Egghead, one satellite finally said out loud what the books had told him...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Egghead scientist Void Century",
+    "fallback": "anime revolutionary cloaked leader and a scientist standing before a ruined library"
+   }
+  },
+  {
+   "text": "At Egghead, Shaka tells the Straw Hats that Vegapunk's technology came mostly from recreating an ancient kingdom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shaka Egghead Straw Hats Void Century",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "That kingdom was highly advanced 900 years ago, according to Vegapunk in chapter 1065.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Great Kingdom 900 years ago technology",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Vegapunk says he is vastly inferior to it, and he can only replicate that technology to a limited extent. Chapter 1115.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Vegapunk inferior Great Kingdom",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Vegapunk is considered five hundred years ahead of the world, and he still calls himself behind.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk 500 years ahead",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Shaka's theory is that Ohara discovered the kingdom, and that the Void Century was a war between it and the twenty nations.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shaka theory Ohara Great Kingdom war",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Robin works it out as he talks, and Sanji realizes that this knowledge makes them all targets.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin realizes Void Century war",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "The moment the Government learns the pirates know, they join the list of people to be erased.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats target erasure",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "The twenty nations won that war and erased the loser from history.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Shaka World Government won war",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Chapter 1114's broadcast shows how unevenly the secret is shared. Vegapunk mentions the Void Century on live television.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk global broadcast Void Century",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Saint Rosward Shalria doesn't even know what it is, while other World Nobles demand he be silenced immediately.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rosward Shalria confused Void Century",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "So some nobles know exactly what it means, and the rest only know that it is dangerous.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "World Nobles demand Vegapunk silenced",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Later on Egghead, Sentomaru tells the citizens the island will suffer the same fate as Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sentomaru Egghead Ohara fate",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "The Government reacts to a live broadcast the way it reacted to one man's half-finished sentence twenty-two years ago.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Egghead Buster Call Ohara echo",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Clover's last sentence matters here. The kingdom's name is the key, and it has still not been spoken in the story.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Clover name Great Kingdom key",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "My theory is that the books contain what no stone does: the name, and the reasons.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century Great Kingdom name",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Poneglyphs are the stone record. Books are what scholars made out of reading them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph Ohara books difference",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Interpretation is what turns stone into evidence, and that's exactly why the Government wanted scholars gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara books interpretation Void Century",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Vegapunk's perfect clone was brought off Egghead to Elbaph, so the library and the memory are now under one roof.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Lilith Elbaph clone",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Lilith and Bonney set up a base in an ancient facility more than three thousand years old.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Lilith Bonney Elbaph laboratory",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Everything leads back to Elbaph, where the books, the clone and the reader now sit together.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Elbaph read Ohara books",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Vegapunk gave the Marines Pacifista and Seraphim, and the Government still chose to remove him over what he knew.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Seraphim Pacifista Marines",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "That tells you everything. His inventions made the Marines stronger, but his reading made him a liability.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk CP0 knew too much",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "Same stakes as Ohara, with a scientist's mind in place of a tree.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Egghead Buster Call Shaka books",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "And that evidence was sitting in one scientist's head on an island the Government was about to flatten...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk books brain Egghead",
+    "fallback": "anime scientist projecting an ancient kingdom map in a futuristic laboratory"
+   }
+  },
+  {
+   "text": "There's an official reason the Government gives for banning all this, and it's the Ancient Weapons.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ancient Weapons Pluton Poseidon Uranus",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   },
+   "card": "ANCIENT WEAPONS"
+  },
+  {
+   "text": "Pluton, Poseidon and Uranus are three weapons capable of mass destruction, named after gods. Chapter 650 names them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pluton battleship Water 7",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Pluton is an ancient battleship, and its blueprints passed from master shipwright to apprentice for generations.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Pluton blueprints Tom Water 7",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Franky hid those blueprints inside his body, and burned them once he saw Robin had no plans to use them. Chapter 399.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Franky Pluton blueprints burned",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Poseidon is Shirahoshi, a mermaid princess who commands Sea Kings. Neptune confirms that to Robin in chapter 649.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poseidon Shirahoshi mermaid princess",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Uranus remains a mystery. Nobody has named what it is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uranus Ancient Weapon unknown",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Spandam, Crocodile, Big Mom and Kaidou all chased the weapons, so the fear isn't invented.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Spandam Crocodile Ancient Weapons",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "So the Government's line is simple. Forbid the research, or somebody starts a global war.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "World Government Ancient Weapons argument",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "But the sharper point is that the ideals of the fallen kingdom, written on some stones, are more dangerous than any weapon.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph ideals fallen Kingdom danger",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "The First Twenty, royals of twenty countries, formed an Alliance against the Great Kingdom in the Great War.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Great War First Twenty Alliance",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Joy Boy fought for the Great Kingdom, and the Alliance couldn't defeat him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Joy Boy Great Kingdom Great War",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Vegapunk deduced that the weapons raised the world's sea level by about 200 meters. Chapter 1115 ties them to the Great War.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Ancient Weapons sea level",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "After the Great Kingdom fell, most of those twenty rulers moved to Mary Geoise. Their descendants became the World Nobles.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "World Nobles Mary Geoise twenty royals",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Nefertari Lili disappeared before she could go home, and every record of her was erased. Chapter 1084.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nefertari Lili Arabasta Void Century",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Imu fixates on Lili's mistake, the one that scattered the Poneglyphs across the world. Chapter 1085.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Lili mistake Poneglyphs",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "That one detail says it all. Imu isn't worried about a weapon. Imu is worried about a record.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Void Century secret keep",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "The Elders, the Knights of God and Imu all guard the Void Century's secrecy, whatever the cost.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Five Elders Knights of God Imu secrecy",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Even researching it is treated as a crime, whatever side you're on. Chapter 392.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Void Century knowledge sentence",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "My read is that the weapons are the public excuse. The private fear is the story of who won, and how.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ancient Weapons excuse theory",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "Robin reads the weapons' stones and refuses to use them, which is exactly what the Government can't plan for.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Ancient Weapons Pluton Poseidon",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "And all of that history is now stacked on shelves that giants guard...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vegapunk Elbaph books library",
+    "fallback": "anime ancient warship blueprint and a mermaid princess under a stormy sky"
+   }
+  },
+  {
+   "text": "To find the physical books, you follow the giants home to Elbaph.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph Owl Library Saul",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Chapter 1133 is the reunion. Robin finds Saul at the Warrior's Spring, right below the Owl Library where he works.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Saul reunion Elbaph chapter 1133",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   },
+   "card": "CHAPTER 1133"
+  },
+  {
+   "text": "Saul recreates the scene of their very first meeting, pretending he's fallen, and Robin sees straight through it.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Saul pretends fall Robin Elbaph",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Robin even had Brook cut her hair to match how it looked when she first met Saul.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin hair Brook Saul Elbaph",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Twenty-two years of grief meets one very silly joke, which is why it hits so hard.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Saul Robin tears Ohara survivor",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "In chapter 1134 Saul takes her into the Owl Library, where the books of Ohara were taken to be kept safe.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph Owl Library books Ohara",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Saul also founded the Walrus School at Harald's request twenty years ago, and the children dislike violence.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Saul Walrus School Elbaph children",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "In the library, Robin reads the Harley and learns of three worlds across history. Saul says the Third World is the present.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Harley Owl Library three worlds",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Her reading is open to interpretation, but it speaks of the Sun God guiding the world toward its end. Chapter 1138.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Third World Sun God",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   },
+   "card": "CHAPTER 1138"
+  },
+  {
+   "text": "A mural in the Adam Tree, dated to the Void Century, lines up closely with what the Harley says.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ripley Franky mural Void Century",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Two sources, a book and a wall, agree. That's how a historian builds a case, not a mythology.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph Void Century mural Adam Tree",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Now the Government's side. Saint Sommers recognizes Saul at first glance as a former Vice Admiral who survived Ohara.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Knights of God Sommers Elbaph Saul",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Read that again. The Government knows Saul is alive, and knows exactly who he is.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sommers Saul Ohara survivor",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Then Imu takes over Gunko and turns the Giant Warrior Pirates into demons to force the giants into line.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Gunko Giant Warrior Pirates",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "It's an assault on the exact island where the Ohara books sit.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph attack Knights of God",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "I can't call that a coincidence. The Government is knocking on the library door again.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph schoolchildren march Knights",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Jarul reveals Loki's innocence and declares Elbaph's opposition to the World Government.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jarul Elbaph opposes World Government",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "The giants have finally chosen a side, and it's the side that once saved a lake.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph giants war World Government",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Chapter 1134 also shows the owl librarian Biblo, which tells you the Owl Library is a working institution, not a vault.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Biblo Owl Library librarian",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Biblo can make the books giant-sized with his Iku Iku no Mi, so you can't skim there. You have to read.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Owl Library books grow large",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Saul explains how the Ohara books were recovered and placed there, which is the closest the story has come to a receipt.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Saul Robin Owl Library Ohara books placed",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Harald's school means the next generation of giants is literate, peaceful, and sitting right on the library's doorstep.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph school Saul Harald vision",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Chopper rides out much of that fight tucked in Saul's hair, a small reminder that the old Vice Admiral is a protector now.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Warrior Spring Owl Library Robin",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Hajrudin frees his brother Loki after learning the truth about Harald's death, so Elbaph meets the Knights united.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hajrudin Loki Elbaph brothers freed",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "The giants throw the Straw Hats a banquet first, which is how Elbaph says welcome, and the Government's arrival ends it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph Straw Hats banquet Western Village",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "So Ohara's last act is about to be tested twenty-two years later...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Elbaph Ohara books legacy",
+    "fallback": "anime giant library with huge books in a misty fantasy forest"
+   }
+  },
+  {
+   "text": "Here's the best counter-argument I know. They're just books, and Poneglyphs are the real record.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Poneglyph Elbaph reading",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Roger reached Laugh Tale and learned the true history without a single scholar on his crew.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gol D. Roger Laugh Tale Poneglyph",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "That's fair, and it's why I don't claim the books hold some secret the stones lack.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Rayleigh Roger solved Poneglyphs",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "But Rayleigh himself says his crew lacked the archaeology to interpret it the way Ohara could. Chapter 507.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh crew interpret differently",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Roger heard the voice. Ohara built the grammar. One without the other is incomplete.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara scholars interpretation Poneglyph",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "So I read the books as the other half of the stones: context, method, and a name.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover books Poneglyph context",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Second objection, and a fair one. Nobody on screen has opened these books for us, so I'm theorizing about what they hold.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara books unknown contents objection",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Everything I've said about the contents is a theory. The chain of custody, from lake to library to Vegapunk's memory, is confirmed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara books theory limits honest",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Lake, giants, Owl Library, Vegapunk. Four steps, and each one is on the page.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Chain of custody Ohara books",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "The Government's reaction at every step proves the fear is real, whatever the pages contain.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Government fear books Vegapunk broadcast",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "They do three jobs. They are proof, they are seed, and they are bait.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara books three jobs",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Proof, because Clover's sentence about the founding coincidence became a case no one could close.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Great Kingdom proof World Government",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Seed, because they grew a revolution, a scientist who defied his employers, and a woman who reads.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Vegapunk Robin seed Ohara",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "And bait, because the longer they survive, the more the Government has to expose to reach them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Elbaph Owl Library bait Imu",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Ohara in the West Blue, Enies Lobby, Egghead, now Elbaph. The pattern says the books attract the fleet.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Egghead Elbaph Government pattern",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "The open question is whether Robin keeps reading when Imu is the audience.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin choice read Imu",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Robin's crew now rides into every Government fight with an Ohara reader aboard.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Straw Hats Robin Ohara legacy fight",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "My prediction is that Elbaph becomes the next Ohara, and this time Robin is standing inside the library.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Imu Elbaph Ohara books",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "The difference is that at Ohara nobody knew the lake was there. Now the Government knows exactly where the shelves are.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Saul library Imu confrontation",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "If this war ends, it ends on a truth Imu has spent centuries making sure nobody finishes.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Poneglyph Imu Void Century",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Clover started that sentence on a phone line in the West Blue. I think Robin ends it on a stone in the New World.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Clover final sentence Robin finish",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Clover was cut off mid-sentence. Everything since has been the world trying to finish it, or stop it.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Clover Ohara last act",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "That is why the lake is the most important location in the story that nobody ever draws.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara survivors books lake final",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "Count who touched that lake: a scientist, a giant, a revolutionary and a girl on a boat. Every one changed the war.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara lake books Saul Vegapunk Dragon",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "The Government wiped out an island to stop one conversation, and instead it seeded four different movements that now speak to each other.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara survivors network World Government loses",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "That is the part I find hard to shake, and it's why I'd call this the Government's costliest mistake.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ohara Robin Saul Vegapunk Dragon network",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "So no, the books were never just history. They were proof, seed and bait, and the Government is still chasing all three.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Great Kingdom name",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  },
+  {
+   "text": "And if you want to see how the Revolutionary Army grew out of that lake, the Sabo explained deep dive is next.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo Revolutionary Army explained",
+    "fallback": "anime woman archaeologist facing a shadowy throne under stormy skies"
+   }
+  }
+ ],
+ "chapters": [
+  {
+   "line": 0,
+   "title": "Burned For A Question"
+  },
+  {
+   "line": 5,
+   "title": "The Island That Read"
+  },
+  {
+   "line": 31,
+   "title": "A Crime Called Curiosity"
+  },
+  {
+   "line": 52,
+   "title": "The Phone Call"
+  },
+  {
+   "line": 74,
+   "title": "Fire, Ice And One Ship"
+  },
+  {
+   "line": 99,
+   "title": "The Lake Nobody Checked"
+  },
+  {
+   "line": 123,
+   "title": "The Girl Who Kept Reading"
+  },
+  {
+   "line": 147,
+   "title": "Stone Versus Paper"
+  },
+  {
+   "line": 168,
+   "title": "Who Carried The Torch"
+  },
+  {
+   "line": 192,
+   "title": "What Shaka Said"
+  },
+  {
+   "line": 216,
+   "title": "The Official Excuse"
+  },
+  {
+   "line": 237,
+   "title": "The Owl Library"
+  },
+  {
+   "line": 263,
+   "title": "The Real Weapon"
+  }
+ ],
+ "thumbnail": {
+  "text": "THE LAKE",
+  "highlight": "LAKE",
+  "search": "Nico Robin Ohara crying",
+  "search2": "Sakazuki Akainu Buster Call",
+  "device": "split"
+ },
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Ohara",
+  "https://onepiece.fandom.com/wiki/Poneglyph",
+  "https://onepiece.fandom.com/wiki/Void_Century",
+  "https://onepiece.fandom.com/wiki/Five_Elders",
+  "https://onepiece.fandom.com/wiki/Elbaph",
+  "https://sportskeeda.com/anime/one-piece-chapter-1066-everything-need-know-jaguar-d-saul"
+ ],
+ "self_check": {
+  "hook": "Line 1 claims the books were never just history and the Marines burned an island to prove it; line 3 asks what was in them.",
+  "loop": "Deep dive ends on payoff plus pointer to the Sabo explained deep dive.",
+  "facts_verified": true
+ }
+}

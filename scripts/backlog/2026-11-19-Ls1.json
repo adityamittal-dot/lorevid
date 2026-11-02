@@ -1,0 +1,138 @@
+{
+ "id": "2026-11-19-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Crocodile aimed a sandstorm at Yuba and Toto because he had learned of Luffy's friendship with him, using it to make Luffy drop his guard",
+ "title": "Crocodile Aimed At Toto To Get To Luffy",
+ "description": "Crocodile's sandstorm on Yuba was never about the town. The wiki shows he used Luffy's friendship with Toto to lower the rookie's guard before their fight.",
+ "hashtags": [
+  "#crocodile",
+  "#onepiece",
+  "#alabasta"
+ ],
+ "tags": [
+  "crocodile toto",
+  "one piece yuba",
+  "crocodile luffy",
+  "alabasta theory",
+  "crocodile plan",
+  "one piece analysis",
+  "baroque works",
+  "one piece theory"
+ ],
+ "hook_text": "HE HIT TOTO FIRST",
+ "music_mood": "suspense",
+ "comment": "Was the Yuba sandstorm Crocodile's cleverest move, or his first big mistake?",
+ "related_long": "2026-11-19-L",
+ "end_text": "WHY HE KEPT THE PRINCESS",
+ "pages": [
+  "Crocodile",
+  "Toto",
+  "Yuba",
+  "Monkey D. Luffy"
+ ],
+ "lines": [
+  {
+   "text": "Crocodile never fought Luffy first. He went after Toto's town.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Crocodile Yuba sandstorm Toto",
+    "fallback": "scarred warlord watching a storm over a desert town"
+   }
+  },
+  {
+   "text": "But here is the part people skip.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Crocodile Yuba sandstorm",
+    "fallback": "storm gathering over ruined town"
+   }
+  },
+  {
+   "text": "Those sandstorms eating Yuba were his, part of sabotaging Alabasta's towns.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Yuba sandstorm Crocodile sabotage",
+    "fallback": "sand burying a desert town"
+   }
+  },
+  {
+   "text": "Then he learned Luffy had made friends with Toto.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Toto Yuba friends",
+    "fallback": "boy in a straw hat beside an old man"
+   }
+  },
+  {
+   "text": "So he targeted that exact town, and the wiki says it made Luffy drop his guard.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy shocked Yuba storm",
+    "fallback": "boy stunned by a ruined town"
+   }
+  },
+  {
+   "text": "Think about that. He didn't scout Luffy's strength. He scouted his heart.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Crocodile studies Luffy",
+    "fallback": "warlord watching a boy from a dune"
+   }
+  },
+  {
+   "text": "People say it was just cruelty. The wiki says it was a plan.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Crocodile Baroque Works plan Alabasta",
+    "fallback": "map of a desert kingdom with pins"
+   }
+  },
+  {
+   "text": "A man who profiles friendships that carefully wouldn't leave Vivi to chance.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Crocodile Vivi Alabasta",
+    "fallback": "scarred warlord eyeing a princess"
+   }
+  },
+  {
+   "text": "So what did he want from the princess?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Vivi Alabasta princess",
+    "fallback": "blue haired princess in desert clothes"
+   }
+  },
+  {
+   "text": "Because he never fought Luffy first. He went after Toto's town.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Crocodile Toto Yuba Luffy",
+    "fallback": "storm over a quiet town"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Crocodile",
+  "https://onepiece.fandom.com/wiki/Chapter_155"
+ ],
+ "self_check": {
+  "hook": "Contrarian claim: Crocodile fought a town before he fought Luffy",
+  "loop": "last line restates the opening claim as a lead-in",
+  "facts_verified": true
+ }
+}

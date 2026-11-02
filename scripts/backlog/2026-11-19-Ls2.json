@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-19-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Crocodile beat Luffy twice and nearly a third time, and each time Luffy only survived because someone else saved him",
+ "title": "Luffy Never Beat Crocodile Alone",
+ "description": "Chapters 179, 202 and 206 show Crocodile beating Luffy again and again, and each time a rescue turns the fight. The wiki's own count says Luffy only won because of luck and help.",
+ "hashtags": ["#luffy", "#onepiece", "#crocodile"],
+ "tags": ["luffy vs crocodile", "one piece 179", "one piece 202", "one piece 206", "crocodile fights luffy", "robin saves luffy", "alabasta analysis", "one piece theory"],
+ "hook_text": "THREE LOSSES, THREE RESCUES",
+ "music_mood": "hype",
+ "comment": "Did Luffy earn the win over Crocodile, or was it luck and help? Pick one.",
+ "related_long": "2026-11-19-L",
+ "end_text": "WHY HE KEPT THE PRINCESS",
+ "pages": ["Crocodile", "Monkey D. Luffy", "Nico Robin"],
+ "lines": [
+  {"text": "Luffy didn't beat Crocodile alone. He lost to him three times first.", "delivery": "punch", "fx": "none", "shot": {"search": "Luffy Crocodile Alabasta fight", "fallback": "boy and a hooked warlord facing off"}},
+  {"text": "Round one is chapter 179. Crocodile hits him with the hook.", "delivery": "normal", "fx": "none", "shot": {"search": "Crocodile hook Luffy chapter 179", "fallback": "hooked man striking a boy in sand"}},
+  {"text": "And Robin is the one who pulls him out of it.", "delivery": "normal", "fx": "none", "shot": {"search": "Robin saves Luffy", "fallback": "woman helping a boy off the sand"}},
+  {"text": "Round two is chapter 202. Crocodile dries him out in the sun.", "delivery": "normal", "fx": "none", "shot": {"search": "Crocodile dehydrates Luffy chapter 202", "fallback": "boy collapsed in a dry desert"}},
+  {"text": "The wiki says it was Luffy's own water pistol that brought him back.", "delivery": "normal", "fx": "none", "shot": {"search": "Luffy water pistol revive", "fallback": "boy sipping water from a flask"}},
+  {"text": "Round three is chapter 206. The hook is poisoned this time.", "delivery": "reveal", "fx": "zoom", "shot": {"search": "Crocodile poison hook chapter 206", "fallback": "warlord with a glowing green hook"}},
+  {"text": "And again it's Robin who brings the antidote.", "delivery": "normal", "fx": "none", "shot": {"search": "Robin antidote Luffy", "fallback": "woman handing over a small vial"}},
+  {"text": "Three losses, three rescues, and not one of them was his own strength.", "delivery": "punch", "fx": "none", "shot": {"search": "Luffy beaten three times Crocodile", "fallback": "three panels of a boy rescued"}},
+  {"text": "People say that makes the win a fluke. But look at what he found.", "delivery": "aside", "fx": "none", "shot": {"search": "Luffy figures out Crocodile logia", "fallback": "boy thinking mid fight"}},
+  {"text": "The wiki says without his own trick against Logia sand, the third fight favors Crocodile too.", "delivery": "normal", "fx": "none", "shot": {"search": "Luffy Crocodile logia trick", "fallback": "sand figure turning solid"}},
+  {"text": "So the win is real, but it was built from help, and from Crocodile's pride.", "delivery": "reveal", "fx": "none", "shot": {"search": "Crocodile pride Luffy fall", "fallback": "proud warlord looking down at a boy"}},
+  {"text": "Which makes you wonder why a man that careful ever let this crew reach the capital.", "delivery": "normal", "fx": "none", "shot": {"search": "Straw Hats Alubarna Crocodile", "fallback": "pirates entering a desert capital"}},
+  {"text": "Because Luffy didn't beat Crocodile alone. He lost to him three times first.", "delivery": "punch", "fx": "none", "shot": {"search": "Luffy Crocodile Alabasta fight", "fallback": "boy and a hooked warlord facing off"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Crocodile",
+  "https://onepiece.fandom.com/wiki/Chapter_204",
+  "https://onepiece.fandom.com/wiki/Chapter_207"
+ ],
+ "self_check": {"hook": "Contrarian claim: Luffy lost three times before winning", "loop": "last line restates the opening claim as a lead-in", "facts_verified": true}
+}

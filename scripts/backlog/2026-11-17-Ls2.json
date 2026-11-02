@@ -1,0 +1,147 @@
+{
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "music_mood": "suspense",
+ "related_long": "2026-11-17-L",
+ "end_text": "WHY JINBE WAITED",
+ "chapters": [],
+ "thumbnail": null,
+ "id": "2026-11-17-Ls2",
+ "topic": "the two-part message Jinbe left Luffy on Fish-Man Island shows he was protecting Luffy before he joined",
+ "title": "Jinbe Left Luffy One Message On Fish-Man Island",
+ "description": "When Luffy reaches Fish-Man Island, Jinbe is already gone. All he left behind was a two part message through the princes. Here is what Do not fight Hody and I'll be waiting in the Sea Forest really said.",
+ "hashtags": [
+  "#jinbe",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "jinbe message luffy",
+  "fish-man island",
+  "sea forest jinbe",
+  "one piece chapter 609",
+  "otohime grave",
+  "jinbe one piece",
+  "one piece theory",
+  "hody jones"
+ ],
+ "hook_text": "JINBE'S TWO PART MESSAGE",
+ "comment": "Was Jinbe warning Luffy off Hody to protect him, or to protect Fish-Man Island?",
+ "pages": [
+  "Jinbe",
+  "Fish-Man Island Arc",
+  "Otohime"
+ ],
+ "lines": [
+  {
+   "text": "Jinbe left Luffy a two part message before he vanished.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe message Luffy",
+    "fallback": "fish-man leaving a note on a shore"
+   }
+  },
+  {
+   "text": "Luffy arrives expecting his friend, and Camie says Jinbe already left. Chapter 609.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Camie Luffy Jinbe",
+    "fallback": "mermaid telling a boy his friend is gone"
+   }
+  },
+  {
+   "text": "Then the princes pass on his words. The first half is simple: do not fight Hody.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Fukaboshi Jinbe message",
+    "fallback": "merman prince delivering a message"
+   }
+  },
+  {
+   "text": "The second half is, I'll be waiting in the Sea Forest.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sea Forest Fish-Man Island",
+    "fallback": "coral forest with a grave"
+   }
+  },
+  {
+   "text": "Think about that order. He doesn't say sorry I missed you. He warns Luffy away from a fight first.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe warning Hody",
+    "fallback": "fish-man warning a boy with a serious look"
+   }
+  },
+  {
+   "text": "And the Sea Forest holds Queen Otohime's grave, with Jinbe waiting in front of it. Chapter 615.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Otohime grave Jinbe",
+    "fallback": "fish-man sitting before a grave"
+   }
+  },
+  {
+   "text": "He chose the spot that stands for the dream he shares with her.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Otohime dream coexistence",
+    "fallback": "queen of an underwater kingdom smiling"
+   }
+  },
+  {
+   "text": "When Luffy turns up with Shirahoshi, Jinbe is so stunned his eyes bug out of his head.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Jinbe shocked Shirahoshi",
+    "fallback": "fish-man with eyes popping in shock"
+   }
+  },
+  {
+   "text": "A man who plans this carefully for a friend is never casual about saying yes.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe Luffy friends",
+    "fallback": "fish-man and boy standing side by side"
+   }
+  },
+  {
+   "text": "So why did he still tell Luffy not yet when the invitation finally came?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe declines Luffy",
+    "fallback": "fish-man politely refusing an offer"
+   }
+  },
+  {
+   "text": "Because Jinbe left Luffy a message before he vanished, and the first line was a warning...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe message Luffy",
+    "fallback": "fish-man leaving a note on a shore"
+   }
+  }
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Jinbe",
+  "https://onepiece.fandom.com/wiki/Fish-Man_Island_Arc",
+  "https://wiki.sportskeeda.com/one-piece/when-does-jinbe-join-the-crew"
+ ],
+ "self_check": {
+  "hook": "line 1 names Jinbe and the claim",
+  "loop": "last line flows into line 1",
+  "facts_verified": true
+ }
+}

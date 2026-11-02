@@ -1,0 +1,158 @@
+{
+ "id": "2026-11-18-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Luffy rejected the newspaper story about Sabo on sight, and it says something specific about their bond",
+ "title": "Luffy Rejected The Sabo Newspaper Story Instantly",
+ "description": "Luffy read the paper that blamed Sabo and flatly refused to believe it in chapter 1060. I think that refusal is built on one earlier scene in Dressrosa. Was it faith or stubbornness?",
+ "hashtags": [
+  "#luffy",
+  "#sabo",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "luffy sabo",
+  "sabo framed",
+  "one piece 1060",
+  "luffy refuses newspaper",
+  "sabo cobra",
+  "one piece theory",
+  "luffy and sabo brothers",
+  "dressrosa reunion"
+ ],
+ "hook_text": "LUFFY SAID NO",
+ "music_mood": "emotional",
+ "comment": "Was Luffy's refusal pure faith in Sabo, or is it just Luffy being stubborn? Pick one.",
+ "related_long": "2026-11-18-L",
+ "end_text": "WHY SABO STAYED QUIET",
+ "pages": [
+  "Sabo",
+  "Monkey D. Luffy",
+  "Curly Dadan",
+  "Nefertari Cobra"
+ ],
+ "lines": [
+  {
+   "text": "Luffy read the paper that blamed Sabo, and he didn't believe a single word.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Luffy reads newspaper Sabo Cobra",
+    "fallback": "boy in a straw hat glaring at a newspaper"
+   }
+  },
+  {
+   "text": "Chapter 1060. No proof, no explanation, just a flat no.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy refuses newspaper Sabo chapter 1060",
+    "fallback": "straw hat boy shaking his head angrily"
+   }
+  },
+  {
+   "text": "People say that's just Luffy being Luffy. I think it's more specific than that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Sabo brothers",
+    "fallback": "straw hat boy smiling at a blond man"
+   }
+  },
+  {
+   "text": "In Dressrosa, Luffy didn't even recognize Sabo until he named the day they became brothers.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo Luffy reunion Dressrosa Colosseum",
+    "fallback": "two men embracing in an arena"
+   }
+  },
+  {
+   "text": "Then Luffy cried, because he had believed Sabo was gone for more than a decade.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy crying Sabo alive",
+    "fallback": "boy in a straw hat crying with joy"
+   }
+  },
+  {
+   "text": "Here's the detail people miss. That reunion taught Luffy what Sabo stands for before any newspaper could.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo freedom ideals Luffy",
+    "fallback": "blond man looking at the sea with determination"
+   }
+  },
+  {
+   "text": "The wiki says Luffy has great faith in Sabo's ideals, in fighting for freedom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo Revolutionary Army freedom",
+    "fallback": "revolutionary banner waving at sunrise"
+   }
+  },
+  {
+   "text": "Some fans say Luffy is just stubborn. But stubborn doesn't pick the right side.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy stubborn determined",
+    "fallback": "straw hat boy clenching his fist"
+   }
+  },
+  {
+   "text": "His belief isn't about facts. It's about a person he already paid for in tears.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Sabo hug tears",
+    "fallback": "two brothers hugging after years apart"
+   }
+  },
+  {
+   "text": "And that's why Sabo never needs to defend himself to Luffy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo Luffy trust",
+    "fallback": "blond man smiling at his brother"
+   }
+  },
+  {
+   "text": "So who does Sabo actually need to hide the truth from?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo hidden secret Imu",
+    "fallback": "blond man hiding in a dark corridor"
+   }
+  },
+  {
+   "text": "Because Luffy read that paper and didn't believe a single word...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy newspaper refuses Sabo",
+    "fallback": "straw hat boy tearing a newspaper"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Sabo",
+  "https://sportskeeda.com/anime/one-piece-why-nefertari-cobra-killed-explained",
+  "https://gamerant.com/one-piece-sabo-alabasta/"
+ ],
+ "self_check": {
+  "hook": "Luffy and Sabo named in line 1 with a concrete refusal",
+  "loop": "last line leads back into line 1",
+  "facts_verified": true
+ }
+}

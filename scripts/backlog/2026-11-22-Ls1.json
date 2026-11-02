@@ -1,0 +1,152 @@
+{
+ "id": "2026-11-22-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Aokiji Let Robin Escape Ohara For Saul's Sake",
+ "title": "Aokiji Let Robin Escape Ohara For Saul's Sake",
+ "description": "Kuzan handed young Robin a boat during the Ohara Buster Call, but his stated reason was a friend, Jaguar D. Saul, and not the girl. A look at what chapters 397 and 1066 say about it. Who do you think Aokiji was really protecting?",
+ "hashtags": [
+  "#aokiji",
+  "#nicorobin",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "aokiji robin ohara",
+  "kuzan ohara",
+  "one piece ohara",
+  "jaguar d saul",
+  "one piece theory",
+  "aokiji saul",
+  "aokiji and robin",
+  "ohara buster call",
+  "nico robin backstory",
+  "one piece explained"
+ ],
+ "hook_text": "AOKIJI'S REAL REASON",
+ "music_mood": "emotional",
+ "comment": "Did Aokiji spare Robin out of loyalty to Saul, or because he already doubted the Government?",
+ "related_long": "2026-11-22-L",
+ "end_text": "WHAT ROBIN CARRIED OUT",
+ "pages": [
+  "Kuzan",
+  "Nico Robin",
+  "Jaguar D. Saul",
+  "Ohara"
+ ],
+ "lines": [
+  {
+   "text": "Aokiji never saved Nico Robin for Robin's sake.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Kuzan Aokiji Nico Robin Ohara",
+    "fallback": "tall man with ice powers watching a small girl on a shore"
+   }
+  },
+  {
+   "text": "During the Buster Call on Ohara, he handed an eight-year-old a small boat and laid an ice trail across the sea.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan ice trail Robin boat",
+    "fallback": "child in a small boat on a path of ice over dark water"
+   }
+  },
+  {
+   "text": "He even sabotaged the Marine ships that were about to chase her.",
+   "delivery": "punch",
+   "fx": "shake",
+   "shot": {
+    "search": "Kuzan freezes Marine ships Ohara",
+    "fallback": "frozen warships stuck in a sea at night"
+   }
+  },
+  {
+   "text": "Later he explained why. He respected Jaguar D. Saul's will, and felt it was his duty to watch over Robin.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan Jaguar D. Saul friend",
+    "fallback": "marine officer remembering a giant friend"
+   }
+  },
+  {
+   "text": "Here's the detail most people miss. His reason was never the girl. It was a friend.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Jaguar D. Saul Ohara giant",
+    "fallback": "giant standing on a burning island shore"
+   }
+  },
+  {
+   "text": "And Kuzan didn't even know Saul had survived. Chapter 1066 shows the giant lived.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Saul survived Ohara chapter 1066",
+    "fallback": "giant reunited with a young woman in a library"
+   }
+  },
+  {
+   "text": "So he kept honoring a debt to a friend he assumed was lost.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan Saul Robin Ohara memory",
+    "fallback": "lone officer looking out at a calm sea"
+   }
+  },
+  {
+   "text": "People say it was just a soft spot for a child. But Kuzan named Saul himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kuzan Aokiji Robin Alabasta",
+    "fallback": "tall man leaning back in a chair, relaxed"
+   }
+  },
+  {
+   "text": "In chapter 397 he even called Sakazuki a fool for overdoing things, and I think he was right.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sakazuki Kuzan Ohara argument",
+    "fallback": "two admirals facing each other on a ship deck"
+   }
+  },
+  {
+   "text": "But why was one little girl worth that risk? What was she carrying out of there?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin child Ohara survivor",
+    "fallback": "young girl clutching a bag on a boat"
+   }
+  },
+  {
+   "text": "Because the truth about that boat is this.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Robin Ohara boat ice trail",
+    "fallback": "small boat leaving a burning island"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Kuzan",
+  "https://onepiece.fandom.com/wiki/Poneglyph",
+  "https://onepiece.fandom.com/wiki/Scopper_Gaban",
+  "https://sportskeeda.com/anime/one-piece-chapter-1066-how-jaguar-d-saul-may-survived-encounter-aokiji-explained"
+ ],
+ "self_check": {
+  "hook": "Contrarian first line about Aokiji's real motive.",
+  "loop": "Last line hands straight into line 1.",
+  "facts_verified": true
+ }
+}

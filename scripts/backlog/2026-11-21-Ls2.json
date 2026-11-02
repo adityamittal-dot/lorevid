@@ -1,0 +1,40 @@
+{
+ "id": "2026-11-21-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Rayleigh answered Luffy's question about strengthening Gear 4 with a warning about its cost, and Dressrosa chapter 786 showed what that cost was",
+ "title": "Rayleigh's Gear 4 Warning Came True At Dressrosa",
+ "description": "When Luffy asked how to make Gear 4 hit harder, Rayleigh gave him a warning instead of a technique. At Dressrosa, chapter 786, Luffy found out what he meant. Here is the cost most fans skip past.",
+ "hashtags": ["#luffy", "#gear4", "#onepiece"],
+ "tags": ["luffy gear 4", "rayleigh warning", "one piece 786", "dressrosa gear 4", "jesus burgess", "luffy vs doflamingo", "one piece theory", "rayleigh training"],
+ "hook_text": "THE GEAR 4 WARNING",
+ "music_mood": "hype",
+ "comment": "Was Gear 4's real weakness the exhaustion afterward, or the way it needs Armament Haki to work at all? Pick one.",
+ "related_long": "2026-11-21-L",
+ "end_text": "WHY RAYLEIGH WALKED AWAY",
+ "pages": ["Silvers Rayleigh", "Gomu Gomu no Mi", "Dressrosa Arc", "Monkey D. Luffy"],
+ "lines": [
+  {"text": "Rayleigh answered Luffy's Gear 4 question with a warning, not a technique.", "delivery": "punch", "fx": "none", "shot": {"search": "Rayleigh warns Luffy Gear 4", "fallback": "old man warning a boy gravely"}},
+  {"text": "In the timeskip, Luffy builds Gear 4 and asks how to hit harder with it.", "delivery": "normal", "fx": "none", "shot": {"search": "Luffy Gear 4 Boundman", "fallback": "inflated rubber boy with dark armor lines"}},
+  {"text": "Rayleigh gives no move, only a warning about the consequences.", "delivery": "normal", "fx": "zoom", "shot": {"search": "Rayleigh Luffy Gear 4 consequences", "fallback": "serious old man and a worried boy"}},
+  {"text": "Then comes Dressrosa, chapter 786, and Luffy's first Gear 4 fight against Doflamingo.", "delivery": "normal", "fx": "shake", "shot": {"search": "Luffy Gear 4 Doflamingo Dressrosa", "fallback": "inflated rubber boy facing a flamboyant pirate"}},
+  {"text": "It leaves him completely drained.", "delivery": "slow", "fx": "none", "shot": {"search": "Luffy exhausted after Gear 4", "fallback": "exhausted boy collapsing"}},
+  {"text": "And Jesus Burgess shows up, interested in taking the Gomu Gomu fruit off an exhausted Luffy.", "delivery": "normal", "fx": "none", "shot": {"search": "Jesus Burgess Luffy Dressrosa", "fallback": "huge pirate looming over a fallen boy"}},
+  {"text": "Sabo has to step in and stop him, because Luffy can't defend himself.", "delivery": "normal", "fx": "flash", "shot": {"search": "Sabo Burgess Luffy Dressrosa", "fallback": "masked fighter blocking a huge pirate"}},
+  {"text": "That's the cost Rayleigh meant: Gear 4 leaves a window.", "delivery": "reveal", "fx": "none", "shot": {"search": "Luffy Gear 4 Tankman exhausted", "fallback": "boy shrinking after a huge transformation"}},
+  {"text": "Here's the detail most fans forget. Armament Haki normally stops his rubber from being rubbery.", "delivery": "normal", "fx": "none", "shot": {"search": "Luffy Armament Haki rubber weakness", "fallback": "boy with a black armored fist"}},
+  {"text": "Doflamingo points that out, and Gear 4 is the form that gets around it.", "delivery": "normal", "fx": "none", "shot": {"search": "Doflamingo Luffy Armament Haki weakness", "fallback": "flamboyant pirate pointing at a boy"}},
+  {"text": "So the warning was about the window right after.", "delivery": "reveal", "fx": "none", "shot": {"search": "Rayleigh Luffy Rusukaina warning", "fallback": "old man looking at a boy seriously"}},
+  {"text": "So why would a teacher who sees the bill coming leave Luffy to pay it alone?", "delivery": "normal", "fx": "none", "shot": {"search": "Rayleigh leaves Rusukaina Luffy", "fallback": "old man leaving a boy on an island"}},
+  {"text": "Because when Luffy asked how to push Gear 4 further,", "delivery": "normal", "fx": "none", "shot": {"search": "Luffy asks Rayleigh Gear 4", "fallback": "boy asking an old man a question"}}
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Silvers_Rayleigh",
+  "https://onepiece.fandom.com/wiki/Rusukaina",
+  "https://onepiece.fandom.com/wiki/Episode_516"
+ ],
+ "self_check": {"hook": "Opens on a specific, checkable claim about Rayleigh's Gear 4 answer.", "loop": "The last line is an unfinished clause that flows straight into line 1.", "facts_verified": true}
+}

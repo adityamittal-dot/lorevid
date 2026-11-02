@@ -1,0 +1,131 @@
+{
+ "id": "2026-11-18-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Dragon's red line for Sabo was never about loyalty, it was about the Army's ideals",
+ "title": "Dragon Drew One Hard Line For Sabo Over Cobra",
+ "description": "Dragon said he would never forgive Sabo if the story about King Cobra were true. I think that line tells you what the Revolutionary Army actually is. Is Dragon right to draw it?",
+ "hashtags": [
+  "#dragon",
+  "#sabo",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "monkey d dragon",
+  "dragon sabo",
+  "revolutionary army",
+  "sabo cobra",
+  "one piece theory",
+  "dragon ideals",
+  "one piece 1086",
+  "empty throne"
+ ],
+ "hook_text": "DRAGON'S RED LINE",
+ "music_mood": "suspense",
+ "comment": "Was Dragon right to say he'd never forgive Sabo, or should he have trusted him with no conditions? Pick one.",
+ "related_long": "2026-11-18-L",
+ "end_text": "WHY SABO STAYED QUIET",
+ "pages": [
+  "Monkey D. Dragon",
+  "Sabo",
+  "Nefertari Cobra",
+  "Revolutionary Army"
+ ],
+ "lines": [
+  {
+   "text": "Dragon told Sabo there was one thing he would never forgive, even from his own right hand.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Monkey D. Dragon Sabo Revolutionary Army",
+    "fallback": "hooded leader facing a younger commander"
+   }
+  },
+  {
+   "text": "If the newspaper about King Cobra were true, Dragon said, that would be the end of it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon Sabo Cobra newspaper",
+    "fallback": "hooded leader reading a newspaper with a cold look"
+   }
+  },
+  {
+   "text": "People assume that's Dragon being harsh. I think it's the cleanest rule the Army has.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Monkey D. Dragon stern",
+    "fallback": "hooded commander with a stern face"
+   }
+  },
+  {
+   "text": "Harming a benevolent royal is simply not what the Army is for, and Dragon knows it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Revolutionary Army ideals World Nobles",
+    "fallback": "revolutionary soldiers standing against a palace"
+   }
+  },
+  {
+   "text": "Now the detail most people forget. Dragon is the one who pulled Sabo out of the wreck when he was ten.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon rescues Sabo wreckage",
+    "fallback": "hooded leader lifting an injured boy from the water"
+   }
+  },
+  {
+   "text": "So the warning isn't distrust. It's respect, and a refusal to bend the Army's rules for family.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon trusts Sabo respects",
+    "fallback": "leader resting a hand on a younger man's shoulder"
+   }
+  },
+  {
+   "text": "That's why Sabo had to tell him everything. The Throne, Imu, and what the Elders did to Cobra.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo tells Dragon Imu Empty Throne",
+    "fallback": "bandaged man whispering to his leader"
+   }
+  },
+  {
+   "text": "But if Dragon is the one man Sabo told the truth, who is the lie really aimed at?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sabo hidden truth world government",
+    "fallback": "blond man holding a secret under a streetlamp"
+   }
+  },
+  {
+   "text": "Because Dragon told Sabo there was one thing he would never forgive...",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Dragon never forgive Sabo",
+    "fallback": "hooded leader staring at a younger commander"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Monkey_D._Dragon",
+  "https://onepiece.fandom.com/wiki/Sabo",
+  "https://sportskeeda.com/anime/one-piece-why-nefertari-cobra-killed-explained"
+ ],
+ "self_check": {
+  "hook": "Dragon and Sabo named in line 1 with a concrete stake",
+  "loop": "last line leads back into line 1",
+  "facts_verified": true
+ }
+}

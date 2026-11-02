@@ -1,0 +1,152 @@
+{
+ "id": "2026-11-22-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Roger Heard The Poneglyphs But Couldn't Read Like Ohara",
+ "title": "Roger Heard The Poneglyphs But Couldn't Read Like Ohara",
+ "description": "Gol D. Roger reached Laugh Tale, but Rayleigh admits his crew were not scholars like the archaeologists of Ohara. What that means for how the Void Century gets read. Is a scholar or a captain the better witness?",
+ "hashtags": [
+  "#roger",
+  "#rayleigh",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "roger poneglyph",
+  "rayleigh chapter 507",
+  "void century",
+  "ohara archaeologists",
+  "one piece theory",
+  "laugh tale",
+  "roger crew historians",
+  "one piece explained",
+  "oden poneglyph",
+  "silvers rayleigh"
+ ],
+ "hook_text": "NOBODY NOTICED THIS",
+ "music_mood": "emotional",
+ "comment": "Who would you trust more to read the Void Century: Roger's crew or Ohara's scholars?",
+ "related_long": "2026-11-22-L",
+ "end_text": "WHO READS THE TRUTH",
+ "pages": [
+  "Gol D. Roger",
+  "Silvers Rayleigh",
+  "Poneglyph",
+  "Scopper Gaban"
+ ],
+ "lines": [
+  {
+   "text": "Nobody noticed what Rayleigh admitted about Roger's crew in chapter 507.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Silvers Rayleigh Roger Pirates",
+    "fallback": "old swordsman with glasses recalling a pirate crew"
+   }
+  },
+  {
+   "text": "But Rayleigh says Roger found the Poneglyphs because he could hear the voice of all things.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gol D. Roger voice of all things",
+    "fallback": "captain listening closely to a glowing stone"
+   }
+  },
+  {
+   "text": "Hearing a stone and reading a stone are not the same skill.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Poneglyph ancient script stone",
+    "fallback": "large dark blue stone covered in carved script"
+   }
+  },
+  {
+   "text": "Rayleigh even says his crew weren't proper historians, not like the archaeologists of Ohara.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh Ohara archaeologists historians",
+    "fallback": "old swordsman shaking his head gently"
+   }
+  },
+  {
+   "text": "Gaban's page agrees. Without scholars of that caliber, the crew might have interpreted the truth differently.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Scopper Gaban Roger Pirates Void Century",
+    "fallback": "broad pirate crewman at a ship railing"
+   }
+  },
+  {
+   "text": "At Sabaody, Rayleigh offered to tell Robin everything, and she turned him down.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh Robin Sabaody offer",
+    "fallback": "old swordsman speaking to a seated archaeologist"
+   }
+  },
+  {
+   "text": "My read is that she refused because a second-hand verdict is exactly what Ohara was built to avoid.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nico Robin Poneglyph reading",
+    "fallback": "woman running her hand over carved stone"
+   }
+  },
+  {
+   "text": "People say Roger had Oden, who could read the script. True, and Oden read the Road Poneglyphs.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kouzuki Oden Poneglyph Roger",
+    "fallback": "samurai pirate reading a stone block"
+   }
+  },
+  {
+   "text": "But reading a script and interpreting a century are different jobs, and Rayleigh says the truth reads differently from each view.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh Poneglyph truth interpretation",
+    "fallback": "old swordsman looking at distant ocean"
+   }
+  },
+  {
+   "text": "So whose reading of that century was the Government afraid of: Roger's, or the scholars'?",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Ohara scholars Tree of Knowledge",
+    "fallback": "scholars in a giant tree library"
+   }
+  },
+  {
+   "text": "And that is the part nobody noticed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Rayleigh Roger crew chapter 507",
+    "fallback": "old swordsman with a quiet smile"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Kuzan",
+  "https://onepiece.fandom.com/wiki/Poneglyph",
+  "https://onepiece.fandom.com/wiki/Scopper_Gaban",
+  "https://sportskeeda.com/anime/one-piece-chapter-1066-how-jaguar-d-saul-may-survived-encounter-aokiji-explained"
+ ],
+ "self_check": {
+  "hook": "Contrarian first line about Aokiji's real motive.",
+  "loop": "Last line hands straight into line 1.",
+  "facts_verified": true
+ }
+}

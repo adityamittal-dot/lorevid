@@ -1,0 +1,138 @@
+{
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "music_mood": "suspense",
+ "related_long": "2026-11-17-L",
+ "end_text": "WHY JINBE WAITED",
+ "chapters": [],
+ "thumbnail": null,
+ "id": "2026-11-17-Ls1",
+ "topic": "Jinbe and Ace fought for five days because Jinbe's loyalty goes to whoever protected his people",
+ "title": "Jinbe And Ace Fought Five Days Over Whitebeard",
+ "description": "Jinbe and Ace once fought for five straight days in chapter 552. Ace wanted Whitebeard's head, and Jinbe saw Whitebeard as the hero who protected Fish-Man Island. Here is why that duel explains so much about Jinbe.",
+ "hashtags": [
+  "#jinbe",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "jinbe ace fight",
+  "jinbe whitebeard",
+  "one piece chapter 552",
+  "jinbe one piece",
+  "one piece theory",
+  "fish-man karate",
+  "jinbe loyalty",
+  "ace jinbe duel"
+ ],
+ "hook_text": "FIVE DAYS, ONE FIGHT",
+ "comment": "Who would have won the Jinbe and Ace fight if it had kept going: Jinbe or Ace?",
+ "pages": [
+  "Jinbe",
+  "Portgas D. Ace",
+  "Edward Newgate"
+ ],
+ "lines": [
+  {
+   "text": "Jinbe fought Ace for five straight days over one man's life.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe Ace fight",
+    "fallback": "fish-man fighting a fire fist pirate"
+   }
+  },
+  {
+   "text": "Ace wanted Whitebeard's head, and Jinbe saw Whitebeard as the hero who protected Fish-Man Island.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Whitebeard Fish-Man Island",
+    "fallback": "giant old pirate captain over an underwater kingdom"
+   }
+  },
+  {
+   "text": "Neither could win, and both ended up too exhausted to stand. That's chapter 552.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Jinbe Ace exhausted",
+    "fallback": "two fighters collapsed on a beach"
+   }
+  },
+  {
+   "text": "Jinbe was a Warlord of the Sea, and he still put Whitebeard before his own title.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe Warlord",
+    "fallback": "warlord in a kimono standing on a deck"
+   }
+  },
+  {
+   "text": "Later he refused to join the war against Whitebeard, even if it landed him in Impel Down. Chapter 523.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe Impel Down",
+    "fallback": "huge prisoner sitting in a dark cell"
+   }
+  },
+  {
+   "text": "And here's the detail I love. Ace survived that duel, then fought Whitebeard right after it.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Ace Whitebeard fight",
+    "fallback": "fire fist pirate facing a giant captain"
+   }
+  },
+  {
+   "text": "That tells you what Jinbe's fists can do against a Logia user with Haki on his side.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Jinbe Fish-Man Karate",
+    "fallback": "fish-man striking with karate"
+   }
+  },
+  {
+   "text": "The real rule with Jinbe is simple. He repays whoever protected his people, whatever it costs him.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe loyalty",
+    "fallback": "fish-man standing guard over his friends"
+   }
+  },
+  {
+   "text": "So what happens when that rule meets a captain who wants him aboard right now?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe Luffy invitation",
+    "fallback": "rubber pirate captain offering his hand to a fish-man"
+   }
+  },
+  {
+   "text": "Because Jinbe fought Ace for five straight days over one man's life...",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jinbe Ace fight",
+    "fallback": "fish-man fighting a fire fist pirate"
+   }
+  }
+ ],
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Jinbe",
+  "https://onepiece.fandom.com/wiki/Portgas_D._Ace",
+  "https://onepiece.fandom.com/wiki/Edward_Newgate"
+ ],
+ "self_check": {
+  "hook": "line 1 names Jinbe and the claim",
+  "loop": "last line flows into line 1",
+  "facts_verified": true
+ }
+}
