@@ -158,7 +158,7 @@ Every script must match this schema exactly. `examples/short.json` is a complete
     }
   ],
   "chapters": [{"line": 0, "title": "Chapter title"}],
-  "thumbnail": {"text": "0-3 WORDS", "highlight": "WORD", "search": "Zoro Supreme King Haki", "search2": "Sommers Excited", "device": "circle"},
+  "thumbnail": {"text": "0-3 WORDS", "highlight": "WORD", "search": "Zoro Supreme King Haki angry", "search2": "Sommers Excited", "device": "circle"},
   "sources": ["https://onepiece.fandom.com/..."],
   "self_check": {"hook": "...", "loop": "...", "facts_verified": true}
 }
@@ -430,7 +430,7 @@ Recent uploads from the channels winning this niche, and what each one teaches:
 - **Long Titles**: <= 70 characters. What If: copy the proven pattern exactly, `What If <Character> <One Change>?`
   (`What If Zoro Was Executed?`, `What If Luffy Was Raised By Joy Boy?`). Theory: 2-6 punchy words, a statement, optional
   chapter tag (`Imu is a PARROT!`, `The Rules Just Changed... (1194)`). At most one ALL-CAPS word.
-- **Description**: 2-4 natural sentences with keywords and a viewer question. For long videos, include chapter timestamps (`0:00 Title`). For an `Ls` Short, the long video's link is added automatically as the first line — don't add it yourself.
+- **Description**: 2-4 natural sentences with keywords and a viewer question. For long videos, the first sentence opens with the exact search phrase the title targets (e.g. `"One Piece 1194 explained: ..."`), and that phrase is also one of the first 2 tags. For long videos, include chapter timestamps (`0:00 Title`). For an `Ls` Short, the long video's link is added automatically as the first line — don't add it yourself.
 - **Hashtags**: 3-5 tags, most specific first (`["#zoro", "#onepiece", "#anime"]`).
 - **Tags**: 8-15 realistic search phrases (e.g. `"one piece theory"`, `"zoro conqueror's haki"`, `"one piece 1194"`).
 

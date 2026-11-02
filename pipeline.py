@@ -548,6 +548,9 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
         if fmt == "long" and thumb_b_path and os.path.exists(thumb_b_path):
             append_studio_todo(f"- [ ] {script.get('title', '')} ({video_url}) -> thumbnail B saved at "
                                f"{thumb_b_path}; run YouTube Studio Test & Compare")
+        if fmt == "long":
+            append_studio_todo(f"- [ ] {script.get('title', '')} ({video_url}) -> Community post (poll or image) "
+                               f"linking it on release day; the Data API can't post to the Community tab")
         if fmt == "short" and re.search(r"-L\d*s\d+$", script_id) and script.get("related_long"):
             rl_info = find_related_long(script["related_long"])
             if rl_info:

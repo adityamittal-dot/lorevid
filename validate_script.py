@@ -381,6 +381,11 @@ def main():
         else:
             if len(str(thumb.get("text") or "").split()) > 3:
                 err.append("thumbnail 'text' must be 0-3 words (none is fine for What If videos)")
+            emotions = ("shock", "surpris", "cry", "tear", "angry", "anger", "rage", "smirk", "smil", "grin", "laugh",
+                        "scream", "fear", "scared", "determin", "serious", "glare", "excited", "sad", "despair", "furious")
+            if thumb.get("search") and not thumb.get("image") and not any(e in str(thumb["search"]).lower() for e in emotions):
+                err.append("thumbnail 'search' needs a facial expression word (shocked, crying, angry, smirk...): "
+                           "expressive faces win the click (notes/growth-5k-plan.md #6)")
             if not (thumb.get("search") or thumb.get("image")):
                 err.append("thumbnail needs 'search' (character + emotion/event) or an exact 'image'")
             device = thumb.get("device")
