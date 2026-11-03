@@ -569,3 +569,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Rayleigh (2026-12-04-L)
 - Sengoku (2026-12-04-L)
 - Koby exist. (2026-12-04-L)
+- Icha (2026-11-04-L)
