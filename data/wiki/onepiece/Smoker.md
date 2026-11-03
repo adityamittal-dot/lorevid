@@ -1,6 +1,6 @@
 # Smoker
 
-Source: https://onepiece.fandom.com/wiki/Smoker (fetched 2026-11-02). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Smoker (fetched 2026-11-03). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Smoker the White Hunter is a Marine vice-admiral and the commander of G-5 Branch's Unit 01, as well as the overall Base Commander of the G-5 Marine base.
 Originally a ranking captain in Loguetown, Smoker became fixated on Monkey D. Luffy's Straw Hat Pirates for escaping his previously-unbroken authority, and—with his loyal subordinate Tashigi—quit his post to pursue them into the Grand Line. Since then, he has battled the Straw Hats repeatedly, in addition to many larger threats that won him new recognition and promotion through the Marine Ranks. [Ch. 212, Ep. 127]
@@ -167,11 +167,15 @@ Smoker seems to be very proficient in wielding the jitte, taking enemies by surp
 *Smoker vs. Sabo
 *Smoker, Luffy, Law, Sabo, Boa Hancock, Crocodile, Buggy, and Rob Lucci vs. Douglas Bullet
 
-#### Appearance
+### Adaptation Differences
+
+#### Anime Differences
+
+##### Appearance
 In the manga, his hair color is pure white; the anime initially tinted it a greenish-grey color, but changed to match the manga from the Punk Hazard Arc on. His jacket's fur trim also differs between mediums, with the manga portraying it as a bluish color and the anime a deep green; in this case, the manga eventually changed its color scheme to follow the anime. [Ch. 103] [Ch. 652, Ep. 572]
 Additionally, his cigar-bands are labeled "MARINE" in the manga, implying they come from a specialty supplier. This, like most of the manga's small-print details, is omitted from the anime.
 
-#### Loguetown Arc
+##### Loguetown Arc
 As the anime significantly expands the Loguetown Arc, Smoker's role is likewise expanded:
 *While the manga has him completely unaware of the Straw Hats until Luffy's near-execution, the anime has him receiving a report on the crew before their arrival at Loguetown but initially (due to disregarding Luffy's wanted poster) mistaking Luffy for a tourist, whom he directs to Gold Roger's scaffold.
 **While anticipating the Straw Hats, he also finds and defeats Crescent-Moon Gally's crew.
@@ -181,8 +185,12 @@ As the anime significantly expands the Loguetown Arc, Smoker's role is likewise 
 's execution, as seen in the anime.]]
 Additionally, while the manga only has Smoker mention Gold Roger's execution in passing, [Ch. 99] the anime expands this to a full flashback showing he had personally witnessed it as a child. Though not strictly disproven, this fact is not considered canon (and it should be noted that the Vivre Card Series indicates Smoker originated from the Grand Line, not Loguetown).
 
-#### Marineford Arc
+##### Marineford Arc
 During Episode 488, Smoker was shown using his jitte, even though Hancock had destroyed it earlier.
+
+#### Live-Action Differences
+Like the anime, Smoker is shown amongst the crowds during Gold Roger's execution. A short scene is added at the end of Season 1 where he burns Luffy's first bounty poster. Smoker is also shown as more brutal towards his enemies than both the manga and anime, such as towing an arrested Koze from his Billower Bike, and using his Moku Moku no Mi abilities to suffocate Luffy and Mr. 11.
+Although he intends to enter the Grand Line to arrest the Straw Hat Pirates, Smoker is reassigned there by Monkey D. Garp to capture a Baroque Works operative as his main mission. His and Tashigi's encounter with Mr. 11 and Miss Thursday on Renaisse is shown, with him accidently killing the latter during their fight rather than her managing to escape. Smoker and Tashigi also discover their mission to destroy a Den Den Mushi which had intercepted communications between Sanji and Mr. 0, prompting them to head to Arabasta.
 
 #### Other Media
 *Smoker appears in One Piece Premier Show 2012 as one of Chameleone's transformations.

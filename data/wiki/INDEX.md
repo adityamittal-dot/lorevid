@@ -25,7 +25,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | naruto | `data/wiki/naruto/Akatsuki.md` | 28k | 15 |
 | naruto | `data/wiki/naruto/Boruto_Uzumaki.md` | 60k | 69 |
 | naruto | `data/wiki/naruto/Gaara.md` | 60k | 19 |
-| naruto | `data/wiki/naruto/Hashirama_Senju.md` | 33k | 69 |
+| naruto | `data/wiki/naruto/Hashirama_Senju.md` | 33k | 71 |
 | naruto | `data/wiki/naruto/Hinata_Hyūga.md` | 60k | 40 |
 | naruto | `data/wiki/naruto/Itachi_Uchiha.md` | 59k | 82 |
 | naruto | `data/wiki/naruto/Jiraiya.md` | 60k | 42 |
@@ -33,7 +33,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | naruto | `data/wiki/naruto/Kakashi_Hatake.md` | 60k | 74 |
 | naruto | `data/wiki/naruto/Kawaki.md` | 60k | 38 |
 | naruto | `data/wiki/naruto/Madara_Uchiha.md` | 50k | 139 |
-| naruto | `data/wiki/naruto/Minato_Namikaze.md` | 39k | 81 |
+| naruto | `data/wiki/naruto/Minato_Namikaze.md` | 39k | 82 |
 | naruto | `data/wiki/naruto/Nagato.md` | 44k | 47 |
 | naruto | `data/wiki/naruto/Naruto_Uzumaki.md` | 60k | 119 |
 | naruto | `data/wiki/naruto/Obito_Uchiha.md` | 60k | 98 |
@@ -107,7 +107,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Shepherd_Sommers.md` | 24k | 49 |
 | onepiece | `data/wiki/onepiece/Shirahoshi.md` | 37k | 131 |
 | onepiece | `data/wiki/onepiece/Skypiea_Arc.md` | 30k | 147 |
-| onepiece | `data/wiki/onepiece/Smoker.md` | 37k | 116 |
+| onepiece | `data/wiki/onepiece/Smoker.md` | 38k | 116 |
 | onepiece | `data/wiki/onepiece/Thriller_Bark_Arc.md` | 55k | 148 |
 | onepiece | `data/wiki/onepiece/Tony_Tony_Chopper.md` | 7k | 5 |
 | onepiece | `data/wiki/onepiece/Trafalgar_D._Water_Law.md` | 7k | 26 |
