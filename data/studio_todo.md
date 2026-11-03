@@ -90,3 +90,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Why Itachi Never Used Tsukuyomi On Naruto (https://youtu.be/-BhlD-14tcc) -> thumbnail B saved at output/2026-10-18-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM) -> thumbnail B saved at output/2026-11-04-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Jiraiya Almost Walked Away From Three Orphans (https://youtu.be/T4kenErqIl8) -> related video: Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM)
