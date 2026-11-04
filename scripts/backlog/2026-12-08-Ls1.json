@@ -1,0 +1,148 @@
+{
+  "id": "2026-12-08-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "A Knight of God cannot refuse Imu: the Depths Covenant lets Imu override Harald's objection, and Devoted Blades only meet Imu at the knighthood ceremony",
+  "title": "Why A Knight Of God Can Never Say No To Imu",
+  "description": "Imu's Knights of God can't actually refuse an order. Chapter 1168 shows the Covenant ceremony and Harald's objection shows what it does. Is a Covenant a promotion or a leash?",
+  "hashtags": [
+    "#imu",
+    "#onepiece",
+    "#knightsofgod"
+  ],
+  "tags": [
+    "knights of god",
+    "imu covenant",
+    "one piece harald",
+    "one piece imu",
+    "one piece elbaph",
+    "one piece theory",
+    "depths covenant",
+    "one piece 1168"
+  ],
+  "hook_text": "THE COVENANT IS A LEASH",
+  "music_mood": "suspense",
+  "comment": "Is the Depths Covenant a real promotion that Harald chose, or a leash nobody explained until it was on? Pick one.",
+  "related_long": "2026-12-08-L",
+  "end_text": "WHO ELSE GETS THE OFFER?",
+  "pages": [
+    "Knights of God",
+    "Harald",
+    "Nerona Imu",
+    "Gunko"
+  ],
+  "lines": [
+    {
+      "text": "Imu's Knights of God can't actually refuse an order, and Harald is the proof.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Imu Knights of God Harald Covenant",
+        "fallback": "hooded ruler on an empty throne above a kneeling giant knight"
+      }
+    },
+    {
+      "text": "Harald served the World Government to win Elbaph a place in the world.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Harald Elbaph king World Government",
+        "fallback": "giant king in dark armor looking over a green land"
+      }
+    },
+    {
+      "text": "At his knighthood ceremony, Imu placed the Depths Covenant on his body.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Depths Covenant knighthood ceremony",
+        "fallback": "hooded figure placing a glowing mark on a kneeling giant"
+      }
+    },
+    {
+      "text": "Then Imu ordered him to turn his people into a fighting force. Harald objected.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Harald objects Imu Elbaph peace",
+        "fallback": "worried giant king facing a shadowy ruler"
+      }
+    },
+    {
+      "text": "A normal boss backs down. Imu used the Covenant to take control of him instead.",
+      "delivery": "reveal",
+      "fx": "flash",
+      "shot": {
+        "search": "Imu controls Harald Covenant",
+        "fallback": "giant king clutching a glowing mark as shadows wrap around him"
+      }
+    },
+    {
+      "text": "A Covenant isn't a promotion. It lets Imu control, even possess, whoever carries it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu possession Covenant abilities Knights of God",
+        "fallback": "dark shadow reaching into a person's chest"
+      }
+    },
+    {
+      "text": "Chapter 1149 shows it. Imu takes over Gunko's body to speed up the invasion of Elbaph.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Imu possesses Gunko Elbaph chapter 1149",
+        "fallback": "dark shadowy figure rising out of a woman's body"
+      }
+    },
+    {
+      "text": "People say Harald chose this. But most Devoted Blades don't learn Imu exists until the ceremony. Chapter 1168.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Devoted Blades of God Imu ceremony Empty Throne",
+        "fallback": "young squire kneeling before a hooded figure on a throne"
+      }
+    },
+    {
+      "text": "So the leash goes on before they know who holds it.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Knights of God Covenant leash Imu Harald",
+        "fallback": "knight with a glowing chain around his chest"
+      }
+    },
+    {
+      "text": "So who else would Mary Geoise offer that ceremony to, and who is waiting in a cell for it?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mary Geoise Knights of God offer prisoner",
+        "fallback": "black uniformed knight standing before a dark prison cell"
+      }
+    },
+    {
+      "text": "Because once the ceremony is done, Imu's Knights of God can't actually refuse an order...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Knights of God Imu orders Knights",
+        "fallback": "row of kneeling knights before a hooded throne"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Knights_of_God",
+    "https://onepiece.fandom.com/wiki/Nerona_Imu",
+    "https://www.sportskeeda.com/anime/figarland-shamrock-s-holy-knight-status-one-piece-confirms-met-gorosei"
+  ],
+  "self_check": {
+    "hook": "Contrarian claim in line 1 that Knights cannot refuse Imu, backed by Harald",
+    "loop": "Last line leads back into line 1 syntactically",
+    "facts_verified": true
+  }
+}

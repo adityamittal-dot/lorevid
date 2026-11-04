@@ -1,0 +1,147 @@
+{
+ "id": "2026-12-04-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Kizaru's Egghead fight with Luffy works as a showcase for Gear 5, chapters 1091 to 1095: a side point of the long, not its verdict",
+ "title": "Kizaru's Egghead Fight Was Built To Sell Gear 5",
+ "description": "Kizaru gets knocked around on Egghead, and every hit makes Luffy's Gear 5 look bigger. Here's the sequence from chapters 1091 to 1095, and why the fight may be built to sell the awakening.",
+ "hashtags": [
+  "#onepiece",
+  "#luffy",
+  "#anime"
+ ],
+ "tags": [
+  "kizaru vs luffy",
+  "luffy gear 5 egghead",
+  "kizaru egghead fight",
+  "one piece egghead",
+  "luffy gear 4 kizaru",
+  "one piece theory",
+  "gear 5 explained",
+  "kizaru luffy fight"
+ ],
+ "hook_text": "BUILT TO SELL GEAR 5",
+ "music_mood": "epic",
+ "comment": "Was Kizaru's Egghead fight a real clash, or a showcase for Gear 5? Pick one and defend it.",
+ "related_long": "2026-12-04-L",
+ "end_text": "PERSON OR TOOL?",
+ "pages": [
+  "Kizaru",
+  "Egghead Arc",
+  "Monkey D. Luffy"
+ ],
+ "lines": [
+  {
+   "text": "Kizaru's whole Egghead fight is built to make Luffy look unstoppable.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Kizaru Luffy Gear 5 Egghead",
+    "fallback": "glowing Gear 5 Luffy facing a light-speed admiral"
+   }
+  },
+  {
+   "text": "Chapter 1091. Luffy strikes first, and Kizaru has to block.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy strikes Kizaru block Egghead",
+    "fallback": "rubber fist colliding with an admiral's guard"
+   }
+  },
+  {
+   "text": "Then Luffy's Gear 4 barrage forces him onto the defensive in chapter 1092.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy Gear 4 barrage Kizaru",
+    "fallback": "Snakeman Luffy punching a calm admiral"
+   }
+  },
+  {
+   "text": "Kizaru kicks back at light speed, straight through Vegaforce.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru kick Vegaforce",
+    "fallback": "admiral's light-speed kick blasting through a giant robot"
+   }
+  },
+  {
+   "text": "Then a giant Gear 5 Luffy grabs him from behind.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Gear 5 Luffy grabs Kizaru",
+    "fallback": "giant Gear 5 Luffy grabbing an admiral from behind"
+   }
+  },
+  {
+   "text": "Look at what that fight is for. It makes Gear 5 look incredible.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gear 5 Luffy Kizaru Egghead",
+    "fallback": "white haired Luffy glowing with power"
+   }
+  },
+  {
+   "text": "Chapter 1093, he splits into light and his sword clones nick Luffy's cheek.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru clones nick Luffy cheek",
+    "fallback": "light clones hovering around a rubber fighter"
+   }
+  },
+  {
+   "text": "In chapter 1095, Luffy's spinning kick knocks him down.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Luffy spinning kick Kizaru",
+    "fallback": "rubber boy spinning a kick into a light-clad admiral"
+   }
+  },
+  {
+   "text": "Kizaru gets knocked around so Gear 5 looks like the answer.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Gear 5 Luffy victory Egghead",
+    "fallback": "glowing Gear 5 Luffy standing over a fallen admiral"
+   }
+  },
+  {
+   "text": "Hold onto that beating, because Oda isn't done using him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Egghead Saturn",
+    "fallback": "admiral listening to an elder in a marble hall"
+   }
+  },
+  {
+   "text": "Because Kizaru takes every hit so Gear 5 has someone to beat.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru takes hit Luffy Egghead",
+    "fallback": "admiral blocked by a rubber fist"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Borsalino",
+  "https://onepiece.fandom.com/wiki/Chapter_1090",
+  "https://www.sportskeeda.com/anime/one-piece-chapter-1092-relic-ancient-kingdom-awakens-luffy-vs-kizaru-kicks-into-gear-5"
+ ],
+ "self_check": {
+  "hook": "Opens on a flat claim about the fight's purpose, stated before evidence.",
+  "loop": "Last line leads back into line 1: Kizaru takes every hit so Gear 5 has someone to beat.",
+  "facts_verified": true
+ }
+}

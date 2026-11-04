@@ -1,0 +1,157 @@
+{
+  "id": "2026-12-08-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Sakazuki called the Five Elders puppets of the Celestial Dragons after the government falsified the news of Doflamingo's resignation, then Fujitora exposed the cover-up",
+  "title": "Sakazuki Called The Five Elders Puppets Over Doflamingo",
+  "description": "Fleet Admiral Sakazuki once called the Five Elders puppets, and it was about the false news of Doflamingo's resignation. Here is what that fight really shows. Was it damage control or protection?",
+  "hashtags": [
+    "#sakazuki",
+    "#onepiece",
+    "#fiveelders"
+  ],
+  "tags": [
+    "sakazuki",
+    "five elders",
+    "one piece doflamingo",
+    "one piece cp0",
+    "one piece fujitora",
+    "one piece theory",
+    "one piece dressrosa",
+    "fleet admiral akainu"
+  ],
+  "hook_text": "PUPPETS OF THE NOBLES",
+  "music_mood": "suspense",
+  "comment": "Was the cover-up of Doflamingo's defeat just Warlord damage control, or did the Elders actually want him protected? Pick one.",
+  "related_long": "2026-12-08-L",
+  "end_text": "WHAT WAS HE WORTH?",
+  "pages": [
+    "Sakazuki",
+    "Five Elders",
+    "Donquixote Doflamingo",
+    "Fujitora"
+  ],
+  "lines": [
+    {
+      "text": "Puppets. Fleet Admiral Sakazuki used that word on the Five Elders, and it was about Doflamingo.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sakazuki Five Elders argument",
+        "fallback": "furious marine admiral facing five old men in white robes"
+      }
+    },
+    {
+      "text": "Doflamingo lost Dressrosa, yet the world was told he resigned by choice.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo resignation Warlord newspaper Dressrosa",
+        "fallback": "newspaper front page about a king stepping down"
+      }
+    },
+    {
+      "text": "That story was a lie, and the World Government helped write it.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "World Government falsified news Doflamingo",
+        "fallback": "official in white suit holding a false news bulletin"
+      }
+    },
+    {
+      "text": "Sakazuki demanded to know why the whole world was misled for one pirate.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Sakazuki Marine Headquarters Five Elders confront",
+        "fallback": "angry admiral slamming a table in front of old men"
+      }
+    },
+    {
+      "text": "Then he called the Elders puppets of the Celestial Dragons.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sakazuki Five Elders puppets Celestial Dragons",
+        "fallback": "scarred admiral pointing at five elders in robes"
+      }
+    },
+    {
+      "text": "He was furious that CP0 had acted over the Marines' heads.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "CP0 Cipher Pol Sakazuki Marines Elders",
+        "fallback": "masked agents in black suits standing behind five elders"
+      }
+    },
+    {
+      "text": "Law spotted it instantly: only a World Noble could rewrite the news like that.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Law Doflamingo World Noble news Dressrosa",
+        "fallback": "tattooed man in a spotted hat looking suspicious"
+      }
+    },
+    {
+      "text": "Fujitora then announced Doflamingo's crimes before the Elders knew. The cover-up collapsed.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Fujitora announces Doflamingo crimes",
+        "fallback": "blind admiral in a purple coat addressing a crowd"
+      }
+    },
+    {
+      "text": "Call it damage control. But that doesn't need CP0 acting behind the Marines' backs.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Seven Warlords of the Sea Doflamingo Marines",
+        "fallback": "row of pirates in coats standing before marine officers"
+      }
+    },
+    {
+      "text": "Someone wanted that name kept clean, and that's a strange favour for a man who just lost.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo Heavenly Yaksha smirk",
+        "fallback": "grinning man in a feather coat and sunglasses"
+      }
+    },
+    {
+      "text": "So what was he worth to them that they'd risk a fight with their own Fleet Admiral?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo Impel Down Level 6",
+        "fallback": "smiling prisoner in a deep dark cell"
+      }
+    },
+    {
+      "text": "And that's why Sakazuki looked the Elders in the eye and said one word...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Sakazuki stern Fleet Admiral",
+        "fallback": "stern fleet admiral in a long white coat"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Five_Elders",
+    "https://onepiece.fandom.com/wiki/Dressrosa_Arc",
+    "https://onepiece.fandom.com/wiki/Donquixote_Doflamingo"
+  ],
+  "self_check": {
+    "hook": "One-word hidden-detail hook: puppets, tied to Doflamingo in line 1",
+    "loop": "Last line leads into the one word that opens line 1",
+    "facts_verified": true
+  }
+}

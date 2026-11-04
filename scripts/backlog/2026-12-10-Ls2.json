@@ -1,0 +1,156 @@
+{
+ "id": "2026-12-10-Ls2",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Mimiko and Nanako demanded their master's body back in Shibuya, and that scene proves the body was never just a shell",
+ "title": "Mimiko And Nanako Saw Through The Fake Geto",
+ "description": "Mimiko and Nanako spoke up in Shibuya when nobody else did, and the imposter refused them. A small chapter 93 scene that says a lot about the body Kenjaku borrowed. Do you think Geto's body ever fought back?",
+ "hashtags": [
+  "#geto",
+  "#jujutsukaisen",
+  "#anime"
+ ],
+ "tags": [
+  "mimiko and nanako",
+  "geto girls shibuya",
+  "kenjaku geto body",
+  "jujutsu kaisen chapter 93",
+  "jjk theory",
+  "jujutsu kaisen shibuya incident",
+  "geto explained",
+  "kenjaku"
+ ],
+ "hook_text": "THE GIRLS KNEW",
+ "music_mood": "suspense",
+ "comment": "Was Geto's body ever really silent in Shibuya, or did a piece of him fight back? Pick one.",
+ "related_long": "2026-12-10-L",
+ "end_text": "HOW DID THE FACE STILL WORK?",
+ "pages": [
+  "Suguru Geto",
+  "Mimiko and Nanako Hasaba",
+  "Kenjaku"
+ ],
+ "lines": [
+  {
+   "text": "Mimiko and Nanako called out the imposter in Shibuya, and almost nobody noticed.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Mimiko Nanako Shibuya crowd",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "Chapter 93. A crowd of civilians, and two voices inside it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nanako Mimiko civilians Shibuya",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "They demand their master's body back.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Mimiko Nanako demand Geto body",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "These are the two girls Geto rescued from a village in chapter 77.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Geto rescues Mimiko Nanako village",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "They followed him when he left Jujutsu High behind. Now they're looking at his face with someone else behind it.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Mimiko Nanako Geto family",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "The imposter doesn't hand it over. He just refuses.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Kenjaku refuses Geto body",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "Chapter 91 already hinted at a crack. For a moment, Geto's body took over the imposter's right hand.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Geto body controls hand Kenjaku",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "People say the body is just a shell and Kenjaku is fully in charge. But a shell doesn't move on its own.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kenjaku Geto head stitches",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "That's my read anyway: the body was never completely silent.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Geto body Kenjaku Mahito",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "So the girls weren't wrong. They had every reason to know that face.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Mimiko Nanako Geto face",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "But if even they could tell, how did the same face still work on Gojo?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Geto face Shibuya",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  },
+  {
+   "text": "Which is why Geto's girls matter in this scene.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Mimiko Nanako Geto",
+    "fallback": "two young girls standing in a crowded train station looking at a tall dark haired man"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident_Arc",
+  "https://jujutsu-kaisen.fandom.com/wiki/Suguru_Geto",
+  "https://jujutsu-kaisen.fandom.com/wiki/Kenjaku"
+ ],
+ "self_check": {
+  "hook": "specific detail claim in line 1",
+  "loop": "last line leads into line 1",
+  "facts_verified": true
+ }
+}

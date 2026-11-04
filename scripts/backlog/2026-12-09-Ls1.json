@@ -1,0 +1,148 @@
+{
+  "id": "2026-12-09-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Doflamingo's second chance for Bellamy in Dressrosa was a setup because Dellinger was already sent to remove him",
+  "title": "Bellamy's Second Chance Was A Setup",
+  "description": "Bellamy got a second chance to become a Donquixote Pirates officer in Dressrosa, but Dellinger was already waiting with the real order. Here is why that mission looks like a trap. Was Doflamingo ever going to let him succeed?",
+  "hashtags": [
+    "#bellamy",
+    "#onepiece",
+    "#dressrosa"
+  ],
+  "tags": [
+    "bellamy",
+    "bellamy dressrosa",
+    "bellamy doflamingo",
+    "dellinger bellamy",
+    "one piece 731",
+    "one piece theory",
+    "one piece dressrosa",
+    "one piece"
+  ],
+  "hook_text": "IT WAS A SETUP",
+  "music_mood": "suspense",
+  "comment": "Did Doflamingo send Bellamy after Luffy hoping he'd win, or was the mission always a way to get rid of him? Pick one.",
+  "related_long": "2026-12-09-L",
+  "end_text": "WAS HE EVER A COWARD?",
+  "pages": [
+    "Bellamy",
+    "Dellinger",
+    "Dressrosa Arc",
+    "Bartolomeo"
+  ],
+  "lines": [
+    {
+      "text": "Bellamy's second chance in Dressrosa was never a chance. Doflamingo had already written him off.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Bellamy Dressrosa Doflamingo second chance",
+        "fallback": "pirate nervously facing a grinning feather-coated boss"
+      }
+    },
+    {
+      "text": "He hands Doflamingo a gold pillar as a declaration of loyalty.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Bellamy gold pillar Doflamingo",
+        "fallback": "pirate presenting a tall golden pillar to his boss"
+      }
+    },
+    {
+      "text": "He loses the tournament, so he gets one more shot: take Luffy down.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Bellamy Luffy mission officer Dressrosa",
+        "fallback": "pirate receiving an order from a grinning boss"
+      }
+    },
+    {
+      "text": "Here's what most people missed. Doflamingo expects him to fail again.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Dellinger Bellamy Doflamingo order",
+        "fallback": "small cheerful fighter blocking a pirate's path"
+      }
+    },
+    {
+      "text": "Bellamy walks up to Luffy, and Dellinger arrives with orders to remove him.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Dellinger confronts Bellamy Luffy",
+        "fallback": "small fighter stopping a pirate in a corridor"
+      }
+    },
+    {
+      "text": "In chapter 731, Dellinger beats him badly until Bartolomeo's barrier steps in.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Bartolomeo barrier protects Bellamy Dellinger",
+        "fallback": "green-haired fan shielding a pirate with a barrier"
+      }
+    },
+    {
+      "text": "My read is that the mission was never a test. It was a loose end with Luffy as the excuse.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo Bellamy loose end plan",
+        "fallback": "scheming warlord watching a pirate from a balcony"
+      }
+    },
+    {
+      "text": "People say Doflamingo wanted Luffy gone either way. But why send a man he'd already marked?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo smile Dressrosa palace",
+        "fallback": "grinning warlord with sunglasses in a palace"
+      }
+    },
+    {
+      "text": "Because a failure gave him a reason to act, and a win handed him a free victory.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Doflamingo plan Bellamy Dellinger",
+        "fallback": "warlord's silhouette behind a pirate in a dim hall"
+      }
+    },
+    {
+      "text": "But what Bellamy does once he learns the truth is the part nobody expected.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Bellamy shocked betrayal Dressrosa",
+        "fallback": "stunned pirate with wide eyes"
+      }
+    },
+    {
+      "text": "And all of it tells you why Bellamy's second chance in Dressrosa was never a chance...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Bellamy Doflamingo Dressrosa gold pillar",
+        "fallback": "pirate beside a golden pillar looking uneasy"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Bellamy",
+    "https://onepiece.fandom.com/wiki/Dressrosa_Arc",
+    "https://onepiece.fandom.com/wiki/Bartolomeo"
+  ],
+  "self_check": {
+    "hook": "Contrarian claim in line 1 about the second chance being a setup",
+    "loop": "Last line leads back into line 1",
+    "facts_verified": true
+  }
+}

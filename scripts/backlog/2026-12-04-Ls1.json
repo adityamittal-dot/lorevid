@@ -1,0 +1,140 @@
+{
+ "id": "2026-12-04-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Kizaru's friendships with Sentomaru, Bonney and Kuma make his attacks hit harder: a side point of the long, not its verdict",
+ "title": "Kizaru's Friends Make His Attacks Hurt More",
+ "description": "Kizaru trained Sentomaru as a boy and spent six months befriending Bonney and Kuma on Egghead. Here's why that history makes his Egghead attacks land harder, and whether Oda wrote it that way on purpose.",
+ "hashtags": [
+  "#kizaru",
+  "#onepiece",
+  "#anime"
+ ],
+ "tags": [
+  "kizaru friends",
+  "kizaru sentomaru",
+  "kizaru bonney kuma",
+  "kizaru egghead",
+  "one piece egghead",
+  "one piece theory",
+  "kizaru explained",
+  "pacifista laser",
+  "one piece admiral"
+ ],
+ "hook_text": "HE HURTS HIS FRIENDS",
+ "music_mood": "emotional",
+ "comment": "Is Kizaru's history with Bonney and Kuma a real character choice, or just a way to make the Egghead fights hurt?",
+ "related_long": "2026-12-04-L",
+ "end_text": "PERSON OR TOOL?",
+ "pages": [
+  "Kizaru",
+  "Sentomaru",
+  "Bartholomew Kuma",
+  "Egghead Arc"
+ ],
+ "lines": [
+  {
+   "text": "Kizaru attacks the people he likes, and that's no accident.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Kizaru Bonney Kuma Egghead",
+    "fallback": "tall admiral in a yellow suit standing beside a calm ally"
+   }
+  },
+  {
+   "text": "He befriended Bonney and Kuma, spending six months with them on Egghead.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Bonney Kuma friends Egghead",
+    "fallback": "admiral eating and laughing with a giant warlord and a young woman"
+   }
+  },
+  {
+   "text": "Sentomaru calls him uncle, because Kizaru trained him back when he was a boy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Sentomaru young uncle",
+    "fallback": "young boy beside a smiling admiral"
+   }
+  },
+  {
+   "text": "Here's my read. A stranger hitting Sentomaru is a fight. An uncle doing it is a tragedy.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Sentomaru fight Egghead",
+    "fallback": "bodyguard standing firm against an admiral"
+   }
+  },
+  {
+   "text": "Oda makes sure you remember that history when the attack lands.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Sentomaru Egghead laser",
+    "fallback": "light beam hitting a bodyguard in a white lab"
+   }
+  },
+  {
+   "text": "Then the same light turns on Bonney and Kuma, the friends he made.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru attacks Bonney Kuma",
+    "fallback": "admiral firing a beam at a pale young woman"
+   }
+  },
+  {
+   "text": "The Pacifista laser is based on his own light power.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Pacifista laser Labophase",
+    "fallback": "giant laser cannon glowing over a white lab"
+   }
+  },
+  {
+   "text": "The friendships don't soften him. They make every hit land harder.",
+   "delivery": "reveal",
+   "fx": "shake",
+   "shot": {
+    "search": "Bonney shocked Kizaru attack",
+    "fallback": "young woman staring in shock at a light beam"
+   }
+  },
+  {
+   "text": "So does an admiral who hurts friends for orders ever choose anything?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru calm Egghead",
+    "fallback": "relaxed admiral with a faint smile"
+   }
+  },
+  {
+   "text": "Because Kizaru hurts the people he likes, and that's why it stings.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kizaru Bonney Kuma sad",
+    "fallback": "admiral looking away from a fallen friend"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Borsalino",
+  "https://onepiece.fandom.com/wiki/Chapter_1090",
+  "https://breezewiki.discard.no/onepiece/wiki/Chapter_571"
+ ],
+ "self_check": {
+  "hook": "Opens on a flat, checkable claim about who Kizaru attacks, before any evidence.",
+  "loop": "Last line leads back into line 1: he attacks the people he likes, and that is why it stings.",
+  "facts_verified": true
+ }
+}

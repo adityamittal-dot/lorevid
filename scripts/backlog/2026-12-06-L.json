@@ -1,0 +1,2660 @@
+{
+ "id": "2026-12-06-L",
+ "format": "long",
+ "deep": true,
+ "series": "naruto",
+ "wiki": "naruto.fandom.com",
+ "topic": "Hiruzen Let Danzo Live For One Reason",
+ "title": "Danzo Explained: The Reason Hiruzen Let Him Live",
+ "description": "Danzo explained: why did the Third Hokage never remove Danzo Shimura, even after Root, the Uchiha Clan Downfall and a plot against his own life? This Naruto deep dive follows Hiruzen and Danzo from Tobirama's classroom to Danzo's last stand, tests the three easy answers fans give, and argues the one reason that survives every chapter and episode.\n\nWe cite Chapters 123, 142, 400, 440, 503 and 590 and Shippuden episodes 351 to 359. Was Hiruzen too soft, or did he need Danzo's dark work done? Pick a side in the comments.\n\n0:00 The Soft Hokage Lie\n0:29 Two Students, One Teacher\n2:51 The Job Nobody Wanted\n5:27 The Night Orders Split\n9:02 Three Easy Answers Fail\n12:05 The Uchiha Debt\n16:45 The One Reason\n20:40 The Last Fight Hiruzen Took\n22:35 The Shadow Keeps Working\n25:30 What The Ledger Says",
+ "hashtags": [
+  "#danzo",
+  "#hiruzen",
+  "#naruto",
+  "#anime"
+ ],
+ "tags": [
+  "danzo explained",
+  "danzo shimura",
+  "hiruzen sarutobi",
+  "why didn't hiruzen stop danzo",
+  "hiruzen and danzo",
+  "danzo root explained",
+  "naruto theory",
+  "third hokage danzo",
+  "naruto deep dive",
+  "uchiha clan downfall danzo",
+  "danzo vs hiruzen",
+  "naruto shippuden danzo"
+ ],
+ "hook_text": "HIRUZEN LET HIM LIVE",
+ "music_mood": "suspense",
+ "comment": "Did Hiruzen keep Danzo because he was too soft to act, or because he secretly needed Danzo's dark work done? Pick one and defend it.",
+ "related_long": null,
+ "pages": [
+  "Danzō Shimura",
+  "Hiruzen Sarutobi",
+  "Root",
+  "Uchiha Clan Downfall",
+  "Shisui Uchiha",
+  "Itachi Uchiha"
+ ],
+ "lines": [
+  {
+   "text": "Danzo plotted to assassinate the Third Hokage, and Hiruzen still let him live, so why?",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Danzo Shimura Hiruzen Sarutobi",
+    "fallback": "old bandaged war hawk facing an elderly kage in a council room"
+   }
+  },
+  {
+   "text": "Everyone says Hiruzen was too soft to act, and I think that answer is wrong.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Hokage serious",
+    "fallback": "elderly kage in robes looking solemn"
+   }
+  },
+  {
+   "text": "He sealed two Hokage with his own hands, and he still left one man alone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Hashirama Tobirama Edo Tensei",
+    "fallback": "old kage facing two resurrected leaders"
+   }
+  },
+  {
+   "text": "There is exactly one reason, and it is far darker than kindness.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Root shadow",
+    "fallback": "bandaged elder standing in a dark underground hall"
+   }
+  },
+  {
+   "text": "I'll show you where each easy answer breaks, chapter by chapter.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "ONE REASON",
+   "shot": {
+    "search": "Uchiha Clan Downfall Konoha night",
+    "fallback": "dark village rooftops under a pale moon"
+   }
+  },
+  {
+   "text": "But the first clue starts on the night the Nine-Tails attacked...",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Nine-Tails attack Konoha Minato",
+    "fallback": "giant fox spirit looming over a ninja village at night"
+   }
+  },
+  {
+   "text": "Start with the classroom, because both men came out of the same one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tobirama Senju teaching students",
+    "fallback": "stern white haired ninja teacher with young students"
+   }
+  },
+  {
+   "text": "Hiruzen Sarutobi, Danzo Shimura, Homura Mitokado and Koharu Utatane were all students of Tobirama Senju.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tobirama Hiruzen Danzo Homura Koharu",
+    "fallback": "four young ninja standing in front of a stern teacher"
+   }
+  },
+  {
+   "text": "That's the Second Hokage, and he put four future power brokers in one room.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tobirama Senju Second Hokage",
+    "fallback": "second kage with white hair and red armor"
+   }
+  },
+  {
+   "text": "Hiruzen became Hokage. Danzo spent the rest of his life certain that chair should have been his.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura jealous Hiruzen",
+    "fallback": "bandaged elder glaring across a table"
+   }
+  },
+  {
+   "text": "The Naruto wiki calls it a one-sided rivalry, and I think that phrase matters.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura rivalry Hiruzen",
+    "fallback": "two old ninja facing each other in silence"
+   }
+  },
+  {
+   "text": "Danzo watched Hiruzen's talent and standing grow, and he took every inch of it personally.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo young Tobirama student",
+    "fallback": "young ninja with dark hair watching a rival"
+   }
+  },
+  {
+   "text": "One wiki account says Tobirama settled the question with a test, and Hiruzen volunteered first.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tobirama Hiruzen Danzo test Third Hokage",
+    "fallback": "teacher choosing between two young ninja"
+   }
+  },
+  {
+   "text": "I can't pin that scene to a chapter, so treat it as fan wiki lore, not gospel.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi young Hokage",
+    "fallback": "young kage candidate stepping forward"
+   }
+  },
+  {
+   "text": "What I can pin down is Chapter 123, where the wiki says Hashirama helped train Hiruzen.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 123",
+   "shot": {
+    "search": "Hashirama Senju training Hiruzen",
+    "fallback": "first kage with long dark hair teaching a boy"
+   }
+  },
+  {
+   "text": "So Hiruzen gets the First Hokage's attention on top of the Second's lessons, and I bet Danzo noticed.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hashirama Tobirama Hiruzen young",
+    "fallback": "two founders watching a promising student"
+   }
+  },
+  {
+   "text": "Now hold on to one detail about these two boys: they started out as friends.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo friends teammates",
+    "fallback": "two young ninja standing shoulder to shoulder"
+   }
+  },
+  {
+   "text": "The wiki says Danzo and Hiruzen grew up as friends and teammates before the feud ever started.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Danzo Tobirama team",
+    "fallback": "young ninja team photo in the old village"
+   }
+  },
+  {
+   "text": "That matters, because every later choice Hiruzen made about Danzo came with history attached.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi old Danzo",
+    "fallback": "elderly kage looking at an old photograph"
+   }
+  },
+  {
+   "text": "You don't sign off on an old teammate the way you sign off on a stranger.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi thinking",
+    "fallback": "elderly leader resting his chin on his hand"
+   }
+  },
+  {
+   "text": "That's the first easy answer to why Hiruzen never acted, and I'll test it properly in a moment.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Hokage office",
+    "fallback": "kage desk with scrolls and a pipe"
+   }
+  },
+  {
+   "text": "Chapter 500 shows how that founding generation handled burdens: Tobirama hid Madara's body, and Mito sealed the Nine-Tails inside herself for Konoha's benefit.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 500",
+   "shot": {
+    "search": "Mito Uzumaki Nine-Tails sealed Tobirama Madara",
+    "fallback": "woman with red hair sealing a giant fox inside her body"
+   }
+  },
+  {
+   "text": "Quiet burdens, carried by one person, so the village could look peaceful. I think that is the culture both Hiruzen and Danzo inherited.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tobirama Senju Mito Hashirama Konoha founders",
+    "fallback": "founders of a hidden village looking over their new home"
+   }
+  },
+  {
+   "text": "The pack also records Hashirama telling Hiruzen that a Hokage's body is made of every villager who believes in him.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hashirama Hiruzen Hokage villagers believe",
+    "fallback": "first kage speaking to an older student on the tower"
+   }
+  },
+  {
+   "text": "Hold Hiruzen to that standard. If the village is your own body, cutting out even a rotten piece feels like cutting yourself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Hokage tower village",
+    "fallback": "elderly kage gazing over a crowded village"
+   }
+  },
+  {
+   "text": "That's a better explanation than friendship for the reluctance, and it still doesn't tell us why the rotten piece kept its powers.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Root Hiruzen reluctance",
+    "fallback": "bandaged elder standing in the Hokage's shadow"
+   }
+  },
+  {
+   "text": "Friendship alone can't be the whole story, because this same man later sealed his own teachers.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Hashirama Tobirama seal",
+    "fallback": "old kage sealing two ghostly leaders"
+   }
+  },
+  {
+   "text": "And when Danzo's ambition showed up, Hiruzen's answer was to look away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi looking away",
+    "fallback": "elderly kage turning his gaze from a hallway"
+   }
+  },
+  {
+   "text": "So when did the looking away begin, and what did Hiruzen hand Danzo the first time he did it?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Root foundation Hiruzen",
+    "fallback": "shadowy figures gathering beneath a village"
+   }
+  },
+  {
+   "text": "In the anime, the thing Hiruzen allowed Danzo to build next would grow in a place Hiruzen chose not to look...",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Root Danzo ANBU Foundation",
+    "fallback": "masked ninja in a dark underground corridor"
+   }
+  },
+  {
+   "text": "Every village has a job nobody wants to say out loud.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Konoha village night rooftops",
+    "fallback": "hidden village at night with distant lanterns"
+   }
+  },
+  {
+   "text": "Spying on your own people. Taking children for training. Doing the work the Hokage's name can never touch.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root members masks training children",
+    "fallback": "masked young shinobi in a bare underground room"
+   }
+  },
+  {
+   "text": "Danzo's Root was that job, and the wiki says Hiruzen allowed it to exist, at least in the anime.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Root Hiruzen permission",
+    "fallback": "elderly kage nodding as a bandaged man leaves"
+   }
+  },
+  {
+   "text": "Search summaries describe it as a counterweight to Hiruzen's softer way of leading.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi gentle leader",
+    "fallback": "kind elderly kage smiling at a child"
+   }
+  },
+  {
+   "text": "Read that again. The softer leader wasn't blind to his own softness. He allowed a second hand to cover it.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura hand Izanagi arm",
+    "fallback": "bandaged arm covered in glowing eyes"
+   }
+  },
+  {
+   "text": "The Naruto wiki also says Hiruzen ignored Root's questionable foreign operations.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root ANBU foreign operations Danzo",
+    "fallback": "masked agents crossing a border at night"
+   }
+  },
+  {
+   "text": "It says he ignored the abduction of children, and actions Root took against Konoha's own people.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root children Danzo training Foundation",
+    "fallback": "silent children lined up in a grey hall"
+   }
+  },
+  {
+   "text": "Including actions against Hiruzen himself.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo betrayal",
+    "fallback": "elderly kage looking at a shadow behind him"
+   }
+  },
+  {
+   "text": "That's the detail that bothers me most. Ignoring something that can be turned on you takes a reason.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo council",
+    "fallback": "two elders at a council table"
+   }
+  },
+  {
+   "text": "Now compare it with how Hiruzen protects people when he's the one in charge of the plan.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Naruto child",
+    "fallback": "old kage smiling at a blond boy"
+   }
+  },
+  {
+   "text": "Chapter 440 says he hid Naruto's link to Minato to keep him away from his father's enemies.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 440",
+   "shot": {
+    "search": "Hiruzen Naruto Minato secret",
+    "fallback": "kage holding a baby in a quiet office"
+   }
+  },
+  {
+   "text": "And he forbade anyone from speaking about the Nine-Tails, hoping the next generation wouldn't hate Naruto blindly.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Naruto Nine-Tails law",
+    "fallback": "kage addressing villagers from a balcony"
+   }
+  },
+  {
+   "text": "That is Hiruzen's real style: shield people with rules and silence, never with force.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Naruto Hokage Office",
+    "fallback": "kage speaking gently to a young boy"
+   }
+  },
+  {
+   "text": "The Naruto page says he also arranged Kushina's delivery at a remote location, with midwives and Anbu watching over her.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kushina Uzumaki birth Anbu midwives remote location",
+    "fallback": "pregnant redhead in a hidden shack with guards outside"
+   }
+  },
+  {
+   "text": "Anbu is the Hokage's direct arm, the legal and visible kind of shadow, and the one Hiruzen trusted when a child was at stake.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Anbu Black Ops Hokage direct arm",
+    "fallback": "masked agents standing guard outside a kage tower"
+   }
+  },
+  {
+   "text": "Root is the other kind, the shadow that answers to Danzo instead of to the desk.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root Danzo Shimura masked agents",
+    "fallback": "masked agents bowing to a bandaged elder in a cave"
+   }
+  },
+  {
+   "text": "Naruto himself grew up on a monthly income from the village and never learned who his parents were, which was Hiruzen's doing.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Naruto Uzumaki child alone village income",
+    "fallback": "blond boy sitting alone on a swing"
+   }
+  },
+  {
+   "text": "Every kindness in that sentence is a secret kept by one man, and I think secrets that big need helpers.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi secret keeper",
+    "fallback": "kage looking at a locked drawer"
+   }
+  },
+  {
+   "text": "I can't prove that last part, so file it as my read: secret keeping at village scale needs a hand that never signs anything.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo secret hand",
+    "fallback": "two shadows behind a kage's desk"
+   }
+  },
+  {
+   "text": "On the night Naruto was born, the Third also lost his wife, who was among the midwives Obito attacked.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Obito Naruto birth night midwives",
+    "fallback": "masked figure in a quiet dark delivery room"
+   }
+  },
+  {
+   "text": "I think a man like that dreads signing orders that cost other families the same.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi grieving",
+    "fallback": "old kage alone looking at a window"
+   }
+  },
+  {
+   "text": "He also states a rule later, in the anime, that I think explains everything: kind hearts don't belong in the dark.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Kakashi Anbu retire",
+    "fallback": "kage speaking with a masked ninja"
+   }
+  },
+  {
+   "text": "Hold that rule, because it's the key to the whole video.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi pipe thinking",
+    "fallback": "elderly kage with a pipe in thought"
+   }
+  },
+  {
+   "text": "My first working theory is that Danzo wasn't a flaw Hiruzen missed. He was a function Hiruzen filled.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Danzo Shimura Root headquarters",
+    "fallback": "bandaged elder seated beneath a stone ceiling"
+   }
+  },
+  {
+   "text": "Think of a house with one room nobody enters, and a landlord who keeps the lights off on purpose.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root base underground Konoha",
+    "fallback": "dim underground corridor with a single door"
+   }
+  },
+  {
+   "text": "A theory that clean has to survive contact with the chapters, so test it against the night everything split.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo Kakashi Root",
+    "fallback": "grieving young ninja walking away from a funeral"
+   }
+  },
+  {
+   "text": "Because on the night the Nine-Tails came, one of Hiruzen's orders was turned into a weapon against him...",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Nine-Tails attack Konoha Hokage Rock",
+    "fallback": "giant fox beast roaring above a village"
+   }
+  },
+  {
+   "text": "Picture a barrier over the young ninja of Konoha while the Nine-Tails tears through their village.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Konoha young ninja barrier Nine-Tails attack",
+    "fallback": "teenagers behind a glowing wall watching a monster"
+   }
+  },
+  {
+   "text": "Chapter 503 shows Kakashi among those held back, unable to help, while Minato stops the Nine-Tails.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 503",
+   "shot": {
+    "search": "Kakashi barrier Nine-Tails Minato",
+    "fallback": "young silver haired ninja pressed against a barrier"
+   }
+  },
+  {
+   "text": "Minato wins the village back at the cost of his life and Kushina's, and Kakashi has nowhere to put the grief.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Kushina Naruto sealing",
+    "fallback": "ninja couple shielding a baby"
+   }
+  },
+  {
+   "text": "That's where Danzo walks in, which is the cruelest timing I can think of.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Kakashi young",
+    "fallback": "bandaged elder approaching a grieving boy"
+   }
+  },
+  {
+   "text": "He tells young Kakashi that the order keeping the children out of the battle was Hiruzen's.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Kakashi Third Hokage orders",
+    "fallback": "old man speaking low to a boy in a mask"
+   }
+  },
+  {
+   "text": "The pitch is that Kakashi might have saved Minato and Kushina if the Third had let him fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Minato Kushina regret",
+    "fallback": "young ninja staring at an empty street"
+   }
+  },
+  {
+   "text": "In the anime, that argument works, and Kakashi agrees to join Root and spy on the Hokage.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Root Anbu Danzo spy",
+    "fallback": "masked ninja receiving orders in a dark room"
+   }
+  },
+  {
+   "text": "So Danzo has just recruited a Hokage's best young ninja into a spy network aimed at the Hokage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Kakashi Root spy Hokage",
+    "fallback": "shadowy elder watching a young agent leave"
+   }
+  },
+  {
+   "text": "Now watch what Hiruzen does when he finds out, because this is the first real test of my theory.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Kakashi Hokage residence",
+    "fallback": "kage catching an intruder in a dim study"
+   }
+  },
+  {
+   "text": "Kakashi breaks into the Hokage Residence to ask about a Root agent called Kinoe, who uses Wood Release.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Kinoe Wood Release Hokage residence",
+    "fallback": "ninja entering a window of a quiet residence"
+   }
+  },
+  {
+   "text": "Wood Release belonged to the First Hokage, so a stranger using it should have terrified everyone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kinoe Wood Release Tenzo",
+    "fallback": "ninja with wooden branches growing from his arms"
+   }
+  },
+  {
+   "text": "The Third catches him, and then tells him freely what he wants to know.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Kakashi Hokage residence talk",
+    "fallback": "kage speaking calmly to a masked ninja"
+   }
+  },
+  {
+   "text": "Konoha tried to recreate Wood Release years ago, he says, and abandoned it because it cost too many test subjects.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Wood Release experiment Konoha research",
+    "fallback": "lab with glass tubes in a dark basement"
+   }
+  },
+  {
+   "text": "Then he muses that the Nine-Tails might have been beaten, and Minato saved, if that research had worked.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi regret Minato",
+    "fallback": "old kage staring at a window in regret"
+   }
+  },
+  {
+   "text": "That one confession shows Kakashi the Third isn't the cold, passionless leader Danzo painted.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi realises Hiruzen Danzo",
+    "fallback": "young ninja looking up at a kind old leader"
+   }
+  },
+  {
+   "text": "And here's what Kakashi notices next: Danzo never used Kinoe to try to stop the Nine-Tails.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Kinoe Danzo Nine-Tails attack Root",
+    "fallback": "masked agent standing back while a battle rages"
+   }
+  },
+  {
+   "text": "So Kakashi tells the Third that Danzo plans to assassinate him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi warns Hiruzen Danzo plan",
+    "fallback": "masked ninja whispering to a kage"
+   }
+  },
+  {
+   "text": "The next day he lures the assassins out, Kinoe among them, and beats them easily.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Kinoe fight Root assassins",
+    "fallback": "masked ninja facing a group of attackers"
+   }
+  },
+  {
+   "text": "Kakashi spares Kinoe, then tries to resign from Anbu for working against his Hokage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi resigns Anbu Hiruzen",
+    "fallback": "ninja kneeling in front of a kage"
+   }
+  },
+  {
+   "text": "The Third refuses. He calls Kakashi's service invaluable and makes him his right-hand man.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Kakashi right hand Shippuden",
+    "fallback": "kage placing a hand on a young ninja's shoulder"
+   }
+  },
+  {
+   "text": "Now count what happens to Danzo in that summary. In the account I read, nothing.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Danzo Shimura Hiruzen confrontation",
+    "fallback": "bandaged elder bowing slightly to a kage"
+   }
+  },
+  {
+   "text": "A plot against the Hokage's own life, from a man the Hokage had allowed to exist, and the response is silence.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo silence",
+    "fallback": "two old men in a quiet corridor"
+   }
+  },
+  {
+   "text": "Maybe you think that's one slip. So jump forward a few years, to Episode 356.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "EPISODE 356",
+   "shot": {
+    "search": "Kakashi Kinoe Tenzo Root headquarters",
+    "fallback": "ninja pushing open a stone door"
+   }
+  },
+  {
+   "text": "Kinoe has abandoned a mission after Kakashi talked to him, and Danzo is about to apply a cursed seal as punishment.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo cursed seal Kinoe",
+    "fallback": "bandaged elder raising a hand toward a restrained agent"
+   }
+  },
+  {
+   "text": "With the Third's permission, Kakashi forces his way into Root's own headquarters and stops it.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Kakashi Root headquarters stops Danzo",
+    "fallback": "masked ninja bursting into a stone chamber"
+   }
+  },
+  {
+   "text": "Root forces begin surrounding them, and then the Third Hokage himself walks in to authorise what Kakashi did.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Root headquarters Danzo Kakashi",
+    "fallback": "kage entering a dark chamber full of masked agents"
+   }
+  },
+  {
+   "text": "Stop and picture that. The Hokage is standing inside Root, with Danzo in front of him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo Root face to face",
+    "fallback": "kage and bandaged elder facing off among masks"
+   }
+  },
+  {
+   "text": "It's the most leverage he ever holds over Danzo in front of us, and I want to know what he spends it on.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo Root negotiation",
+    "fallback": "two old leaders in a tense negotiation"
+   }
+  },
+  {
+   "text": "He negotiates one man's release. Kinoe walks out with a new codename, Tenzo, and joins Kakashi's Team Ro.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Tenzo Kakashi Team Ro Kinoe",
+    "fallback": "ninja in an animal mask joining a new squad"
+   }
+  },
+  {
+   "text": "One man. Not the cursed seals, not the children, not Root itself.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Root members cursed seal Danzo",
+    "fallback": "row of silent masked children in the dark"
+   }
+  },
+  {
+   "text": "That isn't a Hokage losing an argument. That's a Hokage bargaining over exactly how much Root to keep.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi decision Danzo",
+    "fallback": "kage with a thoughtful hard expression"
+   }
+  },
+  {
+   "text": "Think about that deal. Root loses a loyal agent, Danzo takes no real punishment, and the Hokage gains a man who owes him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tenzo Hiruzen debt Root agent",
+    "fallback": "agent in an animal mask bowing to a kage"
+   }
+  },
+  {
+   "text": "That's how Hiruzen works. He collects debts instead of breaking things, and he collects people who feel they owe him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Kakashi Tenzo loyalty",
+    "fallback": "kage with a circle of loyal ninja around him"
+   }
+  },
+  {
+   "text": "Kakashi first wanted to resign for working against his Hokage, and the Third turned that guilt into a right-hand man.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Hiruzen right hand man",
+    "fallback": "kage accepting an apology from a masked ninja"
+   }
+  },
+  {
+   "text": "Collect enough people who owe you and you never need a fight, and I suspect that was his entire strategy toward Danzo, too.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi strategy Danzo",
+    "fallback": "kage moving pieces on a game board"
+   }
+  },
+  {
+   "text": "But a strategy built on never forcing a showdown has one weakness: the other side can keep preparing for it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura preparing Root",
+    "fallback": "bandaged elder planning at a dim table"
+   }
+  },
+  {
+   "text": "If the Third could walk through Root's front door and leave it standing, what exactly was he protecting?",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi leaves Root",
+    "fallback": "kage walking out of a dark hall past masked agents"
+   }
+  },
+  {
+   "text": "Fans give three answers whenever this comes up, and I want to take each of them seriously.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo theory",
+    "fallback": "two old rivals sitting at a long table"
+   }
+  },
+  {
+   "text": "Answer one: he was too soft. Answer two: he had no proof. Answer three: he didn't have the power.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo Homura Koharu council",
+    "fallback": "council elders sitting around a table"
+   }
+  },
+  {
+   "text": "Start with soft, because it's the best of the three, and Orochimaru is its best evidence.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Orochimaru Hiruzen student Sannin",
+    "fallback": "pale snake like ninja facing his old teacher"
+   }
+  },
+  {
+   "text": "Orochimaru was Hiruzen's own student, the one Hiruzen once pointed to as the example Jiraiya should follow.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Orochimaru Jiraiya Tsunade team",
+    "fallback": "three young ninja standing before their teacher"
+   }
+  },
+  {
+   "text": "And he later turned on the village. If Hiruzen couldn't see a student's darkness coming, why would he see Danzo's?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Orochimaru Konoha invasion",
+    "fallback": "pale ninja grinning above a burning village"
+   }
+  },
+  {
+   "text": "Here's why that falls apart: when it counted, this man bound two resurrected Hokage himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi serious battle",
+    "fallback": "old kage in armor ready to fight"
+   }
+  },
+  {
+   "text": "And Danzo's whole pitch to Kakashi was that Hiruzen's order kept the children out of the Nine-Tails fight.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Konoha barrier young ninja Hiruzen order",
+    "fallback": "teens held behind a glowing barrier"
+   }
+  },
+  {
+   "text": "Danzo later used that very order against him, and a soft order doesn't give anyone a weapon like that.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Kakashi Hiruzen order Nine-Tails",
+    "fallback": "bandaged elder whispering accusations to a boy"
+   }
+  },
+  {
+   "text": "Answer one isn't fully dead, but it can't be the reason.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi shaking head",
+    "fallback": "elderly kage shaking his head slowly"
+   }
+  },
+  {
+   "text": "Answer two: no proof. This is the one the show hands you, and it sounds sensible.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura evidence Hokage",
+    "fallback": "empty desk with scattered scrolls"
+   }
+  },
+  {
+   "text": "Itachi reports to Hiruzen in Chapter 400, and Hiruzen learns Danzo gave the order behind his back.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 400",
+   "shot": {
+    "search": "Itachi reports mission Third Hokage",
+    "fallback": "ninja in an animal mask kneeling before a kage"
+   }
+  },
+  {
+   "text": "From that night he knows exactly what Danzo is, and he vows to keep Sasuke safe from him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen shocked Itachi Danzo order",
+    "fallback": "elderly kage stunned in his office"
+   }
+  },
+  {
+   "text": "In the anime, the Third then removes Danzo from the council and orders Root dissolved.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen orders Root disbanded Danzo council",
+    "fallback": "kage pointing at a bandaged elder at a council table"
+   }
+  },
+  {
+   "text": "A Hokage doesn't strip a man from the council and dissolve his private army over a rumour.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo dissolution Root",
+    "fallback": "kage signing an order at a heavy desk"
+   }
+  },
+  {
+   "text": "So answer two is out. He had proof, and he acted on it, at least on paper.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi proof Danzo",
+    "fallback": "kage holding a scroll with a stern face"
+   }
+  },
+  {
+   "text": "Answer three: he lacked the power. That one dies fastest, because he was the Hokage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Third Hokage robes",
+    "fallback": "kage in white hat and robes"
+   }
+  },
+  {
+   "text": "The same wiki says Danzo kept Root running in secret even after the Third ordered it disbanded.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Root secretly continues",
+    "fallback": "masked agents moving through a hidden tunnel"
+   }
+  },
+  {
+   "text": "So Hiruzen's order existed. What's missing is enforcement, and enforcement is a choice, not an accident.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Sarutobi choice Danzo Root",
+    "fallback": "kage looking at a sealed door"
+   }
+  },
+  {
+   "text": "Detail most viewers forget: in Chapter 142, Danzo asked for Itachi's Anbu captain age to be publicly set at 13.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 142",
+   "shot": {
+    "search": "Itachi Anbu captain Danzo request",
+    "fallback": "child prodigy in animal mask beside elder officials"
+   }
+  },
+  {
+   "text": "Itachi was actually 12. Hiruzen accepted the request, which means Danzo's small asks kept being granted.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Anbu captain age Hiruzen",
+    "fallback": "boy in a captain's mask standing before a kage"
+   }
+  },
+  {
+   "text": "On the power question, Chapter 623 lists Hiruzen among the taijutsu experts Hashirama could match, so he was no pushover.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 623",
+   "shot": {
+    "search": "Hiruzen Sarutobi taijutsu Hashirama",
+    "fallback": "old kage in fighting stance facing the first kage"
+   }
+  },
+  {
+   "text": "And in Chapter 166, Orochimaru says only himself or Hiruzen could undo a seal like the one on Naruto.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Orochimaru Hiruzen fuinjutsu Naruto seal",
+    "fallback": "pale ninja examining a seal on a boy's stomach"
+   }
+  },
+  {
+   "text": "Put those together and you get a Hokage with the skill to break a councilor in a single afternoon.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi power Third Hokage",
+    "fallback": "kage radiating chakra over a rooftop"
+   }
+  },
+  {
+   "text": "A man with that skill chose not to use it on one bandaged old classmate. That's a decision, not weakness.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo weighing",
+    "fallback": "kage staring hard at a bandaged man"
+   }
+  },
+  {
+   "text": "Put it together. Hiruzen had the proof, the power and the nerve to walk into Root himself.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Root Danzo power",
+    "fallback": "kage with calm authority in front of a crowd"
+   }
+  },
+  {
+   "text": "That removes can't. The only verb left is wouldn't.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo wouldn't",
+    "fallback": "kage turning away from a bandaged man"
+   }
+  },
+  {
+   "text": "A fan might say Hiruzen simply never knew how Danzo felt about him. The evidence disagrees.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Hiruzen resentment",
+    "fallback": "old man glaring at a kage across a room"
+   }
+  },
+  {
+   "text": "The wiki says Hiruzen ignored Root's actions even when they were aimed at him, and that's not ignorance, it's tolerance.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen tolerates Danzo Root",
+    "fallback": "kage letting a bandaged man leave a room"
+   }
+  },
+  {
+   "text": "So I'll say it plainly: soft, no proof and no power all fail, and what survives is a deliberate decision.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi decision",
+    "fallback": "kage with eyes closed in thought"
+   }
+  },
+  {
+   "text": "The strongest evidence for wouldn't sits inside the night the Uchiha clan fell, and I think most people read it backwards.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uchiha Clan Downfall Hiruzen Danzo",
+    "fallback": "dark compound with empty streets"
+   }
+  },
+  {
+   "text": "Because the person Hiruzen promised to protect that night is the person Danzo was holding in his hand...",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Sasuke young Itachi Uchiha Clan Downfall",
+    "fallback": "small boy standing alone in an empty hallway"
+   }
+  },
+  {
+   "text": "Start with the setup. After the Nine-Tails attack, Konoha's leaders begin to suspect the Uchiha were behind it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Uchiha clan suspicion Nine-Tails Konoha",
+    "fallback": "villagers whispering about a red eyed clan"
+   }
+  },
+  {
+   "text": "The Sharingan can control the beast, so the clan is placed under close watch, according to Tobi in Chapter 399.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 399",
+   "shot": {
+    "search": "Uchiha Sharingan Nine-Tails control",
+    "fallback": "red eyed ninja holding a giant fox under control"
+   }
+  },
+  {
+   "text": "Mistrust breeds resentment, and under Fugaku the Uchiha begin planning a coup.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Fugaku Uchiha coup planning",
+    "fallback": "stern clan head leading a secret meeting"
+   }
+  },
+  {
+   "text": "Itachi is placed inside Anbu, and Chapter 400 says he turns double agent and feeds Konoha information.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Anbu double agent Uchiha",
+    "fallback": "teen ninja in an animal mask watching a clan meeting"
+   }
+  },
+  {
+   "text": "Here's where the three men split. Hiruzen disagrees with how the Uchiha have been treated and wants a peaceful resolution.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Uchiha negotiation peaceful",
+    "fallback": "kage meeting a clan leader at a table"
+   }
+  },
+  {
+   "text": "Danzo does not believe talks will work, and thinks eliminating the Uchiha would cause the least harm to the village.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Uchiha plan",
+    "fallback": "bandaged elder looking at a map of a clan compound"
+   }
+  },
+  {
+   "text": "That's two completely different philosophies, from two old classmates, sitting in the same room.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo Uchiha debate",
+    "fallback": "two old men arguing in a dim room"
+   }
+  },
+  {
+   "text": "Now add Shisui, Itachi's closest friend, who also opposes the coup.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shisui Uchiha Itachi friends",
+    "fallback": "two Uchiha teens sitting on a riverbank"
+   }
+  },
+  {
+   "text": "Shisui went to Hiruzen with the truth, and Hiruzen trusted him enough to let him spy on his own clan for the village.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shisui Hiruzen Hokage spy clan",
+    "fallback": "young ninja speaking quietly with an elderly kage"
+   }
+  },
+  {
+   "text": "That means Hiruzen had a real, working peace plan. It wasn't a hope. It had an agent inside.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Shisui plan",
+    "fallback": "kage studying documents beside a young ninja"
+   }
+  },
+  {
+   "text": "Shisui's plan was to use Kotoamatsukami on the clan's leaders to make them negotiate.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shisui Kotoamatsukami Mangekyo Sharingan",
+    "fallback": "young ninja with a glowing swirling red eye"
+   }
+  },
+  {
+   "text": "But Danzo took Shisui's right eye first, because he thought using Kotoamatsukami on peace talks was a waste.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Danzo steals Shisui right eye",
+    "fallback": "bandaged elder looming over a young ninja at a river"
+   }
+  },
+  {
+   "text": "Chapter 590 says Shisui gave Itachi his remaining eye and begged him to protect the village and the clan's name.",
+   "delivery": "slow",
+   "fx": "none",
+   "card": "CHAPTER 590",
+   "shot": {
+    "search": "Shisui Itachi Naka River left eye",
+    "fallback": "young ninja handing an eye to a younger friend"
+   }
+  },
+  {
+   "text": "Then Shisui drowned himself in the Naka River, and the clan, convinced Itachi had hurt him and staged it, stopped trusting Itachi, which lit the fuse.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Shisui Naka River Itachi clan accused",
+    "fallback": "river at dusk with a lone figure standing on the bank"
+   }
+  },
+  {
+   "text": "Notice who benefits at every step. Danzo gets Shisui's eye, and the peace plan loses its best weapon.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shisui Sharingan eye",
+    "fallback": "bandaged elder with a new glowing eye"
+   }
+  },
+  {
+   "text": "Hiruzen still wants to negotiate after that, according to the Itachi pages, which makes it worse.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen negotiate Uchiha Itachi",
+    "fallback": "kage writing a letter in a dim office"
+   }
+  },
+  {
+   "text": "Because Danzo goes to Itachi and offers him two roads, and the Third isn't in the conversation.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Itachi two choices clan",
+    "fallback": "bandaged elder and teen in animal mask in a dark room"
+   }
+  },
+  {
+   "text": "Back the coup and the whole clan, Sasuke included, goes down in the fighting. Or end the clan first, and Sasuke is spared.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi choice Sasuke Danzo",
+    "fallback": "teen looking at a small boy through a window"
+   }
+  },
+  {
+   "text": "Itachi chooses his brother. That's Chapter 590, with Danzo making the offer, and it's why Sasuke's whole life bends the way it does.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Uchiha Sasuke brother choice",
+    "fallback": "teen ninja carrying a small boy"
+   }
+  },
+  {
+   "text": "Afterwards he reports to Hiruzen, who didn't know the order came from Danzo, and who regrets hearing it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi reports Hiruzen Uchiha night",
+    "fallback": "weary teen in a mask facing a kage"
+   }
+  },
+  {
+   "text": "Chapter 400 is the hinge. The Third promises to protect the cover story, so that no one learns the Uchiha planned a coup.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Itachi cover story Uchiha",
+    "fallback": "kage and teen sharing a grim secret"
+   }
+  },
+  {
+   "text": "He says it protects Konoha from being tarnished by its own part in what happened.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi secret Konoha",
+    "fallback": "kage covering a document with his hand"
+   }
+  },
+  {
+   "text": "And he vows to keep Sasuke safe from Danzo. Keep that sentence in your head.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen vows protect Sasuke Danzo",
+    "fallback": "kage looking over a small boy asleep"
+   }
+  },
+  {
+   "text": "A Hokage doesn't promise to protect a child from his own councilor unless he believes that councilor would hurt him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sasuke protect Danzo threat",
+    "fallback": "elderly kage guarding a child at a doorway"
+   }
+  },
+  {
+   "text": "Rewind a couple of years, to Episode 357. Itachi is added to Kakashi's Team Ro, the squad Tenzo had already joined.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Kakashi Team Ro Tenzo",
+    "fallback": "three masked ninja standing on a rooftop"
+   }
+  },
+  {
+   "text": "They are sent to watch a meeting between Konoha and the Land of Woods, and the Prajna Group tries to betray the Konoha side.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Itachi Land of Woods Prajna Group",
+    "fallback": "masked ninja ambushed during a diplomatic meeting"
+   }
+  },
+  {
+   "text": "They beat them, and Kakashi warns Itachi against his merciless approach, telling him to value his friends.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi warns Itachi mercy friends",
+    "fallback": "silver haired ninja lecturing a teen in an animal mask"
+   }
+  },
+  {
+   "text": "Later, in Episode 358, Itachi asks Kakashi whether a dead friend's request should be honoured, and Kakashi says yes.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "EPISODE 358",
+   "shot": {
+    "search": "Itachi asks Kakashi lost friend request",
+    "fallback": "teen ninja asking a quiet question on a rooftop"
+   }
+  },
+  {
+   "text": "Set that conversation next to Shisui's last request in Chapter 590, and it stops sounding like small talk.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Shisui request honour",
+    "fallback": "teen holding an eye and staring at the river"
+   }
+  },
+  {
+   "text": "I read it as Itachi asking the Hokage's right hand for permission to do what Shisui begged him to do.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Kakashi permission Shisui",
+    "fallback": "teen ninja half turning from an older ninja"
+   }
+  },
+  {
+   "text": "Then Team Ro is sent to the Uchiha compound to calm a brewing rebellion, and finds the whole clan gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Team Ro Uchiha compound empty",
+    "fallback": "masked squad entering a silent dark compound"
+   }
+  },
+  {
+   "text": "Word spreads that Itachi did it and took Shisui's life too, and Kakashi laments that he never reached him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi laments Itachi Uchiha clan",
+    "fallback": "silver haired ninja standing in an empty courtyard"
+   }
+  },
+  {
+   "text": "Notice what the story leaves out. The Hokage's name never appears, which is exactly what the cover story promised.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen cover story Uchiha Konoha",
+    "fallback": "kage reading a report with a blank line"
+   }
+  },
+  {
+   "text": "The cover story is doing its job, and it needs the one person who knows everything to keep quiet.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura silence cover story",
+    "fallback": "bandaged elder with a finger on his lips"
+   }
+  },
+  {
+   "text": "Itachi doesn't trust that promise either. He sends a crow clone disguised as a Root member to threaten Danzo.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi crow clone Root threat Danzo",
+    "fallback": "masked agent whispering a warning in an alley"
+   }
+  },
+  {
+   "text": "If Sasuke is harmed, Itachi will hand Konoha's secrets to its enemies, because he knows Danzo can't be trusted to keep promises.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Danzo threat Konoha secrets",
+    "fallback": "teen ninja glaring at a bandaged elder"
+   }
+  },
+  {
+   "text": "It hits harder here: Itachi had to build a safety net the Hokage couldn't.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi crow Naruto Sasuke",
+    "fallback": "black crow on a rooftop at night"
+   }
+  },
+  {
+   "text": "The anime punishment from earlier still stands: Root dissolved, Danzo off the council.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen punishes Danzo Root dissolution",
+    "fallback": "kage pointing to a door while an elder bows"
+   }
+  },
+  {
+   "text": "So he does punish him. But Root keeps running, and Danzo keeps breathing, and Hiruzen lets that stand.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo continues Root after dissolution",
+    "fallback": "masked agents training in a hidden basement"
+   }
+  },
+  {
+   "text": "Here is what I think nobody connects. The cover story makes Hiruzen a co-owner of the secret.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Sarutobi secret keeper",
+    "fallback": "kage holding a sealed scroll in the dark"
+   }
+  },
+  {
+   "text": "If he exposes Danzo in public, he has to tell the village why, and the Uchiha coup becomes everyone's problem.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo exposure Konoha village",
+    "fallback": "crowd gathering below a kage tower"
+   }
+  },
+  {
+   "text": "So the Third can pull Danzo off the council. He can't pull out what Danzo knows.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura knows secrets",
+    "fallback": "bandaged elder smiling in shadow"
+   }
+  },
+  {
+   "text": "He promises Sasuke's safety, then leaves the very man Sasuke needs protection from alive. That's not a slip. That's a trade.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Sasuke Danzo trade",
+    "fallback": "kage standing between a boy and a shadow"
+   }
+  },
+  {
+   "text": "I think the trade started long before the Uchiha, though.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi younger Hokage",
+    "fallback": "middle aged kage standing on the tower"
+   }
+  },
+  {
+   "text": "So what did Hiruzen get in return, and when did he decide what the price was?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo price",
+    "fallback": "kage looking down at a long hallway"
+   }
+  },
+  {
+   "text": "The answer is in how he treated Kakashi, the one man he saved from the same fate Itachi suffered...",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Hatake Anbu Hiruzen",
+    "fallback": "silver haired ninja in an animal mask"
+   }
+  },
+  {
+   "text": "Here it is, flat. I think Hiruzen let Danzo live because he needed a man willing to do what Hiruzen refused to do himself.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo Shimura",
+    "fallback": "old kage and bandaged elder standing apart"
+   }
+  },
+  {
+   "text": "Not love, not weakness, not fear. Use.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Root use",
+    "fallback": "bandaged elder standing among masked agents"
+   }
+  },
+  {
+   "text": "Start with the rule I told you to hold: in the anime, Hiruzen decides kind-hearted people don't belong in Anbu.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Kakashi Anbu kind heart",
+    "fallback": "kage talking to a masked ninja about leaving"
+   }
+  },
+  {
+   "text": "The anime shows the same instinct years earlier, when Hiruzen asks Minato to help Kakashi through the bitterness after his father's death.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "EPISODE 385",
+   "shot": {
+    "search": "Hiruzen Minato Kakashi father bitterness",
+    "fallback": "kage speaking with a blond jonin about a boy"
+   }
+  },
+  {
+   "text": "Then he nudges Minato again, when Kakashi is deep in Anbu darkness after Obito and Rin, to put him on Kushina's guard.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Minato Kakashi Kushina pregnancy guard",
+    "fallback": "silver haired ninja guarding a pregnant redhead"
+   }
+  },
+  {
+   "text": "That's the consistent Hiruzen. He catches children before the dark job finishes them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi catches Kakashi darkness",
+    "fallback": "old kage steadying a young ninja"
+   }
+  },
+  {
+   "text": "So Danzo can't be the product of a careless Hokage. He is the cost of a careful one.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi careful Hokage",
+    "fallback": "kage studying a long scroll at night"
+   }
+  },
+  {
+   "text": "A careful Hokage who protects children from the dark, and stores the dark in a bandaged old man in the basement.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura basement Root dark",
+    "fallback": "bandaged elder seated in an underground chamber"
+   }
+  },
+  {
+   "text": "After Itachi, he pulls Kakashi out of Anbu entirely, thanks him for his service and relieves him of duty.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "EPISODE 359",
+   "shot": {
+    "search": "Hiruzen relieves Kakashi Anbu Itachi",
+    "fallback": "masked ninja removing his mask before a kage"
+   }
+  },
+  {
+   "text": "The goal, according to the Itachi page, was to restore Kakashi's light and eliminate his darkness by giving him a genin team.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi genin team Hiruzen restore light",
+    "fallback": "silver haired teacher standing before young students"
+   }
+  },
+  {
+   "text": "Read that as a principle. Hiruzen believed that dark work belongs to people who can afford to be harmed by it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi principle darkness",
+    "fallback": "kage reflecting by a window at dusk"
+   }
+  },
+  {
+   "text": "But someone still has to do the dark work. Someone has to be the person the Hokage's hands never touch.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura dark work Konoha",
+    "fallback": "bandaged elder in a shadowy corridor"
+   }
+  },
+  {
+   "text": "That someone was Danzo, and I think he never minded the stain.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Root leader",
+    "fallback": "bandaged elder behind rows of masked agents"
+   }
+  },
+  {
+   "text": "Evidence two is how much Hiruzen overlooked. Root's foreign operations, its taken children, its actions against Konoha's own people.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root operations abducted children foreign",
+    "fallback": "masked agents moving silently through a forest"
+   }
+  },
+  {
+   "text": "A leader who overlooks all of that is not missing information. He is accepting a service.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi accepting Danzo service",
+    "fallback": "kage signing paperwork without reading"
+   }
+  },
+  {
+   "text": "Evidence three is the pattern in Itachi's story: Danzo proposes, Hiruzen allows, and Hiruzen's name stays clean.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Itachi Anbu Hiruzen accepted",
+    "fallback": "kage nodding as an elder hands over a document"
+   }
+  },
+  {
+   "text": "Danzo asks for Itachi's age to be adjusted. Hiruzen accepts. Danzo gets Shisui's eye. Danzo hands Itachi a choice.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Itachi Shisui Hiruzen timeline",
+    "fallback": "series of dark council meetings"
+   }
+  },
+  {
+   "text": "At every step the ugly part is Danzo's, and the approval is Hiruzen's quiet silence.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi silent approval",
+    "fallback": "kage looking down at his folded hands"
+   }
+  },
+  {
+   "text": "Deniability is the product Danzo sold. If Root succeeds, Konoha benefits. If it fails, the Hokage never signed it.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo deniability Root",
+    "fallback": "kage washing his hands in a basin"
+   }
+  },
+  {
+   "text": "Now the counterargument, because it's a good one. Maybe Hiruzen just loved his old friend.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo friendship",
+    "fallback": "two old men sharing a quiet moment"
+   }
+  },
+  {
+   "text": "Love can explain a year of patience. It doesn't explain decades of ignoring abducted children and a plot against your own life.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen ignoring Root crimes",
+    "fallback": "kage looking away from a dark hallway"
+   }
+  },
+  {
+   "text": "Second counterargument: maybe he feared Danzo. But the Third walks into Root's headquarters in Episode 356.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen walks into Root Episode 356",
+    "fallback": "unafraid kage entering a masked crowd"
+   }
+  },
+  {
+   "text": "Men who fear someone don't walk into his house and bargain for one prisoner.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo Root bargaining",
+    "fallback": "kage speaking calmly amid masked agents"
+   }
+  },
+  {
+   "text": "A third try: maybe he trusted Danzo to be loyal in the end. The Kakashi plot shows exactly how wrong that would be.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo assassination plot Hiruzen Kakashi",
+    "fallback": "masked assassins in a dim alley"
+   }
+  },
+  {
+   "text": "I can't pin a regret scene to a chapter. One character wiki says a reanimated Hiruzen regrets leaving Danzo to carry the darkness alone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi reanimated regret",
+    "fallback": "elderly kage looking back at an old village"
+   }
+  },
+  {
+   "text": "I can't verify where that comes from, so I won't build on it, but notice the wording: carry the darkness alone.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Edo Tensei",
+    "fallback": "resurrected kage with cracked skin looking down"
+   }
+  },
+  {
+   "text": "That is exactly the arrangement I'm describing, whether Hiruzen could admit it or not.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo darkness",
+    "fallback": "kage standing in light with a shadow behind"
+   }
+  },
+  {
+   "text": "The Tobirama classroom made Hiruzen the Hokage and Danzo the shadow, and I think Hiruzen decided to keep it that way on purpose.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo shadow Hokage",
+    "fallback": "kage with a bandaged shadow behind his chair"
+   }
+  },
+  {
+   "text": "One of them would hold the title, and the other would hold what the title couldn't hold.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Hiruzen Konoha two roles",
+    "fallback": "two silhouettes in front of a village at dusk"
+   }
+  },
+  {
+   "text": "That deal looks clever until you ask who really holds the leash.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Root leash",
+    "fallback": "bandaged elder smiling with a hidden hand"
+   }
+  },
+  {
+   "text": "Because Root grew its own cursed seals, its own assassins and its own plans against the Hokage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root cursed seal assassins plot Hokage",
+    "fallback": "masked agents emerging from a hidden door"
+   }
+  },
+  {
+   "text": "Episode 356 shows Danzo reaching for a cursed seal to punish a Root agent who walked away from a mission, and only Kakashi's break-in stops it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo cursed seal Tenzo Episode 356",
+    "fallback": "elder raising a hand over a restrained agent"
+   }
+  },
+  {
+   "text": "Think about what that means. Hiruzen's own deniable tool had stopped needing his permission to do anything.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Danzo Shimura independent Root",
+    "fallback": "bandaged elder surrounded by loyal masked agents"
+   }
+  },
+  {
+   "text": "A knife in the drawer is fine until you realise the knife has opinions about who should be Hokage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Hokage ambition",
+    "fallback": "bandaged elder looking toward the kage chair"
+   }
+  },
+  {
+   "text": "And the deal had another cost that's easy to overlook: it asked other people to carry what Hiruzen wouldn't.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Uchiha carries burden Konoha",
+    "fallback": "lonely teen walking away from a village"
+   }
+  },
+  {
+   "text": "Itachi carried it. Shisui carried it. Kinoe carried it. Their lives bent to keep a Hokage's hands clean.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Shisui Tenzo burden",
+    "fallback": "three silhouettes standing apart on a cliff"
+   }
+  },
+  {
+   "text": "That is the reason I stand behind: Hiruzen kept Danzo because he needed someone to be the knife so he never had to be.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo reason",
+    "fallback": "kage at a window with a bandaged shadow behind"
+   }
+  },
+  {
+   "text": "But a deal like that leaves two accounts open, and one of them is still hunting him: Orochimaru...",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Orochimaru Hiruzen invasion Konoha",
+    "fallback": "pale ninja smiling above a village under siege"
+   }
+  },
+  {
+   "text": "The invasion of Konoha is Orochimaru's attempt to finish his old teacher, and it's the last big fight Hiruzen takes.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Orochimaru invasion Konoha Hiruzen fight",
+    "fallback": "pale ninja and an old kage squaring off on a rooftop"
+   }
+  },
+  {
+   "text": "Orochimaru wants Hiruzen to feel what it is like to fight a teacher, so he reanimates Hashirama and Tobirama.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Orochimaru Edo Tensei Hashirama Tobirama",
+    "fallback": "two ghostly leaders rising from coffins"
+   }
+  },
+  {
+   "text": "Hashirama sees how old Hiruzen has become and understands how long he's been gone.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Hashirama sees old Hiruzen",
+    "fallback": "resurrected founder looking at an aged student"
+   }
+  },
+  {
+   "text": "Tobirama realises what they are, and that they'll have no choice but to fight him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Tobirama Edo Tensei realises",
+    "fallback": "white haired resurrected leader looking at his own hand"
+   }
+  },
+  {
+   "text": "Their coordination gives Hiruzen almost no openings, and his few hits are simply regenerated.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Hashirama Tobirama fight regeneration",
+    "fallback": "old kage struggling against two powerful opponents"
+   }
+  },
+  {
+   "text": "So he does the only thing left. He creates two shadow clones and uses a sealing technique to bind both Hokage.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Hiruzen shadow clones sealing Hashirama Tobirama",
+    "fallback": "old kage clones restraining two ghosts"
+   }
+  },
+  {
+   "text": "With their personalities restored, Hashirama and Tobirama apologise for being such a trouble to him.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Hashirama Tobirama apologise Hiruzen",
+    "fallback": "two ghosts bowing their heads to an old kage"
+   }
+  },
+  {
+   "text": "I love that detail. His last act is cleaning up a mess his own student made.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Orochimaru last fight",
+    "fallback": "old kage looking at a pale snake like ninja"
+   }
+  },
+  {
+   "text": "It's the same pattern as Danzo, only this time the problem has Orochimaru's face.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Orochimaru Hiruzen student teacher",
+    "fallback": "teacher and pupil facing off"
+   }
+  },
+  {
+   "text": "Jiraiya arrives after it's over and finds the Third gone and Orochimaru fled.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya arrives too late Third Hokage",
+    "fallback": "white haired man standing in a ruined arena"
+   }
+  },
+  {
+   "text": "He skips the funeral and goes to the Third Training Ground to cry over memories instead.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya Third Training Ground cries",
+    "fallback": "large man alone at a wooden training post"
+   }
+  },
+  {
+   "text": "Team 7 attends the funeral a few days later, according to the wiki, as Konoha buries its Hokage.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Third Hokage funeral Team 7",
+    "fallback": "villagers in black at a funeral in the rain"
+   }
+  },
+  {
+   "text": "I won't invent a Danzo scene on that rooftop, because the packs I'm reading don't put him there.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura funeral Hokage",
+    "fallback": "bandaged elder standing apart from mourners"
+   }
+  },
+  {
+   "text": "What I can say is where Danzo stands when the Third is gone: with nobody left who can restrain him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura alone council",
+    "fallback": "bandaged elder at the head of a council table"
+   }
+  },
+  {
+   "text": "Hiruzen's death closes one account and leaves another wide open.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi Hokage portrait",
+    "fallback": "kage portrait with a burning candle"
+   }
+  },
+  {
+   "text": "When Jiraiya later lists his failures, one of them is not protecting the Third Hokage, and you can hear how his students felt.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jiraiya regrets failed protect Third Hokage",
+    "fallback": "white haired man bowing his head over a grave"
+   }
+  },
+  {
+   "text": "Hiruzen was loved. That's what makes the Danzo arrangement so strange: Jiraiya, Minato and Naruto all trusted the man who kept that basement.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Jiraiya Minato Naruto loved",
+    "fallback": "kage surrounded by smiling students"
+   }
+  },
+  {
+   "text": "Both things can be true, and I think that's the whole point of him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi complex Hokage",
+    "fallback": "kage half in light, half in shadow"
+   }
+  },
+  {
+   "text": "He's the Hokage who deserves the funeral and the Hokage who owes the apology.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen funeral Konoha mourning",
+    "fallback": "villagers laying flowers before a portrait"
+   }
+  },
+  {
+   "text": "The man who sealed Orochimaru's arms never got to seal Danzo's ambition.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Orochimaru arms sealed",
+    "fallback": "old kage holding a glowing seal over an opponent's arms"
+   }
+  },
+  {
+   "text": "That ambition has been waiting since Tobirama's classroom, and the chair is about to open up again...",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Hokage chair Konoha empty",
+    "fallback": "empty kage chair in a quiet office"
+   }
+  },
+  {
+   "text": "After Pain's attack, Konoha needs a new Hokage, and the search results say Danzo is named a candidate for Sixth.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Sixth Hokage candidate Daimyo council",
+    "fallback": "bandaged elder in front of a nobleman and councillors"
+   }
+  },
+  {
+   "text": "The manga is clear that Kakashi is the one who actually becomes the Sixth Hokage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Sixth Hokage",
+    "fallback": "silver haired man in kage hat and robes"
+   }
+  },
+  {
+   "text": "But Danzo is in the room, he's in the running, and the chair he wanted all his life is finally in reach.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura Five Kage Summit",
+    "fallback": "bandaged elder arriving at a summit hall"
+   }
+  },
+  {
+   "text": "At the Five Kage Summit, he uses the Sharingan from Shisui's right eye to control Mifune, the Land of Iron's general.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Mifune Shisui eye Kage Summit",
+    "fallback": "bandaged elder using a red eye on a samurai general"
+   }
+  },
+  {
+   "text": "Ao spots it with his Byakugan and sees Danzo's secret use of Shisui's eye.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Ao Byakugan Danzo Mifune",
+    "fallback": "veined eyed ninja noticing something strange"
+   }
+  },
+  {
+   "text": "Think about the irony. Shisui's eye was meant to stop a coup, and Danzo uses it to take command of a world army.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Shisui Kotoamatsukami Danzo irony",
+    "fallback": "red eye glowing in a dark council hall"
+   }
+  },
+  {
+   "text": "And the eye was already in his socket before Hiruzen's last fight, so Hiruzen's fall didn't give Danzo the eye. It gave him room.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shisui eye before Hiruzen",
+    "fallback": "bandaged elder touching the edge of a bandage"
+   }
+  },
+  {
+   "text": "Look at his arm, too: it carries ten Sharingan that power Izanagi, a technique that cancels an injury at the cost of an eye.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Izanagi arm Sharingan",
+    "fallback": "bandaged arm unwrapped to reveal glowing eyes"
+   }
+  },
+  {
+   "text": "Those are Uchiha eyes, collected over years, by a man who wanted the Uchiha gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Sharingan collection Uchiha",
+    "fallback": "arm covered in glowing red eyes"
+   }
+  },
+  {
+   "text": "That's the man Hiruzen allowed to run Root, and the man he promised Sasuke would be safe from.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Sasuke Uchiha Hiruzen promise",
+    "fallback": "elder glaring at a dark haired young swordsman"
+   }
+  },
+  {
+   "text": "When Danzo meets Sasuke, he tries to seal Sasuke and Tobi into his own body, according to the search results.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Sasuke Tobi seal fight",
+    "fallback": "elder using a seal on a swordsman and a masked man"
+   }
+  },
+  {
+   "text": "And he crushes Shisui's eye before Tobi can use it, even at the end.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo crushes Shisui eye Tobi",
+    "fallback": "hand closing around a glowing eye"
+   }
+  },
+  {
+   "text": "Sources disagree on the exact finish, but they agree on one thing: Sasuke is the one who ends Danzo.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sasuke ends Danzo Shimura",
+    "fallback": "young swordsman standing over a fallen elder"
+   }
+  },
+  {
+   "text": "Look at what Danzo does with every tool Hiruzen let him keep. He uses them to rule, not to protect.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura rules not protects",
+    "fallback": "bandaged elder on a throne of shadows"
+   }
+  },
+  {
+   "text": "Root was supposed to be a shadow behind the village. At the summit it becomes a hand around the world's throat.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Five Kage Summit Root hand",
+    "fallback": "bandaged elder commanding a hall of leaders"
+   }
+  },
+  {
+   "text": "That's a straight line from the basement Hiruzen ignored to the summit hall Danzo tried to seize.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Root basement summit",
+    "fallback": "dark staircase rising into a bright hall"
+   }
+  },
+  {
+   "text": "I don't blame Hiruzen for Danzo's ambition. I blame him for leaving Danzo with the equipment to act on it.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo equipment ambition",
+    "fallback": "kage handing a key to a bandaged elder"
+   }
+  },
+  {
+   "text": "A tool you can't switch off eventually switches you off.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Shimura tool switch",
+    "fallback": "dark machine with a broken lever"
+   }
+  },
+  {
+   "text": "That's why Shisui's eye matters: it could have saved the Uchiha, and it ended up with the man who wanted them gone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shisui eye Danzo Uchiha saved",
+    "fallback": "single glowing red eye in a bandaged socket"
+   }
+  },
+  {
+   "text": "The Naruto wiki says no public funeral was held for Danzo.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo no funeral Konoha Sasuke",
+    "fallback": "empty memorial ground in the rain"
+   }
+  },
+  {
+   "text": "Compare that with the Third Hokage's funeral. One man gets a village in black. The other gets silence.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen funeral Danzo no funeral",
+    "fallback": "split image of a crowded funeral and an empty one"
+   }
+  },
+  {
+   "text": "That silence is the answer to something I've been circling. The village used Danzo, and never claimed him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Konoha village Danzo Root legacy",
+    "fallback": "village streets with no memorial for a shadow"
+   }
+  },
+  {
+   "text": "Hiruzen taught Konoha to enjoy the results of Root and ignore the way they were produced.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi legacy Root",
+    "fallback": "kage looking over a calm village"
+   }
+  },
+  {
+   "text": "One more point on his legacy: Kakashi, the man Hiruzen pulled out of the dark, becomes Hokage.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Hokage Hiruzen legacy",
+    "fallback": "silver haired kage standing on the tower"
+   }
+  },
+  {
+   "text": "The man Danzo recruited and the man Hiruzen rescued are the same man, and the Third's way is what wins.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Hiruzen Danzo choice",
+    "fallback": "ninja stepping out of shadow into light"
+   }
+  },
+  {
+   "text": "That should mean Hiruzen was right, which is why the next question matters so much.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi right wrong",
+    "fallback": "kage standing at a crossroads"
+   }
+  },
+  {
+   "text": "Because Kakashi wasn't saved by Danzo's existence. He was saved by someone refusing to feed him to it.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Danzo refused Root",
+    "fallback": "silver haired ninja walking away from a dark door"
+   }
+  },
+  {
+   "text": "So I'll put the whole decision on the scale: was keeping Danzo worth what it cost?",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi decision scale",
+    "fallback": "balance scale in a dim office"
+   }
+  },
+  {
+   "text": "Make the case for Hiruzen as fairly as I can. Konoha avoided another coup, and the village was still standing the next morning.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Konoha village morning after Uchiha",
+    "fallback": "village at sunrise after a long night"
+   }
+  },
+  {
+   "text": "Root's secret work, whatever it cost, is the part I can't measure. The case for Hiruzen is that it kept danger off his gentler rule.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root Danzo protects Konoha",
+    "fallback": "masked agents watching the village borders"
+   }
+  },
+  {
+   "text": "That's the strongest version of the deal: someone dark so that everyone else could stay light.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo balance Konoha",
+    "fallback": "scale balancing light and shadow"
+   }
+  },
+  {
+   "text": "Now the ledger on the other side of the page. Shisui's eye taken, Shisui gone, and Itachi left alone with the rest.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Shisui Itachi ledger",
+    "fallback": "two Uchiha silhouettes in a dark compound"
+   }
+  },
+  {
+   "text": "Sasuke's life pointed at revenge, and then, in Chapter 401, at the village itself once he learned the truth.",
+   "delivery": "normal",
+   "fx": "none",
+   "card": "CHAPTER 401",
+   "shot": {
+    "search": "Sasuke learns truth Itachi Konoha",
+    "fallback": "young swordsman staring at a village with fury"
+   }
+  },
+  {
+   "text": "Kakashi dragged into Root to spy on his own Hokage, and a Root agent called Kinoe nearly marked with a cursed seal.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Kinoe Danzo Root cost",
+    "fallback": "masked ninja and agent in a dark chamber"
+   }
+  },
+  {
+   "text": "Children taken, foreign operations ignored, and a plot on the Hokage's own life that earned no real response.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Root children abducted Danzo",
+    "fallback": "silent masked children in rows"
+   }
+  },
+  {
+   "text": "That ledger isn't the cost of a Danzo gone wrong. It's the invoice for a Danzo who did exactly what the arrangement required.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Danzo Shimura invoice cost",
+    "fallback": "ledger book with dark ink in an old office"
+   }
+  },
+  {
+   "text": "Mercy would have meant removing Danzo on the day Hiruzen learned the Uchiha order came from him.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen removes Danzo council mercy",
+    "fallback": "kage dismissing a bandaged man from a hall"
+   }
+  },
+  {
+   "text": "Cruelty would have meant using Danzo and owning it publicly. Hiruzen did neither; he used him and looked away.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen uses Danzo looks away",
+    "fallback": "kage turning his back on a dark corridor"
+   }
+  },
+  {
+   "text": "I think the looking away is the real sin, because it left every cost on someone else's account.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Sarutobi guilt cost others",
+    "fallback": "old kage staring at his own hands"
+   }
+  },
+  {
+   "text": "So here's my verdict. The trade fails because Hiruzen couldn't control the person he traded with.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Danzo verdict",
+    "fallback": "kage looking defeated at his desk"
+   }
+  },
+  {
+   "text": "A deniable tool is only safe if you can switch it off. Hiruzen kept bargaining over Root and never switched it off.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hiruzen Root switch off",
+    "fallback": "hand hovering over a switch in the dark"
+   }
+  },
+  {
+   "text": "Compare that with Itachi, who also did dark work, and nobody ever offered him a clean hand.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Uchiha dark work alone",
+    "fallback": "teen in cloak alone in the rain"
+   }
+  },
+  {
+   "text": "Chapter 549 shows Itachi asking everyone who learned the truth to keep it quiet so the Uchiha could keep some honour.",
+   "delivery": "slow",
+   "fx": "none",
+   "card": "CHAPTER 549",
+   "shot": {
+    "search": "Itachi asks truth secret Naruto war",
+    "fallback": "reanimated ninja speaking to his younger brother"
+   }
+  },
+  {
+   "text": "Itachi carried the dark job and asked for nothing. Hiruzen handed the same job to someone who wanted everything.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Itachi Danzo contrast",
+    "fallback": "humble teen and ambitious elder in opposite light"
+   }
+  },
+  {
+   "text": "That's the difference between a sacrifice and an outsourcing, and it's why Danzo became a villain.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Danzo Itachi outsourcing duty contrast",
+    "fallback": "two figures walking opposite directions"
+   }
+  },
+  {
+   "text": "So what does this predict about Naruto's era? Naruto achieves the Hokage dream, and the dark job doesn't vanish.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Naruto Uzumaki Seventh Hokage",
+    "fallback": "blond man in kage robes overlooking the village"
+   }
+  },
+  {
+   "text": "The question is whether Naruto keeps a second hand, a Danzo of his own, or does something Hiruzen wouldn't.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Naruto Hokage Konoha shadow",
+    "fallback": "blond kage looking at a dark corner"
+   }
+  },
+  {
+   "text": "I don't know the answer, and I'd love to hear yours, but this is the question Hiruzen's choice leaves behind.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Naruto Uzumaki Hokage Office thinking",
+    "fallback": "kage with a thoughtful expression"
+   }
+  },
+  {
+   "text": "The Third's way does win in the end, through Kakashi and Naruto, but only after Itachi, Shisui and Sasuke paid for it first.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Kakashi Naruto Hokage Itachi Shisui Sasuke paid",
+    "fallback": "three young ninja standing in the rain beneath a village"
+   }
+  },
+  {
+   "text": "A good legacy doesn't cancel an unpaid bill, and Konoha's bill with the Uchiha was never really settled.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Konoha Uchiha legacy bill unpaid",
+    "fallback": "village gates at dusk with a lone Uchiha crest"
+   }
+  },
+  {
+   "text": "Here's the line I keep returning to. The Third never failed to stop Danzo. He hired him, and then couldn't fire him.",
+   "delivery": "reveal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Hiruzen Sarutobi Danzo Shimura final",
+    "fallback": "kage and bandaged elder in a dim room"
+   }
+  },
+  {
+   "text": "And if you want another Hokage who trusted the wrong man to the very end, that's the Hashirama and Madara story.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Hashirama Madara valley of the end",
+    "fallback": "two warriors facing each other across a waterfall"
+   }
+  }
+ ],
+ "chapters": [
+  {
+   "line": 0,
+   "title": "The Soft Hokage Lie"
+  },
+  {
+   "line": 6,
+   "title": "Two Students, One Teacher"
+  },
+  {
+   "line": 30,
+   "title": "The Job Nobody Wanted"
+  },
+  {
+   "line": 57,
+   "title": "The Night Orders Split"
+  },
+  {
+   "line": 94,
+   "title": "Three Easy Answers Fail"
+  },
+  {
+   "line": 125,
+   "title": "The Uchiha Debt"
+  },
+  {
+   "line": 171,
+   "title": "The One Reason"
+  },
+  {
+   "line": 209,
+   "title": "The Last Fight Hiruzen Took"
+  },
+  {
+   "line": 230,
+   "title": "The Shadow Keeps Working"
+  },
+  {
+   "line": 258,
+   "title": "What The Ledger Says"
+  }
+ ],
+ "thumbnail": {
+  "text": "WHY SPARED?",
+  "highlight": "SPARED",
+  "search": "Danzo Shimura angry",
+  "search2": "Hiruzen Sarutobi serious",
+  "device": "split"
+ },
+ "sources": [
+  "https://naruto.fandom.com/wiki/Danz%C5%8D_Shimura",
+  "https://naruto.fandom.com/wiki/Hiruzen_Sarutobi",
+  "https://naruto.fandom.com/wiki/Uchiha_Clan_Downfall",
+  "https://naruto.fandom.com/wiki/Itachi_Uchiha",
+  "https://tvtropes.org/pmwiki/pmwiki.php/Characters/NarutoDanzoShimura",
+  "https://naruto.neoseeker.com/wiki/Danz%C5%8D_Shimura"
+ ],
+ "self_check": {
+  "hook": "Line 1 names Danzo and Hiruzen and asks why the Third Hokage let him live; line 2 gives the common answer and rejects it.",
+  "loop": "Ends on the payoff (hired him, couldn't fire him) plus a pointer to the Hashirama and Madara story.",
+  "facts_verified": true
+ }
+}

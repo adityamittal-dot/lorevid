@@ -1,0 +1,156 @@
+{
+ "id": "2026-12-10-Ls1",
+ "format": "short",
+ "series": "jjk",
+ "wiki": "jujutsu-kaisen.fandom.com",
+ "topic": "Gojo's 0.2 second Unlimited Void on platform B5F is the most underrated feat of the Shibuya Incident",
+ "title": "Gojo's 0.2 Second Domain Was His Best Trick",
+ "description": "Gojo's Unlimited Void lasted just 0.2 seconds in Shibuya, and it changed the whole fight. Here is why that tiny window is such a flex. Do you rate it above his later domain fights?",
+ "hashtags": [
+  "#gojo",
+  "#jujutsukaisen",
+  "#anime"
+ ],
+ "tags": [
+  "jujutsu kaisen gojo domain",
+  "gojo unlimited void",
+  "gojo shibuya incident",
+  "jjk theory",
+  "gojo 0.2 seconds",
+  "jujutsu kaisen chapter 89",
+  "gojo explained",
+  "jjk shibuya"
+ ],
+ "hook_text": "0.2 SECONDS",
+ "music_mood": "hype",
+ "comment": "Is Gojo's 0.2 second Unlimited Void his best feat in Shibuya, or is it overrated next to his fight with Sukuna?",
+ "related_long": "2026-12-10-L",
+ "end_text": "WHAT FROZE GOJO INSTEAD?",
+ "pages": [
+  "Satoru Gojo",
+  "Unlimited Void",
+  "Shibuya Incident Arc"
+ ],
+ "lines": [
+  {
+   "text": "Gojo's Domain Expansion in Shibuya lasted just 0.2 seconds.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Gojo Unlimited Void Shibuya",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "I think it's the most underrated flex in the whole series.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Unlimited Void domain",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "Platform B5F is packed with curses, and a train has just unloaded a crowd of transfigured humans.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Mahito transfigured humans train Shibuya",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "Jogo's whole plan is that Gojo won't cut civilians down with his own hands.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Jogo Gojo feint civilians",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "So they push the hostages into the middle of the fight.",
+   "delivery": "aside",
+   "fx": "none",
+   "shot": {
+    "search": "Shibuya hostages train platform",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "Gojo answers in a blink. Unlimited Void freezes every being on that platform. Chapter 89.",
+   "delivery": "reveal",
+   "fx": "flash",
+   "shot": {
+    "search": "Gojo Unlimited Void freezes platform",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "His cursed energy control lets him expand a domain for a split second, almost like a camera flash.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo domain expansion split second",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "Then he needs only 299 seconds to wipe out every transfigured human on the platform.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Gojo destroys transfigured humans Shibuya",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "Some fans say a domain that short barely matters. But it didn't need to last. It only needed to freeze them.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo Unlimited Void Jogo Choso",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "A feint built on hesitation just failed, completely.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Jogo feint fails Gojo",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "So what could possibly stop a man who wins like that?",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Gojo smirk Shibuya station",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  },
+  {
+   "text": "Because the number that matters here is this one.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Gojo Unlimited Void 0.2 seconds",
+    "fallback": "white haired sorcerer in a blindfold unleashing a starry void on a train station platform"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://jujutsu-kaisen.fandom.com/wiki/Shibuya_Incident_Arc",
+  "https://jujutsu-kaisen.fandom.com/wiki/Satoru_Gojo",
+  "https://jujutsu-kaisen.fandom.com/wiki/Chapter_90"
+ ],
+ "self_check": {
+  "hook": "specific detail claim in line 1",
+  "loop": "last line leads into line 1",
+  "facts_verified": true
+ }
+}
