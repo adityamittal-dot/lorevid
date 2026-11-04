@@ -1,0 +1,150 @@
+{
+ "id": "2026-12-07-Ls2",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Side point: the chapter 74 to 76 knife scene, where Nami hurt only herself to protect Usopp",
+ "title": "Nami's Glove Hides Arlong Park's Biggest Twist",
+ "description": "Nami's glove in One Piece Arlong Park hides a twist most fans forget: chapter 74 looks cruel, chapter 76 shows who she really hurt. Is her secrecy her biggest strength or her biggest flaw?",
+ "hashtags": [
+  "#nami",
+  "#onepiece",
+  "#usopp",
+  "#anime"
+ ],
+ "tags": [
+  "nami one piece",
+  "nami past",
+  "arlong park",
+  "one piece theory",
+  "one piece 1197",
+  "bell-mere",
+  "nami usopp",
+  "one piece chapter 74",
+  "one piece chapter 76",
+  "nami glove"
+ ],
+ "hook_text": "NAMI'S SECRET GLOVE",
+ "music_mood": "suspense",
+ "comment": "Is Nami's secrecy her biggest strength or her biggest flaw?",
+ "related_long": "2026-12-07-L",
+ "end_text": "NAMI'S SECRET MIRROR IN 1197",
+ "pages": [
+  "Nami",
+  "Usopp",
+  "Arlong Park Arc"
+ ],
+ "lines": [
+  {
+   "text": "Nami's glove in Arlong Park hides the bravest thing she ever does.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nami glove hand Arlong Park",
+    "fallback": "orange haired navigator pulling on a glove"
+   }
+  },
+  {
+   "text": "In chapter 74, she corners Usopp with a knife in front of the whole fishman crew.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami Usopp knife Arlong Park",
+    "fallback": "navigator holding a knife before a sniper"
+   }
+  },
+  {
+   "text": "So she kicks Usopp into the sea, and the chapter ends there.",
+   "delivery": "normal",
+   "fx": "shake",
+   "shot": {
+    "search": "Nami kicks Usopp sea",
+    "fallback": "sniper falling into the ocean"
+   }
+  },
+  {
+   "text": "Two chapters later, chapter 76 shows what really happened. Usopp only fainted.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Usopp fainted Nami chapter 76",
+    "fallback": "sniper lying on the shore"
+   }
+  },
+  {
+   "text": "The knife went into Nami's own hand instead.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nami hand knife herself",
+    "fallback": "navigator gripping her hand"
+   }
+  },
+  {
+   "text": "Here's the part most people forget. She wears that glove until the truth comes out.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami glove Arlong Park Arc",
+    "fallback": "navigator wearing a glove"
+   }
+  },
+  {
+   "text": "Johnny sees the scene from far away and believes every word, so the lie works on everyone.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Johnny Arlong Park Nami Usopp",
+    "fallback": "bounty hunter watching in horror"
+   }
+  },
+  {
+   "text": "She chose herself as the price so Usopp wouldn't have to pay it.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nami protects Usopp",
+    "fallback": "navigator stepping in front of a sniper"
+   }
+  },
+  {
+   "text": "That's the habit I can't unsee. Nami takes the hit privately and the crew finds out later.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami Straw Hats Arlong Park hit",
+    "fallback": "navigator smiling through a bandage"
+   }
+  },
+  {
+   "text": "Hold onto that habit, because one Straw Hat just got the opposite lesson.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Sanji Conqueror's Haki chapter 1197",
+    "fallback": "cook with a black aura"
+   }
+  },
+  {
+   "text": "Which is why that glove hides the bravest thing she ever does.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Nami glove Usopp Arlong Park",
+    "fallback": "navigator's gloved hand"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Arlong_Park_Arc",
+  "https://onepiece.fandom.com/wiki/Nami",
+  "https://fandomwire.com/one-piece-chapter-1197-sanji-haki-upgrade-rivals-luffy/"
+ ],
+ "self_check": {
+  "hook": "Line 1 names Bell-mere's coins and the detail nobody noticed.",
+  "loop": "Last line leads back into line 1.",
+  "facts_verified": true
+ }
+}

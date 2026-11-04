@@ -1,0 +1,131 @@
+{
+  "id": "2026-12-05-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Sanji's rule about never hurting women is a choice, not the weakness Ivankov warned about; the real weakness is putting himself last",
+  "title": "Sanji's Rule About Women Was Never His Weakness",
+  "description": "Everyone jokes that women are Sanji's weakness, but Enies Lobby, Arlong Park and Fish-Man Island point somewhere else. Is the real weakness his kindness or his self-neglect?",
+  "hashtags": [
+    "#sanji",
+    "#onepiece",
+    "#ivankov",
+    "#anime"
+  ],
+  "tags": [
+    "sanji weakness",
+    "sanji kalifa",
+    "sanji ivankov",
+    "one piece 1195",
+    "one piece 1196",
+    "sanji enies lobby",
+    "one piece theory",
+    "sanji one piece"
+  ],
+  "hook_text": "THE WRONG WEAKNESS",
+  "music_mood": "chill",
+  "comment": "Is Sanji's real weakness his rule about women, or his habit of putting himself last? Pick one.",
+  "related_long": "2026-12-05-L",
+  "end_text": "THE LOCK BEHIND SANJI'S HAKI",
+  "pages": [
+    "Sanji",
+    "Kalifa",
+    "Emporio Ivankov",
+    "Enies Lobby Arc"
+  ],
+  "lines": [
+    {
+      "text": "Nobody noticed what Sanji's fight with Kalifa really proved about his weakness.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sanji Kalifa Enies Lobby",
+        "fallback": "cook facing a woman in glasses and a suit"
+      }
+    },
+    {
+      "text": "Chapters 402 and 403, Enies Lobby. Kalifa wins by using one thing: Sanji refuses to hurt a woman.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Kalifa kicks Sanji across room",
+        "fallback": "cook flying across a room"
+      }
+    },
+    {
+      "text": "So everyone files it under weakness. I don't think that's what Ivankov meant.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ivankov Sanji weakness flashback",
+        "fallback": "tall queen pointing at a young cook"
+      }
+    },
+    {
+      "text": "What does cost him is taking hits for other people. Chapter 86, he dives in after Luffy and nearly loses to Kuroobi.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Kuroobi Luffy water Arlong Park",
+        "fallback": "cook diving into the sea after his captain"
+      }
+    },
+    {
+      "text": "That's the difference. The rule about women is a choice he makes. The self-neglect is a reflex.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sanji portrait serious",
+        "fallback": "cook with a serious face"
+      }
+    },
+    {
+      "text": "A choice you can defend. A reflex you can't, and that's what the flashback at the end of chapter 1195 flags.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Ivankov 1195 flashback",
+        "fallback": "cook remembering a warning"
+      }
+    },
+    {
+      "text": "I think the real weakness was believing his own safety didn't count, and the women were just where it showed.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Ivankov lesson self worth",
+        "fallback": "cook with head bowed"
+      }
+    },
+    {
+      "text": "So what changes once that flaw finally switches off? Oda's answer is bigger than one fight.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji black lightning flames kick",
+        "fallback": "cook kicking with fire and dark lightning"
+      }
+    },
+    {
+      "text": "So the next time someone calls it his weakness, think about what nobody noticed...",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Kalifa Enies Lobby fight",
+        "fallback": "cook facing a woman fighter"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://fandomwire.com/one-piece-chapter-1196-oda-officially-sets-up-sanjis-new-transformation/",
+    "https://onepiece.fandom.com/wiki/Enies_Lobby_Arc",
+    "https://onepiece.fandom.com/wiki/Sanji"
+  ],
+  "self_check": {
+    "hook": "Hidden-detail hook naming Sanji and Kalifa",
+    "loop": "Last line leads back into line 1's 'nobody noticed'",
+    "facts_verified": true
+  }
+}

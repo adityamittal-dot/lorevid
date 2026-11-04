@@ -1,0 +1,159 @@
+{
+ "id": "2026-12-07-Ls1",
+ "format": "short",
+ "series": "onepiece",
+ "wiki": "onepiece.fandom.com",
+ "topic": "Side point: Arlong's per-head prices show Bell-mere's 100,000 exactly covered Nami and Nojiko, not herself",
+ "title": "Bell-mere's Price Math Nobody Noticed In Arlong Park",
+ "description": "Bell-mere's coins in One Piece Arlong Park, explained: the per-head prices show exactly who she paid for. A small detail from chapters 77 to 79 that changes how Nami learned to carry every cost alone. Did she choose, or was she out of options?",
+ "hashtags": [
+  "#nami",
+  "#onepiece",
+  "#bellemere",
+  "#anime"
+ ],
+ "tags": [
+  "nami one piece",
+  "nami past",
+  "arlong park",
+  "one piece theory",
+  "one piece 1197",
+  "bell-mere",
+  "arlong price",
+  "nojiko",
+  "cocoyasi village",
+  "one piece nami backstory"
+ ],
+ "hook_text": "BELL-MERE'S MATH",
+ "music_mood": "emotional",
+ "comment": "Did Bell-mere choose Nami and Nojiko over herself, or was she simply out of options?",
+ "related_long": "2026-12-07-L",
+ "end_text": "NAMI'S SECRET MIRROR IN 1197",
+ "pages": [
+  "Nami",
+  "Arlong Park Arc",
+  "Bell-mère"
+ ],
+ "lines": [
+  {
+   "text": "Nobody noticed what Bell-mere's coins actually bought in chapter 78.",
+   "delivery": "punch",
+   "fx": "zoom",
+   "shot": {
+    "search": "Bell-mere Nami Nojiko Arlong",
+    "fallback": "mother with two little girls facing a shark fishman"
+   }
+  },
+  {
+   "text": "Arlong names his price for Cocoyasi Village. One hundred thousand per adult, fifty thousand per child.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Arlong Cocoyasi Village demands money",
+    "fallback": "fishman holding out his hand"
+   }
+  },
+  {
+   "text": "Bell-mere has exactly one hundred thousand to her name.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Bell-mere coins Cocoyasi",
+    "fallback": "woman counting a small pile of coins"
+   }
+  },
+  {
+   "text": "Now do the math. Two girls at fifty thousand each is one hundred thousand.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami Nojiko little girls Bell-mere",
+    "fallback": "two sisters holding hands"
+   }
+  },
+  {
+   "text": "She never paid for herself. She paid for Nami and Nojiko, and Arlong took the deal.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Bell-mere Arlong deal chapter 78",
+    "fallback": "mother facing a fishman with coins in hand"
+   }
+  },
+  {
+   "text": "Arlong still takes Nami, because she can draw maps, so the coins never bought her freedom.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Arlong Nami cartographer maps",
+    "fallback": "fishman handing a girl a map"
+   }
+  },
+  {
+   "text": "Later, at Bell-mere's grave, she tells Nojiko she struck a deal to buy the village back.",
+   "delivery": "slow",
+   "fx": "none",
+   "shot": {
+    "search": "Nami Bell-mere grave Nojiko chapter 79",
+    "fallback": "girl at a grave under a tangerine tree"
+   }
+  },
+  {
+   "text": "The price is one hundred million berries. Chapter 79.",
+   "delivery": "punch",
+   "fx": "none",
+   "shot": {
+    "search": "Nami one hundred million berries",
+    "fallback": "girl clutching a ledger"
+   }
+  },
+  {
+   "text": "People say Bell-mere just ran out of money. Fair, but she picked whose price to cover.",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Bell-mere Nami Nojiko choice",
+    "fallback": "mother shielding two girls"
+   }
+  },
+  {
+   "text": "And Nami learned the lesson: love means paying the whole bill and telling nobody.",
+   "delivery": "reveal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami alone paying Arlong",
+    "fallback": "girl alone with a map and coins"
+   }
+  },
+  {
+   "text": "So why does Oda's newest chapter feel like it was written about her?",
+   "delivery": "normal",
+   "fx": "none",
+   "shot": {
+    "search": "Nami Sanji chapter 1197",
+    "fallback": "navigator beside a flaming cook"
+   }
+  },
+  {
+   "text": "Because the detail nobody noticed is what Bell-mere's coins actually bought.",
+   "delivery": "normal",
+   "fx": "zoom",
+   "shot": {
+    "search": "Bell-mere coins Nami Nojiko",
+    "fallback": "two girls beside a coin pile"
+   }
+  }
+ ],
+ "chapters": [],
+ "thumbnail": null,
+ "sources": [
+  "https://onepiece.fandom.com/wiki/Arlong_Park_Arc",
+  "https://onepiece.fandom.com/wiki/Nami",
+  "https://fandomwire.com/one-piece-chapter-1197-sanji-haki-upgrade-rivals-luffy/"
+ ],
+ "self_check": {
+  "hook": "Line 1 names Bell-mere's coins and the detail nobody noticed.",
+  "loop": "Last line leads back into line 1.",
+  "facts_verified": true
+ }
+}

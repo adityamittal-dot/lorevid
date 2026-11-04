@@ -1,0 +1,131 @@
+{
+  "id": "2026-12-05-Ls1",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Killingham's offensive self-love is the mirror of Sanji's self-neglect, which is why his Dream Output targets Sanji's weakness",
+  "title": "Killingham Loves Himself Too Much, Sanji Too Little",
+  "description": "Sanji versus Killingham in chapters 1196 and 1197 is a fight between two kinds of self-love. Killingham's nightmare power only works on a man who ranks himself last. Which side of the mirror is Oda on?",
+  "hashtags": [
+    "#sanji",
+    "#onepiece",
+    "#killingham",
+    "#anime"
+  ],
+  "tags": [
+    "sanji vs killingham",
+    "killingham dream output",
+    "one piece 1197",
+    "one piece 1196",
+    "love is defense",
+    "sanji ivankov",
+    "one piece theory",
+    "sanji one piece"
+  ],
+  "hook_text": "THE MIRROR FIGHT",
+  "music_mood": "suspense",
+  "comment": "Is Killingham's self-love the real villain trait here, or is it Sanji's habit of putting himself last? Pick one.",
+  "related_long": "2026-12-05-L",
+  "end_text": "WHY ODA GAVE SANJI THIS HAKI",
+  "pages": [
+    "Sanji",
+    "Rimoshifu Killingham",
+    "Emporio Ivankov",
+    "Elbaph Arc"
+  ],
+  "lines": [
+    {
+      "text": "Killingham loves himself too much, and Sanji loves himself too little.",
+      "delivery": "punch",
+      "fx": "zoom",
+      "shot": {
+        "search": "Killingham Sanji Elbaph fight",
+        "fallback": "masked knight facing a blond cook in the snow"
+      }
+    },
+    {
+      "text": "He treats his own worth like armor, and then he swings it at everybody else.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Killingham Omen armor",
+        "fallback": "knight in black armor swinging a spear"
+      }
+    },
+    {
+      "text": "In chapter 1196, his Dream Output ability drags a nightmare version of Ivankov out of Sanji's head.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Killingham Dream Output Ivankov nightmare",
+        "fallback": "knight conjuring a looming dark figure"
+      }
+    },
+    {
+      "text": "He doesn't hit Sanji's body first. He goes after what Sanji believes about himself.",
+      "delivery": "punch",
+      "fx": "shake",
+      "shot": {
+        "search": "Sanji nightmare Ivankov Killingham",
+        "fallback": "cook staring up at a dark figure"
+      }
+    },
+    {
+      "text": "That only works on someone who ranks himself last, and Sanji has proven that for years.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji protecting Luffy Arlong Park",
+        "fallback": "cook diving to protect his captain"
+      }
+    },
+    {
+      "text": "The villain built his whole attack on the exact crack Ivankov warned about at the end of chapter 1195.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Ivankov Sanji warning 1195",
+        "fallback": "tall queen warning a young cook"
+      }
+    },
+    {
+      "text": "And the counter isn't loving less. It's loving himself enough to count too. That's what Love Is Defense means.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Sanji Love Is Defense 1197",
+        "fallback": "cook with a determined smile and flames"
+      }
+    },
+    {
+      "text": "So why did Oda hand Sanji, of all people, the Haki that finishes this mirror?",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Conqueror's Haki black lightning",
+        "fallback": "cook wrapped in black lightning"
+      }
+    },
+    {
+      "text": "Because when you boil the whole fight down, the simplest way to say it is that",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Killingham Sanji Elbaph",
+        "fallback": "knight and cook facing each other"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://www.dexerto.com/anime/one-piece-chapter-1197-release-date-major-spoilers-3422520/",
+    "https://fandomwire.com/one-piece-chapter-1196-oda-officially-sets-up-sanjis-new-transformation/",
+    "https://onepiece.fandom.com/wiki/Sanji"
+  ],
+  "self_check": {
+    "hook": "Contrarian claim about two kinds of self-love in line 1",
+    "loop": "Last line ends mid-sentence into line 1",
+    "facts_verified": true
+  }
+}
