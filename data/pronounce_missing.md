@@ -570,3 +570,5 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Sengoku (2026-12-04-L)
 - Koby exist. (2026-12-04-L)
 - Icha (2026-11-04-L)
+- Rabbits (2026-11-05-L)
+- Rares (2026-11-05-L)
