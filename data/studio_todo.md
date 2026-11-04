@@ -94,3 +94,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Nagato's Name Lives On In Naruto (https://youtu.be/S9c_jpZ-B0g) -> related video: Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM)
 - [ ] Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w) -> thumbnail B saved at output/2026-11-05-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Garling Designed God Valley For Profit (https://youtu.be/5bLxj6oasAs) -> related video: Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w)
