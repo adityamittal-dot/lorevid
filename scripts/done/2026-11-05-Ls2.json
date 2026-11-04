@@ -1,0 +1,127 @@
+{
+  "id": "2026-11-05-Ls2",
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "After God Valley, Garling was promoted to Supreme Commander of the Knights of God, then promoted again to the Five Elders—the system rewarded him instead of punishing him",
+  "title": "How Garling Climbed To The Five Elders",
+  "description": "Garling orchestrated God Valley. Rocks fell at the island. The World Government declared him the champion. Chapter 1125 shows him decades later: one of the Five Elders, second-highest authority beneath only Imu. He was never punished. He was only promoted.",
+  "hashtags": [
+    "#onepiece",
+    "#garling",
+    "#godvalley"
+  ],
+  "tags": [
+    "one piece theory",
+    "garling explained",
+    "god valley incident",
+    "five elders one piece",
+    "world government system",
+    "garling promoted",
+    "one piece 1125",
+    "figarland garling power"
+  ],
+  "hook_text": "PROMOTED NOT PUNISHED",
+  "music_mood": "suspense",
+  "comment": "Did Garling earn his Five Elders seat through strength alone, or through loyalty to the people already in power?",
+  "related_long": "2026-11-05-L",
+  "pages": [
+    "Figarland Garling",
+    "Five Elders",
+    "Knights of God"
+  ],
+  "lines": [
+    {
+      "text": "After God Valley, Garling was declared the official champion of the entire incident by the World Government itself.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Garling declared champion God Valley official",
+        "fallback": "noble celebrated as an official hero"
+      }
+    },
+    {
+      "text": "He got promoted to Supreme Commander of the entire Knights of God, commanding every elite knight.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garling Supreme Commander Knights God",
+        "fallback": "noble commanding an elite order"
+      }
+    },
+    {
+      "text": "Then he got promoted again. Chapter 1125 shows him as one of the Five Elders, second-highest authority beneath only Imu.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Garling Five Elders chapter 1125",
+        "fallback": "powerful figure near the very top"
+      }
+    },
+    {
+      "text": "Nobody ever asked why a man who orchestrated a hundred thousand civilian casualties got promoted instead of punished.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "System rewards Garling no questions asked",
+        "fallback": "system knowingly rewarding a cruel decision"
+      }
+    },
+    {
+      "text": "The answer's simple: Garling was useful to the right people at the right moment.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Garling useful to power above him",
+        "fallback": "calculating figure serving those above"
+      }
+    },
+    {
+      "text": "Saturn himself, already a Five Elder, watched God Valley unfold and approved the whole competition personally.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Saturn approves Garling God Valley choice",
+        "fallback": "approval from an even higher authority"
+      }
+    },
+    {
+      "text": "In a government built on family name and obedience, loyalty to power is the only currency that actually matters.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Government loyalty power currency hierarchy",
+        "fallback": "system built on hierarchy and obedience"
+      }
+    },
+    {
+      "text": "Garling learned that lesson perfectly, and the World Government kept promoting him for understanding it best...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Garling understands system rewarded repeatedly",
+        "fallback": "figure who learned the system's true rules"
+      }
+    }
+  ],
+  "chapters": [],
+  "thumbnail": null,
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Figarland_Garling",
+    "https://onepiece.fandom.com/wiki/Shanks",
+    "https://onepiece.fandom.com/wiki/God_Valley_Incident"
+  ],
+  "self_check": {
+    "hook": "line 1 states the claim (declared champion), line 2-3 show the promotions with chapter cite (1125), line 4 challenges the system",
+    "loop": "last line returns to the pattern (Garling learns and gets rewarded) without exact repetition",
+    "facts_verified": true
+  },
+  "end_text": "GARLING'S GOD VALLEY SECRET",
+  "published": {
+    "video_id": "xAeaVQ8oahU",
+    "publish_at": "2026-11-06T17:00:00Z",
+    "url": "https://youtu.be/xAeaVQ8oahU",
+    "comment": "Full breakdown here → https://youtu.be/LYHOFedJb1w\n\nDid Garling earn his Five Elders seat through strength alone, or through loyalty to the people already in power?",
+    "comment_posted": false
+  }
+}
