@@ -709,3 +709,6 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - none (2026-12-10-Ls1)
 - none (2026-12-10-Ls2)
 - none beyond existing entries except Celestial Dragons and CP0 pronunciations in the long's list. (2026-12-08-Ls2)
+- Gan (2026-11-06-L)
+- Laguna (2026-11-06-L)
+- Skypieans (2026-11-06-L)

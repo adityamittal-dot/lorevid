@@ -96,3 +96,5 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Garling Designed God Valley For Profit (https://youtu.be/5bLxj6oasAs) -> related video: Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w)
 - [ ] How Garling Climbed To The Five Elders (https://youtu.be/xAeaVQ8oahU) -> related video: Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w)
+- [ ] What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w) -> thumbnail B saved at output/2026-11-06-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
