@@ -712,3 +712,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Gan (2026-11-06-L)
 - Laguna (2026-11-06-L)
 - Skypieans (2026-11-06-L)
+- Oimo (2026-11-06-Ls1)
