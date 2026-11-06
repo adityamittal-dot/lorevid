@@ -713,3 +713,6 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Laguna (2026-11-06-L)
 - Skypieans (2026-11-06-L)
 - Oimo (2026-11-06-Ls1)
+- Bege (2026-11-07-L)
+- Dozens (2026-11-07-L)
+- Streusen (2026-11-07-L)
