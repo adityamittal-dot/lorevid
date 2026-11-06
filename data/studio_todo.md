@@ -102,3 +102,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Without Usopp, Nami's Plan Falls Apart (https://youtu.be/iLirQqdxeDs) -> related video: What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w)
 - [ ] Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw) -> thumbnail B saved at output/2026-11-07-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Mother Carmel Vanished On Her Birthday (https://youtu.be/Ah_gqr2ZA3c) -> related video: Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw)
