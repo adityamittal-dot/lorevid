@@ -107,3 +107,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y) -> thumbnail B saved at output/2026-11-08-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Sukuna Abandoned Yuji For A Better Body (https://youtu.be/UnrhjJo5uy4) -> related video: Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y)
+- [ ] Sukuna's Domain Beat Gojo's (https://youtu.be/CKiNxAmv_XM) -> related video: Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y)
