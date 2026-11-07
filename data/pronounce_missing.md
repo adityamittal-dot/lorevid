@@ -716,3 +716,6 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Bege (2026-11-07-L)
 - Dozens (2026-11-07-L)
 - Streusen (2026-11-07-L)
+- Generals (2026-11-08-L)
+- Kinji (2026-11-08-L)
+- Woogie (2026-11-08-L)
