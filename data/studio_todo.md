@@ -110,3 +110,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Sukuna's Domain Beat Gojo's (https://youtu.be/CKiNxAmv_XM) -> related video: Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y)
 - [ ] Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs) -> thumbnail B saved at output/2026-11-09-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Only Marco Pulled Kizaru Into A Real Fight (https://youtu.be/_jlVmrQ57QI) -> related video: Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs)
