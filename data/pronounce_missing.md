@@ -724,3 +724,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Moments (2026-11-09-L)
 - Neo (2026-11-09-L)
 - Uta (2026-11-09-L)
+- Yarukiman (2026-11-09-Ls2)
