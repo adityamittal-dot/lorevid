@@ -719,3 +719,8 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Generals (2026-11-08-L)
 - Kinji (2026-11-08-L)
 - Woogie (2026-11-08-L)
+- Berries (2026-11-09-L)
+- Elegia (2026-11-09-L)
+- Moments (2026-11-09-L)
+- Neo (2026-11-09-L)
+- Uta (2026-11-09-L)
