@@ -725,3 +725,8 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Neo (2026-11-09-L)
 - Uta (2026-11-09-L)
 - Yarukiman (2026-11-09-Ls2)
+- Captains (2026-11-10-L)
+- Catarina (2026-11-10-L)
+- Mero (2026-11-10-L)
+- Nerona (2026-11-10-L)
+- Sanjuan (2026-11-10-L)
