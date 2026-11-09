@@ -114,3 +114,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Kizaru's First Move On Sabaody Wasn't A Fight (https://youtu.be/PyGAllHR4x8) -> related video: Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs)
 - [ ] Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k) -> thumbnail B saved at output/2026-11-10-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] The Giant Prince Who Begged To Join Rocks' Crew (https://youtu.be/fam-TtS3m0Q) -> related video: Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k)
