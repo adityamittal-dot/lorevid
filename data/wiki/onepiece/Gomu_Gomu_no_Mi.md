@@ -1,6 +1,6 @@
 # Gomu Gomu no Mi
 
-Source: https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi (fetched 2026-11-08). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi (fetched 2026-11-09). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that grants the user's body the properties of rubber, effectively making them a Rubber Human.
 Originally, the fruit was called the Hito Hito no Mi, Model: Nika and classified as a Mythical Zoan-type fruit that allows one to transform into the legendary "Sun God" Nika (and gain his rubbery attributes), before being renamed and reclassified by the World Government to hide the truth. [Ch. 1044, Ep. 1071] In the present, only a few are aware of the fruit's true nature, and its existence was never known to be recorded anywhere. [Ch. 1069, Ep. 1100]
@@ -62,6 +62,9 @@ After Luffy got exhausted from his first usage of Gear 4 against Donquixote Dofl
 
 #### Wano Country Arc
 After his third defeat against Kaidou, caused by the interference of Guernika, Luffy awakened the fruit's powers, becoming the "Warrior of Liberation." [Ch. 1044, Ep. 1071] This was the first time the fruit had been awakened in centuries, something of great worry to the Five Elders.
+
+#### Elbaph Arc
+During the Knights of God's seige of Elbaph, Luffy undertook an animalistic transformation against Nerona Imu, leading to him publicly being viewed as a Zoan user. [Ch. 1198]
 
 ### Early Concepts
 According to Eiichiro Oda, Luffy was conceptualized with stretching powers specifically to allow for a "silly" fighting style that could make battles amusing as well as dramatic. As such, the Gomu Gomu no Mi is one of the few elements apart from Luffy himself to appear in both of the series' Romance Dawn prototypes:

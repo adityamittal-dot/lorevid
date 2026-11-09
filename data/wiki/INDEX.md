@@ -71,7 +71,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Franky.md` | 10k | 15 |
 | onepiece | `data/wiki/onepiece/God_Valley_Incident.md` | 17k | 33 |
 | onepiece | `data/wiki/onepiece/Gol_D._Roger.md` | 54k | 160 |
-| onepiece | `data/wiki/onepiece/Gomu_Gomu_no_Mi.md` | 21k | 58 |
+| onepiece | `data/wiki/onepiece/Gomu_Gomu_no_Mi.md` | 21k | 59 |
 | onepiece | `data/wiki/onepiece/Goro_Goro_no_Mi.md` | 26k | 84 |
 | onepiece | `data/wiki/onepiece/Haki.md` | 9k | 67 |
 | onepiece | `data/wiki/onepiece/Hyougoro.md` | 24k | 126 |
@@ -84,7 +84,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Kouzuki_Oden.md` | 60k | 181 |
 | onepiece | `data/wiki/onepiece/Kuzan.md` | 59k | 167 |
 | onepiece | `data/wiki/onepiece/Laugh_Tale.md` | 3k | 10 |
-| onepiece | `data/wiki/onepiece/Loki.md` | 55k | 79 |
+| onepiece | `data/wiki/onepiece/Loki.md` | 56k | 80 |
 | onepiece | `data/wiki/onepiece/Marineford_Arc.md` | 60k | 42 |
 | onepiece | `data/wiki/onepiece/Marshall_D._Teach.md` | 59k | 118 |
 | onepiece | `data/wiki/onepiece/Monkey_D._Dragon.md` | 44k | 103 |
@@ -92,7 +92,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Monkey_D._Luffy.md` | 25k | 92 |
 | onepiece | `data/wiki/onepiece/Nami.md` | 26k | 5 |
 | onepiece | `data/wiki/onepiece/Nefertari_D._Lili.md` | 3k | 3 |
-| onepiece | `data/wiki/onepiece/Nerona_Imu.md` | 59k | 82 |
+| onepiece | `data/wiki/onepiece/Nerona_Imu.md` | 60k | 83 |
 | onepiece | `data/wiki/onepiece/Nico_Robin.md` | 12k | 10 |
 | onepiece | `data/wiki/onepiece/Poneglyph.md` | 20k | 78 |
 | onepiece | `data/wiki/onepiece/Portgas_D._Ace.md` | 51k | 76 |
@@ -102,7 +102,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Sabo.md` | 60k | 118 |
 | onepiece | `data/wiki/onepiece/Sakazuki.md` | 60k | 184 |
 | onepiece | `data/wiki/onepiece/Sanji.md` | 11k | 31 |
-| onepiece | `data/wiki/onepiece/Scopper_Gaban.md` | 44k | 87 |
+| onepiece | `data/wiki/onepiece/Scopper_Gaban.md` | 44k | 88 |
 | onepiece | `data/wiki/onepiece/Shanks.md` | 53k | 214 |
 | onepiece | `data/wiki/onepiece/Shepherd_Sommers.md` | 24k | 49 |
 | onepiece | `data/wiki/onepiece/Shirahoshi.md` | 37k | 131 |
