@@ -730,3 +730,4 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Mero (2026-11-10-L)
 - Nerona (2026-11-10-L)
 - Sanjuan (2026-11-10-L)
+- Ochoku (2026-11-10-Ls2)
