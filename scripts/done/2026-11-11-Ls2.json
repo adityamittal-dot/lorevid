@@ -6,14 +6,32 @@
   "topic": "Basil Hawkins's secret life link passed damage to Eustass Kid and knocked his new metal arm loose during the Killer vs Hawkins fight; a side mechanic, not the pride thesis of the long",
   "title": "Hawkins Sabotaged Eustass Kid's New Arm Mid-Battle",
   "description": "Eustass Kid rebuilt his metal arm during the Onigashima raid, then lost it in a fight he was not even part of. Basil Hawkins had linked his life to Kid's, and the damage went straight to Kid. Here is the chapter-cited mechanic.",
-  "hashtags": ["#onepiece", "#eustasskid", "#hawkins"],
-  "tags": ["basil hawkins link", "eustass kid arm", "hawkins wara wara no mi", "one piece onigashima", "one piece 1029", "eustass kid hawkins", "hawkins damage transfer", "eustass kid metal arm", "one piece wano"],
+  "hashtags": [
+    "#onepiece",
+    "#eustasskid",
+    "#hawkins"
+  ],
+  "tags": [
+    "basil hawkins link",
+    "eustass kid arm",
+    "hawkins wara wara no mi",
+    "one piece onigashima",
+    "one piece 1029",
+    "eustass kid hawkins",
+    "hawkins damage transfer",
+    "eustass kid metal arm",
+    "one piece wano"
+  ],
   "hook_text": "HAWKINS' HIDDEN LINK",
   "music_mood": "suspense",
   "comment": "Was Hawkins' secret link a smart trick or a betrayal Kid never deserved? Pick a side.",
   "related_long": "2026-11-11-L",
   "end_text": "STRENGTH OR FATAL FLAW?",
-  "pages": ["Eustass Kid", "Basil Hawkins", "Killer"],
+  "pages": [
+    "Eustass Kid",
+    "Basil Hawkins",
+    "Killer"
+  ],
   "lines": [
     {
       "text": "Eustass Kid's brand new metal arm came off during a fight he wasn't even in.",
@@ -126,5 +144,12 @@
     "hook": "opens on Kid's arm falling off in a fight he was not in, a side mechanic",
     "loop": "last line restates the opening image so it flows back into line 1",
     "facts_verified": true
+  },
+  "published": {
+    "video_id": "ad6uO4lyBnc",
+    "publish_at": "2026-11-12T17:00:00Z",
+    "url": "https://youtu.be/ad6uO4lyBnc",
+    "comment": "Full breakdown here → https://youtu.be/oeH2sBh0H5c\n\nWas Hawkins' secret link a smart trick or a betrayal Kid never deserved? Pick a side.",
+    "comment_posted": false
   }
 }
