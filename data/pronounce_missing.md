@@ -731,3 +731,6 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Nerona (2026-11-10-L)
 - Sanjuan (2026-11-10-L)
 - Ochoku (2026-11-10-Ls2)
+- Benn (2026-11-11-L)
+- Dobon (2026-11-11-L)
+- Scratchmen (2026-11-11-L)
