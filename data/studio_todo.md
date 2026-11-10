@@ -118,3 +118,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] The Island Rocks Ruled Before Blackbeard Ever Did (https://youtu.be/PrT_vYK3M94) -> related video: Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k)
 - [ ] Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c) -> thumbnail B saved at output/2026-11-11-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Eustass Kid's Metal Box Split Big Mom From Her Homies (https://youtu.be/npUrftTWjAo) -> related video: Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c)
