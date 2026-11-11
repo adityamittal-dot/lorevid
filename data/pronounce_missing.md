@@ -734,3 +734,8 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Benn (2026-11-11-L)
 - Dobon (2026-11-11-L)
 - Scratchmen (2026-11-11-L)
+- Izuna (2026-11-12-L)
+- Kage (2026-11-12-L)
+- Konohagakure (2026-11-12-L)
+- Seals (2026-11-12-L)
+- Takigakure (2026-11-12-L)
