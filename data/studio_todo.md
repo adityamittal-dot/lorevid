@@ -126,3 +126,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Madara Could Spot a Clone. So How Was He Fooled? (https://youtu.be/3bM-8bjDJuY) -> related video: Why Hashirama Never Stopped Trusting Madara (https://youtu.be/PdHdIqZKths)
 - [ ] Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY) -> thumbnail B saved at output/2026-11-13-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Nobody Has Proven Dragon Made That Storm (https://youtu.be/nf5ByegcktM) -> related video: Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY)
