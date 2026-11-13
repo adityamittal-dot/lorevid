@@ -130,3 +130,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Smoker Pointed Luffy At Gold Roger's Scaffold (https://youtu.be/5pOwwT_hvpU) -> related video: Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY)
 - [ ] Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0) -> thumbnail B saved at output/2026-11-14-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Gaban's Axes Stopped a God's Finishing Move (https://youtu.be/A6oynVVKt8s) -> related video: Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0)
