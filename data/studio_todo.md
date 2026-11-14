@@ -132,3 +132,5 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Gaban's Axes Stopped a God's Finishing Move (https://youtu.be/A6oynVVKt8s) -> related video: Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0)
 - [ ] Zoro Had Supreme King Haki and Never Noticed (https://youtu.be/Ms-8yXdicGQ) -> related video: Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0)
+- [ ] Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw) -> thumbnail B saved at output/2026-11-15-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
