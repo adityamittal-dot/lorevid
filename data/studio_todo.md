@@ -135,3 +135,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw) -> thumbnail B saved at output/2026-11-15-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Fujitora Held Back Against Sabo For A Reason (https://youtu.be/V7o_9-wSGUg) -> related video: Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw)
+- [ ] Dragon Would Never Forgive Sabo For This One Thing (https://youtu.be/5kZQG-NIh8U) -> related video: Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw)
