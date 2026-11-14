@@ -1,6 +1,6 @@
 # Shepherd Sommers
 
-Source: https://onepiece.fandom.com/wiki/Shepherd_Sommers (fetched 2026-11-13). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Shepherd_Sommers (fetched 2026-11-14). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Saint Shepherd Sommers is a World Noble and a member of the Knights of God.
 Due to his actions and role, he is a major antagonist in the Elbaph Arc.
@@ -53,7 +53,7 @@ Due to the covenant, Sommers is effectively immortal as he can heal instantaneou
 Sommers possesses a steel heart that beats even when separated from the rest of his body. When Roronoa Zoro suggested destroying the heart to see if it would prevent Sommers from regenerating, Sommers became visibly frightened at Zoro's words, implying that the steel heart is somewhat connected to his immortality. [Ch. 1179]
 
 #### Haki
-Sommers possesses Haki. His arrival on Elbaph was accompanied by a massive burst of Haki which resembled black lightning. His Haki was sensed by Scopper Gaban and described as being abnormal. [Ch. 1145, Ep. 1175] In the anime, Sommers was shown to be able to harden his kanabō and the thorns he creates with Armament Haki. [Ep. 1176]
+Sommers possesses Haki. His arrival on Elbaph was accompanied by a massive burst of Haki which resembled black lightning. His Haki was sensed by Scopper Gaban and described as being abnormal. [Ch. 1145, Ep. 1175] In the anime, Sommers was shown to be able to harden his kanabo and the thorns he creates with Armament Haki. [Ep. 1176]
 
 #### Weapons
 Sommers is shown to carry a sword with a thorn-covered guard over the hilt. Using his Devil Fruit power, Sommers can transform his sword into a thorny kanabō many times larger than he is tall which he has used to beat Saul, using the many spikes on it to inflict extra damage.
