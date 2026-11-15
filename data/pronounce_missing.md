@@ -740,3 +740,5 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Seals (2026-11-12-L)
 - Takigakure (2026-11-12-L)
 - Edd (2026-11-14-L)
+- Barriers (2026-11-16-L)
+- Ogami (2026-11-16-L)
