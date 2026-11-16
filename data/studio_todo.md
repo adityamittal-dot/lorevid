@@ -142,3 +142,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Toji's Final Words Handed Gojo A Son To Raise (https://youtu.be/Aalo8QKtFls) -> related video: Toji Was The Only Sorcerer Who Could Have Ended Gojo (https://youtu.be/VCEEBwv0SLU)
 - [ ] Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc) -> thumbnail B saved at output/2026-11-17-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Jinbe And Ace Fought Five Days Over Whitebeard (https://youtu.be/ne-AQl7ovi8) -> related video: Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc)
