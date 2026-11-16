@@ -51,6 +51,11 @@ OUTRO_PATTERNS = [
     ("comment below", r"\bcomment below\b"),
 ]
 
+# Format rotation (WRITER.md, "Format rotation"): every long from STYLE_REQUIRED_FROM on carries a "style", and
+# never 3 longs in a row share one. Reserve ids (R##) have no date and are exempt.
+LONG_STYLES = {"reaction", "explained", "ranked", "debate", "whatif", "analysis"}
+STYLE_REQUIRED_FROM = "2026-11-25"
+
 HOOK_START_WORDS = {"but", "until", "except"}
 
 # Advertiser-friendly gate (YouTube limited 2026-10-09-L "What If Zoro Died Against Mihawk?" for violence: a bloody
@@ -292,8 +297,10 @@ def main():
             err.append("title must not contain hashtags")
         title_alpha_words = re.findall(r"\b[A-Za-z]+\b", title)
         all_caps = [w for w in title_alpha_words if len(w) >= 2 and w.isupper()]
-        if len(all_caps) > 1:
-            err.append(f"title has more than 1 ALL-CAPS word ({', '.join(all_caps)}); at most 1 allowed")
+        # Chapter reactions may shout more (2026-11-16 competitor study: CAPS claim + "?!" + chapter number wins).
+        caps_limit = 3 if p.get("style") == "reaction" else 1
+        if len(all_caps) > caps_limit:
+            err.append(f"title has more than {caps_limit} ALL-CAPS word(s) ({', '.join(all_caps)}); at most {caps_limit} allowed")
 
     # 4. Hashtags check
     hashtags = p.get("hashtags")
@@ -711,6 +718,37 @@ def main():
         if not any(w in names for w in head) and not any(n in head_text for n in names if " " in n):
             err.append(f"long title '{title}' has no character or series name in its first 4 words; lead with what a "
                        f"fan would search (WRITER.md, Titles: search first)")
+
+    # 14. Long format style + rotation (validator-enforced from 2026-11-25).
+    if fmt == "long":
+        style = p.get("style")
+        dm = re.match(r"(\d{4}-\d{2}-\d{2})-L\d*$", script_id)
+        id_date = dm.group(1) if dm else None
+        if style is not None and style not in LONG_STYLES:
+            err.append(f"style must be one of {sorted(LONG_STYLES)} (got '{style}')")
+        elif style is None and id_date and id_date >= STYLE_REQUIRED_FROM:
+            err.append(f"long needs a 'style' field ({', '.join(sorted(LONG_STYLES))}); WRITER.md Format rotation")
+        if style in LONG_STYLES:
+            if p.get("deep") and style not in {"explained", "ranked"}:
+                err.append(f"a deep dive must use style 'explained' or 'ranked' (got '{style}')")
+            if style == "reaction" and not re.search(r"\b\d{3,4}\b|\bchapter\b", title, re.I):
+                err.append("style 'reaction' needs a chapter number (3-4 digits) or the word 'Chapter' in the title")
+        # Reserve fills (reserve.py) are exempt: refusing one would leave the slot empty and cascade through the reserve.
+        if style in LONG_STYLES and id_date and id_date >= STYLE_REQUIRED_FROM and not p.get("filled_from_reserve"):
+            prior = []
+            for sub in ("backlog", "queue", "done"):
+                for other_fp in glob.glob(os.path.join(repo_dir, "scripts", sub, "*.json")):
+                    oid = os.path.basename(other_fp)[:-5]
+                    if oid >= script_id or oid == script_id or not re.match(r"\d{4}-\d{2}-\d{2}-L\d*$", oid):
+                        continue
+                    try:
+                        with open(other_fp, encoding="utf-8") as f:
+                            prior.append((oid, json.load(f).get("style")))
+                    except Exception:
+                        continue
+            prior.sort()
+            if len(prior) >= 2 and prior[-1][1] == style and prior[-2][1] == style:
+                err.append(f"three {style} longs in a row; rotate formats (WRITER.md Format rotation)")
 
     # One-line summary first
     rate =2.7 if fmt == "short" else 3.35      # long: speed 1.18 with tighter pauses, measured ~200 words a minute (2026-10-09-L: 2217 words, 11:03)

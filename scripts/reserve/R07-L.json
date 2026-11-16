@@ -1061,5 +1061,6 @@
     "hook": "Line 1 states the claim and the title subject",
     "loop": "Ends on a pointer to the earlier Void Century video",
     "facts_verified": true
-  }
+  },
+  "style": "analysis"
 }

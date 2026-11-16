@@ -74,10 +74,31 @@ def find_related_long(related_id: str) -> dict | None:
                 pub = data.get("published", {})
                 url = (f"https://youtu.be/{pub['video_id']}" if pub.get("video_id") else pub.get("url"))
                 if url:
-                    return {"url": url, "title": data.get("title", "")}
+                    return {"url": url, "title": data.get("title", ""), "deep": bool(data.get("deep"))}
             except Exception:
                 continue
     return None
+
+
+def find_latest_deep_url(exclude_url: str | None = None) -> str | None:
+    """URL of the most recently published deep dive (a scripts/done script with "deep": true and a video id, latest
+    publish_at that has already passed), or None. A non-deep Short's description points at it as a second funnel."""
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    best_at, best_url = "", None
+    for path in glob.glob("scripts/done/*.json"):
+        try:
+            with open(path, encoding="utf-8") as f:
+                data = json.load(f)
+            pub = data.get("published", {})
+            if not data.get("deep") or data.get("format") != "long":
+                continue
+            url = f"https://youtu.be/{pub['video_id']}" if pub.get("video_id") else pub.get("url")
+            at = pub.get("publish_at") or ""
+            if url and url != exclude_url and at <= now and at > best_at:
+                best_at, best_url = at, url
+        except Exception:
+            continue
+    return best_url
 
 
 def append_studio_todo(line: str, data_dir: str = "data") -> None:
@@ -434,6 +455,10 @@ def run(script_path: str, upload_flag: bool = False, no_move_flag: bool = False)
         if rl_info:
             related_long_url = rl_info["url"]
             desc_blocks.insert(0, related_long_url)          # the full video's link is the first line, not buried
+            if not rl_info.get("deep"):
+                deep_url = find_latest_deep_url(exclude_url=related_long_url)
+                if deep_url:
+                    desc_blocks.insert(1, f"Full deep dive: {deep_url}")
             desc_blocks.append(f"Full breakdown: {rl_info['title']}")
         else:
             desc_blocks.append("Full breakdown on the channel")

@@ -1042,5 +1042,6 @@
     "hook": "claim in line 1, stakes question by line 3, promise of the rule and the one person",
     "loop": "each chapter ends on an open question; payoff line then a pointer to the next story",
     "facts_verified": true
-  }
+  },
+  "style": "analysis"
 }

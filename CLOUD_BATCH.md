@@ -21,6 +21,15 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
   premise (Carrot at Egghead). `validate_script.py` now rejects a long whose Editor review is self-assessed. If the
   Agent tool is unavailable in this session, stop and push nothing.
 
+## Scope (since 2026-11-18)
+Batches write only the **deep dives** (Sun slots, `DEEP-DIVE` in `plan.py next`, style `explained` or `ranked`) and
+**refill `scripts/reserve/`** with standard evergreen longs. Monday chapter reactions are written separately (REACTION.md),
+and `reserve.py fill` (render.yml) covers any empty slot. Skip `CHAPTER-REACTION` ids. Check `python plan.py reserve`: keep
+the reserve at 10+ sets. A reserve set is `R15-L`, `R15-Ls1`, `R15-Ls2` (next free number: R15, R16, ...), written to
+`scripts/reserve/<id>.json` and `notes/reserve/<id>.md` (not scripts/backlog or notes/), validated the same way
+(`validate_script.py` finds reserve notes only after the fill moves them, so check "notes not found" as the only
+expected error there). Every long, deep or reserve, carries a `"style"` field (WRITER.md, Format rotation): rotate it, never 3 in a row.
+
 ## Steps
 0. **Rescue first.** For every `scripts/rejected/<id>.json` whose `.log` only fails the editor gate ("editor review
    scored"), `git mv` it back to `scripts/backlog/` and give it to a Sonnet editor (step 3). That's far cheaper than
@@ -51,6 +60,6 @@ contexts every turn, plus a separate fact-check round. Every rule below is there
    > Never lower the bar to pass. Run `python validate_script.py scripts/backlog/<id>.json` until it passes. Reply only "ok" or the errors.
 4. Drop any long whose editor replied "FALSE PREMISE" (and its Shorts) from the commit. Only commit scripts that pass `python validate_script.py`. A script that still fails after its editor pass: leave
    it out of the commit and list it in your reply. Never push a "WIP" commit. Append each committed script's `New names:` to
-   `data/pronounce_missing.md` as `- Name (<id>)`. Commit once: `git add scripts/backlog notes data/pronounce_missing.md && git commit -m "script: <ids>"`, then push to the branch this
+   `data/pronounce_missing.md` as `- Name (<id>)`. Commit once: `git add scripts/backlog scripts/reserve notes data/pronounce_missing.md && git commit -m "script: <ids>"`, then push to the branch this
    session is set up to use.
 5. Reply with `python plan.py status` and the pushed IDs. Nothing else.

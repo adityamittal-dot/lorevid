@@ -1149,5 +1149,6 @@
     "hook": "Line 1 names Boa Hancock and states the claim; line 3 asks what she really promised.",
     "loop": "Ends with a pointer to a related video; verdict line pays the title.",
     "facts_verified": true
-  }
+  },
+  "style": "analysis"
 }

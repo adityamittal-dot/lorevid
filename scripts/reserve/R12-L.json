@@ -1001,5 +1001,6 @@
     "hook": "Line 1 states the claim and names Vegapunk and Sanji; the question lands in line 3",
     "loop": "Every chapter ends on a question or ellipsis; final line names the payoff then points to the Kuma story",
     "facts_verified": true
-  }
+  },
+  "style": "analysis"
 }

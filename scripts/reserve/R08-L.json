@@ -1075,5 +1075,6 @@
     "hook": "Line 1 names Kakashi's Sharingan and the claim that it was a gift; the open question lands in line 3.",
     "loop": "Ends with a pointer to the related Naruto video.",
     "facts_verified": true
-  }
+  },
+  "style": "analysis"
 }

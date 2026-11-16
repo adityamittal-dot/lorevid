@@ -2,6 +2,7 @@
 
   python plan.py next [N]     print the next N missing script IDs (format, series, publish date)
   python plan.py status       print how many days of content are already covered
+  python plan.py reserve      list the reserve sets in scripts/reserve (standard longs that auto-fill empty slots)
 
 Reads the schedule from channel.json ("long_schedule", "shorts_per_day") and treats any id already present
 in scripts/backlog/, scripts/queue/, scripts/done/ or scripts/failed/ as already written. Pure stdlib: this
@@ -10,6 +11,7 @@ runs in the writer's cloud session and on a laptop with no extra installs.
 import datetime
 import json
 import os
+import re
 import sys
 
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -83,8 +85,7 @@ def shorts_for(schedule, default, day):
     return int((best or {}).get("shorts_per_day", default))
 
 
-def is_deep_day(schedule, day):
-    """True when `day`'s first long is the weekly deep dive (the matching schedule entry's "deep_days")."""
+def _entry_for(schedule, day):
     best, best_from = None, None
     for entry in schedule or []:
         try:
@@ -93,7 +94,18 @@ def is_deep_day(schedule, day):
             continue
         if efrom <= day and (best_from is None or efrom > best_from):
             best, best_from = entry, efrom
-    return WEEKDAYS[day.weekday()] in (best or {}).get("deep_days", [])
+    return best or {}
+
+
+def is_deep_day(schedule, day):
+    """True when `day`'s first long is a deep dive (the matching schedule entry's "deep_days")."""
+    return WEEKDAYS[day.weekday()] in _entry_for(schedule, day).get("deep_days", [])
+
+
+def is_react_day(schedule, day):
+    """True when `day`'s long is a chapter reaction (the matching schedule entry's "react_days"): it gets
+    only 1 Short, so the week totals exactly 7 Shorts (react 1 + three long days x 2)."""
+    return WEEKDAYS[day.weekday()] in _entry_for(schedule, day).get("react_days", [])
 
 
 def long_id(date_str, k):
@@ -112,12 +124,18 @@ def day_items(schedule, shorts_per_day, day, long_index):
         series = LONG_OFF_SERIES[(long_index // 4 - 1) % 2] if long_index % 4 == 0 else "onepiece"
         lid = long_id(date_str, k)
         item = {"id": lid, "format": "long", "series": series, "publish_date": date_str}
-        if k == 1 and is_deep_day(schedule, day):
+        n_shorts = shorts_per_day
+        if k == 1 and is_react_day(schedule, day):
+            item["react"] = True    # chapter reaction written after the Sunday chapter; 1 Short only
+            n_shorts = 1
+        elif k == 1 and is_deep_day(schedule, day):
             item["deep"] = True     # 26-36 min deep dive on an evergreen search topic; script sets "deep": true
         items.append(item)
         items += [{"id": f"{lid}s{s}", "format": "short", "series": series, "publish_date": date_str}
-                  for s in range(1, shorts_per_day + 1)]
-    if not n_long:
+                  for s in range(1, n_shorts + 1)]
+    # Schedules with "react_days" publish exactly one Short a day (short_slots_utc has one slot): the Shorts of a
+    # long spill into the following no-long days, so those days need no standalone Shorts of their own.
+    if not n_long and "react_days" not in _entry_for(schedule, day):
         series = SHORT_SERIES_BY_WEEKDAY.get(WEEKDAYS[day.weekday()], "onepiece")
         items += [{"id": f"{date_str}-m{s}", "format": "short", "series": series, "publish_date": date_str}
                   for s in range(1, shorts_per_day + 1)]
@@ -143,6 +161,23 @@ def _walk(repo_dir, days):
         day += datetime.timedelta(days=1)
 
 
+def slot_series(repo_dir, day, lid):
+    """The series the schedule plans for long `lid` on `day`, counting long rotation from the schedule start
+    (the same count _walk() uses, so it never shifts). None if `lid` isn't one of that day's slots."""
+    cfg = load_channel(repo_dir)
+    schedule = cfg.get("long_schedule", [])
+    shorts_per_day = int(cfg.get("shorts_per_day", 1))
+    if not schedule:
+        return None
+    long_index, d = 0, datetime.date.fromisoformat(schedule[0]["from"])
+    while d <= day:
+        items, long_index = day_items(schedule, shorts_per_day, d, long_index)
+        if d == day:
+            return next((it["series"] for it in items if it["id"] == lid), None)
+        d += datetime.timedelta(days=1)
+    return None
+
+
 def plan_items(n, repo_dir=REPO_DIR):
     """The next n missing script items (dicts: id, format, series, publish_date), earliest first,
     skipping anything already written."""
@@ -158,6 +193,8 @@ def plan_items(n, repo_dir=REPO_DIR):
 def cmd_next(n):
     for item in plan_items(n):
         deep = "  DEEP-DIVE (\"deep\": true, formats.deep)" if item.get("deep") else ""
+        if item.get("react"):
+            deep = "  CHAPTER-REACTION (write after the Sunday chapter; push before 06:15 UTC on the day)"
         print(f"{item['id']}  format={item['format']}  series={item['series']}  publish={item['publish_date']}{deep}")
 
 
@@ -179,6 +216,31 @@ def cmd_status(repo_dir=REPO_DIR):
     print(f"Missing scripts in the next 60 days: {missing_60d}.")
 
 
+def reserve_sets(repo_dir=REPO_DIR):
+    """[(R## id, series, title, deep)] for every R##-L.json in scripts/reserve, oldest (lowest number) first."""
+    d = os.path.join(repo_dir, "scripts", "reserve")
+    out = []
+    if os.path.isdir(d):
+        for name in sorted(os.listdir(d)):
+            m = re.fullmatch(r"(R\d+)-L\.json", name)
+            if not m:
+                continue
+            try:
+                with open(os.path.join(d, name), encoding="utf-8") as f:
+                    data = json.load(f)
+            except (OSError, ValueError):
+                continue
+            out.append((m.group(1), data.get("series", "?"), data.get("title", ""), bool(data.get("deep"))))
+    return out
+
+
+def cmd_reserve(repo_dir=REPO_DIR):
+    sets = reserve_sets(repo_dir)
+    for rid, series, title, deep in sets:
+        print(f"{rid}  series={series}  deep={'yes' if deep else 'no'}  {title}")
+    print(f"{len(sets)} reserve set(s) in scripts/reserve.")
+
+
 def main():
     args = sys.argv[1:]
     if not args:
@@ -190,6 +252,8 @@ def main():
         cmd_next(n)
     elif cmd == "status":
         cmd_status()
+    elif cmd == "reserve":
+        cmd_reserve()
     else:
         print(__doc__)
         sys.exit(1)

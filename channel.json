@@ -74,7 +74,7 @@
     }
   ],
   "series_weights": {
-    "onepiece": 5,
+    "onepiece": 6,
     "naruto": 1,
     "jjk": 1
   },
@@ -122,8 +122,61 @@
       "deep_days": [
         "Sun"
       ]
+    },
+    {
+      "from": "2026-11-18",
+      "days": [
+        "Mon",
+        "Wed",
+        "Fri",
+        "Sun"
+      ],
+      "per_day": 1,
+      "shorts_per_day": 2,
+      "deep_days": [
+        "Sun"
+      ],
+      "react_days": [
+        "Mon"
+      ]
+    },
+    {
+      "from": "2026-11-23",
+      "days": [
+        "Mon",
+        "Wed",
+        "Fri",
+        "Sun"
+      ],
+      "per_day": 1,
+      "shorts_per_day": 2,
+      "deep_days": [
+        "Wed",
+        "Sun"
+      ],
+      "react_days": [
+        "Mon"
+      ]
+    },
+    {
+      "from": "2026-11-30",
+      "days": [
+        "Mon",
+        "Wed",
+        "Fri",
+        "Sun"
+      ],
+      "per_day": 1,
+      "shorts_per_day": 2,
+      "deep_days": [
+        "Sun"
+      ],
+      "react_days": [
+        "Mon"
+      ]
     }
   ],
+  "notes_schedule": "Weekly pattern from 2026-11-23: longs Mon (chapter reaction, written after the Sunday chapter, 1 Short), Wed (deep dive, 2 Shorts), Fri (standard long, 2 Shorts), Sun (deep dive, 2 Shorts); 4 longs and exactly 7 Shorts a week, one Short slot a day (publish.short_slots_utc), the Shorts of a long spill into the following no-long days because next_slot() takes the earliest free slot. From 2026-11-18 only Sun is deep (Wed 11-18 is a standard long). Empty long slots are auto-filled from scripts/reserve (standard evergreen longs R##-L + R##-Ls1/Ls2) by reserve.py fill in render.yml, so the schedule never gaps; Monday only fills after 06:00 UTC on the day, leaving the human until the 06:15 UTC run to push a fresh chapter reaction. From 2026-11-30 (competitor study 2026-11-16: chapter-tied videos out-draw evergreen explainers) only Sun is a deep dive; Wed becomes a chapter-tied hot-question long (standard length, written fresh in the chapter week, e.g. the question the newest chapter raised), Fri stays standard.",
   "shorts_per_day": 1,
   "narrator_voice": "am_michael",
   "banned_phrases": [
@@ -161,8 +214,14 @@
       "note": "35-60 s vertical: one sharp claim or story beat, evidence, payoff, last line loops into the first"
     },
     "long": {
-      "words": [1800, 2400],
-      "lines": [90, 240],
+      "words": [
+        1800,
+        2400
+      ],
+      "lines": [
+        90,
+        240
+      ],
       "note": "9-12 min (~200 wpm, 1800-2400 words): analysis/theory breakdown by default, What If at most 1 in 3; deliver the title's promise in the first 10 s"
     },
     "deep": {
@@ -188,8 +247,7 @@
   "publish": {
     "mode": "schedule",
     "short_slots_utc": [
-      "14:30",
-      "17:00"
+      "14:30"
     ],
     "long_slots_utc": [
       "13:00",

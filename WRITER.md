@@ -15,9 +15,18 @@ backlog further ahead of the publish schedule.
 Date is today in IST (`YYYY-MM-DD`). Each session:
 
 1. Run `python plan.py next 4` (a CLOUD_BATCH.md session uses its own count instead). It prints the next 4 missing script IDs in schedule order — format, series, and
-   intended publish date — computed from `channel.json`'s `long_schedule` (from 2026-10-21: **1 long video a day**, `<date>-L`, with **2
-   Shorts cut from it**, `<date>-Ls1` and `<date>-Ls2`; every **Sunday's long is a deep dive**, flagged `DEEP-DIVE`
-   by plan.py, see "Sunday Deep Dive" in section 6), skipping anything
+   intended publish date — computed from `channel.json`'s `long_schedule`. **The week (from 2026-11-18): 4 longs, 7 Shorts, 1 Short a day.**
+   Longs publish **Mon / Wed / Fri / Sun**, `<date>-L`:
+   - **Mon: chapter reaction** (flagged `CHAPTER-REACTION` by plan.py, 1 Short only, `<date>-Ls1`). One Piece chapters drop
+     Sunday, so it is written after the chapter by a human-run session (REACTION.md), not in batches.
+   - **Sun: deep dive** (flagged `DEEP-DIVE`, 2 Shorts; see "Sunday Deep Dive" in section 6). Wed 11-25 is also a deep dive (Every Gear Explained).
+   - **Wed from 2026-11-30: chapter-tied hot question** (standard length, 2 Shorts, style `analysis` or `debate`), written fresh in the chapter week on the biggest open question the newest chapter raised ("Does Dragon Control Nika?!", "Was Gear 6 Planned Since Chapter 1?"). Competitor study 2026-11-16: small faceless channels got 40K-100K views on chapter-tied videos while evergreen explainers got 300-2K, so 3 of 4 weekly longs ride the chapter cycle.
+   - **Fri: standard long** (9-12 min analysis/explained/ranked/debate, 2 Shorts `Ls1`, `Ls2`).
+   The Shorts of a long spill into the following no-long days (one Short slot a day), so no day is without one.
+   **Reserve filler:** `scripts/reserve/` holds standard evergreen longs (`R##-L` + `R##-Ls1`/`R##-Ls2`). `reserve.py fill`
+   (run by `render.yml` every 3 h) moves the oldest one into any long slot still empty for today or tomorrow, so the
+   schedule never gaps (a Monday reaction slot is only filled from 06:00 UTC on the day). Batches therefore write deep dives
+   for the slots plan.py lists and top up the reserve. `python plan.py reserve` lists it. plan.py skips anything
    already sitting in `scripts/backlog/`, `scripts/queue/`, `scripts/done/` or `scripts/failed/`.
 2. Write **exactly the scripts it lists** (each long video with its Shorts). Consecutive long videos must differ in
    character, arc and format, at most 1 in any 3 longs may be a What If (`validate_script.py` enforces it), and none
@@ -32,8 +41,8 @@ Date is today in IST (`YYYY-MM-DD`). Each session:
 5. Push to main (section 9).
 6. Finish with `python plan.py status` and report the coverage (days fully covered from tomorrow) in your summary.
 
-`plan.py` already assigns series for you (One Piece mostly; Naruto/Boruto on Tuesday Shorts, JJK on Saturday
-Shorts; every 4th long video may break from One Piece into a Naruto or JJK long) — follow what it prints.
+`plan.py` already assigns series for you (One Piece mostly; every 4th long video may break from One Piece into a
+Naruto or JJK long, and a Short follows its long's series) — follow what it prints.
 
 ---
 
@@ -63,9 +72,8 @@ Inspect the repository before selecting topics:
 
 ## 3. Topic Selection & High-CTR Formats
 
-**Series mix**: `plan.py` tells you the series for every ID it lists (section 1) — One Piece on most days, Naruto/Boruto
-on Tuesday's Short, JJK on Saturday's Short, and most long videos One Piece with roughly every 4th breaking out to a
-Naruto or JJK What If. Don't override its series choice.
+**Series mix**: `plan.py` tells you the series for every ID it lists (section 1) — about 75% One Piece, with roughly
+every 4th long breaking out to a Naruto or JJK video (`series_weights`: One Piece 6, Naruto 1, JJK 1). Don't override its series choice.
 
 **Fresh official news wins** when choosing the topic within a slot:
 - New One Piece chapter released since Sunday, monthly Boruto chapter, new anime episode, or creator announcements.
@@ -280,7 +288,7 @@ Our voice is synthetic, and fans scroll straight past AI-voice slop. The only wa
 
 **Before pushing, ask for each Short**: would a fan who has read every chapter learn something, or want to argue? If neither, rewrite it.
 
-### Long Video Rules (9-11 min, 1800-2400 words, 90-240 lines; shortened 2026-11-02 because viewers drop off sharply by the 25% mark)
+### Long Video Rules (Fri standard long and Mon chapter reaction: 9-12 min, 1800-2400 words, 90-240 lines; Wed and Sun deep dives follow "Sunday Deep Dive" below; shortened 2026-11-02 because viewers drop off sharply by the 25% mark)
 What wins in long form right now (studied 2026-10-02): Facadify, "What If Luffy Was Raised By Joy Boy?" (233k views in
 6 days, 17 min); Strawhatists, "What If Luffy, Ace & Sabo Were Reborn With Their Memories" (140k, 15 min);
 GrandLineReview, "The Rules Just Changed... (1194)" (538k) and "Imu is a PARROT!" (443k, 17 min). The two What If
@@ -348,8 +356,8 @@ channels are faceless narrated stories like ours and grew past 100k subscribers 
   through. The long's line 1 must deliver what the Short promised (YouTube's Shorts-to-long guide: reward the click
   in the first 5-10 s).
 
-### Sunday Deep Dive (`DEEP-DIVE` in plan.py; set `"deep": true` in the script)
-Watch hours come from long sessions. Once a week the long is a **25-36 minute deep dive** (`channel.json`
+### Sunday Deep Dive (`DEEP-DIVE` in plan.py; set `"deep": true` in the script; Wed too from 2026-11-23)
+Watch hours come from long sessions. Once a week (Sun; Wed 11-25 too) the long is a **25-36 minute deep dive** (`channel.json`
 `formats.deep`: 5000-7200 words, 230-700 lines, at least 8 chapters) on one big **evergreen search topic**: the
 thing people type into YouTube ("Imu Explained", "Every Gear Of Luffy Explained", "The Will Of D Explained", "The
 Uchiha Clan's Full History", "Sukuna's Full Power Explained"). Pick it from `data/community.md`'s "Evergreen search
@@ -393,6 +401,21 @@ curiosity. Any score under 8: rewrite those parts and re-score, at most twice. I
 that video; push the others and say so in the summary. Record the final scores in `notes/<id>.md` under
 `## Editor review` (`validate_script.py` requires it for long videos).
 
+### Format rotation (validator-enforced from 2026-11-25)
+Every long script carries a `"style"` field: `reaction`, `explained`, `ranked`, `debate`, `whatif` or `analysis`
+(required for longs dated 2026-11-25 or later; reserve `R##` ids are exempt). Rules:
+- **Never 3 longs of the same style in a row** (`validate_script.py` compares against the two previous dated longs in
+  backlog, queue and done). Rotate formats.
+- Deep dives (`"deep": true`) use `explained` or `ranked`. Broad-scope titles and ranked lists count (`Every ___ Explained`, `___ Ranked`).
+- `debate` = built around a real viewer comment or a real fandom argument (paraphrase the comment, never invent one).
+- `reaction` = the chapter number (or "Chapter") in the title, posted within 24-48 h of the chapter, official release only, no leaks.
+- `whatif` still counts toward the 1-in-3 What If cap.
+
+### Chapter reaction (Mon)
+The Monday long reacts to the chapter that released on Sunday (MANGA Plus, official only). Write it after the chapter
+(REACTION.md is the runbook): 1800-2400 words, **1 Short** (`<id>s1`), style `reaction`. Title pattern
+`<Topic> In One Piece <N> Explained` or `One Piece <N>: <hook>`. Push to main before 06:15 UTC Monday, otherwise a reserve long fills the slot.
+
 ---
 
 ## 6b. What Competitors Do That We Don't (research 2026-10-26)
@@ -416,10 +439,27 @@ Recent uploads from the channels winning this niche, and what each one teaches:
 - **What they never do:** restate the long video's thesis in a Short, or open with a flat statement of a
   minor plot detail.
 
+## 6c. Competitor study 2026-11-16 (full evidence: data/competitors-2026-11.md)
+- **Chapter-tied beats evergreen right now.** Faceless channels with 1-2K subs got 40K-145K views on 8-11 min
+  chapter 1198/1199 videos (Goofy World, What if Realm, Rocks D Shorts), while evergreen "Void Century / Imu
+  explained" videos from peers got 300-2K. Our own Void Century deep dive (2.3K) is already above that range.
+  So 3 of 4 weekly longs ride the chapter cycle (Mon reaction, Wed hot question, Fri standard) and 1 is a deep dive.
+- **Reaction titles:** ALL-CAPS claim + named character + "?!" + chapter number
+  ("LUFFY'S NEW FORM CHANGES EVERYTHING?! (One Piece 1198)"). Reaction titles may use up to 3 ALL-CAPS words.
+- **Hot questions fans already argue about** win: Shanks' arm, does Dragon control Nika, was Gear 6 planned since chapter 1.
+- **We do not do leak/raw spoiler videos** (no leaked scans, nothing before the official MANGA Plus release): the top
+  small channels do, but Shueisha/Toei strike leak content and the channel can't afford a strike before YPP.
+- **Shorts are trailers, not subscriber engines** (Rocks D Shorts: ~4.1M Short views, 7.4K subs). Every Short's job
+  is to send viewers to its long; keep the comment CTA and end_text.
+- **Originality protects monetization:** opinionated voice ("I think", "my read"), our own argument, unique
+  descriptions (never a copy-paste template), short panel dwell, no narrated-chapter recaps (a 2026-07-17 US court
+  order called TTS anime recaps "not sufficiently transformative").
+- Livestreams/podcasts underperform at our size: skip.
+
 ## 7. Titles, Metadata, and Visual Sourcing
 
 ### Titles & Metadata
-- **Short Titles**: 40-60 characters. Character or series keyword within first 3 words. Clear claim or question. At most one ALL-CAPS word. No hashtags, no emoji spam.
+- **Short Titles**: 40-60 characters. Character or series keyword within first 3 words. Clear claim or question. At most one ALL-CAPS word (a long with style "reaction" may use 3). No hashtags, no emoji spam.
   - *Examples*: `Zoro Was Trained To Kill Imu`, `Why Shanks Fears Blackbeard's Third Fruit`, `Gojo Would Beat Sukuna If He Did This`.
 - **Search first (long videos).** Our long videos get almost no search or home-page traffic (2026-10-16: 89 search
   views of 5.5k). Put the phrase a fan would type in the first 3-4 words (`Imu`, `Mihawk's Haki`, `Gear 5`,

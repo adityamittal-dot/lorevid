@@ -55,6 +55,51 @@ jobs:
             for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
           fi
 
+      - name: Reserve fill
+        run: |
+          # Empty long slots (today and tomorrow, UTC) are filled from scripts/reserve so the schedule never gaps.
+          # A Monday chapter-reaction slot is only filled from 06:00 UTC on the day, so a fresh reaction pushed
+          # before the 06:15 UTC run wins. Filled files are validated like any script; a failure is rejected and the
+          # slot is refilled from the next reserve set on the following run.
+          git config user.name "lorevid-bot"; git config user.email "lorevid-bot@users.noreply.github.com"
+          ntfy() { [ -n "$NTFY_TOPIC" ] && curl -s -d "$1" "ntfy.sh/$NTFY_TOPIC" > /dev/null || true; }
+          out=$(python3 reserve.py fill 2>&1); echo "$out"
+          git add -A scripts notes
+          moved=$(git diff --cached --name-only --diff-filter=AR -- scripts/backlog)
+          if [ -n "$moved" ]; then
+            bad=""
+            for f in $moved; do
+              id=$(basename "$f" .json)
+              if ! vout=$(python3 validate_script.py "$f" 2>&1); then
+                echo "::warning::reserve fill $id failed validation: $vout"
+                bad="$bad $(echo "$id" | sed -E 's/s[0-9]+$//')"
+              fi
+            done
+            ids=""
+            for f in $moved; do
+              id=$(basename "$f" .json); base=$(echo "$id" | sed -E 's/s[0-9]+$//')
+              if [[ " $bad " == *" $base "* ]]; then
+                mkdir -p scripts/rejected; git mv "$f" "scripts/rejected/$id.json"
+                ntfy "lorevid reserve fill $id failed validation (rejected)"
+              else ids="$ids $id"; fi
+            done
+            git add -A scripts notes
+            git commit -qm "reserve fill$ids"
+            for i in 1 2 3; do git pull --rebase -q origin main && git push -q origin main && break; sleep 5; done
+          fi
+          left=$(python3 reserve.py check | grep -oE '[0-9]+$')
+          if grep -q "RESERVE EMPTY" <<< "$out" || [ "${left:-0}" -lt 3 ]; then
+            ntfy "lorevid: reserve is low (${left:-0} set(s) left) - run a CLOUD_BATCH.md session to refill scripts/reserve"
+          fi
+          # Sunday afternoon (UTC): tomorrow's Monday long is a chapter reaction that only the human can write.
+          if [ "$(date -u +%u)" = 7 ] && [ "$(date -u +%H)" -ge 12 ] && [ "$(date -u +%H)" -lt 18 ]; then
+            tomorrow=$(date -u -d "+1 day" +%F)
+            react=$(python3 -c "import datetime,plan;d=datetime.date.fromisoformat('$tomorrow');print(plan.is_react_day(plan.load_channel().get('long_schedule',[]),d))")
+            if [ "$react" = True ] && [ ! -e "scripts/backlog/$tomorrow-L.json" ] && [ ! -e "scripts/queue/$tomorrow-L.json" ] && [ ! -e "scripts/done/$tomorrow-L.json" ]; then
+              ntfy "lorevid: write the chapter reaction for $tomorrow (REACTION.md) and push before 06:15 UTC, otherwise a reserve long fills it"
+            fi
+          fi
+
       - name: Release backlog
         id: release
         run: |
