@@ -1,1083 +1,1389 @@
 {
   "id": "2026-11-20-L",
   "format": "long",
-  "series": "naruto",
-  "wiki": "naruto.fandom.com",
-  "topic": "Gaara showed mercy to Rock Lee, Sakura and Kimimaro before and beyond anything Naruto asked, and the sand guarding him was Karura's mercy the whole time",
-  "title": "Gaara's Mercy Came Before Naruto Ever Asked",
-  "description": "Gaara's first act of mercy happened in the Chunin Exams, before he ever fought Naruto, when he let Rock Lee live after seeing Might Guy's fear. This video follows three mercies in order: the Lee flinch, the Kimimaro pity, and the Shield of Sand that was Karura's love all along.\n\nWas Naruto the cause of Gaara's change, or only the first person to answer it? Watch to the end, then tell me which side you are on.",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "topic": "Crocodile's Alabasta plan kept Princess Vivi in play at every turn, and that choice is what let Luffy and Vivi take the kingdom back",
+  "title": "Crocodile Lost Alabasta Because He Needed Vivi Alive",
+  "description": "Crocodile lost Alabasta because he needed Vivi alive. This One Piece theory breakdown walks through Rain Dinners, the fake key, the chapter 172 choice and the Yuba sandstorm to show how a Warlord who controlled everything kept the one person who could expose him within reach.\n\nWe use chapters 169, 172, 179, 202, 204 and 206 to test the claim, steelman the other side, and ask what it says about Cross Guild. Is the Desert King's real weakness his need to watch his plans work?",
   "hashtags": [
-    "#gaara",
-    "#naruto",
-    "#anime"
+    "#crocodile",
+    "#onepiece",
+    "#vivi",
+    "#alabasta"
   ],
   "tags": [
-    "gaara explained",
-    "gaara mercy",
-    "gaara and naruto",
-    "gaara rock lee",
-    "gaara kimimaro",
-    "gaara karura sand",
-    "gaara shield of sand",
-    "gaara redemption",
-    "naruto theory",
-    "gaara character analysis"
+    "crocodile theory",
+    "crocodile alabasta",
+    "crocodile vivi",
+    "one piece alabasta",
+    "baroque works",
+    "operation utopia",
+    "crocodile plan explained",
+    "one piece theory",
+    "mr 0",
+    "desert king crocodile",
+    "cross guild crocodile"
   ],
-  "music_mood": "emotional",
-  "comment": "Did Naruto change Gaara, or did Gaara's mercy already exist before they ever fought? Pick one side and defend it.",
+  "hook_text": "",
+  "music_mood": "suspense",
+  "comment": "Did Crocodile keep Vivi alive on purpose, or was it plain arrogance? Pick a side.",
   "related_long": null,
   "pages": [
-    "Gaara",
-    "Rock Lee",
-    "Kimimaro",
-    "Karura",
-    "Yashamaru",
-    "Naruto Uzumaki"
+    "Crocodile",
+    "Nefertari Vivi",
+    "Monkey D. Luffy",
+    "Nico Robin",
+    "Alabasta Arc",
+    "Baroque Works"
   ],
   "lines": [
     {
-      "text": "Gaara's mercy came before Naruto ever asked him for anything.",
+      "text": "Crocodile lost Alabasta because he needed Princess Vivi alive, and I don't think that was a slip.",
       "delivery": "punch",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara calm sand Chunin Exams",
-        "fallback": "red haired boy with sand gourd, dark eye rings, anime style"
-      }
-    },
-    {
-      "text": "Everyone says Naruto taught him to care, but I think the first crack came a month earlier.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara looking down Chunin Exams",
-        "fallback": "red haired boy staring at the ground in an arena"
-      }
-    },
-    {
-      "text": "So what did the deadliest genin in the Chunin Exams do with Rock Lee helpless in front of him?",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Rock Lee defeated Gaara sand",
-        "fallback": "green clad young fighter lying in an arena, sand closing in"
-      }
-    },
-    {
-      "text": "Three acts of mercy, in order, and only one was truly his.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara sand gourd",
-        "fallback": "red haired ninja with a giant sand gourd"
-      }
-    },
-    {
-      "text": "The first happens in an arena, with Gaara's sand already closing around Lee's arm and leg...",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "THE ARENA",
-      "shot": {
-        "search": "Gaara sand Lee arm leg arena",
-        "fallback": "sand wrapping around a fighter's limbs in an arena"
-      }
-    },
-    {
-      "text": "But what stopped him wasn't a speech or a punch. It was something Gaara didn't have a word for...",
-      "delivery": "reveal",
       "fx": "zoom",
       "shot": {
-        "search": "Gaara confused Might Guy",
-        "fallback": "red haired boy with a puzzled look, a teacher in green behind him"
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
       }
     },
     {
-      "text": "That's strange, because Suna built Gaara to be a weapon, not a boy who spares anyone.",
+      "text": "He sent her chasing a fake key. He handed her a choice that meant nothing. He never ended her.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara childhood Suna",
-        "fallback": "desert village under a hot sun, anime style"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Chapter 97: the Wind Daimyo cuts Suna's budget, and the Fourth Kazekage decides the village needs a weapon.",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "CHAPTER 97",
-      "shot": {
-        "search": "Rasa Fourth Kazekage Suna",
-        "fallback": "stern masked village leader in a desert hall"
-      }
-    },
-    {
-      "text": "His first two children, Temari and Kankuro, weren't compatible with Shukaku. His third child was.",
+      "text": "So why would a Warlord who planned every grain of sand keep the one person who knew his plan?",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Temari Kankuro Gaara siblings",
-        "fallback": "three siblings in desert clothes standing together"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "So Chiyo sealed the One-Tail into Gaara while he was still unborn inside his mother, Karura.",
+      "text": "Five pieces of proof, from a Seastone cage to the final punch. Which one do you think nobody counts?",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Chiyo Shukaku sealing Gaara",
-        "fallback": "old woman performing a sealing ritual, glowing symbols"
+        "search": "Crocodile Seastone cage Rain Dinners",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Karura died in childbirth, but chapter 547 shows her last act: a vow to always protect that tiny baby.",
-      "delivery": "slow",
+      "text": "This is a theory, and I'll mark where canon ends. The first proof has nothing to do with her, but...",
+      "delivery": "reveal",
       "fx": "none",
       "shot": {
-        "search": "Karura holding baby Gaara",
-        "fallback": "gentle red haired woman holding a newborn"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Keep that vow in your pocket. By the end of this video, it matters more than anything Naruto says.",
+      "text": "Chapter 169. Crocodile locks Smoker and the Straw Hats inside a Seastone cage at Rain Dinners, his private casino.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Seastone cage Rain Dinners",
+        "fallback": "Smoker desert kingdom scene"
+      },
+      "card": "RAIN DINNERS"
+    },
+    {
+      "text": "Seastone is the stone that drains Devil Fruit users, so the people inside that cage have no way out.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Seastone cage Rain Dinners",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "The wiki says his plan was simple: kill Smoker alongside the crew, then call it the result of a fight between them.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker One Piece Alabasta",
+        "fallback": "Smoker desert kingdom scene"
+      }
+    },
+    {
+      "text": "He knows Smoker is a loose cannon, so he writes the cover story before anyone is even dead.",
       "delivery": "aside",
       "fx": "none",
       "shot": {
-        "search": "Karura Gaara flashback",
-        "fallback": "soft memory of a mother smiling at her baby"
+        "search": "Smoker One Piece Alabasta",
+        "fallback": "Smoker desert kingdom scene"
       }
     },
     {
-      "text": "And Gaara didn't start out cruel. As a small child, he tried to be kind to the villagers.",
+      "text": "Smoker had already smelled trouble. The wiki says Crocodile's mere presence at Rainbase made him investigate.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "young Gaara Suna villagers",
-        "fallback": "small red haired child in a desert village, villagers backing away"
+        "search": "Smoker One Piece Alabasta",
+        "fallback": "Smoker desert kingdom scene"
       }
     },
     {
-      "text": "But his sand protected him from everything, so he hurt people without ever understanding the pain he caused.",
+      "text": "Hold that picture. This is a man who tidies up in advance, and who hates loose ends.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "young Gaara sand child alone",
-        "fallback": "lonely child with sand swirling around him"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "At six, he asked his uncle Yashamaru what pain was. Yashamaru said the heart's kind only heals with love.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Yashamaru and young Gaara",
-        "fallback": "kind man with a small red haired child at night"
-      }
-    },
-    {
-      "text": "Then in chapter 130, an Anbu attacks Gaara, and when the mask comes off, it's Yashamaru.",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "CHAPTER 130",
-      "shot": {
-        "search": "Yashamaru unmasked Gaara Anbu",
-        "fallback": "masked attacker revealed as a gentle man, a child in shock"
-      }
-    },
-    {
-      "text": "He says Rasa ordered it. Then he lies, claiming he always hated Gaara and that Karura never loved him either.",
+      "text": "Now put Vivi next to him. She is the first person in Alabasta to uncover his plot.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Yashamaru tells Gaara never loved",
-        "fallback": "man in tears speaking to a child in a dark room"
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
       }
     },
     {
-      "text": "That lie is the hinge of everything. The one person who loved him told him that nobody ever had.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Yashamaru Gaara explosive tags",
-        "fallback": "child watching a man in tears at night"
-      }
-    },
-    {
-      "text": "In chapter 131, the sand shields Gaara from Yashamaru's final blast, and Gaara carves a mark into his forehead.",
-      "delivery": "normal",
-      "fx": "shake",
-      "shot": {
-        "search": "Gaara forehead mark carving",
-        "fallback": "child carving a mark into his own forehead with sand"
-      }
-    },
-    {
-      "text": "He decides to love only himself, and years of that turn him into Gaara of the Sand Waterfall.",
+      "text": "She knows what Mr. 0 is planning. For a man like that, she is the loudest loose end in the kingdom.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara of the Sand Waterfall",
-        "fallback": "cold red haired ninja with a wall of sand behind him"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "A boy who kills strong people to prove that he exists. That's who walks into the Chunin Exams.",
+      "text": "Yet look at what he does with the royal family instead. He doesn't only want them gone.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara cold stare Chunin Exams",
-        "fallback": "cold red haired boy staring straight ahead"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "So nobody in that arena expects mercy. Least of all Gaara himself...",
+      "text": "He has King Cobra brought to him and demands to know where Pluton is.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Pluton Cobra",
+        "fallback": "Cobra desert kingdom scene"
+      }
+    },
+    {
+      "text": "Pluton is an Ancient Weapon, and the royals are his road to it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Pluton Cobra",
+        "fallback": "Crocodile desert kingdom scene"
+      },
+      "card": "PLUTON"
+    },
+    {
+      "text": "When Cobra can't help, he forces the king to lead Miss All Sunday to the Poneglyph.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Pluton Cobra",
+        "fallback": "Cobra desert kingdom scene"
+      }
+    },
+    {
+      "text": "So to Crocodile, a royal is not just a target. A royal is a key. Hold that word, because I'll use it twice.",
       "delivery": "reveal",
       "fx": "none",
       "shot": {
-        "search": "Gaara arena Rock Lee fight",
-        "fallback": "arena crowd watching two young ninja"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Lee's fight against Gaara opens in chapter 81, and for a while it isn't even close.",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "CHAPTER 81",
-      "shot": {
-        "search": "Rock Lee versus Gaara preliminary",
-        "fallback": "green clad fighter facing a sand user in an arena"
-      }
-    },
-    {
-      "text": "Lee is fast, but Gaara's Shield of Sand is faster, and it blocks every single attack.",
+      "text": "The wiki also says his cruelty toward Vivi is personal. He mocks her privileged life to her face.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Shield of Sand blocks Lee",
-        "fallback": "wall of sand blocking a fast kick"
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
       }
     },
     {
-      "text": "Then Lee takes off his ankle weights, and for the first time, someone is quicker than the sand.",
+      "text": "Personal means he isn't hiding from her. He wants her in the room, close enough to hear him.",
       "delivery": "punch",
       "fx": "none",
       "shot": {
-        "search": "Rock Lee removes weights",
-        "fallback": "green clad fighter dropping heavy weights, dust rising"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "He lands a hit on Gaara. Nobody has ever done that before.",
-      "delivery": "punch",
-      "fx": "zoom",
-      "shot": {
-        "search": "Rock Lee hits Gaara",
-        "fallback": "fighter striking a sand user across the face"
-      }
-    },
-    {
-      "text": "Gaara's Armor of Sand starts chipping away, and the face underneath looks excited.",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "CHAPTER 83",
-      "shot": {
-        "search": "Gaara Armor of Sand cracking",
-        "fallback": "cracked armor of sand revealing an excited face"
-      }
-    },
-    {
-      "text": "Lee throws everything into Reverse Lotus, and it's fast enough to rip the Shield of Sand away.",
-      "delivery": "normal",
-      "fx": "shake",
-      "shot": {
-        "search": "Rock Lee Reverse Lotus Gaara",
-        "fallback": "bandaged fighter spinning a bound opponent downward"
-      }
-    },
-    {
-      "text": "Gaara survives it because his sand gourd cushions the blow, but Lee can barely move afterward.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara gourd cushions Reverse Lotus",
-        "fallback": "sand gourd absorbing a crash, dust cloud"
-      }
-    },
-    {
-      "text": "Gaara answers by crushing Lee's arm and leg with his sand. That's the Gaara everyone expects.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara sand crush Lee arm leg",
-        "fallback": "sand tightening around a limp fighter"
-      }
-    },
-    {
-      "text": "Then Might Guy steps in, and the whole scene turns on one small detail.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Might Guy rushes Lee arena",
-        "fallback": "teacher in green rushing to a fallen student"
-      }
-    },
-    {
-      "text": "Gaara sees how afraid Guy is for Lee, a feeling he doesn't understand, and he lets Lee go.",
-      "delivery": "reveal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara watches Guy hold Lee",
-        "fallback": "red haired boy watching a teacher hold his student"
-      }
-    },
-    {
-      "text": "Nobody asked him to. Nobody begged. He looked at Guy and walked away from a kill.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara walks away arena",
-        "fallback": "red haired boy turning his back in an empty arena"
-      }
-    },
-    {
-      "text": "The old Gaara never needed a reason to finish someone. He needed a reason to stop.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara serious face",
-        "fallback": "red haired boy with a heavy, thoughtful look"
-      }
-    },
-    {
-      "text": "That's my first claim: mercy number one wasn't Naruto's doing, and it wasn't even a decision.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara looking at his hands",
-        "fallback": "boy staring at his own hands, sand falling"
-      }
-    },
-    {
-      "text": "It was a flinch, at a kind of love he hadn't seen in years. But a flinch isn't a change of heart...",
-      "delivery": "reveal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara eyes wide Guy Lee",
-        "fallback": "red haired boy with wide eyes, close up"
-      }
-    },
-    {
-      "text": "A month passes. Suna and Oto plan to invade during the finals, with Gaara as the weapon inside the village.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara Temari Kankuro Baki invasion plan",
-        "fallback": "sand ninja huddled over a secret plan at night"
-      }
-    },
-    {
-      "text": "The day before the finals, Gaara walks into Konoha Hospital and goes looking for Lee.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara Konoha Hospital Lee room",
-        "fallback": "red haired boy walking down a hospital corridor"
-      }
-    },
-    {
-      "text": "He tries to kill Lee in his hospital bed. Whatever stopped his hand in the arena has already worn off.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara sand hospital Lee bed",
-        "fallback": "sand creeping toward a hospital bed"
-      }
-    },
-    {
-      "text": "Naruto and Shikamaru stop him in chapters 96 and 97, and that's where Naruto and Gaara really collide.",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "CHAPTER 96",
-      "shot": {
-        "search": "Naruto Shikamaru stop Gaara hospital",
-        "fallback": "two young ninja blocking a doorway against a sand user"
-      }
-    },
-    {
-      "text": "Gaara isn't scared of the two of them. He explains that killing strong people is how he proves he exists.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara explains reason to live Naruto Shikamaru",
-        "fallback": "cold red haired boy speaking to two stunned ninja"
-      }
-    },
-    {
-      "text": "Fair objection: if that was real mercy, why come back for Lee?",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara menacing hospital",
-        "fallback": "shadowy figure with glowing eyes in a hospital hallway"
-      }
-    },
-    {
-      "text": "Because mercy without a reason doesn't survive a night. He had the flinch, but nothing to hang it on.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara thinking alone night",
-        "fallback": "red haired boy sitting alone at night"
-      }
-    },
-    {
-      "text": "Guy's fear showed him something he couldn't name, so he ran back to the only answer he trusted.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Might Guy protects Lee",
-        "fallback": "teacher in green standing guard over a hospital bed"
-      }
-    },
-    {
-      "text": "Naruto watches all of that and understands, because he grew up as a jinchuriki too.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Naruto Uzumaki serious Gaara",
-        "fallback": "blond boy with whisker marks looking at a red haired boy"
-      }
-    },
-    {
-      "text": "But even here, Naruto doesn't ask Gaara for anything. So what does he actually say when they finally fight?",
-      "delivery": "reveal",
-      "fx": "none",
-      "shot": {
-        "search": "Naruto Gaara face off",
-        "fallback": "two young ninja facing each other across a rooftop"
-      }
-    },
-    {
-      "text": "The finals begin, and Gaara's fight against Sasuke gets cut short when the invasion breaks out.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara versus Sasuke finals",
-        "fallback": "two young ninja fighting as an invasion begins"
-      }
-    },
-    {
-      "text": "Sasuke chases Gaara out of the village, but Naruto arrives before Gaara can finish him.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Naruto kicks Gaara away from Sasuke",
-        "fallback": "blond boy kicking a sand user away from his friend"
-      }
-    },
-    {
-      "text": "Sakura steps in the way, and her face reminds Gaara of Yashamaru. It startles him.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Sakura Haruno Gaara startled",
-        "fallback": "pink haired girl facing a startled red haired boy"
-      }
-    },
-    {
-      "text": "He binds her to a tree instead of killing her. That's a second flinch, and Naruto still hasn't said anything.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Sakura bound to tree Gaara",
-        "fallback": "girl pinned to a tree by sand"
-      }
-    },
-    {
-      "text": "Naruto fights him to protect Sakura and Sasuke, not to convert him.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Naruto fights Gaara forest",
-        "fallback": "blond boy running at a giant sand monster"
-      }
-    },
-    {
-      "text": "Gaara puts himself to sleep so Shukaku can take over, and the monster nearly wins.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara Shukaku transformation",
-        "fallback": "giant sand monster rising over a forest"
-      }
-    },
-    {
-      "text": "Then Naruto headbutts him hard enough to break the Shukaku transformation.",
-      "delivery": "punch",
-      "fx": "shake",
-      "shot": {
-        "search": "Naruto headbutt Gaara",
-        "fallback": "blond boy headbutting a red haired boy"
-      }
-    },
-    {
-      "text": "They end up on the ground, too tired to move, and Naruto starts crawling toward Gaara.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Naruto crawling toward Gaara",
-        "fallback": "two exhausted boys on the ground, one crawling toward the other"
-      }
-    },
-    {
-      "text": "Gaara screams at him to stay away. He can't understand why someone else is stronger than him.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara afraid Naruto crawling",
-        "fallback": "frightened red haired boy on the ground"
-      }
-    },
-    {
-      "text": "Naruto's answer isn't a plea. He says he knew the same loneliness, but he found friends, and he'd do anything to protect them.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Naruto speaks to Gaara",
-        "fallback": "blond boy speaking earnestly to a fallen opponent"
-      }
-    },
-    {
-      "text": "Look at what's missing. Naruto never says forgive me, never says stop killing, never asks Gaara for a thing.",
-      "delivery": "reveal",
-      "fx": "zoom",
-      "shot": {
-        "search": "Naruto Gaara eye to eye",
-        "fallback": "two boys looking at each other, quiet"
-      }
-    },
-    {
-      "text": "He just shows Gaara what strength built on friends looks like, and Gaara admits defeat.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara admits defeat Naruto",
-        "fallback": "red haired boy lowering his head in defeat"
-      }
-    },
-    {
-      "text": "Afterward, Gaara apologizes to Temari and Kankuro as they carry him home.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara apologizes Temari Kankuro",
-        "fallback": "two siblings carrying a tired red haired boy"
-      }
-    },
-    {
-      "text": "That apology might be the first piece of mercy that's entirely Gaara's. Not a flinch. A choice.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara Temari Kankuro walking",
-        "fallback": "three siblings walking away together"
-      }
-    },
-    {
-      "text": "Here's where I push back on fans who say Naruto planted it. I think Naruto gave it a name.",
+      "text": "My read: he keeps her near the way a dealer keeps one card back. So what did he do with her?",
       "delivery": "aside",
       "fx": "none",
       "shot": {
-        "search": "Naruto Gaara after fight",
-        "fallback": "blond boy smiling at a red haired boy"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "The seed was already there, in Guy's fear, in Sakura's face, and in a vow made over a newborn.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Karura vow Gaara baby",
-        "fallback": "mother cradling an infant in warm light"
-      }
-    },
-    {
-      "text": "But one seed isn't a forest. The real test comes when Naruto isn't there, and Gaara faces someone just like his old self...",
+      "text": "Because the clearest move he makes is a choice he hands her in chapter 172, and I still can't shake it...",
       "delivery": "reveal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Kimimaro arrival",
-        "fallback": "red haired ninja arriving in a rocky clearing"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Skip ahead past the invasion. Konoha and Suna are allies now, and Gaara is sent to help the Sasuke Recovery Team.",
+      "text": "Chapter 172 is the cleverest cruelty in the whole arc, so slow down for it.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Sasuke Recovery Team",
-        "fallback": "red haired ninja running through a forest at night"
-      }
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      },
+      "card": "CHAPTER 172"
     },
     {
-      "text": "He arrives just as Kimimaro is about to finish off Rock Lee. The same Lee Gaara once crushed.",
+      "text": "Crocodile offers Vivi a sadistic choice, then reveals it would not matter in the end.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara saves Rock Lee Kimimaro",
-        "fallback": "red haired ninja shielding a fallen fighter from a bone user"
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
       }
     },
     {
-      "text": "Gaara feels guilty about Lee's injuries, and he insists on fighting Kimimaro alone so Lee won't be hurt again.",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "CHAPTER 215",
-      "shot": {
-        "search": "Gaara Kimimaro Lee guilty",
-        "fallback": "red haired ninja stepping in front of a bandaged fighter"
-      }
-    },
-    {
-      "text": "The hospital Gaara could not have felt that guilt. Mercy number two, and again, nobody asked.",
+      "text": "That's the wiki's wording. Whatever she picks, her effort means nothing.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara serious Kimimaro",
-        "fallback": "red haired ninja with a grim, determined look"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "He opens with the Sand Waterfall Funeral, the move he used to love. Kimimaro survives it.",
+      "text": "Ask yourself why a man would do that to someone he plans to ruin anyway.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Sand Waterfall Funeral Kimimaro",
-        "fallback": "huge wave of sand burying a bone user"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "He scales up to the Sand Waterfall Imperial Funeral, and Kimimaro survives that too, by pushing his cursed seal to its second level.",
+      "text": "A dead princess can't hope. A hopeful princess can be broken, and that's the point of the game.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "It wasn't the first time he played her. The wiki says he sent Vivi hunting a key that was fake all along.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Imperial Funeral Kimimaro second level",
-        "fallback": "enormous sand collapse, a pale figure with markings rising from it"
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
       }
     },
     {
-      "text": "Now Kimimaro is faster than the sand, and he pins Gaara down with his own spine.",
+      "text": "Think about what that costs her. Time. Chasing a key to nothing while Alabasta burns.",
       "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "A wasted princess is a managed princess. She runs where he points, and never at him.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "He ran Baroque Works the same way for years, hidden behind the faceless alias Mr. 0.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "None of his agents but Robin even knew who Mr. 0 was. That's chapter 114.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Robin One Piece Alabasta",
+        "fallback": "Robin desert kingdom scene"
+      }
+    },
+    {
+      "text": "That man trusted nobody. Yet he let the one person who knew the truth keep moving.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Here is where I want to be fair. Chapter 172 could simply be sadism.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "The wiki does say he enjoys toying with weaker opponents, grinning and laughing while he does it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "But look at the pattern. A fake key. A choice with no outcome. Each one gives Vivi a goal.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "Every goal keeps her moving inside a script he already wrote.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "That's not an accident. That's choreography.",
+      "delivery": "punch",
       "fx": "shake",
       "shot": {
-        "search": "Kimimaro restrains Gaara spine",
-        "fallback": "bone spikes pinning a red haired ninja"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "He swings Dance of the Clematis, and Gaara stops it with the Shield of Shukaku.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Kimimaro Dance of the Clematis Gaara",
-        "fallback": "bone blades blocked by a shield of sand"
-      }
-    },
-    {
-      "text": "This is the line I can't stop thinking about. Gaara congratulates Kimimaro on his performance.",
-      "delivery": "reveal",
-      "fx": "zoom",
-      "shot": {
-        "search": "Gaara speaks to Kimimaro",
-        "fallback": "red haired ninja speaking calmly to a pale opponent"
-      }
-    },
-    {
-      "text": "Then he says he regrets that someone this talented is about to be lost.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara regret Kimimaro talented",
-        "fallback": "red haired ninja with a sorrowful expression"
-      }
-    },
-    {
-      "text": "Kimimaro says he'd give his life for Orochimaru, and Gaara decides he's been brainwashed.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Kimimaro loyal to Orochimaru",
-        "fallback": "pale warrior kneeling before a snake master"
-      }
-    },
-    {
-      "text": "Here's my read: Gaara is looking at his old self, a life built around one master and one reason to exist.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara Kimimaro mirror",
-        "fallback": "two ninja facing each other like reflections"
-      }
-    },
-    {
-      "text": "The old Gaara would have crushed that and felt nothing. This Gaara pities him instead.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara sand Kimimaro underground",
-        "fallback": "sand pulling a figure downward"
-      }
-    },
-    {
-      "text": "That's the same quiet instinct as the arena, except now it has a reason behind it.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara calm after fight",
-        "fallback": "red haired ninja standing quietly in a clearing"
-      }
-    },
-    {
-      "text": "And Kimimaro never gets saved. An illness he already had takes him before his next strike lands.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Kimimaro illness collapses",
-        "fallback": "pale warrior collapsing on the ground"
-      }
-    },
-    {
-      "text": "Afterward, Gaara says Kimimaro reminded him of Naruto: both would do anything to protect what mattered, even when it was evil.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara Lee after Kimimaro",
-        "fallback": "red haired ninja standing beside a bandaged fighter"
-      }
-    },
-    {
-      "text": "Think about that comparison. He sees his friend in the enemy who nearly beat him, not just himself.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara thoughtful Naruto memory",
-        "fallback": "red haired ninja thinking, a blond boy fading in memory"
-      }
-    },
-    {
-      "text": "So Naruto didn't plant mercy. Naruto gave Gaara the lens to recognize it in someone else.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Naruto Gaara friends",
-        "fallback": "blond boy and red haired boy standing side by side"
-      }
-    },
-    {
-      "text": "But there's a third layer of mercy, and fans keep missing it, because it was never Gaara's at all...",
+      "text": "And choreography needs a performer who is still on the stage. Operation Utopia needs a princess to watch it fail.",
       "delivery": "reveal",
       "fx": "none",
       "shot": {
-        "search": "Gaara sand swirl shield",
-        "fallback": "swirling golden sand forming a protective barrier"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Go back to the Shield of Sand that Lee ripped away. Everyone says it's Shukaku protecting him out of self-preservation.",
+      "text": "That key again? A royal opens the way to Pluton, and a royal's presence turns a coup into a tragedy.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Shield of Sand Shukaku",
-        "fallback": "sand forming a shield around a red haired ninja"
+        "search": "Crocodile Pluton Cobra",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Gaara believed that for years. After Yashamaru, he had no reason to think the sand was anything else.",
+      "text": "Most villains attack the royals head on. Crocodile courts them, and that is what makes this so strange.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara childhood sand protects",
-        "fallback": "child surrounded by sand that blocks a blast"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "But the shield guards him even from threats he can't see, which sounds a lot more like a mother than a monster.",
+      "text": "For years he plays the friendly Warlord, beating off pirates until the whole country adores him.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara sand shield automatic",
-        "fallback": "sand rising on its own to block an attack from behind"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Then in the war, Gaara faces a reincarnated Kage: his own father, Rasa.",
+      "text": "He wants Alabasta to tear itself apart, and he wants it to look like the king's fault.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Rasa Fourth Shinobi War",
-        "fallback": "red haired Kage facing his masked father on a battlefield"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Rasa sees how much sand Gaara is moving and assumes he's turned into Shukaku. That's chapter 546.",
-      "delivery": "normal",
-      "fx": "none",
-      "card": "CHAPTER 546",
-      "shot": {
-        "search": "Rasa gold dust Gaara sand",
-        "fallback": "gold dust and sand colliding on a battlefield"
-      }
-    },
-    {
-      "text": "Gaara tells him Shukaku was removed, that his friends saved him, and that he forgives his father.",
+      "text": "He caused the drought with rain ships and Dance Powder, then let rebels rise in a country already starving.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara forgives Rasa",
-        "fallback": "red haired Kage speaking gently to his father"
-      }
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      },
+      "card": "DANCE POWDER"
     },
     {
-      "text": "Then Rasa confesses in chapter 547: the sand that always protected Gaara was his mother's, because she loved him from birth.",
-      "delivery": "reveal",
-      "fx": "zoom",
-      "card": "CHAPTER 547",
-      "shot": {
-        "search": "Rasa tells Gaara Karura sand",
-        "fallback": "old man telling his son a painful truth"
-      }
-    },
-    {
-      "text": "He admits he forced Yashamaru to attack Gaara and lie, to test whether Gaara was fit to be a jinchuriki.",
+      "text": "Notice the trap. The royals look like villains, and he looks like the savior.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Rasa confesses Yashamaru test",
-        "fallback": "stern man confessing with downcast eyes"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Gaara cries. Karura's vow from his birth was kept for years, with no one there to see it.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara crying Karura sand",
-        "fallback": "red haired man weeping as sand takes the shape of a woman"
-      }
-    },
-    {
-      "text": "Years of believing nobody ever loved him, while the thing he hated most about himself was her love.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Karura sand Gaara hug",
-        "fallback": "sand shaped like a mother embracing her grown son"
-      }
-    },
-    {
-      "text": "And look at the order. Gaara forgives Rasa before he learns any of this. That's mercy number three, the hardest one.",
+      "text": "But a story like that has one weak point. Someone from the royal side has to tell the truth.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Kazekage forgiveness",
-        "fallback": "red haired Kage standing before his father in forgiveness"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "He forgave the man who tried to have him killed without any proof that he'd been loved.",
+      "text": "Cobra only learns the truth about the rebellion from Vivi's letter, delivered by her bird Karoo.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Rasa sand Karura",
-        "fallback": "son and father with a mother's shape made of sand between them"
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
       }
     },
     {
-      "text": "So if mercy was in him, in the sand, and in a vow, what exactly did Naruto do?",
+      "text": "That matters. In this whole kingdom, the first honest voice is hers.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "And Crocodile knows exactly who that person is...",
       "delivery": "reveal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Naruto Kazekage friends",
-        "fallback": "young Kage and a blond ninja walking together"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Let me give the strongest case against me. Gaara himself says Naruto saved him from a life of hate.",
+      "text": "So he does something nobody talks about when they talk about his plan.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara thanks Naruto",
-        "fallback": "red haired man smiling faintly at a blond friend"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "He calls Naruto his first and closest friend, and says his old pain was worth it because it led him there.",
+      "text": "The wiki says he hit Yuba with a sandstorm after learning of Luffy's friendship with Toto.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Naruto first friend",
-        "fallback": "two friends smiling at each other"
-      }
+        "search": "Crocodile Yuba sandstorm",
+        "fallback": "Luffy desert kingdom scene"
+      },
+      "card": "YUBA"
     },
     {
-      "text": "He even becomes Kazekage in Naruto's image: serving the village, forgiving old wrongs, pushing the Kage to cooperate.",
+      "text": "Read that again. He found out who Luffy cared about, and aimed the storm there.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Fifth Kazekage hat",
-        "fallback": "young Kage in ceremonial hat looking over his village"
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
       }
     },
     {
-      "text": "If that isn't Naruto changing him, what is? I'll grant it. Naruto changed what Gaara did with the mercy.",
+      "text": "It worked. The wiki says it made Luffy drop his guard.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Kazekage serious",
-        "fallback": "Kage standing resolute before his village"
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
       }
     },
     {
-      "text": "The Shield of Sand kept him alive. Guy's fear stopped his hand. Naruto opened his eyes.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara Guy Naruto",
-        "fallback": "three images side by side, sand, a teacher, a friend"
-      }
-    },
-    {
-      "text": "Three different people, three different kinds of mercy, and Gaara only becomes Gaara when all three line up.",
-      "delivery": "normal",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara portrait mature",
-        "fallback": "grown red haired Kage with calm eyes"
-      }
-    },
-    {
-      "text": "Take any one away and I think he stays the boy who carved a mark into his own forehead.",
+      "text": "This is a man who studies people. He doesn't just fight a pirate. He finds the soft spot first.",
       "delivery": "aside",
       "fx": "none",
       "shot": {
-        "search": "Gaara forehead mark young",
-        "fallback": "child with a mark on his forehead in darkness"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Naruto is the first person who answered Gaara's mercy instead of fearing it. That isn't the same as creating it.",
+      "text": "It's the same skill he used on Robin, whom he treated as a tool and kept close because she was useful.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Naruto Gaara shake hands",
-        "fallback": "blond boy holding out a hand to a red haired boy"
+        "search": "Robin One Piece Alabasta",
+        "fallback": "Robin desert kingdom scene"
       }
     },
     {
-      "text": "That's why the arena scene hits so much harder on a rewatch: Lee's body, Guy's panic, and Gaara looking confused.",
+      "text": "The wiki calls him an expert liar and manipulator. That's the fake key. That's chapter 172.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Lee Guy arena",
-        "fallback": "red haired boy beside a fallen fighter and a worried teacher"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "He doesn't know yet where that feeling came from. We do now.",
+      "text": "He even guessed from the white wrappings on the Straw Hats' arms that it was a safeguard against Mr. 2.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "He read that from almost nothing. Reading a princess is easy by comparison.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "The man profiles everyone he touches, and that includes the princess.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Then comes the backup. If his main plan fails, he has a hidden mechanism that fires a bomb on the capital.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "He even places two of his agents to guard it, in case somebody finds it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "A man this careful is not sloppy about a princess. That's my whole argument in one sentence.",
       "delivery": "reveal",
-      "fx": "zoom",
+      "fx": "none",
       "shot": {
-        "search": "Gaara quiet face",
-        "fallback": "red haired boy staring into the distance"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "My verdict: Naruto didn't teach Gaara mercy. Karura gave it, Guy woke it, and Naruto proved it was safe to keep.",
+      "text": "Which is what I find uncomfortable. The same plan that sees everything still has one hole.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Karura Naruto Guy",
-        "fallback": "four portraits arranged in a row"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "It also explains Kimimaro: only someone who'd been shown mercy could pity an enemy who looked so much like him.",
+      "text": "The hole is a rookie pirate captain, who he thinks is just another rookie.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Gaara Kimimaro pity",
-        "fallback": "red haired ninja looking down at a fallen opponent with sorrow"
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
       }
     },
     {
-      "text": "Mercy that old doesn't need a teacher. It needs someone brave enough to answer it.",
-      "delivery": "slow",
-      "fx": "none",
-      "shot": {
-        "search": "Gaara smile Naruto",
-        "fallback": "red haired man smiling softly"
-      }
-    },
-    {
-      "text": "And if you want to see what happens when no one answers a lonely jinchuriki in time, the Nagato story is next.",
+      "text": "The wiki is blunt about it. Crocodile saw Luffy as someone who knew nothing about the world.",
       "delivery": "normal",
       "fx": "none",
       "shot": {
-        "search": "Nagato Pain Rinnegan",
-        "fallback": "orange haired man with ringed eyes in rain"
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "He told Luffy that once he learned what the seas were really like, he would give up his dream.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "He kept Vivi close because he trusted his control. He dismissed Luffy because he trusted his power.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "So he guarded the plan against the princess, and never against her friends.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Control and power. Hold both words, because the next fights break them both. And the first one starts badly for Luffy...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "Luffy's first meeting with Crocodile is almost embarrassing. Crocodile wins cleanly.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "In chapter 179, Luffy is run through, and Robin is the one who pulls him out.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Robin One Piece Alabasta",
+        "fallback": "Robin desert kingdom scene"
+      }
+    },
+    {
+      "text": "In chapter 202, he is dehydrated, and his own Water Water Pistol brings him back.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "In chapter 206, Crocodile's hook poisons him, and Robin brings the antidote.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Robin One Piece Alabasta",
+        "fallback": "Robin desert kingdom scene"
+      },
+      "card": "CHAPTER 206"
+    },
+    {
+      "text": "Notice Robin. He treated her as a tool, and twice she is the one who saves Luffy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Robin One Piece Alabasta",
+        "fallback": "Robin desert kingdom scene"
+      }
+    },
+    {
+      "text": "Three losses on the page, three rescues. The wiki says Luffy would have died in all three without luck and help.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "The wiki even says that without Luffy's trick against his Logia defense, the third fight goes Crocodile's way.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "So it's not that Luffy was stronger. Crocodile left him alive to suffer, and that was his real bad habit.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "The wiki says that carelessness is why Luffy came back twice and finally won.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "Same habit, again. Crocodile can't finish a thing when he wants to watch it hurt.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Look at what the pattern is. He wins, he lingers, and he lets the other side get back up.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Same man, same weakness, and it's the one thing in his own plan he never planned around...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Before we go further, the strongest argument against me deserves a full hearing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Someone will say Crocodile didn't need Vivi at all. He was just arrogant, and arrogance is enough.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "And honestly, that fits his profile. The wiki says he's pragmatic to the point of treachery.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "He is cruel to agents who fail him or betray him, and ready to sacrifice them for his ambitions.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "So why wouldn't he end Vivi in a second if she were a threat?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "Here's my answer, and yes, it's a theory. A coup that ends the royal line leaves no one to blame.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Crocodile wants a country that hands him the throne, not one that mourns its princess.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "A dead princess is a martyr. A princess alive and helpless, watching her city fall, is how a rebellion ends.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "So I still read it as a plan. You can disagree, but the pattern is hard to wave off.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "There's one more counter. Maybe he simply misjudged her.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Vivi is the first to find out his scheme, and she keeps coming back into his territory anyway.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "That courage is why he can steer her. She isn't hiding. She's chasing him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "And a person chasing you is a rope, not a risk.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Except ropes work both ways, and Vivi isn't the only one pulling on this one.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "Because every Straw Hat came to Alabasta for her, not for him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Luffy didn't care about Operation Utopia as geopolitics. He cared that it hurt his friend.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "The wiki says he grew furious and swore to defeat the Warlord.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "So Crocodile kept alive the one person whose pain would send the strongest rookie straight at him.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "That's the flaw nobody counts. Not the kingdom, not the bomb. Who he left standing.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Now look at the fight that proves it, because this is where his plan finally meets its audience...",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Chapter 204. Luffy finally finds the gap the wiki describes in Crocodile's Logia defense.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      },
+      "card": "LOGIA GAP"
+    },
+    {
+      "text": "Luffy's trick makes the sand solid. For the first time, the Desert King can be hit.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "The best defense he ever had broke on a trick he'd never met, from a crew he never respected.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Then Luffy finishes it with a punch that sends Crocodile through the bedrock.",
+      "delivery": "reveal",
+      "fx": "shake",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "King Cobra watches the battle, and the wiki says he was amazed.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Cobra One Piece Alabasta",
+        "fallback": "Cobra desert kingdom scene"
+      }
+    },
+    {
+      "text": "Think about what happens next. Crocodile falls, and Vivi tells the crowd the truth.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "The wiki says they were astonished, and they hear it from a princess they trust.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "That's the exact thing his story couldn't survive: a royal voice, after the proof.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "If she'd been silenced, Alabasta might never have known who to blame.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Instead, the wiki says Tashigi revokes his Warlord status, and arrests him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Tashigi One Piece Alabasta",
+        "fallback": "Tashigi desert kingdom scene"
+      }
+    },
+    {
+      "text": "The World Government had no choice but to strip him, and they hadn't even noticed a problem until Luffy dealt with him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy One Piece Alabasta",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "And that ripple matters more than most people think.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Smoker later tells Admiral Fujitora about Arabasta. The wiki says that inspired a plan to show the world the chaos Warlords cause.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Smoker One Piece Alabasta",
+        "fallback": "Smoker desert kingdom scene"
+      }
+    },
+    {
+      "text": "The Warlord system was dissolved, and the wiki says Crocodile's actions set that in motion.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "So a single princess left alive helped dismantle a whole system. That's the real size of the mistake.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "And yet I don't think the lesson changed him, at least not fully.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "In Impel Down he sounds almost mellow, and he even offers to help the boy who beat him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "But the wiki also says he refused to fight a weakened Whitebeard, out of pride.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Whitebeard One Piece Alabasta",
+        "fallback": "Whitebeard desert kingdom scene"
+      }
+    },
+    {
+      "text": "Pride again. Same engine, new target.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Then comes the part I really care about, and it's where this stops being history.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Crocodile has built a second organization, Cross Guild, with Mihawk and a figurehead named Buggy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Cross Guild Crocodile Mihawk Buggy",
+        "fallback": "Crocodile desert kingdom scene"
+      },
+      "card": "CROSS GUILD"
+    },
+    {
+      "text": "On paper he stays in the shadows again, letting the clown take the credit.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "He sank a Marine fleet and made Buggy repay a debt to start the company, the wiki says.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Buggy One Piece Alabasta",
+        "fallback": "Buggy desert kingdom scene"
+      }
+    },
+    {
+      "text": "The old pattern is back: a front person, a hidden hand, a grudge.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "And when Buggy accidentally becomes president, Crocodile and Mihawk beat him up, then keep him anyway.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "He keeps someone in front of him again. He needs a person to display. Is that a coincidence?",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Let's put the whole case together, with the evidence ranked from weakest to strongest.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Weakest: in chapter 169 he cages the Straw Hats and Smoker, not Vivi. That's suggestive, not proof.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Seastone cage Rain Dinners",
+        "fallback": "Smoker desert kingdom scene"
+      }
+    },
+    {
+      "text": "Next: he forced Cobra to show Robin the Poneglyph, so royals matter to Pluton.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Pluton Cobra",
+        "fallback": "Cobra desert kingdom scene"
+      }
+    },
+    {
+      "text": "Stronger: the fake key and the chapter 172 choice, because both keep Vivi moving while he watches.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "Strongest: the Yuba sandstorm aimed at Luffy's friendship, which shows he studies the pieces.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Yuba sandstorm",
+        "fallback": "Luffy desert kingdom scene"
+      }
+    },
+    {
+      "text": "Add them up, and Vivi alive isn't an accident. It's the rhythm of the whole plan.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "The verdict, as I read it: Crocodile wasn't stopped by power. He was stopped by who he left alive to push back.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "A man who needs a target for his control has already given his enemies a reason to come.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "So here's what to watch in Cross Guild: who is his Vivi this time?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Cross Guild Crocodile Mihawk Buggy",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "Maybe it's Buggy, who thinks he runs the show and keeps dragging them into fights.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Buggy One Piece Alabasta",
+        "fallback": "Buggy desert kingdom scene"
+      }
+    },
+    {
+      "text": "Maybe it's Mihawk, his partner. Or maybe it's Luffy again, who still remembers what Crocodile did to Vivi.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Vivi One Piece Alabasta",
+        "fallback": "Vivi desert kingdom scene"
+      }
+    },
+    {
+      "text": "I honestly can't tell yet, and that uncertainty is the fun of it.",
+      "delivery": "aside",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "What I'm sure about is the pattern. Every plan Crocodile builds leaves someone standing who can undo it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "Alabasta's version of that was a princess, and she took the kingdom back.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "So the answer to the title isn't that he needed her. It's that he could never stop himself from needing her to watch.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Crocodile Alabasta",
+        "fallback": "Crocodile desert kingdom scene"
+      }
+    },
+    {
+      "text": "And if you want to see how Cross Guild really began, that's the next story.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Cross Guild Crocodile Mihawk Buggy",
+        "fallback": "Crocodile desert kingdom scene"
       }
     }
   ],
   "chapters": [
     {
       "line": 0,
-      "title": "Mercy Before Naruto"
+      "title": "The Princess He Kept"
     },
     {
-      "line": 6,
-      "title": "Built As A Weapon"
+      "line": 5,
+      "title": "Inside The Cage"
     },
     {
       "line": 22,
-      "title": "What Stopped His Hand?"
+      "title": "A Choice That Meant Nothing"
     },
     {
-      "line": 36,
-      "title": "A Month Later"
+      "line": 49,
+      "title": "Aimed At A Friendship"
     },
     {
-      "line": 46,
-      "title": "What Naruto Never Asked"
+      "line": 69,
+      "title": "Three Rescues"
     },
     {
-      "line": 63,
-      "title": "The Enemy He Pitied"
+      "line": 81,
+      "title": "The Best Counter"
     },
     {
-      "line": 82,
-      "title": "The Sand Under Everything"
+      "line": 101,
+      "title": "The Fall"
     },
     {
-      "line": 95,
-      "title": "Whose Mercy Was It?"
+      "line": 127,
+      "title": "The Verdict"
     }
   ],
   "thumbnail": {
-    "text": "WHO TAUGHT HIM?",
-    "highlight": "TAUGHT",
-    "search": "Gaara shocked wide eyes",
-    "search2": "Rock Lee crying",
+    "text": "NEEDED HER",
+    "highlight": "HER",
+    "search": "Crocodile smirk hook",
+    "search2": "Vivi determined",
     "device": "split"
   },
   "sources": [
-    "https://naruto.fandom.com/wiki/Gaara",
-    "https://naruto.fandom.com/wiki/Rock_Lee",
-    "https://naruto.fandom.com/wiki/Gaara_vs._Rock_Lee:_The_Power_of_Youth_Explodes!",
-    "https://naruto.fandom.com/wiki/Showdown:_Gaara_vs._Kimimaro",
-    "https://naruto.fandom.com/wiki/Hospital_Besieged:_The_Evil_Hand_Revealed!",
-    "https://naruto.fandom.com/wiki/Kimimaro"
+    "https://onepiece.fandom.com/wiki/Crocodile",
+    "https://onepiece.fandom.com/wiki/Chapter_207",
+    "https://onepiece.fandom.com/wiki/Chapter_204",
+    "https://onepiece.fandom.com/wiki/Chapter_155"
   ],
   "self_check": {
-    "hook": "Line 1 states the claim that Gaara showed mercy before Naruto asked anything, then promises three acts of mercy and opens on Lee in the arena.",
-    "loop": "Every chapter ends on a question or ellipsis that opens the next mercy; the last chapter pays off before a single pointer to the Nagato story.",
+    "hook": "Line 1 states the title's claim; the question lands on line 3; five-proof promise ends the cold open.",
+    "loop": "every chapter ends on a cliffhanger; payoff line then a one-line pointer",
     "facts_verified": true
   }
 }
