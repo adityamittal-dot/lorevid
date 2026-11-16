@@ -3,143 +3,143 @@
 Manual YouTube Studio follow-ups the API can't do on its own. Check items off as you handle them.
 
 - [ ] Shisui Stopped The Massacre. Obito Still Won. (https://youtu.be/_d8IoeIuaC4) -> thumbnail B saved at output/2026-10-10-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Shisui Saved The Uchiha Clan And Vanished (https://youtu.be/D6c7NcHb0ic) -> related video: Shisui Stopped The Massacre. Obito Still Won. (https://youtu.be/_d8IoeIuaC4)
+- [x] Shisui Saved The Uchiha Clan And Vanished (https://youtu.be/D6c7NcHb0ic) -> related video: Shisui Stopped The Massacre. Obito Still Won. (https://youtu.be/_d8IoeIuaC4)
 - [ ] Why Imu Never Leaves That Throne (https://youtu.be/X_47fI-oJyo) -> thumbnail B saved at output/2026-10-09-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Dragon Baited The Knights Of God Out Of Mary Geoise (https://youtu.be/taDxciq5VlQ) -> thumbnail B saved at output/2026-10-10-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Mihawk Has Had Conqueror's Haki This Whole Time (https://youtu.be/INFRkMI6Vcg) -> thumbnail B saved at output/2026-10-11-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sanji Lost To Judge, Then Won Where It Mattered (https://youtu.be/L6NoYSaba7k) -> thumbnail B saved at output/2026-10-11-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Sanji Beat Judge Without Winning A Fight (https://youtu.be/K8_AkHqTspE) -> related video: Sanji Lost To Judge, Then Won Where It Mattered (https://youtu.be/L6NoYSaba7k)
-- [ ] Mihawk Never Lost. That Isn't Just Skill (https://youtu.be/TdjigPyM0GU) -> related video: Mihawk Has Had Conqueror's Haki This Whole Time (https://youtu.be/INFRkMI6Vcg)
+- [x] Sanji Beat Judge Without Winning A Fight (https://youtu.be/K8_AkHqTspE) -> related video: Sanji Lost To Judge, Then Won Where It Mattered (https://youtu.be/L6NoYSaba7k)
+- [x] Mihawk Never Lost. That Isn't Just Skill (https://youtu.be/TdjigPyM0GU) -> related video: Mihawk Has Had Conqueror's Haki This Whole Time (https://youtu.be/INFRkMI6Vcg)
 - [ ] Vegapunk Didn't Lose At Egghead. He Backed Up. (https://youtu.be/Zm0tzuD6WD8) -> thumbnail B saved at output/2026-10-12-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Gojo Cremated Geto's Body? (https://youtu.be/WDJC6tcFpc4) -> thumbnail B saved at output/2026-10-12-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Gojo's One Choice Gave Kenjaku Geto's Face (https://youtu.be/_bWpB_B68jM) -> related video: What If Gojo Cremated Geto's Body? (https://youtu.be/WDJC6tcFpc4)
-- [ ] Vegapunk's Egghead Ending Was Planned (One Piece) (https://youtu.be/gwd9lkb-fU4) -> related video: Vegapunk Didn't Lose At Egghead. He Backed Up. (https://youtu.be/Zm0tzuD6WD8)
+- [x] Gojo's One Choice Gave Kenjaku Geto's Face (https://youtu.be/_bWpB_B68jM) -> related video: What If Gojo Cremated Geto's Body? (https://youtu.be/WDJC6tcFpc4)
+- [x] Vegapunk's Egghead Ending Was Planned (One Piece) (https://youtu.be/gwd9lkb-fU4) -> related video: Vegapunk Didn't Lose At Egghead. He Backed Up. (https://youtu.be/Zm0tzuD6WD8)
 - [ ] What If Corazon Never Gave Law The Ope Ope Fruit? (https://youtu.be/b6zW12O5Fjc) -> thumbnail B saved at output/2026-10-13-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Nami Paid Arlong The Full 100 Million? (https://youtu.be/2pKNEDascuk) -> thumbnail B saved at output/2026-10-13-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Nami Was Never 7 Million Beli From Freedom (https://youtu.be/2f5WsqqKGXg) -> related video: What If Nami Paid Arlong The Full 100 Million? (https://youtu.be/2pKNEDascuk)
-- [ ] Corazon Didn't Save Law, He Paid Law's Price (https://youtu.be/iuGAbPqE2IE) -> related video: What If Corazon Never Gave Law The Ope Ope Fruit? (https://youtu.be/b6zW12O5Fjc)
+- [x] Nami Was Never 7 Million Beli From Freedom (https://youtu.be/2f5WsqqKGXg) -> related video: What If Nami Paid Arlong The Full 100 Million? (https://youtu.be/2pKNEDascuk)
+- [x] Corazon Didn't Save Law, He Paid Law's Price (https://youtu.be/iuGAbPqE2IE) -> related video: What If Corazon Never Gave Law The Ope Ope Fruit? (https://youtu.be/b6zW12O5Fjc)
 - [ ] One Piece Ends With Brook's Promise, Not The Treasure (https://youtu.be/flNMFeEZdzA) -> thumbnail B saved at output/2026-10-14-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I) -> thumbnail B saved at output/2026-10-14-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Itachi's Crow Was Never Meant To Save Itachi (https://youtu.be/lX60sXg7NtE) -> related video: What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I)
-- [ ] Luffy Made Brook's Promise Before Brook Existed (https://youtu.be/t7_7U0NadSI) -> related video: One Piece Ends With Brook's Promise, Not The Treasure (https://youtu.be/flNMFeEZdzA)
+- [x] Itachi's Crow Was Never Meant To Save Itachi (https://youtu.be/lX60sXg7NtE) -> related video: What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I)
+- [x] Luffy Made Brook's Promise Before Brook Existed (https://youtu.be/t7_7U0NadSI) -> related video: One Piece Ends With Brook's Promise, Not The Treasure (https://youtu.be/flNMFeEZdzA)
 - [ ] What If Franky Kept The Pluton Blueprints? (https://youtu.be/C2YICegGl7Q) -> thumbnail B saved at output/2026-10-15-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Shirahoshi And Jinbe Finish Joy Boy's Broken Promise (https://youtu.be/PqOo_uBGDDQ) -> thumbnail B saved at output/2026-10-15-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Jinbe Gave Luffy What Fisher Tiger Refused (https://youtu.be/kj-1uJhki8g) -> related video: Shirahoshi And Jinbe Finish Joy Boy's Broken Promise (https://youtu.be/PqOo_uBGDDQ)
-- [ ] Franky's Fire Kept Pluton Away From Elbaf's Tree (https://youtu.be/PufMzlFWEyI) -> related video: What If Franky Kept The Pluton Blueprints? (https://youtu.be/C2YICegGl7Q)
+- [x] Jinbe Gave Luffy What Fisher Tiger Refused (https://youtu.be/kj-1uJhki8g) -> related video: Shirahoshi And Jinbe Finish Joy Boy's Broken Promise (https://youtu.be/PqOo_uBGDDQ)
+- [x] Franky's Fire Kept Pluton Away From Elbaf's Tree (https://youtu.be/PufMzlFWEyI) -> related video: What If Franky Kept The Pluton Blueprints? (https://youtu.be/C2YICegGl7Q)
 - [ ] Blackbeard Raided Drum Island For Chopper (1177) (https://youtu.be/dHwTU31_KnM) -> thumbnail B saved at output/2026-10-16-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Megumi Was Always Going to Lose Sukuna's Shikigami Trap (https://youtu.be/JnktEyahN8A) -> thumbnail B saved at output/2026-10-16-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Sukuna Saved Megumi Because He Wanted His Body (https://youtu.be/UBJ9chCl83o) -> related video: Why Megumi Was Always Going to Lose Sukuna's Shikigami Trap (https://youtu.be/JnktEyahN8A)
-- [ ] Blackbeard Raided Drum For Chopper's Fruit (https://youtu.be/XlHyah3AN2k) -> related video: Blackbeard Raided Drum Island For Chopper (1177) (https://youtu.be/dHwTU31_KnM)
+- [x] Sukuna Saved Megumi Because He Wanted His Body (https://youtu.be/UBJ9chCl83o) -> related video: Why Megumi Was Always Going to Lose Sukuna's Shikigami Trap (https://youtu.be/JnktEyahN8A)
+- [x] Blackbeard Raided Drum For Chopper's Fruit (https://youtu.be/XlHyah3AN2k) -> related video: Blackbeard Raided Drum Island For Chopper (1177) (https://youtu.be/dHwTU31_KnM)
 - [ ] Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E) -> thumbnail B saved at output/2026-10-17-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI) -> thumbnail B saved at output/2026-10-17-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Zoro's Haki Came From A Sword, Not A Teacher (https://youtu.be/TlbN6-gSdzc) -> related video: Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI)
-- [ ] Kaido's Dragon Form Was His Trap, Not His Peak (https://youtu.be/2WcRnIGM2jc) -> related video: Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E)
+- [x] Zoro's Haki Came From A Sword, Not A Teacher (https://youtu.be/TlbN6-gSdzc) -> related video: Why Zoro Never Learned Haki Like Luffy (https://youtu.be/6IMaji7mwuI)
+- [x] Kaido's Dragon Form Was His Trap, Not His Peak (https://youtu.be/2WcRnIGM2jc) -> related video: Why Kaido's Dragon Form Was Never Really the Strongest Move (https://youtu.be/DCGJyERNf9E)
 - [ ] Why Enel Had to Fight Luffy in the Sky Island (https://youtu.be/FbtK5VnHVhg) -> thumbnail B saved at output/2026-10-18-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Itachi Never Put Naruto In Tsukuyomi. Here's Why (https://youtu.be/rmrMFXovOfs) -> related video: What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I)
-- [ ] Only Rubber Could Touch the Sky God Enel (https://youtu.be/pkXBsbniZnk) -> related video: Why Enel Had to Fight Luffy in the Sky Island (https://youtu.be/FbtK5VnHVhg)
+- [x] Itachi Never Put Naruto In Tsukuyomi. Here's Why (https://youtu.be/rmrMFXovOfs) -> related video: What If Itachi Never Put The Crow In Naruto? (https://youtu.be/aND4ORS0J4I)
+- [x] Only Rubber Could Touch the Sky God Enel (https://youtu.be/pkXBsbniZnk) -> related video: Why Enel Had to Fight Luffy in the Sky Island (https://youtu.be/FbtK5VnHVhg)
 - [ ] Why Bartolomeo Idolizes Luffy More Than Anyone (https://youtu.be/NbVz6Jp-be8) -> thumbnail B saved at output/2026-10-19-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Smoker Chased Luffy Harder Than Anyone (https://youtu.be/UWd1zn38m44) -> thumbnail B saved at output/2026-10-19-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Smoker Abandoned His Post For One Pirate (https://youtu.be/o-OT8-a3FAU) -> related video: Why Smoker Chased Luffy Harder Than Anyone (https://youtu.be/UWd1zn38m44)
-- [ ] Why Bartolomeo Bows Before Luffy's Ship Itself (https://youtu.be/ouxxNftr2Ak) -> related video: Why Bartolomeo Idolizes Luffy More Than Anyone (https://youtu.be/NbVz6Jp-be8)
+- [x] Smoker Abandoned His Post For One Pirate (https://youtu.be/o-OT8-a3FAU) -> related video: Why Smoker Chased Luffy Harder Than Anyone (https://youtu.be/UWd1zn38m44)
+- [x] Why Bartolomeo Bows Before Luffy's Ship Itself (https://youtu.be/ouxxNftr2Ak) -> related video: Why Bartolomeo Idolizes Luffy More Than Anyone (https://youtu.be/NbVz6Jp-be8)
 - [ ] Shirahoshi's Tears Were The Plot's Hidden Trigger (https://youtu.be/oIqwNCHl83A) -> thumbnail B saved at output/2026-10-20-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Choso Was The Best Brother Yuji Never Knew (https://youtu.be/H75qutoUAXc) -> thumbnail B saved at output/2026-10-20-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Choso Felt Yuji's Ending Coming Before Yuji Did (https://youtu.be/xzCTx35MYqM) -> related video: Choso Was The Best Brother Yuji Never Knew (https://youtu.be/H75qutoUAXc)
-- [ ] Shirahoshi's Crying Is The Weapon Fans Laughed At (https://youtu.be/ry_gPrU1gpw) -> related video: Shirahoshi's Tears Were The Plot's Hidden Trigger (https://youtu.be/oIqwNCHl83A)
+- [x] Choso Felt Yuji's Ending Coming Before Yuji Did (https://youtu.be/xzCTx35MYqM) -> related video: Choso Was The Best Brother Yuji Never Knew (https://youtu.be/H75qutoUAXc)
+- [x] Shirahoshi's Crying Is The Weapon Fans Laughed At (https://youtu.be/ry_gPrU1gpw) -> related video: Shirahoshi's Tears Were The Plot's Hidden Trigger (https://youtu.be/oIqwNCHl83A)
 - [ ] Why Buggy's Clown Fruit Was Underrated in the Final Saga (https://youtu.be/MHb3I5eOTu0) -> thumbnail B saved at output/2026-10-21-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Buggy's Chop-Chop Fruit Makes Swords Useless (https://youtu.be/UIDzf2rP8OQ) -> related video: Why Buggy's Clown Fruit Was Underrated in the Final Saga (https://youtu.be/MHb3I5eOTu0)
-- [ ] Buggy Is the Cross Guild's Figurehead, Not Its Brain (https://youtu.be/kuCop70-NK0) -> related video: Why Buggy's Clown Fruit Was Underrated in the Final Saga (https://youtu.be/MHb3I5eOTu0)
+- [x] Buggy's Chop-Chop Fruit Makes Swords Useless (https://youtu.be/UIDzf2rP8OQ) -> related video: Why Buggy's Clown Fruit Was Underrated in the Final Saga (https://youtu.be/MHb3I5eOTu0)
+- [x] Buggy Is the Cross Guild's Figurehead, Not Its Brain (https://youtu.be/kuCop70-NK0) -> related video: Why Buggy's Clown Fruit Was Underrated in the Final Saga (https://youtu.be/MHb3I5eOTu0)
 - [ ] Nico Robin Chose Blueno's Door On Purpose (https://youtu.be/XAZv-KlKNPI) -> thumbnail B saved at output/2026-10-22-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Robin Walked Through Blueno's Door On Purpose (https://youtu.be/ZBMN9xSOiMI) -> related video: Nico Robin Chose Blueno's Door On Purpose (https://youtu.be/XAZv-KlKNPI)
-- [ ] Luffy Burned That Flag For One Sentence (https://youtu.be/f8aFS7Q7V-8) -> related video: Nico Robin Chose Blueno's Door On Purpose (https://youtu.be/XAZv-KlKNPI)
+- [x] Robin Walked Through Blueno's Door On Purpose (https://youtu.be/ZBMN9xSOiMI) -> related video: Nico Robin Chose Blueno's Door On Purpose (https://youtu.be/XAZv-KlKNPI)
+- [x] Luffy Burned That Flag For One Sentence (https://youtu.be/f8aFS7Q7V-8) -> related video: Nico Robin Chose Blueno's Door On Purpose (https://youtu.be/XAZv-KlKNPI)
 - [ ] Yuji Itadori: Why Yuji Had To Lose Before Sukuna Could Win (https://youtu.be/ftKsYBztMxY) -> thumbnail B saved at output/2026-10-23-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Yuji's Shibuya Loss Was Sukuna's Setup (https://youtu.be/K6zltYSamPE) -> related video: Yuji Itadori: Why Yuji Had To Lose Before Sukuna Could Win (https://youtu.be/ftKsYBztMxY)
-- [ ] Yuji Pulled Sukuna Out Of Megumi's Body (https://youtu.be/-4K4VqcdsVs) -> related video: Yuji Itadori: Why Yuji Had To Lose Before Sukuna Could Win (https://youtu.be/ftKsYBztMxY)
+- [x] Yuji's Shibuya Loss Was Sukuna's Setup (https://youtu.be/K6zltYSamPE) -> related video: Yuji Itadori: Why Yuji Had To Lose Before Sukuna Could Win (https://youtu.be/ftKsYBztMxY)
+- [x] Yuji Pulled Sukuna Out Of Megumi's Body (https://youtu.be/-4K4VqcdsVs) -> related video: Yuji Itadori: Why Yuji Had To Lose Before Sukuna Could Win (https://youtu.be/ftKsYBztMxY)
 - [ ] Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE) -> thumbnail B saved at output/2026-10-24-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Naruto's Pain Undid His Own Lesson (https://youtu.be/FhDKMhypHkk) -> related video: Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE)
-- [ ] Naruto Beat Pain Without Out-Hurting Him (https://youtu.be/tF-RZhKwbCo) -> related video: Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE)
+- [x] Naruto's Pain Undid His Own Lesson (https://youtu.be/FhDKMhypHkk) -> related video: Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE)
+- [x] Naruto Beat Pain Without Out-Hurting Him (https://youtu.be/tF-RZhKwbCo) -> related video: Nagato's Rinne Rebirth: Why Pain Undid His Own Plan (https://youtu.be/3_SpT6eA_OE)
 - [ ] Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI) -> thumbnail B saved at output/2026-10-25-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Garp Trained Luffy Before Rayleigh Did (https://youtu.be/trQw3nbVXnw) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
-- [ ] Hyogoro Taught Luffy The Sharper Haki (https://youtu.be/jC-XU1h9QLQ) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
+- [x] Garp Trained Luffy Before Rayleigh Did (https://youtu.be/trQw3nbVXnw) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
+- [x] Hyogoro Taught Luffy The Sharper Haki (https://youtu.be/jC-XU1h9QLQ) -> related video: Who Taught Luffy Haki? Garp Built The Body First (https://youtu.be/FHgJtZfjkuI)
 - [ ] Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new) -> thumbnail B saved at output/2026-10-26-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Shanks Let Blackbeard Walk Away From Marineford (https://youtu.be/Y6tWyxvhYo0) -> related video: Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new)
-- [ ] Shanks Stopped Marineford One Day Before It Started (https://youtu.be/Oqhcl3s2Meg) -> related video: Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new)
+- [x] Shanks Let Blackbeard Walk Away From Marineford (https://youtu.be/Y6tWyxvhYo0) -> related video: Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new)
+- [x] Shanks Stopped Marineford One Day Before It Started (https://youtu.be/Oqhcl3s2Meg) -> related video: Why Shanks Stopped The War At Marineford (https://youtu.be/4Va3DRP7new)
 - [ ] Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA) -> thumbnail B saved at output/2026-10-27-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Minato Rejected Kushina's Plan To End The Nine-Tails (https://youtu.be/1_XG34a4vGw) -> related video: Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA)
-- [ ] Naruto's Childhood Pranks Were Never About Being Funny (https://youtu.be/n7KaUIZXZvA) -> related video: Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA)
+- [x] Minato Rejected Kushina's Plan To End The Nine-Tails (https://youtu.be/1_XG34a4vGw) -> related video: Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA)
+- [x] Naruto's Childhood Pranks Were Never About Being Funny (https://youtu.be/n7KaUIZXZvA) -> related video: Minato Sealed The Nine-Tails Inside Naruto On Purpose (https://youtu.be/I0UrJRV-4bA)
 - [ ] Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q) -> thumbnail B saved at output/2026-10-28-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Kuma's Shutdown Command Failed Because Of Bonney (https://youtu.be/29qqOgaGA50) -> related video: Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q)
-- [ ] Kuma's Devil Fruit Already Explained His Choice (https://youtu.be/PsHeDl5oOjc) -> related video: Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q)
+- [x] Kuma's Shutdown Command Failed Because Of Bonney (https://youtu.be/29qqOgaGA50) -> related video: Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q)
+- [x] Kuma's Devil Fruit Already Explained His Choice (https://youtu.be/PsHeDl5oOjc) -> related video: Why Kuma Gave Up His Mind For Bonney (https://youtu.be/Yr2z9ogpr3Q)
 - [ ] Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y) -> thumbnail B saved at output/2026-10-29-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Doflamingo's Birdcage Trapped Himself, Not His Enemies (https://youtu.be/VSG3Bv8w4HQ) -> related video: Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y)
-- [ ] Law Let Doflamingo Capture Him On Purpose (https://youtu.be/NlB4WvST-O8) -> related video: Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y)
+- [x] Doflamingo's Birdcage Trapped Himself, Not His Enemies (https://youtu.be/VSG3Bv8w4HQ) -> related video: Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y)
+- [x] Law Let Doflamingo Capture Him On Purpose (https://youtu.be/NlB4WvST-O8) -> related video: Doflamingo Lost Dressrosa The Moment Law Showed Up (https://youtu.be/Dld4uNlYq-Y)
 - [ ] What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q) -> thumbnail B saved at output/2026-10-30-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Yamato's War With Kaidou Is Built On One Page (https://youtu.be/xVVkHxSvJmw) -> related video: What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q)
-- [ ] Momonosuke Already Refused Oden's Final Wish (https://youtu.be/6QTbdrERUMo) -> related video: What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q)
+- [x] Yamato's War With Kaidou Is Built On One Page (https://youtu.be/xVVkHxSvJmw) -> related video: What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q)
+- [x] Momonosuke Already Refused Oden's Final Wish (https://youtu.be/6QTbdrERUMo) -> related video: What If Oden Never Opened Wano's Borders? (https://youtu.be/g58AU-UX76Q)
 - [ ] Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA) -> thumbnail B saved at output/2026-10-31-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Nanami's One Edge On Mahito Was Gone By Shibuya (https://youtu.be/Yk3z3kRiFFw) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
-- [ ] Nanami's Rule For Sorcerers Came From One Loss (https://youtu.be/I93yqVdzBZ4) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
+- [x] Nanami's One Edge On Mahito Was Gone By Shibuya (https://youtu.be/Yk3z3kRiFFw) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
+- [x] Nanami's Rule For Sorcerers Came From One Loss (https://youtu.be/I93yqVdzBZ4) -> related video: Nanami Was Never Supposed To Survive Shibuya (https://youtu.be/81EPU4XrEmA)
 - [ ] The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM) -> thumbnail B saved at output/2026-11-01-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Joy Boy Is The One Person Imu Still Fears (https://youtu.be/-DmJNulftsA) -> related video: The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM)
-- [ ] Joy Boy Broke A Promise Nobody's Ever Finished (https://youtu.be/NZKXkDxHwz8) -> related video: The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM)
+- [x] Joy Boy Is The One Person Imu Still Fears (https://youtu.be/-DmJNulftsA) -> related video: The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM)
+- [x] Joy Boy Broke A Promise Nobody's Ever Finished (https://youtu.be/NZKXkDxHwz8) -> related video: The Void Century: Everything Joy Boy Left Behind (https://youtu.be/1h-0nNkIsTM)
 - [ ] Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II) -> thumbnail B saved at output/2026-11-02-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Akainu Aimed Past Ace At Luffy (https://youtu.be/F-SrHFPMXyE) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
-- [ ] Akainu Weaponized A 20-Year Grudge (https://youtu.be/JVcyjGwE648) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
+- [x] Akainu Aimed Past Ace At Luffy (https://youtu.be/F-SrHFPMXyE) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
+- [x] Akainu Weaponized A 20-Year Grudge (https://youtu.be/JVcyjGwE648) -> related video: Why Akainu Chased Ace Instead Of Whitebeard (https://youtu.be/w0ou8HFL-II)
 - [ ] Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU) -> thumbnail B saved at output/2026-11-03-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
-- [ ] Luffy Covered His Secret With Respect (https://youtu.be/A-SMnKqvTNU) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
-- [ ] The Moment Katakuri's Family Failed Him (https://youtu.be/-QW_9DMaw68) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
+- [x] Luffy Covered His Secret With Respect (https://youtu.be/A-SMnKqvTNU) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
+- [x] The Moment Katakuri's Family Failed Him (https://youtu.be/-QW_9DMaw68) -> related video: Why Katakuri Respected Luffy More Than His Own Family (https://youtu.be/yF6dOJccBTU)
 - [ ] Why Itachi Never Used Tsukuyomi On Naruto (https://youtu.be/-BhlD-14tcc) -> thumbnail B saved at output/2026-10-18-L2/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM) -> thumbnail B saved at output/2026-11-04-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Jiraiya Almost Walked Away From Three Orphans (https://youtu.be/T4kenErqIl8) -> related video: Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM)
-- [ ] Nagato's Name Lives On In Naruto (https://youtu.be/S9c_jpZ-B0g) -> related video: Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM)
+- [x] Jiraiya Almost Walked Away From Three Orphans (https://youtu.be/T4kenErqIl8) -> related video: Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM)
+- [x] Nagato's Name Lives On In Naruto (https://youtu.be/S9c_jpZ-B0g) -> related video: Jiraiya Chose Nagato Before He Ever Chose Naruto (https://youtu.be/Yetwayz6QfM)
 - [ ] Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w) -> thumbnail B saved at output/2026-11-05-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Garling Designed God Valley For Profit (https://youtu.be/5bLxj6oasAs) -> related video: Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w)
-- [ ] How Garling Climbed To The Five Elders (https://youtu.be/xAeaVQ8oahU) -> related video: Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w)
+- [x] Garling Designed God Valley For Profit (https://youtu.be/5bLxj6oasAs) -> related video: Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w)
+- [x] How Garling Climbed To The Five Elders (https://youtu.be/xAeaVQ8oahU) -> related video: Garling Led God Valley, Then Got Promoted For It (https://youtu.be/LYHOFedJb1w)
 - [ ] What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w) -> thumbnail B saved at output/2026-11-06-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Without Sogeking, The Flag Never Burns (https://youtu.be/l3cQ-bS7ICo) -> related video: What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w)
-- [ ] Without Usopp, Nami's Plan Falls Apart (https://youtu.be/iLirQqdxeDs) -> related video: What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w)
+- [x] Without Sogeking, The Flag Never Burns (https://youtu.be/l3cQ-bS7ICo) -> related video: What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w)
+- [x] Without Usopp, Nami's Plan Falls Apart (https://youtu.be/iLirQqdxeDs) -> related video: What If Usopp Never Left Syrup Village? (https://youtu.be/LqENraYPV8w)
 - [ ] Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw) -> thumbnail B saved at output/2026-11-07-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Mother Carmel Vanished On Her Birthday (https://youtu.be/Ah_gqr2ZA3c) -> related video: Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw)
-- [ ] Mother Carmel Was Actually A Trafficker (https://youtu.be/Sy5iN93BDng) -> related video: Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw)
+- [x] Mother Carmel Vanished On Her Birthday (https://youtu.be/Ah_gqr2ZA3c) -> related video: Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw)
+- [x] Mother Carmel Was Actually A Trafficker (https://youtu.be/Sy5iN93BDng) -> related video: Big Mom Never Recovered From Losing Mother Carmel (https://youtu.be/5TvA3sAAGHw)
 - [ ] Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y) -> thumbnail B saved at output/2026-11-08-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Sukuna Abandoned Yuji For A Better Body (https://youtu.be/UnrhjJo5uy4) -> related video: Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y)
-- [ ] Sukuna's Domain Beat Gojo's (https://youtu.be/CKiNxAmv_XM) -> related video: Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y)
+- [x] Sukuna Abandoned Yuji For A Better Body (https://youtu.be/UnrhjJo5uy4) -> related video: Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y)
+- [x] Sukuna's Domain Beat Gojo's (https://youtu.be/CKiNxAmv_XM) -> related video: Sukuna Explained: The King of Curses' Full Story (https://youtu.be/RUkRiKnZe3Y)
 - [ ] Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs) -> thumbnail B saved at output/2026-11-09-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Only Marco Pulled Kizaru Into A Real Fight (https://youtu.be/_jlVmrQ57QI) -> related video: Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs)
-- [ ] Kizaru's First Move On Sabaody Wasn't A Fight (https://youtu.be/PyGAllHR4x8) -> related video: Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs)
+- [x] Only Marco Pulled Kizaru Into A Real Fight (https://youtu.be/_jlVmrQ57QI) -> related video: Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs)
+- [x] Kizaru's First Move On Sabaody Wasn't A Fight (https://youtu.be/PyGAllHR4x8) -> related video: Kizaru's Calm Finally Cracked At Egghead (https://youtu.be/voleYbvUFQs)
 - [ ] Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k) -> thumbnail B saved at output/2026-11-10-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] The Giant Prince Who Begged To Join Rocks' Crew (https://youtu.be/fam-TtS3m0Q) -> related video: Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k)
-- [ ] The Island Rocks Ruled Before Blackbeard Ever Did (https://youtu.be/PrT_vYK3M94) -> related video: Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k)
+- [x] The Giant Prince Who Begged To Join Rocks' Crew (https://youtu.be/fam-TtS3m0Q) -> related video: Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k)
+- [x] The Island Rocks Ruled Before Blackbeard Ever Did (https://youtu.be/PrT_vYK3M94) -> related video: Blackbeard Is Quietly Rebuilding His Father's Crew (https://youtu.be/Yflu3-oHf8k)
 - [ ] Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c) -> thumbnail B saved at output/2026-11-11-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Eustass Kid's Metal Box Split Big Mom From Her Homies (https://youtu.be/npUrftTWjAo) -> related video: Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c)
-- [ ] Hawkins Sabotaged Eustass Kid's New Arm Mid-Battle (https://youtu.be/ad6uO4lyBnc) -> related video: Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c)
+- [x] Eustass Kid's Metal Box Split Big Mom From Her Homies (https://youtu.be/npUrftTWjAo) -> related video: Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c)
+- [x] Hawkins Sabotaged Eustass Kid's New Arm Mid-Battle (https://youtu.be/ad6uO4lyBnc) -> related video: Eustass Kid's Pride Beat Kaido, Then Cost Him Everything (https://youtu.be/oeH2sBh0H5c)
 - [ ] Why Hashirama Never Stopped Trusting Madara (https://youtu.be/PdHdIqZKths) -> thumbnail B saved at output/2026-11-12-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Why Hashirama Never Stopped Trusting Madara (https://youtu.be/PdHdIqZKths) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Hashirama Offered His Own Life for Peace (https://youtu.be/-6m4nt3j4oo) -> related video: Why Hashirama Never Stopped Trusting Madara (https://youtu.be/PdHdIqZKths)
-- [ ] Madara Could Spot a Clone. So How Was He Fooled? (https://youtu.be/3bM-8bjDJuY) -> related video: Why Hashirama Never Stopped Trusting Madara (https://youtu.be/PdHdIqZKths)
+- [x] Hashirama Offered His Own Life for Peace (https://youtu.be/-6m4nt3j4oo) -> related video: Why Hashirama Never Stopped Trusting Madara (https://youtu.be/PdHdIqZKths)
+- [x] Madara Could Spot a Clone. So How Was He Fooled? (https://youtu.be/3bM-8bjDJuY) -> related video: Why Hashirama Never Stopped Trusting Madara (https://youtu.be/PdHdIqZKths)
 - [ ] Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY) -> thumbnail B saved at output/2026-11-13-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Nobody Has Proven Dragon Made That Storm (https://youtu.be/nf5ByegcktM) -> related video: Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY)
-- [ ] Smoker Pointed Luffy At Gold Roger's Scaffold (https://youtu.be/5pOwwT_hvpU) -> related video: Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY)
+- [x] Nobody Has Proven Dragon Made That Storm (https://youtu.be/nf5ByegcktM) -> related video: Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY)
+- [x] Smoker Pointed Luffy At Gold Roger's Scaffold (https://youtu.be/5pOwwT_hvpU) -> related video: Dragon's Wind At Loguetown: Who Really Made It? (https://youtu.be/ecumN96BTuY)
 - [ ] Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0) -> thumbnail B saved at output/2026-11-14-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Gaban's Axes Stopped a God's Finishing Move (https://youtu.be/A6oynVVKt8s) -> related video: Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0)
-- [ ] Zoro Had Supreme King Haki and Never Noticed (https://youtu.be/Ms-8yXdicGQ) -> related video: Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0)
+- [x] Gaban's Axes Stopped a God's Finishing Move (https://youtu.be/A6oynVVKt8s) -> related video: Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0)
+- [x] Zoro Had Supreme King Haki and Never Noticed (https://youtu.be/Ms-8yXdicGQ) -> related video: Scopper Gaban Really Was Roger's Second Strongest Pirate (https://youtu.be/QnBdPDCAQr0)
 - [ ] Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw) -> thumbnail B saved at output/2026-11-15-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Fujitora Held Back Against Sabo For A Reason (https://youtu.be/V7o_9-wSGUg) -> related video: Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw)
-- [ ] Dragon Would Never Forgive Sabo For This One Thing (https://youtu.be/5kZQG-NIh8U) -> related video: Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw)
+- [x] Fujitora Held Back Against Sabo For A Reason (https://youtu.be/V7o_9-wSGUg) -> related video: Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw)
+- [x] Dragon Would Never Forgive Sabo For This One Thing (https://youtu.be/5kZQG-NIh8U) -> related video: Sabo Explained: Why His Oath Outlived Every Pirate Crew (https://youtu.be/097yMs83jDw)
 - [ ] Toji Was The Only Sorcerer Who Could Have Ended Gojo (https://youtu.be/VCEEBwv0SLU) -> thumbnail B saved at output/2026-11-16-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Toji Was The Only Sorcerer Who Could Have Ended Gojo (https://youtu.be/VCEEBwv0SLU) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
-- [ ] Toji's Bounty Timer Was Built To Bore Gojo (https://youtu.be/Z1MwCJBDGxQ) -> related video: Toji Was The Only Sorcerer Who Could Have Ended Gojo (https://youtu.be/VCEEBwv0SLU)
-- [ ] Toji's Final Words Handed Gojo A Son To Raise (https://youtu.be/Aalo8QKtFls) -> related video: Toji Was The Only Sorcerer Who Could Have Ended Gojo (https://youtu.be/VCEEBwv0SLU)
+- [x] Toji's Bounty Timer Was Built To Bore Gojo (https://youtu.be/Z1MwCJBDGxQ) -> related video: Toji Was The Only Sorcerer Who Could Have Ended Gojo (https://youtu.be/VCEEBwv0SLU)
+- [x] Toji's Final Words Handed Gojo A Son To Raise (https://youtu.be/Aalo8QKtFls) -> related video: Toji Was The Only Sorcerer Who Could Have Ended Gojo (https://youtu.be/VCEEBwv0SLU)
 - [ ] Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc) -> thumbnail B saved at output/2026-11-17-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Jinbe And Ace Fought Five Days Over Whitebeard (https://youtu.be/ne-AQl7ovi8) -> related video: Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc)
