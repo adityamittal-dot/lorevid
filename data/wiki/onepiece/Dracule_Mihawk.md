@@ -1,6 +1,6 @@
 # Dracule Mihawk
 
-Source: https://onepiece.fandom.com/wiki/Dracule_Mihawk (fetched 2026-11-15). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Dracule_Mihawk (fetched 2026-11-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Dracule "Hawk Eyes" Mihawk is a world-famous pirate currently recognized as the strongest swordsman in the world.
 Known as the "Marine Hunter" in his early career, Mihawk stood as one of the Seven Warlords of the Sea (the first to be revealed and formally introduced) until the group's dissolution, and was for a time the sole human resident of Kuraigana Island. Since then, he has become a founding executive of the Cross Guild, alongside fellow ex-Warlord Crocodile. [Ch. 1058, Ep. 1086]
@@ -160,7 +160,7 @@ He is one of the attendees at the Pirates Festival. During the Marines' initial 
 
 ##### Wano Country Arc
 Mihawk was sitting in his castle as Perona learned from a newspaper that Moria was alive. As Perona was leaving, Mihawk mentioned an interesting topic that was brought up at the Levely. [Ch. 925, Ep. 917] After the World Government voted to dissolve the Seven Warlords, Mihawk found himself under siege by a Marine fleet, and he grew excited at becoming a wanted criminal again.
-Sometime later, he was contacted by Crocodile. Mihawk wished to relocate due to the marines keep swarming Kuraigana Island, during which Crocodile offered to team up with him and stated that the marines would not take an organization formed by the two of them lightly, partly due to Mihawk's past reputation as a "Marine Hunter". He lastly concluded that they were both the same; they do not trust anyone. Mihawk agreed to his offer and together they formed the Cross Guild, an organization that places bounties on and hunts Marines. [Ch. 1058, Ep. 1086]
+Sometime later, he was contacted by Crocodile. Mihawk wished to relocate due to the marines who were swarming Kuraigana Island, during which Crocodile offered to team up with him and stated that the marines would not take an organization formed by the two of them lightly, partly due to Mihawk's past reputation as a "Marine Hunter". He lastly concluded that they were both the same; they do not trust anyone. Mihawk agreed to his offer and together they formed the Cross Guild, an organization that places bounties on and hunts Marines. [Ch. 1058, Ep. 1086]
 
 #### Final Saga
 
