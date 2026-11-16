@@ -1,0 +1,147 @@
+{
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "music_mood": "suspense",
+  "related_long": "2026-11-25-L",
+  "end_text": "THE PRICE OF EVERY GEAR",
+  "chapters": [],
+  "thumbnail": null,
+  "id": "2026-11-25-Ls2",
+  "topic": "Imu keeps a large straw hat in a frozen chamber under Pangaea Castle and carries Luffy's wanted poster there, which reads as aiming at Luffy himself",
+  "title": "Imu Keeps A Straw Hat Frozen Under Pangaea Castle",
+  "description": "Imu keeps a large straw hat in a frozen chamber under Pangaea Castle and carries Luffy's wanted poster down to it. Add the Room of Flowers, Egghead and Elbaph, and here is why I think the obsession is personal.",
+  "hashtags": [
+    "#imu",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "imu one piece",
+    "imu straw hat",
+    "imu pangaea castle",
+    "imu joy boy",
+    "imu luffy wanted poster",
+    "one piece chapter 1188",
+    "one piece chapter 1122",
+    "one piece theory"
+  ],
+  "hook_text": "THE HAT UNDER PANGAEA",
+  "comment": "Is Imu hunting Luffy himself, or only the ghost of Joy Boy? Pick one.",
+  "pages": [
+    "Nerona Imu",
+    "Joy Boy",
+    "Monkey D. Luffy"
+  ],
+  "lines": [
+    {
+      "text": "Imu keeps a large straw hat in a frozen chamber under Pangaea Castle.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Pangaea Castle",
+        "fallback": "frozen chamber holding a large straw hat"
+      }
+    },
+    {
+      "text": "He even carries Luffy's wanted poster down to it.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Luffy wanted poster",
+        "fallback": "masked ruler holding a wanted poster"
+      }
+    },
+    {
+      "text": "In the Room of Flowers, he cuts up that same poster, recognizing Luffy as Joy Boy's second coming.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Imu Room of Flowers",
+        "fallback": "ruler among white flowers tearing a poster"
+      }
+    },
+    {
+      "text": "At Egghead, in chapter 1122, he screams in agony at Joy Boy's Haki.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Egghead Joy Boy Haki",
+        "fallback": "masked ruler shrieking in pain"
+      }
+    },
+    {
+      "text": "At Elbaph, in chapter 1188, he taunts Luffy that Joy Boy would not have been this weak.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Imu Luffy chapter 1188",
+        "fallback": "ruler looming over a pinned pirate"
+      }
+    },
+    {
+      "text": "Gaban reads it as Imu aiming at Luffy because Luffy reminds him of Joy Boy.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Gaban Imu",
+        "fallback": "old giant pirate watching a masked ruler"
+      }
+    },
+    {
+      "text": "Think about how unfair that is. He measures Luffy against a man who has been gone for 900 years.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Joy Boy Luffy",
+        "fallback": "ancient hero silhouette behind a rubber pirate"
+      }
+    },
+    {
+      "text": "A man doesn't keep a hat in a frozen chamber over a name.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu hat chamber",
+        "fallback": "straw hat resting in ice"
+      }
+    },
+    {
+      "text": "I'd say Imu isn't hunting a pirate. He's hunting a ghost, and Luffy keeps wearing its face.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Joy Boy Luffy",
+        "fallback": "masked ruler staring at a grinning pirate"
+      }
+    },
+    {
+      "text": "So who is paying more for that name, Luffy or the man hunting it?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Imu",
+        "fallback": "rubber pirate facing a masked ruler"
+      }
+    },
+    {
+      "text": "And that's why I can't stop thinking about the hat...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Imu straw hat",
+        "fallback": "large straw hat in a frozen chamber"
+      }
+    }
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Nerona_Imu",
+    "https://onepiece.fandom.com/wiki/Joy_Boy",
+    "https://onepiece.fandom.com/wiki/Scopper_Gaban"
+  ],
+  "self_check": {
+    "hook": "line 1 names the character and the claim",
+    "loop": "last line flows into line 1",
+    "facts_verified": true
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "music_mood": "suspense",
+  "related_long": "2026-11-25-L",
+  "end_text": "THE PRICE OF EVERY GEAR",
+  "chapters": [],
+  "thumbnail": null,
+  "id": "2026-11-25-Ls1",
+  "topic": "Katakuri's Future Sight lost the Whole Cake fight's first hit because a man lying on his back rattled him, and his own warning let Luffy escape Gear 4 running out",
+  "title": "Katakuri Saw The Future And Still Lost His Calm",
+  "description": "Katakuri has Future Sight, yet chapter 883 shows Luffy landing the first hit after breaking into his private house. Here is the donut detail that shook him, and the warning he gave out loud that let Luffy fly away first.",
+  "hashtags": [
+    "#katakuri",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "katakuri one piece",
+    "katakuri future sight",
+    "luffy vs katakuri",
+    "one piece chapter 883",
+    "one piece chapter 885",
+    "whole cake island",
+    "katakuri observation haki",
+    "one piece theory"
+  ],
+  "hook_text": "KATAKURI LOST HIS CALM",
+  "comment": "Was Katakuri's warning a mistake, or did he know Luffy wouldn't quit anyway? Pick one.",
+  "pages": [
+    "Charlotte Katakuri",
+    "Whole Cake Island Arc",
+    "Monkey D. Luffy"
+  ],
+  "lines": [
+    {
+      "text": "Katakuri sees the future, and Luffy still got him to lose his calm.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Katakuri Luffy",
+        "fallback": "tall mochi fighter facing a rubber pirate"
+      }
+    },
+    {
+      "text": "In chapter 883, Luffy's Gear 4 lands the first hit of the fight.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Katakuri Gear 4 hit",
+        "fallback": "giant rubber fist striking a tall fighter"
+      }
+    },
+    {
+      "text": "But it only lands because Katakuri lost his composure and his Observation Haki stopped working.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Katakuri Observation Haki",
+        "fallback": "fighter with glowing eyes losing focus"
+      }
+    },
+    {
+      "text": "Luffy eats his way out of a mochi pile and breaks into Katakuri's private house.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Katakuri mochi",
+        "fallback": "pirate bursting out of a pile of mochi"
+      }
+    },
+    {
+      "text": "And Katakuri is lying on his back, eating donuts.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Katakuri donuts",
+        "fallback": "tall fighter lying on his back with donuts"
+      }
+    },
+    {
+      "text": "Brulee had said he never lies on his back, which is why the sight shakes him so badly.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Brulee Katakuri",
+        "fallback": "mirror world woman talking about her brother"
+      }
+    },
+    {
+      "text": "Luffy realizes his Gear 4 will run out soon and retreats before it does, chapter 885.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gear 4 deflate",
+        "fallback": "inflated rubber pirate shrinking back"
+      }
+    },
+    {
+      "text": "Here's the part I love. Katakuri announces out loud that Luffy is about to deflate.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Katakuri warning",
+        "fallback": "tall fighter calling out a warning"
+      }
+    },
+    {
+      "text": "Some say he just knew Luffy wouldn't quit. Maybe. But he said it out loud anyway.",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Katakuri Luffy duel",
+        "fallback": "two fighters locked in a tense stare"
+      }
+    },
+    {
+      "text": "The clock ran out once. So what did the rest of the bills cost?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy Gear 4",
+        "fallback": "big rubber pirate in a dark forest"
+      }
+    },
+    {
+      "text": "Because Katakuri could see the future, and Luffy still got him to lose his calm...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Katakuri Whole Cake",
+        "fallback": "tall mochi fighter looking shaken"
+      }
+    }
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Charlotte_Katakuri",
+    "https://onepiece.fandom.com/wiki/Whole_Cake_Island_Arc",
+    "https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi"
+  ],
+  "self_check": {
+    "hook": "line 1 names the character and the claim",
+    "loop": "last line flows into line 1",
+    "facts_verified": true
+  }
+}

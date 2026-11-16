@@ -1,0 +1,156 @@
+{
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "music_mood": "hype",
+  "related_long": "2026-11-18-L",
+  "end_text": "LOST CONTROL OR GROWTH",
+  "chapters": [],
+  "thumbnail": null,
+  "id": "2026-11-18-Ls2",
+  "topic": "Sanji held the Western Village line in chapter 1198, shattering Killingham's Omen Panzer with Supreme King Haki before the new form arrived",
+  "title": "Sanji Broke An Omen Panzer Before Luffy Arrived",
+  "description": "Before the new form turned up in chapter 1198, Sanji was holding the Western Village. His Supreme King Haki shattered Killingham's entire Omen Panzer, and Zoro had already gone by. Here is the part of the chapter most fans skipped past.",
+  "hashtags": [
+    "#sanji",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "sanji one piece",
+    "sanji supreme king haki",
+    "sanji conqueror's haki",
+    "omen panzer",
+    "killingham",
+    "one piece chapter 1198",
+    "one piece theory",
+    "sanji western village"
+  ],
+  "hook_text": "SANJI WAS ALREADY THERE",
+  "comment": "Was Sanji's Supreme King Haki the real highlight of chapter 1198, or the monkey form? Pick one.",
+  "pages": [
+    "Sanji",
+    "Elbaph Arc",
+    "Jinbe"
+  ],
+  "lines": [
+    {
+      "text": "Sanji was holding the line in the Western Village before Luffy ever showed up.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Elbaph",
+        "fallback": "blond cook standing guard in a giant village"
+      }
+    },
+    {
+      "text": "His Supreme King Haki shattered Killingham's entire Omen Panzer.",
+      "delivery": "normal",
+      "fx": "flash",
+      "shot": {
+        "search": "Sanji Supreme King Haki",
+        "fallback": "blond fighter surrounded by crackling dark energy"
+      }
+    },
+    {
+      "text": "Then he told Killingham not to hope for Sommers, because Zoro already went by.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Killingham",
+        "fallback": "cook warning an enemy commander"
+      }
+    },
+    {
+      "text": "Meanwhile Zaza, the water monster Killingham controls, stretched over the giants.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Zaza water monster",
+        "fallback": "huge water creature stretching over a village"
+      }
+    },
+    {
+      "text": "It dropped four giant children onto the escape ship. That's what Sanji was up against.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Elbaph escape ship",
+        "fallback": "giant children on a ship under a looming monster"
+      }
+    },
+    {
+      "text": "Then Sanji senses someone behind him, and it looks like Luffy.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Sanji senses",
+        "fallback": "cook turning around in surprise"
+      }
+    },
+    {
+      "text": "Far away on Branch Route 8, Jinbe senses two huge surges of Haki heading for that village.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Jinbe Branch Route 8",
+        "fallback": "fish-man on a ship looking at the horizon"
+      }
+    },
+    {
+      "text": "He thinks one of them is Luffy, though it doesn't feel like him.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Jinbe Luffy",
+        "fallback": "fish-man frowning with concern"
+      }
+    },
+    {
+      "text": "And Sanji is a man who has already seen Gear 5, and he was still shocked.",
+      "delivery": "reveal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Gear 5",
+        "fallback": "cook staring wide-eyed at a white-haired captain"
+      }
+    },
+    {
+      "text": "People will say Luffy stole the chapter, and sure. But Sanji set the stage.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Luffy",
+        "fallback": "cook and captain side by side"
+      }
+    },
+    {
+      "text": "So who did Sanji actually sense behind him, and who was steering?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Luffy new form",
+        "fallback": "dark monkey-like figure in a village"
+      }
+    },
+    {
+      "text": "Which is why I keep coming back to the cook who was already holding the line...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Sanji Western Village",
+        "fallback": "cook standing alone at a village gate"
+      }
+    }
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Sanji",
+    "https://onepiece.fandom.com/wiki/Elbaph_Arc",
+    "https://comic-watch.com/?p=309357"
+  ],
+  "self_check": {
+    "hook": "line 1 names the character and the claim",
+    "loop": "last line flows into line 1",
+    "facts_verified": true
+  }
+}

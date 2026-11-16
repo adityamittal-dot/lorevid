@@ -1,0 +1,138 @@
+{
+  "format": "short",
+  "series": "onepiece",
+  "wiki": "onepiece.fandom.com",
+  "music_mood": "suspense",
+  "related_long": "2026-11-18-L",
+  "end_text": "LOST CONTROL OR GROWTH",
+  "chapters": [],
+  "thumbnail": null,
+  "id": "2026-11-18-Ls1",
+  "topic": "Imu is on a clock: his ailment, his admitted limit in chapter 1198 and his long stay away from Mary Geoise make him dangerous in a different way",
+  "title": "Imu's Ailment Is A Ticking Clock Over Elbaph",
+  "description": "Imu's biggest weakness on Elbaph may be the distance from Mary Geoise. Chapter 1162 gave him an ailment, chapter 1178 sent him to Elbaph, and in 1198 he admits his limit. Here is why a man on a clock has nothing left to hold back.",
+  "hashtags": [
+    "#imu",
+    "#onepiece",
+    "#anime"
+  ],
+  "tags": [
+    "imu one piece",
+    "imu ailment",
+    "imu mary geoise",
+    "imu elbaph fight",
+    "one piece chapter 1162",
+    "one piece chapter 1178",
+    "one piece theory",
+    "imu third form"
+  ],
+  "hook_text": "IMU HAS A CLOCK",
+  "comment": "Is Imu's ailment a real weakness, or does a man on a clock only get more dangerous? Pick one.",
+  "pages": [
+    "Nerona Imu",
+    "Elbaph Arc",
+    "Loki"
+  ],
+  "lines": [
+    {
+      "text": "Imu's biggest weakness isn't Luffy. It's the distance from Mary Geoise.",
+      "delivery": "punch",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Mary Geoise",
+        "fallback": "masked ruler on a throne in a vast white palace"
+      }
+    },
+    {
+      "text": "Chapter 1162 says he can't leave Mary Geoise without his ailment acting up.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu ailment",
+        "fallback": "ruler gripping his chest on a throne"
+      }
+    },
+    {
+      "text": "Then in chapter 1198, inside his own head, he admits he has hit his limit.",
+      "delivery": "normal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Imu third form",
+        "fallback": "colossal evil god looming over a forest"
+      }
+    },
+    {
+      "text": "If he doesn't get back to Mary Geoise soon, his life is in real danger.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Elbaph",
+        "fallback": "dark ruler glaring across a battlefield"
+      }
+    },
+    {
+      "text": "And he says it in the same fight where he becomes a god the size of an Ancient Giant.",
+      "delivery": "normal",
+      "fx": "shake",
+      "shot": {
+        "search": "Imu Ancient Giant",
+        "fallback": "giant evil god towering over trees"
+      }
+    },
+    {
+      "text": "In chapter 1178, he told the Elders to rule in his stead and left with Mary Geoise still in flames.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Mary Geoise burning",
+        "fallback": "white palace city on fire at dusk"
+      }
+    },
+    {
+      "text": "So he's stuck far from home while his seat of power is exposed.",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Elbaph arc",
+        "fallback": "ruler standing alone in a giant forest"
+      }
+    },
+    {
+      "text": "Here's my read. A man with a clock has nothing left to hold back, and that makes him more dangerous.",
+      "delivery": "reveal",
+      "fx": "zoom",
+      "shot": {
+        "search": "Imu angry",
+        "fallback": "masked ruler with burning eyes"
+      }
+    },
+    {
+      "text": "So what does a man on a clock do when a pirate shows up that he can't predict?",
+      "delivery": "normal",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Luffy",
+        "fallback": "masked ruler facing a rubber pirate"
+      }
+    },
+    {
+      "text": "And that's why I think Imu's biggest weakness isn't Luffy...",
+      "delivery": "slow",
+      "fx": "none",
+      "shot": {
+        "search": "Imu Mary Geoise",
+        "fallback": "masked ruler looking toward a distant palace"
+      }
+    }
+  ],
+  "sources": [
+    "https://onepiece.fandom.com/wiki/Nerona_Imu",
+    "https://onepiece.fandom.com/wiki/Loki",
+    "https://comic-watch.com/?p=309357"
+  ],
+  "self_check": {
+    "hook": "line 1 names the character and the claim",
+    "loop": "last line flows into line 1",
+    "facts_verified": true
+  }
+}
