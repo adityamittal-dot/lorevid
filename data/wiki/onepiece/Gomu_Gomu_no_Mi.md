@@ -1,6 +1,6 @@
 # Gomu Gomu no Mi
 
-Source: https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi (fetched 2026-11-16). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Gomu_Gomu_no_Mi (fetched 2026-11-17). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 The Gomu Gomu no Mi is a Paramecia-type Devil Fruit that grants the user's body the properties of rubber, effectively making them a Rubber Human.
 Originally, the fruit was called the Hito Hito no Mi, Model: Nika and classified as a Mythical Zoan-type fruit that allows one to transform into the legendary "Sun God" Nika (and gain his rubbery attributes), before being renamed and reclassified by the World Government to hide the truth. [Ch. 1044, Ep. 1071] In the present, only a few are aware of the fruit's true nature, and its existence was never known to be recorded anywhere. [Ch. 1069, Ep. 1100]
@@ -15,7 +15,7 @@ Around 900 years ago, the fruit was eaten by a mysterious figure known as Joy Bo
 ### Appearance
 The Gomu Gomu no Mi is a violet, spherical shaped fruit, similar to a cantaloupe, with a stem sprouting out of the top, with swirls that go in a curly "S" like-pattern. Its overall appearance greatly resembles a Yubari King.
 While its final design has the characteristic Devil Fruit swirls all over it, the fruit was initially drawn without them in the first version of Romance Dawn.
-In promotional material for the 1998 Jump Super Anime Tour, which included the first animated One Piece project, the Gomu Gomu no Mi is depicted green, as the now-well-known violet design had yet to be established. This design was later reused in the Toriko x One Piece Collab Special 2, [Ep. 542] potentially as a reference to the original use.
+In promotional material for the 1998 Jump Super Anime Tour, which included the first animated One Piece project, the Gomu Gomu no Mi is depicted green, as the now-well-known violet design had yet to be established. This design was later reused in the Toriko x One Piece Collab Special 2, [Ep. 542] possibly as a reference to the original use, since the Tour also featured the animated debut of Mitsutoshi Shimabukuro's works.
 
 ### Transformations
 Due to its unique nature, this Devil Fruit grants the user a baseline body with the properties of rubber, though due to the fruit's true power being dormant, the user's body is limited to restrictions and transformations similar in nature to most Paramecias. After achieving an Awakening though, the fruit's true power as a Mythical Zoan is unleashed, giving the user a new transformation where their hair and clothes turn white, their eyes glow red with white ring-like pupils, and white clouds float around their neck, giving them the appearance of the legendary Sun God, Nika, granting their already rubbery body more strength and freedom and turning the user into the "Warrior of Liberation".
