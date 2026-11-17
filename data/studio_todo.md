@@ -144,3 +144,5 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Jinbe And Ace Fought Five Days Over Whitebeard (https://youtu.be/ne-AQl7ovi8) -> related video: Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc)
 - [ ] Jinbe Left Luffy One Message On Fish-Man Island (https://youtu.be/gIbHSM41S7o) -> related video: Jinbe Joining The Straw Hats So Late: The Real Reason (https://youtu.be/GzDp5fX6bVc)
+- [ ] Luffy LOST CONTROL?! Gear 6 Changes The War (One Piece 1198) (https://youtu.be/m6W0iSnNT0A) -> thumbnail B saved at output/2026-11-18-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Luffy LOST CONTROL?! Gear 6 Changes The War (One Piece 1198) (https://youtu.be/m6W0iSnNT0A) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
