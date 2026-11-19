@@ -148,3 +148,5 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Luffy LOST CONTROL?! Gear 6 Changes The War (One Piece 1198) (https://youtu.be/m6W0iSnNT0A) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Imu's Ailment Is A Ticking Clock Over Elbaph (https://youtu.be/b6Bdiv0P8g8) -> related video: Luffy LOST CONTROL?! Gear 6 Changes The War (One Piece 1198) (https://youtu.be/m6W0iSnNT0A)
 - [ ] Sanji Broke An Omen Panzer Before Luffy Arrived (https://youtu.be/kAIGcNierLc) -> related video: Luffy LOST CONTROL?! Gear 6 Changes The War (One Piece 1198) (https://youtu.be/m6W0iSnNT0A)
+- [ ] Crocodile Lost Alabasta Because He Needed Vivi Alive (https://youtu.be/iFCoQ4I5qZk) -> thumbnail B saved at output/2026-11-20-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Crocodile Lost Alabasta Because He Needed Vivi Alive (https://youtu.be/iFCoQ4I5qZk) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab

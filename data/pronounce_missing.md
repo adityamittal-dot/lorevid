@@ -744,3 +744,6 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Ogami (2026-11-16-L)
 - Samegawara (2026-11-17-L)
 - Seiken (2026-11-17-L)
+- Rainbase (2026-11-20-L)
+- Toto (2026-11-20-L)
+- Yuba (2026-11-20-L)
