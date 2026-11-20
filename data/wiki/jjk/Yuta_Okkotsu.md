@@ -1,15 +1,15 @@
 # Yuta Okkotsu
 
-Source: https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu (fetched 2026-11-19). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://jujutsu-kaisen.fandom.com/wiki/Yuta_Okkotsu (fetched 2026-11-20). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Yuta Okkotsu is a major supporting character in the Jujutsu Kaisen series and the main protagonist of its prequel, Jujutsu Kaisen 0: Jujutsu High. He was initially a special grade cursed human haunted by his late childhood friend, Rika Orimoto. Satoru Gojo enrolled Yuta at Tokyo Jujutsu High and trained him to become a jujutsu sorcerer.
 As a first-year student, Yuta defeated Suguru Geto in battle and freed Rika's soul. He left Japan to train with Miguel in Africa in his second year until after the Shibuya Incident. He returned to Japan and fought alongside Jujutsu High sorcerers to combat Kenjaku and Sukuna's schemes.
 By 2035, Yuta had become the head of the Gojo Clan. [Vol. 30] He eventually married Maki Zenin and had two grandchildren, Tsurugi and Yuka Okkotsu. Both Yuta and Maki lived to old age, passing away by 2080.
 
 ### Appearance
-Yuta is a young man with disheveled black hair and dark blue eyes. As a first-year, Yuta's body language made it obvious that he was under a lot of stress. His posture was very unconfident, and he still has dark circles under his eyelids from a lack of sleep. As a second-year student, Yuta's hair has grown longer and he wears it in a more relaxed style instead of a spiky one.
-At his old school, Yuta wore a suit for his uniform. He sported a long-sleeve shirt that stops at his forearms or a black t-shirt and dark green pants for casual wear. After transferring to Tokyo Jujutsu High, Yuta received a specialized uniform. Yuta has a loose white uniform jacket with sleeves that stop at his forearms. He also wears slender black pants that tuck into white sneakers that match his jacket. Yuta also often carries his katana case on his back. Following his temporary brain transfer into Satoru Gojo's body from copying Kenjaku's technique, Yuta has a stitched scar circling his head. [Ch. 269]
-Decades later, Yuta had aged into an elderly man and wore a dark-colored haori over a lighter-colored kimono. He also wore tabi socks and zori sandals. [Ch. 1]
+Yuta is a young man with disheveled black hair and dark blue eyes. As a first-year, Yuta's body language made it obvious that he was under a lot of stress. His posture was very unconfident, and he still has dark circles under his eyelids from sleep deprivation. As a second-year student, Yuta's hair has grown longer, and he styles it  in a more relaxed style, with parts of his hair falling over the left side of his forehead.
+At his old school, Yuta wore a suit for his uniform. He sported a long-sleeve shirt that stops at his forearms or a black t-shirt and dark green pants for casual wear. After transferring to Tokyo Jujutsu High, Yuta received a specialized uniform. Yuta has a loose white uniform jacket with sleeves that stop at his forearms. He also wears slender black pants that features a white drawstring, tucking into white sneakers that match his jacket. Yuta also often carries his katana case on his back. Following his temporary brain transfer into Satoru Gojo's body from copying Kenjaku's technique, Yuta has a stitched scar circling his head. [Ch. 269]
+Decades later, Yuta had aged into an elderly man. He sported a dark-colored haori over a lighter-colored kimono. He also wore tabi socks and a pair of zōri sandals. [Ch. 1]
 Yuta Okkotsu (Prequel Anime).png|Yuta as a first-year student.
 Yuta Okkotsu (Chapter 140).png|Yuta in the manga (gray).
 

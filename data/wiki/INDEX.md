@@ -38,7 +38,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | naruto | `data/wiki/naruto/Naruto_Uzumaki.md` | 60k | 119 |
 | naruto | `data/wiki/naruto/Obito_Uchiha.md` | 60k | 98 |
 | naruto | `data/wiki/naruto/Rinnegan.md` | 10k | 49 |
-| naruto | `data/wiki/naruto/Sarada_Uchiha.md` | 60k | 56 |
+| naruto | `data/wiki/naruto/Sarada_Uchiha.md` | 60k | 57 |
 | naruto | `data/wiki/naruto/Sasuke_Uchiha.md` | 60k | 77 |
 | naruto | `data/wiki/naruto/Sharingan.md` | 9k | 37 |
 | naruto | `data/wiki/naruto/Shisui_Uchiha.md` | 15k | 16 |
