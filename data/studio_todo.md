@@ -154,3 +154,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Luffy Never Beat Crocodile Alone (https://youtu.be/MSHd4H9T5lE) -> related video: Crocodile Lost Alabasta Because He Needed Vivi Alive (https://youtu.be/iFCoQ4I5qZk)
 - [ ] Ohara Explained: Why Its Books Were Never Just History (https://youtu.be/nV20TVgch9s) -> thumbnail B saved at output/2026-11-22-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Ohara Explained: Why Its Books Were Never Just History (https://youtu.be/nV20TVgch9s) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Aokiji Let Robin Escape Ohara For Saul's Sake (https://youtu.be/uyDHWt5a4ps) -> related video: Ohara Explained: Why Its Books Were Never Just History (https://youtu.be/nV20TVgch9s)
