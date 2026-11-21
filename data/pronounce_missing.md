@@ -747,3 +747,8 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Rainbase (2026-11-20-L)
 - Toto (2026-11-20-L)
 - Yuba (2026-11-20-L)
+- Centuries (2026-11-22-L)
+- Civilians (2026-11-22-L)
+- Clou (2026-11-22-L)
+- Iku (2026-11-22-L)
+- Shandoran (2026-11-22-L)
