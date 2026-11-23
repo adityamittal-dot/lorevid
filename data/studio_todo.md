@@ -156,3 +156,5 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Ohara Explained: Why Its Books Were Never Just History (https://youtu.be/nV20TVgch9s) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Aokiji Let Robin Escape Ohara For Saul's Sake (https://youtu.be/uyDHWt5a4ps) -> related video: Ohara Explained: Why Its Books Were Never Just History (https://youtu.be/nV20TVgch9s)
 - [ ] Roger Heard The Poneglyphs But Couldn't Read Like Ohara (https://youtu.be/RHr22a-KidU) -> related video: Ohara Explained: Why Its Books Were Never Just History (https://youtu.be/nV20TVgch9s)
+- [ ] Sabo Let The World Believe He Was Gone (https://youtu.be/nDdhersf4As) -> thumbnail B saved at output/2026-11-23-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Sabo Let The World Believe He Was Gone (https://youtu.be/nDdhersf4As) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
