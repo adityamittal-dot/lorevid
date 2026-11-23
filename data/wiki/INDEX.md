@@ -46,7 +46,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | naruto | `data/wiki/naruto/Uchiha_Clan_Downfall.md` | 9k | 19 |
 | onepiece | `data/wiki/onepiece/Ancient_Weapons.md` | 4k | 16 |
 | onepiece | `data/wiki/onepiece/Arlong_Park_Arc.md` | 17k | 80 |
-| onepiece | `data/wiki/onepiece/Bartholomew_Kuma.md` | 60k | 86 |
+| onepiece | `data/wiki/onepiece/Bartholomew_Kuma.md` | 60k | 88 |
 | onepiece | `data/wiki/onepiece/Bartolomeo.md` | 48k | 132 |
 | onepiece | `data/wiki/onepiece/Borsalino.md` | 60k | 185 |
 | onepiece | `data/wiki/onepiece/Brook.md` | 7k | 6 |
@@ -104,7 +104,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | onepiece | `data/wiki/onepiece/Sanji.md` | 11k | 31 |
 | onepiece | `data/wiki/onepiece/Scopper_Gaban.md` | 44k | 88 |
 | onepiece | `data/wiki/onepiece/Shanks.md` | 53k | 214 |
-| onepiece | `data/wiki/onepiece/Shepherd_Sommers.md` | 24k | 49 |
+| onepiece | `data/wiki/onepiece/Shepherd_Sommers.md` | 24k | 50 |
 | onepiece | `data/wiki/onepiece/Shirahoshi.md` | 37k | 131 |
 | onepiece | `data/wiki/onepiece/Skypiea_Arc.md` | 30k | 147 |
 | onepiece | `data/wiki/onepiece/Smoker.md` | 38k | 116 |

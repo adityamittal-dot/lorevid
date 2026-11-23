@@ -1,6 +1,6 @@
 # Bartholomew Kuma
 
-Source: https://onepiece.fandom.com/wiki/Bartholomew_Kuma (fetched 2026-11-22). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Bartholomew_Kuma (fetched 2026-11-23). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Bartholomew Kuma [Ch. 908, Ep. 888] is a former Warlord of the Sea, the former king of the Sorbet Kingdom, [Ch. 908, Ep. 888] and most notably an officer, as well as founding member of the Revolutionary Army with a bounty of 296,000,000. He is also the adoptive father of Jewelry Bonney, [Ch. 1063, Ep. 1092] daughter of his late friend and fellow revolutionary Ginny. [Ch. 1062, Ep. 1091] Kuma is a member of the near-extinct special race known as the Buccaneers, inherited from his late father Clapp. [Ch. 1064, Ep. 1094]
 As a pirate, Kuma sailed the seas as a single-person pirate crew. [Ch. 1099, Ep. 1133] [Ch. 1100, Ep. 1134] Because of the lies told to the public by the World Government, Kuma became feared for being extremely vicious, [Ch. 1099, Ep. 1133] earning himself the title "Tyrant". In exchange for curing Bonney of the deadly Sapphire Scales disease, Kuma became a special type of cyborg known as a "Pacifista", developed by the world renowned scientist Vegapunk. [Ch. 1100, Ep. 1134] Once Vegapunk finished his modifications on Kuma, the Warlord was converted into the first complete Pacifista cyborg, with the serial PX-0, and mentally died in the process. Vegapunk also cloned Kuma as S-Bear, one of the Seraphim that were designed to replace the Warlords. [Ch. 1062, Ep. 1092]
@@ -188,7 +188,7 @@ Kuma possesses the ability to use Armament Haki and can utilize it to harden his
 Kuma is also able to use Observation Haki.
 
 #### Ships
-After becoming a pirate, Kuma had possession of at least three different ships. Initially, he had a rather small ship with two sails which barely had room to accommodate him. His subsequent ship was slightly larger, but only had one sail. Finally, after becoming a Warlord of the Sea, he had a larger and more personalized ship with at least five sails named the  Leap Out Jewelry, adorned with a drawing from Bonney. [Ch. 1100, Ep. 1134]
+After becoming a pirate, Kuma had possession of at least three different ships. Initially, he had a rather small ship with two sails which barely had room to accommodate him. His subsequent ship was slightly larger, but only had one sail. Later, after becoming a Warlord of the Sea, he had a larger and more personalized ship with at least five sails named the Leap Out Jewelry, adorned with a drawing from Bonney. [Ch. 1100, Ep. 1134] At some point he switched to using a decrepit rotting ship with tattered black sails to visit Thriller Bark. [Ch. 472, Ep. 368]
 He did not appear to have any crew aboard his ships at any point other than himself.
 
 ### Major Battles
@@ -221,7 +221,4 @@ In the manga and One Piece: Unlimited Cruise, Kuma's paw pads are black, like a 
 #### Story
 During the meeting in Mary Geoise in the manga, Kuma had a few lines, but in the anime, he had none.
 In the manga, during the flashback where Dragon saves the people of the Grey Terminal from a fire, Kuma's clothing underneath the common Revolutionary Army cloak was not shown. In the anime, it is revealed that Kuma had the same clothing then that he does now.
-During the flashback of Sabo's past, the anime shows Kuma being present in the training of Sabo where Kuma deflected Sabo after he tried to attack him.
-
-#### Songs
-*"Kuma no Kodo"
+During the flashback of Sabo's past, the anime shows Kuma being present in the tr
