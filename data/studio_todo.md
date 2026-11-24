@@ -159,3 +159,5 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Sabo Let The World Believe He Was Gone (https://youtu.be/nDdhersf4As) -> thumbnail B saved at output/2026-11-23-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Sabo Let The World Believe He Was Gone (https://youtu.be/nDdhersf4As) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Luffy Rejected The Sabo Newspaper Story Instantly (https://youtu.be/V4DtftWD4Mg) -> related video: Sabo Let The World Believe He Was Gone (https://youtu.be/nDdhersf4As)
+- [ ] Every Gear Of Luffy Explained: From Gear 2 To Gear 6 (https://youtu.be/4DiGA9WNUfY) -> thumbnail B saved at output/2026-11-25-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
+- [ ] Every Gear Of Luffy Explained: From Gear 2 To Gear 6 (https://youtu.be/4DiGA9WNUfY) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
