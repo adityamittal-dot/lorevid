@@ -161,3 +161,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Luffy Rejected The Sabo Newspaper Story Instantly (https://youtu.be/V4DtftWD4Mg) -> related video: Sabo Let The World Believe He Was Gone (https://youtu.be/nDdhersf4As)
 - [ ] Every Gear Of Luffy Explained: From Gear 2 To Gear 6 (https://youtu.be/4DiGA9WNUfY) -> thumbnail B saved at output/2026-11-25-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Every Gear Of Luffy Explained: From Gear 2 To Gear 6 (https://youtu.be/4DiGA9WNUfY) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Katakuri Saw The Future And Still Lost His Calm (https://youtu.be/bGjGngHvF8g) -> related video: Every Gear Of Luffy Explained: From Gear 2 To Gear 6 (https://youtu.be/4DiGA9WNUfY)
