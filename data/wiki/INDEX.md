@@ -40,7 +40,7 @@ Refreshed daily by the insights workflow (`python research.py packs`). Add pages
 | naruto | `data/wiki/naruto/Rinnegan.md` | 10k | 49 |
 | naruto | `data/wiki/naruto/Sarada_Uchiha.md` | 60k | 57 |
 | naruto | `data/wiki/naruto/Sasuke_Uchiha.md` | 60k | 77 |
-| naruto | `data/wiki/naruto/Sharingan.md` | 9k | 37 |
+| naruto | `data/wiki/naruto/Sharingan.md` | 9k | 38 |
 | naruto | `data/wiki/naruto/Shisui_Uchiha.md` | 15k | 16 |
 | naruto | `data/wiki/naruto/Ten-Tails.md` | 21k | 48 |
 | naruto | `data/wiki/naruto/Uchiha_Clan_Downfall.md` | 9k | 19 |

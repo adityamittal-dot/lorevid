@@ -1,6 +1,6 @@
 # Kuzan
 
-Source: https://onepiece.fandom.com/wiki/Kuzan (fetched 2026-11-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Kuzan (fetched 2026-11-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Kuzan, better known by his alias Aokiji, [Ch. 1081, Ep. 1114] is one of the Ten Titanic Captains of the Blackbeard Pirates, serving as the captain of the tenth ship of the fleet. Before joining Blackbeard's crew, he served as a Marine Admiral, having been taught by Monkey D. Garp. He was nominated by Sengoku for the position of Fleet Admiral; however, after fighting Sakazuki for the position and losing, Kuzan resigned from the Marines. [Ch. 594, Ep. 511]
 Kuzan was the antagonist of the second part of the Long Ring Long Land Arc; in the anime, he is instead one of the main antagonists of the Foxy's Return Arc. He is later a secondary antagonist of the Marineford Arc, a minor antagonist in the Egghead Arc, and a major antagonist in the Final Saga.
@@ -110,7 +110,7 @@ Even by Logia standards, this ability has impressive potential—when used exces
 As a former Marine Admiral, Kuzan is a highly skilled Haki user.
 
 ##### Armament Haki
-During the Summit War, Kuzan was seen using advanced-grade Armament Haki to negate an extremely powerful quake shockwave sent out by Whitebeard, by generating, with his fellow Admirals, an emitted shield combination of their three Haki to disperse said shockwave. [Ch. 564, Ep. 473] On its own, Kuzan's Haki is shown to be enough to allow the ex-Admiral to have an even exchange of blows with Garp, a master of both Armament and Supreme King Haki, causing a massive explosion when they struck one another with their Haki-imbued fists.
+During the Summit War, Kuzan was seen using advanced-grade Armament Haki to negate an extremely powerful quake shockwave sent out by Whitebeard, by generating, with his fellow Admirals, an emitted shield combination of their three Haki to disperse said shockwave. [Ch. 564, Ep. 473] On its own, Kuzan's Haki is shown to be enough to allow the ex-Admiral to have an even exchange of blows with Garp, a master of both Armament and Supreme King Haki, causing a massive explosion when they struck one another with their Haki-imbued fists. In the anime, when Kuzan used advanced Armament Haki, it is shown as a red-colored flowing aura.
 
 ##### Observation Haki
 Kuzan possesses the ability to use Observation Haki.

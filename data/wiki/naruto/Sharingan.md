@@ -1,8 +1,8 @@
 # Sharingan
 
-Source: https://naruto.fandom.com/wiki/Sharingan (fetched 2026-11-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://naruto.fandom.com/wiki/Sharingan (fetched 2026-11-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
-The  is the dōjutsu kekkei genkai of the Uchiha clan that appears selectively among its members. [Naruto Ch. 12] It is regarded as one of the "Three Great Dōjutsu", the others being the Byakugan and the Rinnegan. While its powers originated from Kaguya Ōtsutsuki's Rinne Sharingan, its independent form was first manifested by Indra Ōtsutsuki [Naruto Ch. 670] (Hagoromo Ōtsutsuki in the anime). [Naruto: Shippūden Ep. 461]
+The  is the dōjutsu kekkei genkai of the Uchiha clan that appears selectively among its members. [Naruto Ch. 12] It is regarded as one of the "Three Great Dōjutsu", the others being the Byakugan and the Rinnegan. While its powers originated from Kaguya Ōtsutsuki's Rinne Sharingan, its independent form was first manifested by Indra Ōtsutsuki, [Naruto Ch. 670] possibly as a manifestation of the  [Naruto Ch. 462] (Hagoromo Ōtsutsuki in the anime). [Naruto: Shippūden Ep. 461]
 
 ### Acquisition
 When a wielder of this kekkei genkai experiences a powerful emotional condition with regards to a person precious to them, particularly deep love, their brain releases a special form of chakra that affects the optic nerves, transforming the eyes into Sharingan; for that reason the Sharingan is described as an . [Naruto Ch. 619] Often, as per the Uchiha's so-called "Curse of Hatred", this emotion is a negative one, brought on by stress or loss. [Naruto Ch. 403] The emotion can also be positive, driven by a desire to protect [Naruto Ch. 242] or reunite with a loved one. [Naruto Ch. 700]

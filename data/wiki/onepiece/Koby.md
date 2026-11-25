@@ -1,6 +1,6 @@
 # Koby
 
-Source: https://onepiece.fandom.com/wiki/Koby (fetched 2026-11-24). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Koby (fetched 2026-11-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Koby the Hero [Ch. 903, Ep. 879] is a Marine Captain, currently serving in the SWORD special forces unit. [Ch. 956, Ep. 957] Alongside fellow SWORD member Helmeppo, he was trained and mentored into prominence under the legendary Vice Admiral Monkey D. Garp.
 Originally a cabin boy enslaved by the Alvida Pirates, Koby was freed and befriended by Monkey D. Luffy, becoming Luffy's first traveling companion. Though he soon left to pursue his dream of Marine service, he continues to regard Luffy highly; after entering full-fledged service, he briefly reunited with Luffy on two occasions, as both friend and adversary. Overall, Koby has experienced a meteoric rise in the Marines, with many accomplishments and the Rocky Port Incident in particular cementing him as a public hero. [Ch. 1059, Ep. 1088] During an arrest attempt on Boa Hancock, he was captured by the Blackbeard Pirates [Ch. 1059, Ep. 1088] but eventually escaped with the help of Perona, his SWORD colleagues, and his mentor Garp. [Ch. 1080, Ep. 1113]
@@ -95,7 +95,7 @@ In Episode of Luffy, he is shown to be able to use a technique similar to Rankya
 #### Haki
 
 ##### Armament Haki
-Koby is an extremely skilled Armament Haki user and is capable of the advanced technique of Haki emission. He is strong enough to shatter Avalo Pizarro's gigantic island hand, which was roughly the size of a mountain. This feat sparked immediate astonishment from the Marines, SWORD members, and Blackbeard Pirates, some of whom were Devil Fruit users and combatants who fought powerful opponents.
+Koby is an extremely skilled Armament Haki user and is capable of the advanced technique of Haki emission. He is strong enough to shatter Avalo Pizarro's gigantic island hand, which was roughly the size of a mountain. This feat sparked immediate astonishment from the Marines, SWORD members, and Blackbeard Pirates, some of whom were Devil Fruit users and combatants who fought powerful opponents. In the anime, when Koby used advanced Armament Haki, it is shown as a red-colored flowing aura.
 
 ##### Observation Haki
 During the Summit War of Marineford, Koby awakened Observation Haki and could hear in his head the voices of the combatants disappear as they were slain, which overwhelmed and sickened him. Without meaning to, he could sense the presence of everyone around him. [Ch. 594, Ep. 511]
