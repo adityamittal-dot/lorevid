@@ -166,3 +166,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Luffy, Zoro And Sanji's Awakening Was Built In 1197 (https://youtu.be/wqPmwGM0pLQ) -> thumbnail B saved at output/2026-11-27-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Luffy, Zoro And Sanji's Awakening Was Built In 1197 (https://youtu.be/wqPmwGM0pLQ) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Mihawk Gave Zoro His Haki Secret As A Riddle (https://youtu.be/dJrECoZH_eI) -> related video: Luffy, Zoro And Sanji's Awakening Was Built In 1197 (https://youtu.be/wqPmwGM0pLQ)
+- [ ] Sanji's Real Weakness Was Never His Kindness (https://youtu.be/tn03FdQQpsw) -> related video: Luffy, Zoro And Sanji's Awakening Was Built In 1197 (https://youtu.be/wqPmwGM0pLQ)
