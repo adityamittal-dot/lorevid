@@ -1,6 +1,6 @@
 # Buggy
 
-Source: https://onepiece.fandom.com/wiki/Buggy (fetched 2026-11-25). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
+Source: https://onepiece.fandom.com/wiki/Buggy (fetched 2026-11-26). Bracketed [Ch. N] / [Ep. N] are the wiki's own citations.
 
 Buggy the Star Clown is the nominal president of Cross Guild, and one of the current Four Emperors dominating the New World. [Ch. 1058, Ep. 1086]
 Initially a Roger Pirates apprentice alongside Shanks, Buggy succeeded his disbanded mentors as a career pirate in the East Blue, in time becoming captain of the Buggy Pirates. One of the earliest enemies defeated by Monkey D. Luffy and the Straw Hat Pirates, revenge drove him to an alliance with "Iron Mace" Alvida and pursuit into the Grand Line. Since then, his fortunes have constantly, dramatically revolved: from imprisonment in Impel Down to entanglement in its first mass-breakout and the subsequent Summit War of Marineford, his escalating infamy won him entry to the Seven Warlords of the Sea, allowing him to launch the pirate mercenary organization Buggy's Delivery.
@@ -132,7 +132,7 @@ He wielded a sword when attempting to behead Luffy in Loguetown.
 ##### Buggy Balls and Muggy Balls
 Buggy's most prominent weapons are his Buggy Balls, which are immensely powerful cannonballs that can instantly demolish an entire row of buildings. With this ammunition, he can terrorize a village that is not well protected such as Orange Town and easily destroy it whenever he wants. Additionally, he has also fired Buggy Balls at people who come to his base to confront him or subordinates that displease him, bringing certain death upon them. [Ch. 10, Ep. 5] However, his crewmates have shown to be able to survive after being hit.
 from inside his shoe.]]
-While in Impel Down, Buggy revealed a smaller version of the Buggy Ball known as the Muggy Ball. Despite being only slightly bigger than a bullet, the Muggy Ball possesses equivalent destructive power to a Buggy Ball, and since it is so small, Buggy can carry them on his body and throw them rather than having to shoot them out of a cannon like Buggy Balls. Buggy was able to severely injure the awakened Zoan user Minotaurus by hitting him with a Muggy Ball. Muggy balls do not make Buggy balls entirely redundant, however, as they aren't able to be fired out of a cannon, so they can only be launched a fraction of the speed Buggy balls can, and are much slower.
+While in Impel Down, Buggy revealed a smaller version of the Buggy Ball known as the Muggy Ball. Despite being only slightly bigger than a bullet, the Muggy Ball possesses equivalent destructive power to a Buggy Ball, and since it is so small, Buggy can carry them on his body and throw them rather than having to shoot them out of a cannon like Buggy Balls. Buggy was able to severely injure the awakened Zoan user Minotaurus by hitting him with a Muggy Ball.
 
 ### Major Battles
 *Roger Pirates vs. Whitebeard Pirates (unseen)
