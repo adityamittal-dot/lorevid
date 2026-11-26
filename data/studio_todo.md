@@ -165,3 +165,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Imu Keeps A Straw Hat Frozen Under Pangaea Castle (https://youtu.be/5y5GH8sP0Pk) -> related video: Every Gear Of Luffy Explained: From Gear 2 To Gear 6 (https://youtu.be/4DiGA9WNUfY)
 - [ ] Luffy, Zoro And Sanji's Awakening Was Built In 1197 (https://youtu.be/wqPmwGM0pLQ) -> thumbnail B saved at output/2026-11-27-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Luffy, Zoro And Sanji's Awakening Was Built In 1197 (https://youtu.be/wqPmwGM0pLQ) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
+- [ ] Mihawk Gave Zoro His Haki Secret As A Riddle (https://youtu.be/dJrECoZH_eI) -> related video: Luffy, Zoro And Sanji's Awakening Was Built In 1197 (https://youtu.be/wqPmwGM0pLQ)
