@@ -2580,5 +2580,12 @@
     "loop": "each chapter ends on a question; last line points to the Hancock video",
     "facts_verified": true
   },
-  "style": "explained"
+  "style": "explained",
+  "published": {
+    "video_id": "KuUL6GtzOM4",
+    "publish_at": "2026-11-29T13:00:00Z",
+    "url": "https://youtu.be/KuUL6GtzOM4",
+    "comment": "Is Supreme King Haki a pure birthright, or does it still need a promise behind it? Pick one.",
+    "comment_posted": false
+  }
 }

@@ -758,3 +758,6 @@ Add each to pronounce.json (see WRITER.md, Pronunciation), then delete its line 
 - Ucy (2026-11-25-L)
 - Urashima (2026-11-25-L)
 - Xingtian (2026-11-25-L)
+- Jozu (2026-11-29-L)
+- Moby (2026-11-29-L)
+- Promises (2026-11-29-L)
