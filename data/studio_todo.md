@@ -170,3 +170,4 @@ Manual YouTube Studio follow-ups the API can't do on its own. Check items off as
 - [ ] Haki Explained: A Promise, Not A Power (https://youtu.be/KuUL6GtzOM4) -> thumbnail B saved at output/2026-11-29-L/thumbnail_b.jpg; run YouTube Studio Test & Compare
 - [ ] Haki Explained: A Promise, Not A Power (https://youtu.be/KuUL6GtzOM4) -> Community post (poll or image) linking it on release day; the Data API can't post to the Community tab
 - [ ] Whitebeard's Haki Worked While He Slept (https://youtu.be/CE0ArOsKb78) -> related video: Haki Explained: A Promise, Not A Power (https://youtu.be/KuUL6GtzOM4)
+- [ ] Koby Heard Every Voice At Marineford (https://youtu.be/AcsXGWw2QHI) -> related video: Haki Explained: A Promise, Not A Power (https://youtu.be/KuUL6GtzOM4)
